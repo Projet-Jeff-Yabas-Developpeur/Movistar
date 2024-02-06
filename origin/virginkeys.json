@@ -1,0 +1,357 @@
+{
+    "24 Horas": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(CANAL24HORAS)\/manifest.mpd",
+        "key": "c1ac1ed2b5a04f9bb117c367b896d33b:46d8e40eb99c0d6722f422542a4d9531",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/24H_OTT_062021.png"
+    },
+    "3\/24": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(324)\/manifest.mpd",
+        "key": "6d84933e93044bb79e63947bf658cfce:f16705db57d89af7f381c6f52146c536",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/324_OTT_072021.png"
+    },
+    "8TV": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(8TV)\/manifest.mpd",
+        "key": "510bfac2343848369a0d30d02d77fe53:a2a96983d3401a4a22bb857ed76cd086",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/8TV_OTT_072021.png"
+    },
+    "AXN": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(AXNHD)\/manifest.mpd",
+        "key": "dec5566abba04abfa3506872284416e6:555166b090f3c08444a9b6787c9629b6",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/AXN_OTT_082019.png"
+    },
+    "AXN White": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(AXNWHITE)\/manifest.mpd",
+        "key": "9fd3d8c4939b4309bbdbf587bfa8ee79:750cf87df8936b723ffbc987e6644b2e",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/AXNWHITE_OTT_082019.png"
+    },
+    "Al Jazeera": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(ALJAZEERA)\/manifest.mpd",
+        "key": "321a3c47912c42868493317d1d0236c0:0171986d9b32dd618b6eda27e3aadd65",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/ALJAZEERA_OTT_122020.png"
+    },
+    "Atreseries": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(ATRESERIESHD)\/manifest.mpd",
+        "key": "035a330ba50046e2af63e5e2ef8aabf3:c0721e0f42aa3963023d8b76867c2474",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/ATRESERIESHD_OTT.png"
+    },
+    "BBC World News": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(BBC)\/manifest.mpd",
+        "key": "01e5154a37eb472ebb4cb9bf68ae3c7d:98e36244c2efb7e7eb0fb7b95c69bd47",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/BBC_OTT_122020.png"
+    },
+    "BLAZE": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(BIOGRAPHY)\/manifest.mpd",
+        "key": "26ea5dc9998948519bd84585f84eb7a8:5874919838677f1e8e107506203e7542",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/BLAZE_OTT.png"
+    },
+    "Baby TV": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(BABYTV)\/manifest.mpd",
+        "key": "77566a8724fa45ada73484b97d571d92:8092b173582ccae8dd45746c7c7405a5",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/BABYTV_OTT.png"
+    },
+    "Be Mad": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(BEMADHD)\/manifest.mpd",
+        "key": "dee6274b4ff7463983039b512bdb8d6c:f2b933e23b47e74a9343f15dd393cee4",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/BEMADHD_OTT.png"
+    },
+    "Bloomberg": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(BLOOMBERG)\/manifest.mpd",
+        "key": "dcba79a8f575459aa62e841ef1fc5f3f:7e10883859780fa0d202b32e04b159db",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/BLOOMBERG_OTT_122020.png"
+    },
+    "Boing": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(BOING)\/manifest.mpd",
+        "key": "f4d7c121d7d7452583870a774141865c:86652fda04d23a3a5d11d17b19a85a99",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/BOING_OTT.png"
+    },
+    "COSMO": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(COSMOHD)\/manifest.mpd",
+        "key": "a4cd5c014ed0432b9728437e4b52a77e:6b1cf6a73af1e918a6337c74be98a3c4",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/COSMO_OTT_082019.png"
+    },
+    "Calle 13": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(CALLE13)\/manifest.mpd",
+        "key": "c79fdf760c5942f18cf7d1c2f49dfcf9:30a1fb90b75488390622df404960d896",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/CALLE13_OTT_082019.png"
+    },
+    "Clan": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(CLANTV)\/manifest.mpd",
+        "key": "1d02b824fb6843b39fa467e3df41c705:a5a77f23427ae58d028b5ef663f6305b",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/CLANTV_OTT.png"
+    },
+    "Comedy Central": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(PARAMOUNTCOMEDY)\/manifest.mpd",
+        "key": "d36bad49809245be8961000ae78c720d:d3ad885a7915498b6ebcfcce2189c902",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/COMEDYCENTRAL_OTT_20190312.png"
+    },
+    "Crimen + Investigacion": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(CRIMEN)\/manifest.mpd",
+        "key": "659cbd2c502947b6a13826eeea23b79d:2d1f11be1b8b65b35201140050eed7b3",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/CRIMEN_OTT.png"
+    },
+    "Cuatro": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(CUATROHD)\/manifest.mpd",
+        "key": "4ef64d24e19044b29cd7c8583ea5cce9:8b74cc1421f1ec32d3a8b712e462b671",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/CUATRO_OTT_082019.png"
+    },
+    "DKiss": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(DKISS)\/manifest.mpd",
+        "key": "a6f89b784ee343e390c10e1dcbc66a1d:b8f891403367c38f94017760f98c527e",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/DKISS_OTT_122020.png"
+    },
+    "DMAX": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(DISCOVERYMAX)\/manifest.mpd",
+        "key": "9f78d175fe52487a8f090830fceb5ce8:5ba3474b7641254874004c243e4f8962",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/DMAX_OTT_122020.png"
+    },
+    "DW": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(DW)\/manifest.mpd",
+        "key": "3f52be4b54da4566989801fe41b6068b:7177b042c7619c94a02081927c2703ce",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/DW_OTT_122020.png"
+    },
+    "Discovery Channel": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(DISCOVERY)\/manifest.mpd",
+        "key": "ab5c7a03963646d2ae351e7af992cb66:c7d1b14a3bc198f31e7a48220ae07b4e",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/DISCOVERY_OTT.png"
+    },
+    "Disney Channel": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(DISNEY)\/manifest.mpd",
+        "key": "fd6d5f77c1b24e02b597122664237142:688949286c9e9882c9c178ce8b09f1b4",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/DISNEY_2_OTT.png"
+    },
+    "Disney Junior": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(DISNEYJUNIOR)\/manifest.mpd",
+        "key": "b26b09cbb41e4308962bbc382761f77d:cd403115115097d112c6dc1d1a9db51b",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/DISNEYJUNIOR_OTT.png"
+    },
+    "Divinity": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(DIVINITY)\/manifest.mpd",
+        "key": "3a1ad20c10204096ac48a03e1f17ad6d:12a05847f96ba71a0a3c1bdfd5ab5d23",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/divinity.png"
+    },
+    "DreamWorks": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(DREAMWORKS)\/manifest.mpd",
+        "key": "9b33381cfc3b4ac889247f2f5d6305c7:20f9be0e5f34b5748e00c8af17d0a0bc",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/DREAMWORKS_OTT_082021.png"
+    },
+    "El Toro TV": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(INTERECONOMIA)\/manifest.mpd",
+        "key": "1f9dc9dc6cc44982b0be948881713bd0:fbfc4c661b091289cd336524c9d62e89",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/ELTOROTV_OTT_122020.png"
+    },
+    "Energy": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(ENERGY)\/manifest.mpd",
+        "key": "7e4beb8a6ffd415fa67a2d4402117cb6:1919a0959b34a85b738047cdfa879975",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/ENERGY_OTT_062020.png"
+    },
+    "Esport3": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(ESPORT3)\/manifest.mpd",
+        "key": "178668c3dcd24ae195ad84d05b2c36c6:e104cf09f10ca9e9eba6494de4deb9a5",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/ESPORT3_OTT_072021.png"
+    },
+    "Euronews": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(EURONEWS)\/manifest.mpd",
+        "key": "01dde9aca5f148dcb0d2a057c8f2391a:690424fdac6f41b7aebe446bfbd7f99d",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/EURONEWS_OTT_122020.png"
+    },
+    "Eurosport 1": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(EUROSPORT)\/manifest.mpd",
+        "key": "8e3c29ffed0448f7890c545309246071:5b8edc73276697eb62b2aba3e22cbedf",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/EUROSPORT1_OTT.png"
+    },
+    "Eurosport 2": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(EUROSPORT2)\/manifest.mpd",
+        "key": "dc147d4a79d9494ead0b4a4aab0bd0e3:419a704799be9deae39fa267fd41a460",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/EUROSPORT2_OTT.png"
+    },
+    "FDF": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(FDF)\/manifest.mpd",
+        "key": "bb222923b77a4b1680ee1fe6b2dcdb50:cd92bc6af0c0aeca9b43c45c3578e894",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/fdf.png"
+    },
+    "FOX": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(FOXHD)\/manifest.mpd",
+        "key": "fc1e7bf2842e4bd698016c4352cb0829:3da5bf512ed3350a4d53b0fd6cc00fa9",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/FOX_OTT_20190116.png"
+    },
+    "Fox Life": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(FOXCRIME)\/manifest.mpd",
+        "key": "e85f66d359484cb58759de9f4bfb1748:668c4656917913565896b25ccba010d5",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/FOXLIFE_OTT_082019.png"
+    },
+    "GOL": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(GOLTV)\/manifest.mpd",
+        "key": "7412d06579ba4c9c8ecf35c381272570:ea2aa6a3cb2c6e9e2dde24f1a994aa01",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/GOL_OTT_082019.png"
+    },
+    "Historia": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(HISTORIA)\/manifest.mpd",
+        "key": "6252f640bae840648d57178de0d3afe0:ebaaf953291ca12090d8ecba7d72296d",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/HISTORIA_OTT_082019.png"
+    },
+    "Hit TV": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(HITTV)\/manifest.mpd",
+        "key": "f01fa331d43c49b699c20682f9b2406a:cca4d20bbeed10452bf8d6047152244c",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/HITTV_OTT_062020.png"
+    },
+    "La 1": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(TVE1HD)\/manifest.mpd",
+        "key": "d0ed3c9f4bb347c5ae95f2b7528caa83:abc34b74d0f3f5872f929e2ed82d7d51",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/tve1.png"
+    },
+    "La 2": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(LA2)\/manifest.mpd",
+        "key": "0a276439d46843688ddb308717f283ea:54747b10d453a202ec72436da140318b",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/LA2_OTT.png"
+    },
+    "La Sexta": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(LASEXTAHD)\/manifest.mpd",
+        "key": "4926283f28db4a1382c5368253ef723b:d9997bff8783c687a7954c5a6afe80fa",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/LASEXTA_OTT_082019.png"
+    },
+    "Lolly Kids": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(LOLLYKIDS)\/manifest.mpd",
+        "key": "8e8dc271ca744e3194411fbb6684acc3:e1ebbd0eb7ab7281fe9e322682dcea82",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/LOLLYKIDS_OTT_062021.png"
+    },
+    "M. Series 2": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(CPSERIESHD)\/manifest.mpd",
+        "key": "199b850ffdac4b13a8abc8c871488d9e:8a0eb6bcc68730259413e6201c7770c7",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/MSERIES2_OTT_072021.png"
+    },
+    "MTV": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(MTVHD)\/manifest.mpd",
+        "key": "d58e0954561a492a8e58adba060e09ab:b3174f9777f5ae0d27cccc31709a2951",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/MTVHD_OTT.png"
+    },
+    "MTV 00s": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(VH1)\/manifest.mpd",
+        "key": "b382e828a19a400fa0e9b213df26997c:d0f48873cfd9c0546058eb5d47ef8f5c",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/MTV00s_OTT_072021.png"
+    },
+    "MTV 80s": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(VH1CLASSIC)\/manifest.mpd",
+        "key": "1eb822c8cc934517a6796870ae27e7ca:e64ba70d84def6559fc180744bab09b5",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/MTV80s_OTT_102020.png"
+    },
+    "MTV 90s": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(MTVROCKS)\/manifest.mpd",
+        "key": "80842567ed5043a49f467658152e2e90:18b42d5637eae8c1624ff2edd79a95e1",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/MTV90s_OTT_102020.png"
+    },
+    "MTV Hits": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(MTVHITS)\/manifest.mpd",
+        "key": "d14984c71567454fba90986059405d6a:e1231ad7810348b1fb63c061d5528ce7",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/MTVHITS_OTT.png"
+    },
+    "Mega": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(MEGA)\/manifest.mpd",
+        "key": "fedca9d905f24768889d4b79759977d8:eb06b9f13d536dfde729ebdc849da435",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/MEGA_OTT_062020.png"
+    },
+    "Nat Geo Wild": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(NATGEOWILDSD)\/manifest.mpd",
+        "key": "4d5f95d281df48d884dfdc0f23ab4d57:00eeca228b66e7e4ad9766d03d7e447b",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/NATGEOWILD_OTT_20190204.png"
+    },
+    "National Geographic": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(NATGEOHD)\/manifest.mpd",
+        "key": "373000f26a1544c28e4c809fe24ac510:f9904d3fce15191ea902d5b9253f7c98",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/NATGEO_OTT_082019.png"
+    },
+    "Neox": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(NEOX)\/manifest.mpd",
+        "key": "f04510b6bc0f4a7f83661fcc0908040d:e194d6c7ed998932b1ffc27eff231145",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/antenaneox.png"
+    },
+    "Nick Jr": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(NICKJR)\/manifest.mpd",
+        "key": "b8a6efcea8c3499cbd5fa46dd070c51a:a5ffbe612b69526117a08054b384055c",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/NICKJR_OTT.png"
+    },
+    "Nick Music": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(MTVMUSIC)\/manifest.mpd",
+        "key": "1a5cdb5dea2f4231a529c70d5e8b1a3e:0389314adfc7cde3d6f08a745711ef81",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/NICKMUSIC_OTT_062021.png"
+    },
+    "Nickelodeon": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(NICKELODEON)\/manifest.mpd",
+        "key": "ff73e456eca6466eb7b3331a2668b539:dd1e249fe1882ac7105749b17010c287",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/NICKELODEON_OTT.png"
+    },
+    "Nova": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(NOVA)\/manifest.mpd",
+        "key": "b6041f6751bd46efb727d27376fcb692:4862aa4cbae01f743cee1f5bc1b57ae6",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/NOVA_OTT_220620.png"
+    },
+    "Paramount Network": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(PARAMOUNTCHAN)\/manifest.mpd",
+        "key": "16c4a7f3eb514e17a842a1f8f668a341:65175c747f00bfbf664916c63eecefeb",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/PARAMOUNTCHANNEL_OTT_122020.png"
+    },
+    "Super3\/33": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(SUPER3)\/manifest.mpd",
+        "key": "7be48121be7944ff8374bb7c02fcf776:e78448d94c3186379735cae0e1c74a8b",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/SUPER3_OTT_072021.png"
+    },
+    "Syfy": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(SYFY)\/manifest.mpd",
+        "key": "fdcc7d2086934b1da5436823709b8a96:76490bb4b4b8402b55bc9de2ce9aed0d",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/SYFY_OTT_082019.png"
+    },
+    "TCM": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(TCMHD)\/manifest.mpd",
+        "key": "48b41ebeec5143b1ae3255f36a28e55c:3fad38da816d77252851a951249ef143",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/TCM_OTT_082019.png"
+    },
+    "TEN": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(TEN)\/manifest.mpd",
+        "key": "ef12066681f0466db104a2354cd8ddc6:3b5ef1a54ccb5e1543d5295c2d020458",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/TEN_OTT_122020.png"
+    },
+    "TRECE": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(13TV)\/manifest.mpd",
+        "key": "fecf764381a94e4686e9d0f19bb9d2a9:40016ca412778dd6f109dd4454100dc4",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/13TV_OTT.png"
+    },
+    "TV3": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(TV3)\/manifest.mpd",
+        "key": "e808f402d8464c5cb1359dcd27796d43:37a496108a876129ee15652b5fff09cb",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/TV3_OTT_072021.png"
+    },
+    "TV5": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(TV5)\/manifest.mpd",
+        "key": "ee187b4692244300a3b3c470624fba01:8ac462272ded0b31920d34a1edba07c6",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/TV5_OTT_122020.png"
+    },
+    "Telecinco": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(TELE5HD)\/manifest.mpd",
+        "key": "d84b0225fde34ddfa682c7aac1277f52:9d882234cae36f9d51f5f2d69aa9deb1",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/TELE5_OTT_082019.png"
+    },
+    "Teledeporte": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(TELEDEPORTEHD)\/manifest.mpd",
+        "key": "3b8c495d349e45b0b153a78324813809:f619fd5c17fa0c9a82a54b045702c125",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/TDP_OTT_082019.png"
+    },
+    "U-BEAT": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(UBEAT)\/manifest.mpd",
+        "key": "4ab78d96b3d04ecc984fdc0748e3066f:adbcf0645b6eee7b45b67076d2f4c699",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/UBEATHD_OTT.png"
+    },
+    "Vaughan TV": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(VAUGHANTV)\/manifest.mpd",
+        "key": "1039b4bd2d924ee6a9dee983ba23df79:279f4efa354e6f71d1020330cb7ad500",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/VAUGHANTV_OTT_122020.png"
+    },
+    "Viajar": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(VIAJARHD)\/manifest.mpd",
+        "key": "90c0a14399a44077aa2c97532662cadf:9beda7753bfaecec9ae4a2392fab2582",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/VIAJAR_OTT_082019.png"
+    },
+    "club MTV": {
+        "url": "http:\/\/live.euskaltel.tv\/Content\/DASH_MDRM\/Live\/Channel(MTVDANCE)\/manifest.mpd",
+        "key": "558567d01e3c490f824685539f6c3471:46317fb8fb2d17c80058c89a59618f1e",
+        "logo": "http:\/\/imagenes.euskaltel.tv\/logos\/MTVDANCE_OTT.png"
+    }
+}

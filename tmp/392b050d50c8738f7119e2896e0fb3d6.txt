@@ -1,0 +1,2 @@
+https://nosedge-imo7.stream.nos.pt/nos_dash_cenc/ns_07_243924bfd56a682be235638b53961e09/rolling-buffer/media/EPGC3/EPGC3/transmux/CCURStream_1200k_HD4-10_415622103.cmfa?ccur_svc_type=live
+https://nosedge-imo7.stream.nos.pt/nos_dash_cenc/ns_07_243924bfd56a682be235638b53961e09/rolling-buffer/media/EPGC3/EPGC3/transmux/CCURStream_1200k_HD4-10_415622104.cmfa?ccur_svc_type=live

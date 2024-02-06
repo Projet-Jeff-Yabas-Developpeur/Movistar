@@ -1,0 +1,392 @@
+{
+    "Star_Channel_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(start_channel)\/variant.mpd",
+        "key": "6de957e2c8090588b2cc3b4cfe0470f4:52d97d7f43b204d2379b43ee7d3a2a21",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/604\/CH_LOGO\/670\/670\/0\/0\/555712060715688.png",
+        "name": "Star Channel"
+    },
+    "MVS_Tv_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH_DASH\/Live\/channel(mvs)\/variant.mpd",
+        "key": "7e01526e8f7bf8299854fd5b6f357ce7:1385ad8ee91f6e30f41063d6214d4ef1",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/222\/CH_LOGO\/670\/670\/0\/0\/2554106007109982.png",
+        "name": "MVS TV"
+    },
+    "Universal_Channel_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(universal_channel)\/variant.mpd",
+        "key": "88cabfce565963d816be9ec08dccc29e:7912df72c3cb820a6a9026ef6aa71508",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/612\/CH_LOGO\/670\/670\/0\/0\/966793270716799.png",
+        "name": "Universal Channel"
+    },
+    "Sony_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(sony)\/variant.mpd",
+        "key": "896f730715176bb90484f8385512cba7:7372951666a6653c2dbff9f2646c1c5d",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/613\/CH_LOGO\/670\/670\/0\/0\/634713040719385.png",
+        "name": "Sony"
+    },
+    "Warner_Channel_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(warner_channel)\/variant.mpd",
+        "key": "79dc87836d93d0fb7c1bb10e301bab82:8b0e2a78cad3b2fe84b116adb0a9d9ef",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/622\/CH_LOGO\/670\/670\/0\/0\/610861530716213.png",
+        "name": "Warner Channel"
+    },
+    "AMC_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(amc)\/variant.mpd",
+        "key": "6772d26ccb1dee07b3b8703520286e8e:e3836e151d5ff729fe237f29605f039b",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/561\/CH_LOGO\/670\/670\/0\/0\/672311760790653.png",
+        "name": "AMC"
+    },
+    "TNT_Series_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(tn_series)\/variant.mpd",
+        "key": "ecdb97c85373326d0d5e66ddef91f830:ed15df89c9efe7afbeb7bac444c46f7d",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/603\/CH_LOGO\/670\/670\/0\/0\/6243111607107366.png",
+        "name": "TNT Series"
+    },
+    "Antena3_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(f20abae4-d469-344f-5bb4-4fc88c1d683b)\/variant.mpd",
+        "key": "1236cdf9b12eba6d4a4d1494f7a0dd30:3737ce9763b0816e3feab4624e1aa9a7",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/383\/CH_LOGO\/670\/670\/0\/0\/607701580716800.png",
+        "name": "Antena 3"
+    },
+    "Europa_Europa_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(europa_europa)\/variant.mpd",
+        "key": "de24e1b99c8b18ff9aa6d1faf2e71720:66f2ae3dc379900b5495f440f68c674a",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/610\/CH_LOGO\/670\/670\/0\/0\/972418020727741.png",
+        "name": "Europa Europa"
+    },
+    "FX_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(fx)\/variant.mpd",
+        "key": "ef5157845628b5f3f07a40d2c6e851bc:0f416467760f72e2269abfbab2e3c564",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/577\/CH_LOGO\/670\/670\/0\/0\/627783990746442.png",
+        "name": "FX"
+    },
+    "Space_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(space)\/variant.mpd",
+        "key": "e6441ec9b4f7ddfbc4cac8801f4df9df:676229a75fdbc1a6b5f4a50c383490d9",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/602\/CH_LOGO\/670\/670\/0\/0\/724004080760801.png",
+        "name": "Space"
+    },
+    "SyFy_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(syfy)\/variant.mpd",
+        "key": "39773b0d7b389430776142a2fa613ad9:bce74121a4884ec7d2ed9dd96442a775",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/611\/CH_LOGO\/670\/670\/0\/0\/586542980756727.png",
+        "name": "SyFy"
+    },
+    "Discovery_Investigation_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(discovery_investigation)\/variant.mpd",
+        "key": "24a3a54a3e600690cab8fe010d6cf668:d4c4b1152a153f992b0ef2bf8e57e616",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/569\/CH_LOGO\/670\/670\/0\/0\/155179480725793.png",
+        "name": "Discovery Investigation"
+    },
+    "Discovery_Home_And_Health_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(discovery_H_and_H)\/variant.mpd",
+        "key": "d451deb3d9d7daa291437e7462e10c98:1108ea57684f26a57bacadfa8b53c46a",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/608\/CH_LOGO\/670\/670\/0\/0\/457071600774420.png",
+        "name": "Discovery_Home_And_Health"
+    },
+    "TLC_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(tlc)\/variant.mpd",
+        "key": "c4cee09a33cfcdb4f48465da2160069c:065076e330f5a73a95022497215af625",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/608\/CH_LOGO\/670\/670\/0\/0\/457071600774420.png",
+        "name": "TLC"
+    },
+    "El_Gourmet_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(e_gourment)\/variant.mpd",
+        "key": "5f3eebd14fc7f6fcbe4ba310dd654a6b:249312af2692abff48daa39c0dc8607d",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/609\/CH_LOGO\/670\/670\/0\/0\/7007588907100602.png",
+        "name": "El Gourmet"
+    },
+    "Lifetime_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(lifetime_sd)\/variant.mpd",
+        "key": "755d1469266faa1ea9eef19352e1fe0b:e7385cecb82c20e7540591b7ec337828",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/607\/CH_LOGO\/670\/670\/0\/0\/807102500790682.png",
+        "name": "Lifetime"
+    },
+    "Mas_Chic_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(mas_chic)\/variant.mpd",
+        "key": "fe371e8ac45e6f11927f8a91abf3f268:e5bf0822bd2eaaf5e5c466c894c8ed6e",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/647\/CH_LOGO\/670\/670\/0\/0\/922458350734412.png",
+        "name": "Mas Chic"
+    },
+    "HOLA_TV_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(93b5438f-d00d-3a75-e257-95bdb326e721)\/variant.mpd",
+        "key": "b2cea93a0a01e1218cf0a3d0d2d09f25:a06ac367319c8926249057a2eb2a78d9",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/385\/CH_LOGO\/670\/670\/0\/0\/850868260782970.png",
+        "name": "HOLA TV"
+    },
+    "E_Entertainment_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(e_entertainment_hd)\/variant.mpd",
+        "key": "80fa37cfc97ec6425a03fdc6892eecd6:895c40f6e9d35f296e1554af8bbe590c",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/580\/CH_LOGO\/670\/670\/0\/0\/426570000730259.png",
+        "name": "E_Entertainmen"
+    },
+    "TBS_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(tbs_sd)\/variant.mpd",
+        "key": "1ebf460dd523ee3dd4a6a35857dea58e:c10b54a2581a0f664e32e03f166ab010",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/606\/CH_LOGO\/670\/670\/0\/0\/751886750775073.png",
+        "name": "TBS"
+    },
+    "Comedy_Central_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(comedy_central)\/variant.mpd",
+        "key": "ee3ad5fb53e7b4f65d732ce7f03d53a4:e4a1ef4d19cbac85da7f6a29da2c5135",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/208\/CH_LOGO\/670\/670\/0\/0\/2272528707106112.png",
+        "name": "Comedy Central"
+    },
+    "MTV_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(83640aad-3943-f226-67b6-94086f915fd5)\/variant.mpd",
+        "key": "bb8a6b32e830d4c9c52606d93b852262:12ae020d159c4ef6c5a7a411a3d0aa51",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/215\/CH_LOGO\/670\/670\/0\/0\/382827590712712.png",
+        "name": "MTV"
+    },
+    "MTV_HITS_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(7618ef68-db19-3c9f-d0a1-44c3ed11c58d)\/variant.mpd",
+        "key": "a8ece81292339c7faa15af6c562fea94:84072c8c9b3797ca900876f9bf1b0526",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/206\/CH_LOGO\/670\/670\/0\/0\/783970570767787.png",
+        "name": "MTV HITS"
+    },
+    "EXA_TV_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(13c8fed2-46b8-3bfb-90ae-34f938ae4b98)\/variant.mpd",
+        "key": "3443518a438f72c299ecedd7a8a2ad28:36a6301c3d722a2305c99e3c938aac58",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/211\/CH_LOGO\/670\/670\/0\/0\/825896900747403.png",
+        "name": "EXA TV"
+    },
+    "LA_MEJOR_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(681bf69f-31fc-6394-82b1-96a0c643eb70)\/variant.mpd",
+        "key": "706240e6eab2a1137262a0c2b8c4be6a:e5a2e8bbe1b4b9cbdb12a2b586aa9b1d",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/212\/CH_LOGO\/670\/670\/0\/0\/5856472507105747.png",
+        "name": "LA MEJOR"
+    },
+    "MTV_00s_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(VH1)\/variant.mpd",
+        "key": "a51135c438caa2aa4e4ac8db43fcc519:5d71b339942b258a67d76baa5a716121",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/544\/CH_LOGO\/670\/670\/0\/0\/3169504307120767.png",
+        "name": "MTV 00s"
+    },
+    "Disney_Channel_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(disney_channel)\/variant.mpd",
+        "key": "4f4ee39dd29073dbefb37d604f1c6a9a:5fa8a9df75dd5c7af69bb8c65052b8ae",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/571\/CH_LOGO\/670\/670\/0\/0\/146835100719234.png",
+        "name": "Disney Channel"
+    },
+    "Disney_Jr_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(disney_Junior)\/variant.mpd",
+        "key": "4a1dd77bf7714007f301a9a08364392e:6635f825f0f5b1cbceb55645b7c8d362",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/579\/CH_LOGO\/670\/670\/0\/0\/933767820761311.png",
+        "name": "Disney Junior"
+    },
+    "Nickelodeon_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(Nickelodeon)\/variant.mpd",
+        "key": "7ec274831caa80e1ec173dbd5b0d5e83:cc5fb77171900013b60e4ef49da9f1ac",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/541\/CH_LOGO\/670\/670\/0\/0\/286791380716707.png",
+        "name": "Nickelodeon"
+    },
+    "Cartoon_Network_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(cartoon_network)\/variant.mpd",
+        "key": "54c7b3d5c39b0bc9d7e2d1748d13f712:55fb050e2e65f8a6928c60177270e9b3",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/563\/CH_LOGO\/670\/670\/0\/0\/646451070716141.png",
+        "name": "Cartoon Network"
+    },
+    "Nick_Jr_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(Nick_JR)\/variant.mpd",
+        "key": "38f6c58d024fa99b20054bcfca838466:6d05340000cd4d89b1bcbfce91ae2280",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/542\/CH_LOGO\/670\/670\/0\/0\/159603340760295.png",
+        "name": "Nick Junior"
+    },
+    "Baby_First_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(648fabb8-962b-0e85-93d5-44d56a12851e)\/variant.mpd",
+        "key": "82d882f3aada7d99b71695d0cb418538:ce445596de9e7a97f62515559cd67bdb",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/504\/CH_LOGO\/60\/60\/0\/0\/8133755507123604.png",
+        "name": "Baby First"
+    },
+    "Baby_TV_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(babytv)\/variant.mpd",
+        "key": "c716dca5a51693cacb4c0fdf5d58c93e:8a36d0baf248b73563fbe08929e6c889",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/614\/CH_LOGO\/670\/670\/0\/0\/302262570756036.png",
+        "name": "Baby TV"
+    },
+    "Discovery_Channel_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(discovery_channel)\/variant.mpd",
+        "key": "57f8e694ce62a7127ac32f480d4e6a3c:7234cf554a8276617483e9a5495225c5",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/567\/CH_LOGO\/670\/670\/0\/0\/144216680725788.png",
+        "name": "Discovery Channel"
+    },
+    "National_Geographic_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(national_geographic)\/variant.mpd",
+        "key": "14747c7e082ba58e7391e3712578ee0a:4bcbff3d553e8a8b755a19bb4e93208a",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/646\/CH_LOGO\/670\/670\/0\/0\/624629530725068.png",
+        "name": "National Geographic"
+    },
+    "Animal_Planet_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(animal_planet)\/variant.mpd",
+        "key": "6e17aeb1e1ae4b5b1fd66d3928620643:9cca4e3a75bc0ffcfa00716c56157e78",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/562\/CH_LOGO\/670\/670\/0\/0\/200374240796445.png",
+        "name": "Animal Planet"
+    },
+    "History_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(history)\/variant.mpd",
+        "key": "c60825bef7f79a30696e835532e2c1e5:9917be8378ddcb8ff4aa26c554da639e",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/578\/CH_LOGO\/670\/670\/0\/0\/601366760740137.png",
+        "name": "History"
+    },
+    "Classic_Arts_Showcase_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(69640806-9c20-bb90-cd6e-483ab61cdc9e)\/variant.mpd",
+        "key": "",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/384\/CH_LOGO\/670\/670\/0\/0\/809398380716325.png",
+        "name": "Classic Arts Showcase"
+    },
+    "ESPN_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(espn)\/variant.mpd",
+        "key": "5abcf43f19d39b08596ef593c466df7a:8f3fc1c6f4c20c6e6e98e42c2ae0e42c",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/581\/CH_LOGO\/670\/670\/0\/0\/856015520719158.png",
+        "name": "ESPN"
+    },
+    "ESPN_2_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(espn_2)\/variant.mpd",
+        "key": "ae99daa35220336fe9460b9060fa65a9:ac284e8e24296f30496d1f39a7138205",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/573\/CH_LOGO\/670\/670\/0\/0\/915872680737747.png",
+        "name": "ESPN 2"
+    },
+    "ESPN_3_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(espn_3)\/variant.mpd",
+        "key": "430f38110162f19a042b4dcdc2005140:50541179fbd5750aea8767cb6e6b3a7b",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/574\/CH_LOGO\/670\/670\/0\/0\/257454600779042.png",
+        "name": "ESPN 3"
+    },
+    "ESPN_EXTRA_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(espn_extra)\/variant.mpd",
+        "key": "ef0779dad62e7a021ac8b82a5a8dd329:e18c7892858eb04bf8d2dcf4f057dd77",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/575\/CH_LOGO\/670\/670\/0\/0\/3191804707121144.png",
+        "name": "ESPN EXTRA"
+    },
+    "Discovery_Turbo_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(discovery_turbo)\/variant.mpd",
+        "key": "332764eef0a2171c0357847aab70050f:0b317a27a4766a94d5075da775c12e5e",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/570\/CH_LOGO\/670\/670\/0\/0\/206692940746608.png",
+        "name": "Discovery Turbo"
+    },
+    "CNN_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(cnn)\/variant.mpd",
+        "key": "eb72c9e7401ffa4cc0ab3936cb869751:e45142790c822b02f6c2a77f5a40de66",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/566\/CH_LOGO\/670\/670\/0\/0\/332645810727773.png",
+        "name": "CNN"
+    },
+    "Milenio_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(3c92e68d-2640-6521-1e22-b8c3dcb6f290)\/variant.mpd",
+        "key": "10faeae889f49acfe575aa29415aa764:b506ed7bf065f27ae3e93c2cf108cbb6",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/214\/CH_LOGO\/670\/670\/0\/0\/611782550761719.png",
+        "name": "Milenio"
+    },
+    "CV_Shopping_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(ab161980-5fbc-3099-bf3c-d58924c4e436)\/variant.mpd",
+        "key": "00000000000000000000000000000000:00000000000000000000000000000000",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/210\/CH_LOGO\/670\/670\/0\/0\/623563600795679.png",
+        "name": "CV Shopping"
+    },
+    "TNT_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(tnt)\/variant.mpd",
+        "key": "4139b9f4b9b13b81c2d1b53acd01e5e5:24f771215b927cd0961be8ab963bb8d2",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/601\/CH_LOGO\/670\/670\/0\/0\/239979240719384.png",
+        "name": "TNT"
+    },
+    "MC_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(6f29f4bb-a84c-6924-9782-a5647d2146a0)\/variant.mpd",
+        "key": "077105b9c52693e7c1df39521ab65803:7189d75c1469f0bd11efa54d58d3499b",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/601\/CH_LOGO\/670\/670\/0\/0\/239979240719384.png",
+        "name": "MC"
+    },
+    "Cinemax_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(cinemax)\/variant.mpd",
+        "key": "540b2a870d04b8b73d18788ad6519c2c:4badcf5feda55f3a727430d78f0ede84",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/565\/CH_LOGO\/670\/670\/0\/0\/142537030716794.png",
+        "name": "Cinemax"
+    },
+    "Multipremier_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(526dd1aa-3af4-bca0-f021-f48180f1974a)\/variant.mpd",
+        "key": "55122e37d92b6b4ab03c427cd4f471b9:0c2d5950edcafe9a2ea09098a155bdda",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/216\/CH_LOGO\/670\/670\/0\/0\/164308500718169.png",
+        "name": "Multipremier"
+    },
+    "Cinecanal_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(cinecanal)\/variant.mpd",
+        "key": "b5575c4cac7dd0aba98835c5b59a0c62:48cb36a63c1526132d4f969a10d6eec3",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/564\/CH_LOGO\/670\/670\/0\/0\/510548440716435.png",
+        "name": "Cinecanal"
+    },
+    "Cine_Latino_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(b4540d49-0e51-9219-ced1-8624e83e6bf3)\/variant.mpd",
+        "key": "e28ec76b3e800ded41db58719ad8b8f4:4e40f2c54234fc211f471ed049b22649",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/209\/CH_LOGO\/670\/670\/0\/0\/481702750715296.png",
+        "name": "Cine Latino"
+    },
+    "Film_And_Arts_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(film_and_arts)\/variant.mpd",
+        "key": "c2aecc40a610b30b03f61e965942266e:89a83e6b4512fd9a9e1455ac0abbe975",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/582\/CH_LOGO\/670\/670\/0\/0\/742934350788305.png",
+        "name": "Film And Arts"
+    },
+    "Studio_Universal_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(studio_universal)\/variant.mpd",
+        "key": "ff583851013fa7fb7abeaa8d0e762a41:ad289e896926729a4e7559bdaa04e537",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/605\/CH_LOGO\/670\/670\/0\/0\/466899690729017.png",
+        "name": "Studio Universal"
+    },
+    "Paramount_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(Paramount)\/variant.mpd",
+        "key": "32b13be3cd4a6b293a8f1e8d69ba03cb:83451d1709e2ff8ab5db1ac05e78f577",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/543\/CH_LOGO\/670\/670\/0\/0\/158253150791029.png",
+        "name": "Paramount"
+    },
+    "HBO_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(a4bb2449-4f30-142f-1e65-d757b3d53b78)\/variant.mpd",
+        "key": "cec01f73570fd6820a31d386b39b731d:86e27a11d47e800fb903dc07d1f02b7e",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/490\/CH_LOGO\/670\/670\/0\/0\/395708980716795.png",
+        "name": "HBO"
+    },
+    "HBO2_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(59866a3c-83ad-17d1-3025-d9f794babca9)\/variant.mpd",
+        "key": "9aaf6aa38c694e24b60787618a0f3793:4cee5d8856488e593964a082562db4ff",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/489\/CH_LOGO\/670\/670\/0\/0\/578351380780652.png",
+        "name": "HBO2"
+    },
+    "HBO Family_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(462e4822-6eac-91a1-f974-311a8ed1b829)\/variant.mpd",
+        "key": "23d5d6a7be1238a89b59cb79ed2ab349:596508e11a62a8ebb20f67da8852e8f1",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/488\/CH_LOGO\/670\/670\/0\/0\/208329000734879.png",
+        "name": "HBO Family"
+    },
+    "HBO+_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(e8dd8035-5c7e-f820-eec5-65a93cc4b912)\/variant.mpd",
+        "key": "54c5643771d1eb28857f6d6cb7947aa8:caa44ad81c2175a711fd4f3c646a9950",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/487\/CH_LOGO\/670\/670\/0\/0\/365115060734725.png",
+        "name": "HBO+"
+    },
+    "HBO_Signature_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(fdde0576-5d28-3fd0-68f9-71719e2cccfe)\/variant.mpd",
+        "key": "7aeefc391f09edf06ba2b039e8e8c439:e322483381692e91ff8927e518a75ea0",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/486\/CH_LOGO\/670\/670\/0\/0\/908817300774450.png",
+        "name": "HBO Signature"
+    },
+    "HBO_Mundi_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(8bd5b62b-fad1-7abc-2cec-cb781f5f5f20)\/variant.mpd",
+        "key": "0e53c5914737e3287fe737a8875f7044:73a5e41a4c611ee26e7998cb4ebdfb67",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/485\/CH_LOGO\/670\/670\/0\/0\/560526390770081.png",
+        "name": "HBO Mundi"
+    },
+    "HBO_POP_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(d46beb3e-6178-5996-6106-413fbc44e12f)\/variant.mpd",
+        "key": "2fccd34e42603163d29e9df57b61b951:b8d12ee1376883921d2596715dcc62f5",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/484\/CH_LOGO\/670\/670\/0\/0\/346899310768301.png",
+        "name": "HBO POP"
+    },
+    "HBO_XTREME_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(c0d08eba-2d62-97ad-fbc6-821201567186)\/variant.mpd",
+        "key": "761160036506af26092b33aa78cf320c:f4e90d977d91cd5be891c2a50a11f979",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/482\/CH_LOGO\/670\/670\/0\/0\/214123500734887.png",
+        "name": "HBO Xtreme"
+    },
+    "ESNE_DISHMX": {
+        "url": "https:\/\/dish.akamaized.net\/Content\/DASH\/Live\/channel(4f73ec8e-3b3f-51db-2a8d-ac9ae0ff0fa4)\/variant.mpd",
+        "key": "00000000000000000000000000000000:00000000000000000000000000000000",
+        "logo": "https:\/\/edge.prod.ovp.ses.com:9002\/images\/387\/CH_LOGO\/670\/670\/0\/0\/591140830746421.png",
+        "name": "ESNE"
+    }
+}

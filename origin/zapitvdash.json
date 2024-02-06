@@ -1,0 +1,258 @@
+{
+    "ZAPI_BEMAD":{
+    "url":"https://ott.zapitv.com/live/eds_c2/bemad_hd/dash_live_fta/bemad_hd.mpd",
+    "name":"Be mad"
+    },
+    "BARCA_SYFY":{
+       "url": "https://ott.zapitv.com/live/eds_c2/barca_tv/dash_live_fta/barca_tv.mpd",
+       "name":"Barca TV"
+    },
+    "ZAPI_SYFY": {
+        "url": "https://ott.zapitv.com/live/eds_c2/syfy/dash_live_fta/syfy.mpd",
+        "name": "SYFY"
+    },
+    "ZAPI_AMC_BREAK": {
+        "url": "https://ott.zapitv.com/live/eds_c2/blaze/dash_live_fta/blaze.mpd",
+        "name":"Blaze"
+    },
+    "ZAPI_MTV_HITS": {
+        "url": "https://ott.zapitv.com/live/eds_c2/mtv_hits/dash_live_fta/mtv_hits.mpd",
+        "name":"MTV Hits"
+    },
+    "ZAPI_NICKELODEON": {
+        "url": "https://ott.zapitv.com/live/eds_c2/nickelodeon/dash_live_fta/nickelodeon.mpd",
+        "name":"Nickelodeon"
+    },
+    "ZAPI_BOING": {
+        "url": "https://ott.zapitv.com/live/eds_c2/boing/dash_live_fta/boing.mpd",
+        "name":"BOING"
+    },
+    "ZAPI_NICK_JR": {
+        "url": "https://ott.zapitv.com/live/eds_c2/nick_jr/dash_live_fta/nick_jr.mpd",
+        "name":"Nick JR"
+    },
+    "ZAPI_PANDA": {
+        "url": "https://ott.zapitv.com/live/eds_c2/panda/dash_live_fta/panda.mpd",
+        "name":"Panda"
+    },
+    "ZAPI_MTV": {
+        "url": "https://ott.zapitv.com/live/eds_c2/mtv_espana/dash_live_fta/mtv_espana.mpd",
+        "name":"MTV"
+    },
+    "ZAPI_MTV_00s": {
+        "url": "https://ott.zapitv.com/live/eds_c2/vh1/dash_live_fta/vh1.mpd",
+        "name":"MTV 00s"
+    },
+    "ZAPI_MTV_80s": {
+        "url": "https://ott.zapitv.com/live/eds_c2/MTV80_S/dash_live_fta/MTV80_S.mpd",
+        "name":"MTV 80s"
+    },
+    "ZAPI_TELEDEPORTE_HD": {
+        "url": "https://ott.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_fta/teledeporte_hd.mpd",
+        "name":"Teledeporte"
+    },
+    "ZAPI_COCINA_4K": {
+        "url": "https://ott.zapitv.com/live/eds_c2/cocina_hd/dash_live_fta/cocina_hd.mpd",
+        "name": "CANAL COCINA 4K"
+    },
+    "ZAPI_COMEDY_CENTRAL": {
+        "url": "https://ott.zapitv.com/live/eds_c2/comedy_central/dash_live_fta/comedy_central.mpd",
+        "name":"COMEDY CENTRAL"
+    },
+    "ZAPI_EUROSPORT_1": {
+        "url": "https://ott.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_fta/eurosport_1_hd.mpd",
+        "name":"Eurosport 1"
+    },
+    "ZAPI_EUROSPORT_2": {
+        "url": "https://ott.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_fta/eurosport_2_hd.mpd",
+        "name":"Eurosport 2"
+    },
+    "ZAPI_24H_TVE": {
+        "url": "https://ott.zapitv.com/live/eds_c2/24h_tve/dash_live_fta/24h_tve.mpd",
+        "name":"CANAL 24 HORAS"
+    },
+    "ZAPI_DECASA": {
+        "url": "https://ott.zapitv.com/live/eds_c2/decasa_hd/dash_live_fta/decasa_hd.mpd",
+        "name": "CANAL DECASA"
+    },
+    "ZAPI_TELE_MADRID_HD": {
+        "url": "https://ott.zapitv.com/live/eds_c2/tele_madrid_hd/dash_live_fta/tele_madrid_hd.mpd",
+        "name":"TELE MADRID"
+    },
+    "ZAPI_CANAL_SUR_HD": {
+        "url": "https://ott.zapitv.com/live/eds_c2/canal_sur_hd/dash_live_fta/canal_sur_hd.mpd",
+        "name": "CANAL SUR HD"
+    },
+    "ZAPI_IBERALIA_PESCA": {
+        "url": "https://ott.zapitv.com/live/eds_c2/iberalia_pesca/dash_live_fta/iberalia_pesca.mpd",
+        "name": "IBERALIA PESCA"
+    },
+    "ZAPI_REAL_MADRID_TV_HD": {
+        "url": "https://ott.zapitv.com/live/eds_c2/real_madrid_tv_hd/dash_live_fta/real_madrid_tv_hd.mpd",
+        "name":"Real Madrid TV"
+    },
+    "ZAPI_TELENOVELDA": {
+        "url": "https://streamer.zapitv.com/TELENOVELDA/index.mpd",
+        "name": "TELENOVELDA"
+    },
+    "ZAPI_DISCOVERY_CHANNEL_HD": {
+        "url": "https://ott.zapitv.com/live/eds_c2/discovery_channel_hd/dash_live_fta/discovery_channel_hd.mpd",
+        "name": "DISCOVERY CHANNEL"
+    },
+    "ZAPI_AMC": {
+        "url": "https://ott.zapitv.com/live/eds_c2/amc_hd/dash_live_fta/amc_hd.mpd",
+        "name":"AMC"
+    },
+    "ZAPI_AXN": {
+        "url": "https://ott.zapitv.com/live/eds_c2/axn/dash_live_fta/axn.mpd",
+        "name":"AXN"
+    },
+    "ZAPI_AXN_WHITE": {
+        "url": "https://ott.zapitv.com/live/eds_c2/axn_white/dash_live_fta/axn_white.mpd",
+        "name":"AXN White"
+    },
+    "ZAPI_LA_SEXTA": {
+        "url": "https://ott.zapitv.com/live/eds_c2/la_sexta/dash_live_fta/la_sexta.mpd",
+        "name": "LA SEXTA"
+    },
+    "ZAPI_CUATRO": {
+        "url": "https://ott.zapitv.com/live/eds_c2/cuatro/dash_live_fta/cuatro.mpd",
+        "name": "CUATRO"
+    },
+    "ZAPI_ANTENA_3": {
+        "url": "https://ott.zapitv.com/live/eds_c2/antena_3/dash_live_fta/antena_3.mpd",
+        "name": "ANTENA 3"
+    },
+    "ZAPI_LA_2": {
+        "url": "https://ott.zapitv.com/live/eds_c2/la_2/dash_live_fta/la_2.mpd",
+        "name": "LA 2"
+    },
+    "ZAPI_LA_1": {
+        "url": "https://ott.zapitv.com/live/eds_c2/la_1/dash_live_fta/la_1.mpd",
+        "name": "LA 1"
+    },
+    "ZAPI_CLAN_TV_HD": {
+        "url": "https://ott.zapitv.com/live/eds_c2/clan_tv_hd/dash_live_fta/clan_tv_hd.mpd",
+        "name": "CLAN TV HD"
+    },
+    "ZAPI_DARK": {
+        "url": "https://ott.zapitv.com/live/eds_c2/DARK_HD/dash_live_fta/DARK_HD.mpd",
+        "name": "DARK"
+    },
+    "ZAPI_LOLLY_KIDS": {
+        "url": "https://ott.zapitv.com/live/eds_c2/lolly_pops/dash_live_fta/lolly_pops.mpd",
+        "name": "LOLLY KIDS"
+    },
+    "ZAPI_DISNEY_CHANNEL": {
+        "url": "https://ott.zapitv.com/live/eds_c2/disney_channel/dash_live_fta/disney_channel.mpd",
+        "name": "DISNEY CHANNEL"
+    },
+    "ZAPI_TENDENCIAS": {
+        "url": "https://ott.zapitv.com/live/eds_c2/tendencias/dash_live_fta/tendencias.mpd",
+        "name": "TENDENCIAS"
+    },
+    "ZAPI_LA_KALLE": {
+        "url": "https://streamer.zapitv.com/LAKALLE/index.mpd",
+        "name": "LA KALLE"
+    },
+    "ZAPI_SURF_CHANNEL": {
+        "url": "https://ott.zapitv.com/live/eds_c2/surf_channel/dash_live_fta/surf_channel.mpd",
+        "name": "SURF CHANNEL"
+    },
+    "ZAPI_ALL_FLAMENCO": {
+        "url": "https://ott.zapitv.com/live/eds_c2/all_flamenco/dash_live_fta/all_flamenco.mpd",
+        "name": "ALL FLAMENCO"
+    },
+    "ZAPI_HOLLYWOOD_HD": {
+        "url": "https://ott.zapitv.com/live/eds_c2/hollywood_hd/dash_live_fta/hollywood_hd.mpd",
+        "name":"Hollywood"
+    },
+    "ZAPI_TNT": {
+        "url": "https://ott.zapitv.com/live/eds_c2/tnt/dash_live_fta/tnt.mpd",
+        "name":"TNT"
+    },
+    "ZAPI_TCM_MODERNO": {
+        "url": "https://ott.zapitv.com/live/eds_c2/tcm_moderno/dash_live_fta/tcm_moderno.mpd",
+        "name": "TCM MODERNO"
+    },
+    "ZAPI_NAT_GEOGRAPHIC_HD": {
+        "url": "https://ott.zapitv.com/live/eds_c2/nat_geographic_hd/dash_live_fta/nat_geographic_hd.mpd",
+        "name":"Nation Geographic"
+    },
+    "ZAPI_NAT_GEO_WILD_HD": {
+        "url": "https://ott.zapitv.com/live/eds_c2/nat_geo_wild_hd/dash_live_fta/nat_geo_wild_hd.mpd",
+        "name":"National Geographic Wild"
+    },
+    "ZAPI_PARAMOUNT_CHANNEL": {
+        "url": "https://ott.zapitv.com/live/eds_c2/paramount_channel/dash_live_fta/paramount_channel.mpd",
+        "name":"Paramount Channel"
+    },
+    "ZAPI_XTRM_HD": {
+        "url": "https://ott.zapitv.com/live/eds_c2/xtrm_hd/dash_live_fta/xtrm_hd.mpd",
+        "name": "XTRM HD"
+    },
+    "ZAPI_TELECINCO": {
+        "url": "https://ott.zapitv.com/live/eds_c2/telecinco/dash_live_fta/telecinco.mpd",
+        "name":"Telecinco"
+    },
+    "ZAPI_TELENOVELAS": {
+        "url": "https://ott.zapitv.com/live/eds_c2/de_telenovelas/dash_live_fta/de_telenovelas.mpd",
+        "name": "TELENOVELAS"
+    },
+    "ZAPI_HISTORIA": {
+        "url": "https://ott.zapitv.com/live/eds_c2/historia_hd/dash_live_fta/historia_hd.mpd",
+        "name": "HISTORIA"
+    },
+    "ZAPI_CANAL_DE_LAS_ESTRELLAS": {
+        "url": "https://ott.zapitv.com/live/eds_c2/CANAL_DE_LAS_ESTRELLAS/dash_live_fta/CANAL_DE_LAS_ESTRELLAS.mpd",
+        "name": "CANAL DE LAS ESTRELLAS"
+    },
+    "ZAPI_NAT_GEOGRAPHIC": {
+        "url": "https://ott.zapitv.com/live/eds_c2/nat_geographic_hd/dash_live_fta/nat_geographic_hd.mpd",
+        "name": "NAT GEOGRAPHIC"
+    },
+    "ZAPI_SOMOS": {
+        "url": "https://ott.zapitv.com/live/eds_c2/somos/dash_live_fta/somos.mpd",
+        "name": "SOMOS"
+    },
+    "ZAPI_TV3_HD": {
+        "url": "https://ott.zapitv.com/live/eds_c2/tv3_hd/dash_live_fta/tv3_hd.mpd",
+        "name":"TV3"
+    },
+    "ZAPI_IBERALIA": {
+        "url": "https://ott.zapitv.com/live/eds_c2/iberalia/dash_live_fta/iberalia.mpd",
+        "name": "IBERALIA"
+    },
+    "ZAPI_IBERALIA_CAZA": {
+        "url": "https://ott.zapitv.com/live/eds_c2/iberalia_caza/dash_live_fta/iberalia_caza.mpd",
+        "name": "IBERALIA CAZA"
+    },
+    "ZAPI_DBIKE": {
+        "url": "https://ott.zapitv.com/live/eds_c2/DBIKE/dash_live_fta/DBIKE.mpd",
+        "name": "DBIKE"
+    },
+    "ZAPI_DEPELICULA": {
+        "url": "https://ott.zapitv.com/live/eds_c2/DEPELICULAS/dash_live_fta/DEPELICULAS.mpd",
+        "name": "DEPELICULA"
+    },
+    "ZAPI_BLAZE": {
+        "url": "https://ott.zapitv.com/live/eds_c2/blaze/dash_live_fta/blaze.mpd",
+        "name": "BLAZE"
+    },
+    "ZAPI_SOL_MUSICA": {
+        "url": "https://ott.zapitv.com/live/eds_c2/sol_musica/dash_live_fta/sol_musica.mpd",
+        "name": "SOL MUSICA"
+    },
+    "ZAPI_LA_OTRA": {
+        "url": "https://ott.zapitv.com/live/eds_c2/la_otra/dash_live_fta/la_otra.mpd",
+        "name": "LA OTRA"
+    },
+    "ZAPI_ODISEA_4K": {
+        "url": "https://ott.zapitv.com/live/eds_c2/odisea_hd/dash_live_fta/odisea_hd.mpd",
+        "name": "ODISEA 4K"
+    },
+    "ZAPI_FRENCHLOVER_TV": {
+        "url": "https://ott.zapitv.com/live/eds_c2/frenchlover_tv/dash_live_fta/frenchlover_tv.mpd",
+        "name":"FRENCHLOVER TV"
+    }
+}

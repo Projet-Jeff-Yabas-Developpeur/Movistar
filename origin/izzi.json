@@ -1,0 +1,1790 @@
+{
+    "QSZF": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/AANDE-HD/default.mpd",
+        "key": "baef272fb12886463f3b299ac6b4ffa6:bc285ae166674480abb4966f4a306327",
+        "logo": "https://www.izzigo.tv/images/ch/289/LOGO/m/0/LOGO/m/0",
+        "name": "A&E"
+    },
+    "QSs=": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/RDF-MTY-A-plus-SD/default.mpd",
+        "key": "770cb384e59d52c04be8f08c4428d077:ca2d4477700e97af11d7dadbd1b78a93",
+        "logo": "https://www.izzigo.tv/images/ch/990/LOGO/m/0/LOGO/m/0",
+        "name": "A+"
+    },
+    "QUROIDQw": {
+        "url": "https://d32ssuj3tq7z91.cloudfront.net/out/v1/c6b4189d9ab549bf962189777602a29c/default.mpd",
+        "key": "34921002c5b94e82b498fb0e570ee8d3:cca8d971a4dd3ecb68a0233c45ed1a95",
+        "logo": "https://www.izzigo.tv/images/ch/261/LOGO/m/0/LOGO/m/0",
+        "name": "ADN 40"
+    },
+    "QU1D": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/AMC-HD/default.mpd",
+        "key": "ac1ba0140f6d33e189e8942abc86a93e:620401712a2d5c852707d1b0f6831460",
+        "logo": "https://www.izzigo.tv/images/ch/319/LOGO/m/0/LOGO/m/0",
+        "name": "AMC"
+    },
+    "QVhO": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/AXN-HD/default.mpd",
+        "key": "21fc38c9b1094bb0072d55f36f60b416:01537860553a53ada3e0dfe56bfe0d23",
+        "logo": "https://www.izzigo.tv/images/ch/288/LOGO/m/0/LOGO/m/0",
+        "name": "AXN"
+    },
+    "QWRyZW5hbGluYSBTcG9ydHMgTmV0d29yaw==": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/ADRENALINA-HD/default.mpd",
+        "key": "605d464e2cfd324634b9b21f8974eddb:0aeb32f21cceeca228523855908be71a",
+        "logo": "https://www.izzigo.tv/images/ch/342/LOGO/m/0/LOGO/m/0",
+        "name": "Adrenalina Sports Network"
+    },
+    "QWZpenppb25hZG9z": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd",
+        "key": "e56d7c1ed73a004c3ebe5698f6c6f6b1:c39150ba26986a8a30bd88c960ee0a98",
+        "logo": "https://www.izzigo.tv/images/ch/1141/LOGO/m/0/LOGO/m/0",
+        "name": "Afizzionados"
+    },
+    "QWwgSmF6ZWVyYQ==": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/AL-JAZEERA-HD/default.mpd",
+        "key": "b4ef2f7c5f5d2e49e7d92a77858419db:46ed0fdbf630e8a7344c92445628da2d",
+        "logo": "https://www.izzigo.tv/images/ch/660/LOGO/m/0/LOGO/m/0",
+        "name": "Al Jazeera"
+    },
+    "QW1hem9uIGVuYw==": {
+        "url": "https://d15cs7fkh0affx.cloudfront.net/out/v1/85e9611b5c2f4376948ae767ec10d8a0/default.mpd",
+        "key": "d9441c93cdf84cf79b9fa07a058bbac6:72b387a528f8b378dc2028a772ac9790",
+        "logo": "https://www.izzigo.tv/images//LOGO/m/0/LOGO/m/0",
+        "name": "Amazon enc"
+    },
+    "QW5pbWFsIFBsYW5ldA==": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/ANIMAL-PLANET-HD/default.mpd",
+        "key": "08dbfc1bdc2475deb005d604c1a37933:57f8403163ef37a9d47c287ec55b29a5",
+        "logo": "https://www.izzigo.tv/images/ch/610/LOGO/m/0/LOGO/m/0",
+        "name": "Animal Planet"
+    },
+    "QW50ZW5hIFRyZXM=": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/ANTENA3-HD/default.mpd",
+        "key": "703ea167cf1c22c1efe543666be7ec03:a3b7fafc7e06ec58f2287e47aa9f6a0c",
+        "logo": "https://www.izzigo.tv/images/ch/92/LOGO/m/0/LOGO/m/0",
+        "name": "Antena Tres"
+    },
+    "QXRyZXMgQ2luZQ==": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/A3-CINE-HD/default.mpd",
+        "key": "fe138d2adce9bd2fef8731dc5381c71f:f3c1454280950407abd778ed76f59ffa",
+        "logo": "https://www.izzigo.tv/images/ch/1270/LOGO/m/0/LOGO/m/0",
+        "name": "Atres Cine"
+    },
+    "QXRyZXMgU2VyaWVz": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/ATRES-SERIES-HD/default.mpd",
+        "key": "5730db07df3cfeb2cff629525d3b81dd:47f045fdadf4cdf7c29ae9965126890b",
+        "logo": "https://www.izzigo.tv/images/ch/278/LOGO/m/0/LOGO/m/0",
+        "name": "Atres Series"
+    },
+    "QXp0ZWNhIDc=": {
+        "url": "https://d12bww9t7e6mtv.cloudfront.net/out/v1/e4848d2e67a04646a2af9a35e118cb13/default.mpd",
+        "key": "162544970ee8402cae28d6a710e384f3:98401517a4742671ff4fefb286445158",
+        "logo": "https://www.izzigo.tv/images/ch/271/LOGO/m/0/LOGO/m/0",
+        "name": "Azteca 7"
+    },
+    "QXp0ZWNhIHVubw==": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.mpd",
+        "key": "5c3b90c5a090085b29b3f5d69dd15015:518caef34a34a32fc0d52e9d81b4d1dc",
+        "logo": "https://www.izzigo.tv/images/ch/274/LOGO/m/0/LOGO/m/0",
+        "name": "Azteca uno"
+    },
+    "AZTECA_UNO_2_HORAS_IZZI": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-2HRS-SD/default.mpd",
+        "key": "0528e518f978dd0122972d71216ad2f3:084f8a4c5b10a5f80692f541e78df276",
+        "logo": "https://www.izzigo.tv/images/ch/380/LOGO/m/0/LOGO/m/0",
+        "name": "Azteca uno -2hr"
+    },
+    "QkJDIFdvcmxkIE5ld3M=": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/BBC-WORLD-NEWS-SD/default.mpd",
+        "key": "6ed89ebcda92a5a7c940bde440287e1c:d03543f46bfc5577aded21770448ab4e",
+        "logo": "https://www.izzigo.tv/images/ch/201/LOGO/m/0/LOGO/m/0",
+        "name": "BBC World News"
+    },
+    "QmFieSBUVg==": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/BABY-TV-SD/default.mpd",
+        "key": "8d4f6ff45c54399e73b902f5a5adb232:1a9788bf0f1d8abdacd9618b2199e618",
+        "logo": "https://www.izzigo.tv/images/ch/102/LOGO/m/0/LOGO/m/0",
+        "name": "Baby TV"
+    },
+    "QmFuZGFtYXg=": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/BANDAMAX-SD/default.mpd",
+        "key": "e86c726ea1198789470f09a53eb41bd8:ebe3162d4bd6320569e8cb920dfa1412",
+        "logo": "https://www.izzigo.tv/images/ch/79/LOGO/m/0/LOGO/m/0",
+        "name": "Bandamax"
+    },
+    "Qmx1ZXM=": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/MUSIC-BLUES/default.mpd",
+        "key": "407cce70d5a4be3fac1662a3f7c6fd87:5da84cc467d7a84150c68d278ca0e25d",
+        "logo": "https://www.izzigo.tv/images/ch/247/LOGO/m/0/LOGO/m/0",
+        "name": "Blues"
+    },
+    "Qm9vbWVyYW5n": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/BOOMERANG-HD/default.mpd",
+        "key": "d83cba7bdfae0ec882e70b278614b4fe:42e02a9ee95cf823a770e2abc4d01acb",
+        "logo": "https://www.izzigo.tv/images/ch/106/LOGO/m/0/LOGO/m/0",
+        "name": "Boomerang"
+    },
+    "Q05O": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/CNN-HD/default.mpd",
+        "key": "fa1b7ff55c878588dc84de257e199942:e932a8c7a17a2e1904db61a15fced6e6",
+        "logo": "https://www.izzigo.tv/images/ch/275/LOGO/m/0/LOGO/m/0",
+        "name": "CNN"
+    },
+    "Q05OIEVzcGHDsW9s": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/CNN-EN-ESPANOL-SD/default.mpd",
+        "key": "87bfa6b1a35ab137435d528e76d94efa:606f4b9ef365d99cc179e8462da9a463",
+        "logo": "https://www.izzigo.tv/images/ch/197/LOGO/m/0/LOGO/m/0",
+        "name": "CNN Espa\u00f1ol"
+    },
+    "Q05OSQ==": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/CNNI-SD/default.mpd",
+        "key": "a7db26d456da05e753991a0862c72bbe:d1e795b4adb5f798a9ba7ed17540ed5f",
+        "logo": "https://www.izzigo.tv/images/ch/198/LOGO/m/0/LOGO/m/0",
+        "name": "CNNI"
+    },
+    "Q1YgU2hvcHBpbmc=": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/CV-SHOPPING-SD/default.mpd",
+        "key": "50c1bf7ea90a1f24d309e7accad8fdf4:3aa9381975d01f8feb34b925da5df1e6",
+        "logo": "https://www.izzigo.tv/images/ch/19/LOGO/m/0/LOGO/m/0",
+        "name": "CV Shopping"
+    },
+    "Q2FkZW5hIEVkdWNhdGl2YSAx": {
+        "url": "https://d32ssuj3tq7z91.cloudfront.net/out/v1/60c286ff97e74be586ea559a9e93de1d/default.mpd",
+        "key": "571a19bc09a74237bd1b88b04f9c666b:890ad147fb52fe579243bf26914320d3",
+        "logo": "https://www.izzigo.tv/images//LOGO/m/0/LOGO/m/0",
+        "name": "Cadena Educativa 1"
+    },
+    "Q2FkZW5hIEVkdWNhdGl2YSAy": {
+        "url": "https://d2qb2cm0g9h56z.cloudfront.net/out/v1/75d0b06b8c2d434da15f2c59a420f94c/default.mpd",
+        "key": "714abb809ebd4e6c91f703275366977b:9339012e81f8db482805973c6398031b",
+        "logo": "https://www.izzigo.tv/images//LOGO/m/0/LOGO/m/0",
+        "name": "Cadena Educativa 2"
+    },
+    "Q2FkZW5hIEVkdWNhdGl2YSAz": {
+        "url": "https://d2qb2cm0g9h56z.cloudfront.net/out/v1/f35da3f123f345bda7d1d104d267d6fa/default.mpd",
+        "key": "8741f83427a84f28951ce75d0c94a1ba:25644f8c7c446ded94c5f841915ace32",
+        "logo": "https://www.izzigo.tv/images//LOGO/m/0/LOGO/m/0",
+        "name": "Cadena Educativa 3"
+    },
+    "Q2FkZW5hIEVkdWNhdGl2YSA0": {
+        "url": "https://d12bww9t7e6mtv.cloudfront.net/out/v1/dd76423c40344a64ba8aa47f85b475fe/default.mpd",
+        "key": "7d52518cfff2428287ebfe85db4f1de4:4b27a68b06b9b663376f48fc4398e67b",
+        "logo": "https://www.izzigo.tv/images//LOGO/m/0/LOGO/m/0",
+        "name": "Cadena Educativa 4"
+    },
+    "Q2FkZW5hIFRyZW5keQ==": {
+        "url": "https://d12bww9t7e6mtv.cloudfront.net/out/v1/85879a8385b34353b8e2a5344413b0e7/default.mpd",
+        "key": "0f2feb421b9c4ebc9cc04cc88ea1fb53:e8d116f8ddf43b59798078562c2f08f8",
+        "logo": "https://www.izzigo.tv/images/ch/1243/LOGO/m/0/LOGO/m/0",
+        "name": "Cadena Trendy"
+    },
+    "Q2FuYWwgMTQ=": {
+        "url": "https://d2qb2cm0g9h56z.cloudfront.net/out/v1/05215a90c8824831b8d69b988358e123/default.mpd",
+        "key": "111c251f1773434f80b33460529ff739:9de4d04d4743d59a2b728e83398e2290",
+        "logo": "https://www.izzigo.tv/images/ch/264/LOGO/m/0/LOGO/m/0",
+        "name": "Canal 14"
+    },
+    "Q2FuYWwgMjI=": {
+        "url": "https://d2qb2cm0g9h56z.cloudfront.net/out/v1/65f1340b8fc444eeb14f0a47a0f021d5/default.mpd",
+        "key": "45265e1316ec4fb58131e590ee3f8eb8:06443071f2e29a0cd9d13ea081a5036c",
+        "logo": "https://www.izzigo.tv/images/ch/265/LOGO/m/0/LOGO/m/0",
+        "name": "Canal 22"
+    },
+    "Q2FuYWwgMjIuMg==": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/CANAL-22-2-SD/default.mpd",
+        "key": "89804ce9e4e122ef8102dc162d3b454c:4f8e253315f44c8424f92fcb6531c125",
+        "logo": "https://www.izzigo.tv/images/ch/916/LOGO/m/0/LOGO/m/0",
+        "name": "Canal 22.2"
+    },
+    "Q2FuYWwgMjQgSG9yYXM=": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/24-HRS-SD/default.mpd",
+        "key": "06be1c82445fd70163eb150904f911de:9ecb9447f56ea6394979c748a710833e",
+        "logo": "https://www.izzigo.tv/images/ch/202/LOGO/m/0/LOGO/m/0",
+        "name": "Canal 24 Horas"
+    },
+    "Q2FuYWwgNQ==": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd",
+        "key": "8b561b4cb0efe8ba35783fc4dc9febd0:84534cb6f3bc545977a75fb08fab8d15",
+        "logo": "https://www.izzigo.tv/images/ch/270/LOGO/m/0/LOGO/m/0",
+        "name": "Canal 5"
+    },
+    "Q2FuYWwgNg==": {
+        "url": "https://d12bww9t7e6mtv.cloudfront.net/out/v1/327469956bbc42ab9ebcf0388c1aa68a/default.mpd",
+        "key": "b3cdea62295f42dc982139b327a8cd20:750fdbacdecb07945ad52d6342b24399",
+        "logo": "https://www.izzigo.tv/images/ch/602/LOGO/m/0/LOGO/m/0",
+        "name": "Canal 6"
+    },
+    "Q2FuYWwgNiBQbHVz": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/MULTIMEDIOS-PLUS-HD/default.mpd",
+        "key": "88bc3112e9226c7d4aa1ae74cb817fa8:a31eafb436895da4bc029b8186220746",
+        "logo": "https://www.izzigo.tv/images/ch/670/LOGO/m/0/LOGO/m/0",
+        "name": "Canal 6 Plus"
+    },
+    "Q2FuYWwgSVpaSSAy": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/CANAL-IZZI-SD/default.mpd",
+        "key": "3ca27c7e6ce156333d19e6fa0655c485:38d6c732ad44ebfb7040a1fe933d1164",
+        "logo": "https://www.izzigo.tv/images/ch/1184/LOGO/m/0/LOGO/m/0",
+        "name": "Canal IZZI 2"
+    },
+    "Q2FuYWwgZGVsIENvbmdyZXNvIERpcHV0YWRvcw==": {
+        "url": "https://d12bww9t7e6mtv.cloudfront.net/out/v1/466cb07487f7465ca15f4801966fb58d/default.mpd",
+        "key": "f55ec4806a0a4dd184be05b4bfe7f1eb:deb93af46d9f5825a3066ebad8502bec",
+        "logo": "https://www.izzigo.tv/images//LOGO/m/0/LOGO/m/0",
+        "name": "Canal del Congreso Diputados"
+    },
+    "Q2FuYWwgZGVsIENvbmdyZXNvIFNlbmFkbw==": {
+        "url": "https://d2qb2cm0g9h56z.cloudfront.net/out/v1/f8d0b77978d74f58a25c9933a1fe7e3e/default.mpd",
+        "key": "b8537bea26684fa4a7b3d402e2d2e62b:a9c87d15e26f3f53a5ef3409bd6e58be",
+        "logo": "https://www.izzigo.tv/images//LOGO/m/0/LOGO/m/0",
+        "name": "Canal del Congreso Senado"
+    },
+    "Q2FuYWwgaXp6aSA=": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/CANAL-IZZI-SD/default.mpd",
+        "key": "3ca27c7e6ce156333d19e6fa0655c485:38d6c732ad44ebfb7040a1fe933d1164",
+        "logo": "https://www.izzigo.tv/images/ch/15/LOGO/m/0/LOGO/m/0",
+        "name": "Canal izzi "
+    },
+    "Q2FwaXRhbCAyMQ==": {
+        "url": "https://d32ssuj3tq7z91.cloudfront.net/out/v1/463fa899203744a9b3825823ac62f126/default.mpd",
+        "key": "3660f05166064f71a5d87340ae8b8eb9:cc730ba3d0aad38da338ffbf8ef7b3b1",
+        "logo": "https://www.izzigo.tv/images/ch/32/LOGO/m/0/LOGO/m/0",
+        "name": "Capital 21"
+    },
+    "Q2FydG9vbiBOZXR3b3Jr": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/CARTOON-NETWORK-HD/default.mpd",
+        "key": "6ba28b5372d482f815fe8bc62d6cbac2:792d136686774191dbb8c4bb9990bf30",
+        "logo": "https://www.izzigo.tv/images/ch/105/LOGO/m/0/LOGO/m/0",
+        "name": "Cartoon Network"
+    },
+    "Q2luZWNhbmFs": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/CINECANAL-HD/default.mpd",
+        "key": "7e55cc8d7ab554e8b2268f0c9d95d0fc:34b280eec57af1d1466929ac3ace6fbd",
+        "logo": "https://www.izzigo.tv/images/ch/318/LOGO/m/0/LOGO/m/0",
+        "name": "Cinecanal"
+    },
+    "Q2luZW1heA==": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/CINEMAX-HD/default.mpd",
+        "key": "c9350a04e6a5e73361c6af95db40a3da:f67c6e82d6228ddda4cdab84f1e64322",
+        "logo": "https://www.izzigo.tv/images/ch/159/LOGO/m/0/LOGO/m/0",
+        "name": "Cinemax"
+    },
+    "Q2xhbg==": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/CLAN-HD/default.mpd",
+        "key": "be5e12096458663a8e416f3390b7216a:bc816229a46fcee093f8d9037995019b",
+        "logo": "https://www.izzigo.tv/images/ch/1271/LOGO/m/0",
+        "name": "Clan"
+    },
+    "Q2x1YiBNVFY=": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/MTV-DANCE-SD/default.mpd",
+        "key": "ba95985a6538f896f2be2ced96080b2e:ad5a31792d9ad42a1c721729276adc48",
+        "logo": "https://www.izzigo.tv/images/ch/88/LOGO/m/0/LOGO/m/0",
+        "name": "Club MTV"
+    },
+    "Q2x1YiBkZSBCYWlsZQ==": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/MUSIC-CLUB-BAILE/default.mpd",
+        "key": "00339e3ccf734e169be2872e424f2f26:aeaca43d40bf6e5257a25441f5a28e46",
+        "logo": "https://www.izzigo.tv/images/ch/228/LOGO/m/0/LOGO/m/0",
+        "name": "Club de Baile"
+    },
+    "Q2zDoXNpY29zIEluZGll": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/MUSIC-CLASICOS-INDIE/default.mpd",
+        "key": "da4d0bedd884b2d586673a77b2347ce8:5c84c108209fc523b6fdac208555cc62",
+        "logo": "https://www.izzigo.tv/images/ch/242/LOGO/m/0",
+        "name": "Cl\u00e1sicos Indie"
+    },
+    "Q2zDoXNpY29zIGRlbCBEYW5jZQ==": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/MUSIC-CLASICOS-DANCE/default.mpd",
+        "key": "8cfd2b4fea0001e0832f6e68e7b86f99:3f7ecca9be6ac6e58fc9f287e90f87c8",
+        "logo": "https://www.izzigo.tv/images/ch/227/LOGO/m/0/LOGO/m/0",
+        "name": "Cl\u00e1sicos del Dance"
+    },
+    "Q2zDoXNpY29zIHBhcmEgVG9kb3M=": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/POPULAR-CLASSICAL/default.mpd",
+        "key": "52784f471323013b0fefd5ea0961003d:65a701029746a6a37f52d6463bbae8e5",
+        "logo": "https://www.izzigo.tv/images/ch/256/LOGO/m/0/LOGO/m/0",
+        "name": "Cl\u00e1sicos para Todos"
+    },
+    "Q29ja3RhaWwgTG91bmdl": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/MUSIC-COCKTAIL-LOUNGE/default.mpd",
+        "key": "6059b1945527d9de0e47577a352e5805:2f557fd4e5bf88450d410ee3427de376",
+        "logo": "https://www.izzigo.tv/images/ch/254/LOGO/m/0/LOGO/m/0",
+        "name": "Cocktail Lounge"
+    },
+    "Q29tZWR5IENlbnRyYWw=": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/COMEDY-CENTRAL-HD/default.mpd",
+        "key": "68f80a572cc4fec655d51f0e7558bdf1:bbbc83e8bafe816652b9e6d48b88c863",
+        "logo": "https://www.izzigo.tv/images/ch/292/LOGO/m/0/LOGO/m/0",
+        "name": "Comedy Central"
+    },
+    "Q29uZ3Jlc28=": {
+        "url": "https://d1ynfzqkzrrwzs.cloudfront.net/out/v1/ba501c801f8c490f8dab832e155128bd/default.mpd",
+        "key": "f4dafaa1afe84d9dbe7bb26a26fbb4c0:0cb35091531c44457585511dd4d83e7a",
+        "logo": "https://www.izzigo.tv/images//LOGO/m/0/LOGO/m/0",
+        "name": "Congreso"
+    },
+    "RFcgZW4gRXNwYcOxb2w=": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/DW-ESPANOL-SD/default.mpd",
+        "key": "61c18352e73ba6b80402b0a2e8e1ce9c:cc694529be8c5ca770e3a29b78d95194",
+        "logo": "https://www.izzigo.tv/images/ch/666/LOGO/m/0/LOGO/m/0",
+        "name": "DW en Espa\u00f1ol"
+    },
+    "RGUgUGVsw61jdWxh": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/DE-PELICULA-HD/default.mpd",
+        "key": "b06c96a9f408cbff4cdbe7afae40b3c3:82feb6e55c1bcc635c02e712ccd6cfa1",
+        "logo": "https://www.izzigo.tv/images/ch/315/LOGO/m/0/LOGO/m/0",
+        "name": "De Pel\u00edcula"
+    },
+    "RGUgUGVsw61jdWxhIE11bHRpcGxleA==": {
+        "url": "https://d1ynfzqkzrrwzs.cloudfront.net/out/v1/b2c7d263987a446fbb5078b7dd4fd44a/default.mpd",
+        "key": "ab172c02117d445e9b0dbdb4cd9d61ce:bda49af266f400513d0c5cda5ca01e63",
+        "logo": "https://www.izzigo.tv/images/ch/157/LOGO/m/0/LOGO/m/0",
+        "name": "De Pel\u00edcula Multiplex"
+    },
+    "RGUgUGVsw61jdWxhIFBsdXM=": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/DE-PELICULA-HD/default.mpd",
+        "key": "b06c96a9f408cbff4cdbe7afae40b3c3:82feb6e55c1bcc635c02e712ccd6cfa1",
+        "logo": "https://www.izzigo.tv/images/ch/315/LOGO/m/0",
+        "name": "De Pel\u00edcula Plus"
+    },
+    "RGV1dHNjaGUgV2VsbGUgQW1lcmlrYSA=": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/DW-AMERIKA-SD/default.mpd",
+        "key": "4fde7d1026d3ab3e39a1a416526aaa41:686af7ebdc65655899b5f0206133fd73",
+        "logo": "https://www.izzigo.tv/images/ch/97/LOGO/m/0/LOGO/m/0",
+        "name": "Deutsche Welle Amerika "
+    },
+    "RGlzY292ZXJ5IENoYW5uZWw=": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-CHANNEL-HD/default.mpd",
+        "key": "1a717b4feaa0bc6ecd5e4d65f13b0fd3:f8ada1f23dc05e141556d83a7317619a",
+        "logo": "https://www.izzigo.tv/images/ch/305/LOGO/m/0/LOGO/m/0",
+        "name": "Discovery Channel"
+    },
+    "RGlzY292ZXJ5IEgmSA==": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-HEALTH-HD/default.mpd",
+        "key": "406c4cad869cd9b98c030229d3ebf674:2ef83fb68aeb6069316c7161fa37342a",
+        "logo": "https://www.izzigo.tv/images/ch/291/LOGO/m/0/LOGO/m/0",
+        "name": "Discovery H&H"
+    },
+    "RGlzY292ZXJ5IEtpZHM=": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/DISCOVERY-KIDS-HD/default.mpd",
+        "key": "7a87fe831d647a9b7a55790d370e7e92:9a71028c6b38b9e682c4ebd76f8aa47b",
+        "logo": "https://www.izzigo.tv/images/ch/297/LOGO/m/0/LOGO/m/0",
+        "name": "Discovery Kids"
+    },
+    "RGlzY292ZXJ5IFNjaWVuY2U=": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-SCIENCE-HD/default.mpd",
+        "key": "89c9aa990f0c3253637f1626e0fe1d7b:ef09d9e8e59c8af9bace1bc95094d38e",
+        "logo": "https://www.izzigo.tv/images/ch/1233/LOGO/m/0/LOGO/m/0",
+        "name": "Discovery Science"
+    },
+    "RGlzY292ZXJ5IFRoZWF0ZXI=": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/DISCOVERY-THEATER-HD/default.mpd",
+        "key": "3745c0881a7b87d813db61472dd128c8:38b9d38e6efac2077678631111753386",
+        "logo": "https://www.izzigo.tv/images/ch/300/LOGO/m/0/LOGO/m/0",
+        "name": "Discovery Theater"
+    },
+    "RGlzY292ZXJ5IFR1cmJv": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-TURBO-HD/default.mpd",
+        "key": "1c0175b5bcf6b327f2f57d653d43c65f:38aa3a92ed96ab5ae5c736d1e0e721d1",
+        "logo": "https://www.izzigo.tv/images/ch/1234/LOGO/m/0/LOGO/m/0",
+        "name": "Discovery Turbo"
+    },
+    "RGlzY292ZXJ5IFdvcmxk": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/DISCOVERY-WORLD-HD/default.mpd",
+        "key": "ee09b822a96f6cf0cb5ef659749bb93c:d916fc05c25862ec582b7039c112ec96",
+        "logo": "https://www.izzigo.tv/images/ch/302/LOGO/m/0/LOGO/m/0",
+        "name": "Discovery World"
+    },
+    "RGlzbmV5IENoYW5uZWw=": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/DISNEY-CHANNEL-HD/default.mpd",
+        "key": "7748fdbee812f430b3dca7348f1be4d8:9700b0be8394d33c7a611915222dc991",
+        "logo": "https://www.izzigo.tv/images/ch/298/LOGO/m/0/LOGO/m/0",
+        "name": "Disney Channel"
+    },
+    "RGlzbmV5IEp1bmlvcg==": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/DISNEY-JR-HD/default.mpd",
+        "key": "662247f1566d3a89fb19e356f81643ad:19e7f2bb4a36fc4f8dc057d0562f79fc",
+        "logo": "https://www.izzigo.tv/images/ch/1354/LOGO/m/0/LOGO/m/0",
+        "name": "Disney Junior"
+    },
+    "RGlzbmV5IFhE": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/DISNEY-XD-HD/default.mpd",
+        "key": "904f8107a9357f139f6c2762a72fef27:71d80927355d4fbeb76fdd36d2727e61",
+        "logo": "https://www.izzigo.tv/images/ch/1355/LOGO/m/0/LOGO/m/0",
+        "name": "Disney XD"
+    },
+    "RGlzdHJpdG8gQ29tZWRpYQ==": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/DISTRITO-COMEDIA-SD/default.mpd",
+        "key": "8eff742e3d097a1a51b513f78d2131fc:7541055a97a62055a0dee9dc01fa5155",
+        "logo": "https://www.izzigo.tv/images/ch/73/LOGO/m/0/LOGO/m/0",
+        "name": "Distrito Comedia"
+    },
+    "RG9nVFY=": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/DOGTV-SD/default.mpd",
+        "key": "8cbb83d731756ea2b30d970b35b6ef66:70f11d962b4056048e447da9e8244f26",
+        "logo": "https://www.izzigo.tv/images/ch/1230/LOGO/m/0/LOGO/m/0",
+        "name": "DogTV"
+    },
+    "RSEgRW50ZXJ0YWlubWVudA==": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/E-Entertainment-HD/default.mpd",
+        "key": "2af93c0cd562f974fc1587d2f2bd8126:2f63e3025b6b58ef495539b3ab61b96b",
+        "logo": "https://www.izzigo.tv/images/ch/63/LOGO/m/0/LOGO/m/0",
+        "name": "E! Entertainment"
+    },
+    "RVNORSBUVg==": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/ESNE-SD/default.mpd",
+        "key": "52c8892db36df0d70fab295b6ef49e7c:44c065225be3d0be6ba28b7adf30581c",
+        "logo": "https://www.izzigo.tv/images/ch/131/LOGO/m/0/LOGO/m/0",
+        "name": "ESNE TV"
+    },
+    "RVNQTg==": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/ESPN-2-HD/default.mpd",
+        "key": "4594ffc991df1a8b75cdfa1cf02079bb:d9c6e6ccb35f66902c62a7254822bbe9",
+        "logo": "https://www.izzigo.tv/images/ch/356/LOGO/m/0/LOGO/m/0",
+        "name": "ESPN"
+    },
+    "RVNQTiAy": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/default.mpd",
+        "key": "948bd2bf967eb5332bbba282f834e5e9:0f239138f6c85c3cf0f15b31dff091fe",
+        "logo": "https://www.izzigo.tv/images/ch/357/LOGO/m/0/LOGO/m/0",
+        "name": "ESPN 2"
+    },
+    "RVNQTiAz": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/ESPN-3-HD/default.mpd",
+        "key": "61205da45c7b876d4017557e34e8c342:b3eaf9515c75a243140f9cbb9a71d3ba",
+        "logo": "https://www.izzigo.tv/images/ch/314/LOGO/m/0/LOGO/m/0",
+        "name": "ESPN 3"
+    },
+    "RVNQTiBFWFRSQQ==": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/ESPN-PLUS-HD/default.mpd",
+        "key": "a0c042ebbb2db6d35873a302d2410e6d:22b56d89a100c900a84f10c62ed342da",
+        "logo": "https://www.izzigo.tv/images/ch/311/LOGO/m/0/LOGO/m/0",
+        "name": "ESPN EXTRA"
+    },
+    "RVdUTg==": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/EWTN-SD/default.mpd",
+        "key": "6d5e5392465ee18d029e3a30c242bd9a:57f43d8d4b80e76c0446cfd3a9043642",
+        "logo": "https://www.izzigo.tv/images/ch/132/LOGO/m/0/LOGO/m/0",
+        "name": "EWTN"
+    },
+    "RWRnZQ==": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd",
+        "key": "b6ca3456b40c7dabe828be9e0c27e81b:95e078079a4bf6d6642c5cfbcc6148ef",
+        "logo": "https://www.izzigo.tv/images/ch/151/LOGO/m/0/LOGO/m/0",
+        "name": "Edge"
+    },
+    "RWwgRmluYW5jaWVyby1ibG9vbWJlcmc=": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/EL-FINANCIERO-HD/default.mpd",
+        "key": "578c354c7e65ac8af864eb2b16ce9057:994fd95f34d5ba6016d26861065e52df",
+        "logo": "https://www.izzigo.tv/images/ch/38/LOGO/m/0/LOGO/m/0",
+        "name": "El Financiero-bloomberg"
+    },
+    "RWwgR291cm1ldA==": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/GOURMET-HD/default.mpd",
+        "key": "cda99a4d835ab706d8ce0dc978dae036:6e0d165df7e0ffe699686830bd906ea4",
+        "logo": "https://www.izzigo.tv/images/ch/69/LOGO/m/0/LOGO/m/0",
+        "name": "El Gourmet"
+    },
+    "RWwgU2Fsw7NuIGNoaWxs": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/MUSIC-EL-SALON-CHILL/default.mpd",
+        "key": "f899c83497ff280fb14676731d5b0eb9:572a9c626076e048609303cc207a430d",
+        "logo": "https://www.izzigo.tv/images/ch/240/LOGO/m/0/LOGO/m/0",
+        "name": "El Sal\u00f3n chill"
+    },
+    "RW5sYWNlIFRCTg==": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/ENLACE-SD/default.mpd",
+        "key": "70f969942918b9b8b8133ec60a20b7a1:0cfc8ac2e5534843c3bd3fdc6edd69d5",
+        "logo": "https://www.izzigo.tv/images/ch/130/LOGO/m/0/LOGO/m/0",
+        "name": "Enlace TBN"
+    },
+    "RXN0w6FuZGFyZXM=": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/MUSIC-ESTANDARES/default.mpd",
+        "key": "0dd8f535340d2c64e7ff0dfe0eebe467:988071ee63ea711c7b732040eac57aa6",
+        "logo": "https://www.izzigo.tv/images/ch/253/LOGO/m/0/LOGO/m/0",
+        "name": "Est\u00e1ndares"
+    },
+    "RXVyb25ld3M=": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/EURONEWS-SD/default.mpd",
+        "key": "fd81ac4fa4863d8bf34fdf24a272aab6:e84c84211ea353664f83b09f790a7c5e",
+        "logo": "https://www.izzigo.tv/images/ch/203/LOGO/m/0/LOGO/m/0",
+        "name": "Euronews"
+    },
+    "RXVyb3BhIEV1cm9wYQ==": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/EUROPA-HD/default.mpd",
+        "key": "87dccaab3340fb3848480bdd2dba93da:551810dfacea676d961e5153e4b5e969",
+        "logo": "https://www.izzigo.tv/images/ch/163/LOGO/m/0/LOGO/m/0",
+        "name": "Europa Europa"
+    },
+    "Rlg=": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/FX-HD/default.mpd",
+        "key": "3b40a726eea5c5773144cc4a7d5e079e:95215da01d574942a5a16d47390ad2ee",
+        "logo": "https://www.izzigo.tv/images/ch/279/LOGO/m/0/LOGO/m/0",
+        "name": "FX"
+    },
+    "RlggTW92aWVz": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/FX-MOVIES-HD/default.mpd",
+        "key": "241fb5d8784a8c568cca0215f0d551cc:49f0f287cb68246b0723298842bf60cd",
+        "logo": "https://www.izzigo.tv/images/ch/323/LOGO/m/0/LOGO/m/0",
+        "name": "FX Movies"
+    },
+    "Rmllc3RhIENvbnRpbnVh": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/MUSIC-FIESTA-CONTINUA/default.mpd",
+        "key": "459910fbd85b1e3ac57c52c1c1d0009a:48b906a30e8411309eb4b668acafb9f1",
+        "logo": "https://www.izzigo.tv/images/ch/244/LOGO/m/0/LOGO/m/0",
+        "name": "Fiesta Continua"
+    },
+    "RmlsbSAmIEFydHM=": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/FILM-AND-ARTS-HD/default.mpd",
+        "key": "fe9886c02c47bc4d92ff7e5dce86ba61:2bd0e03253cd247bf545f49a0c74e88e",
+        "logo": "https://www.izzigo.tv/images/ch/129/LOGO/m/0/LOGO/m/0",
+        "name": "Film & Arts"
+    },
+    "Rm9vZCBOZXR3b3Jr": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/FOOD-NET-HD/default.mpd",
+        "key": "4279ab5453e31baf533a1bb5fdeb5d51:c2f3705a4c9e5667d1bfe2b3aa211898",
+        "logo": "https://www.izzigo.tv/images/ch/1242/LOGO/m/0/LOGO/m/0",
+        "name": "Food Network"
+    },
+    "Rm9ybyBUVg==": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/FORO-TV-HD/default.mpd",
+        "key": "3cddb3cd8a77e6499e3b33c12f3e7c32:a86c0dd9919365c707a9b51c3a78dbc0",
+        "logo": "https://www.izzigo.tv/images/ch/269/LOGO/m/0/LOGO/m/0",
+        "name": "Foro TV"
+    },
+    "Rm94IE5ld3M=": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/FOX-NEWS-HD/default.mpd",
+        "key": "d70f21fb4fa03dba329393b924ee50a6:7d2af50352af5a022ad4449760016b58",
+        "logo": "https://www.izzigo.tv/images/ch/276/LOGO/m/0/LOGO/m/0",
+        "name": "Fox News"
+    },
+    "Rm94IFNwb3J0cw==": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-HD/default.mpd",
+        "key": "ee4c73183c89e143bf0f5c7deda28841:87a8dcf645a28d511f24ecc93e36fae8",
+        "logo": "https://www.izzigo.tv/images/ch/309/LOGO/m/0/LOGO/m/0",
+        "name": "Fox Sports"
+    },
+    "Rm94IFNwb3J0cyAy": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/FOX-SPORTS-2-HD/default.mpd",
+        "key": "2f56129c019a196e11ed1919bc3555d8:5d96d2d2ac14d51332998d0e3dc9406b",
+        "logo": "https://www.izzigo.tv/images/ch/310/LOGO/m/0/LOGO/m/0",
+        "name": "Fox Sports 2"
+    },
+    "Rm94IFNwb3J0cyAz": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-3-HD/default.mpd",
+        "key": "ac2f2dcf2dc60262e77bfd636ea4ead4:2336bbf5dd09941aaa566c1b605a21a4",
+        "logo": "https://www.izzigo.tv/images/ch/307/LOGO/m/0/LOGO/m/0",
+        "name": "Fox Sports 3"
+    },
+    "R2xpdHoq": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/GLITZ-SD/default.mpd",
+        "key": "75469ffece23c64bf5ac64beea279cf8:9e4dab07e6c7e965373c26c183cecfde",
+        "logo": "https://www.izzigo.tv/images/ch/83/LOGO/m/0/LOGO/m/0",
+        "name": "Glitz*"
+    },
+    "R2xvYm8gVFY=": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/TV-GLOBO-SD/default.mpd",
+        "key": "52c9bb7083016aff4a7077595b83031c:b9476a81c988041f864ca7812cfcc3f7",
+        "logo": "https://www.izzigo.tv/images/ch/681/LOGO/m/0/LOGO/m/0",
+        "name": "Globo TV"
+    },
+    "R29sZGVu": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd",
+        "key": "06bfefe4951d2138bc015cba201873f9:4ae8079388bc24df242cd99f13510bc6",
+        "logo": "https://www.izzigo.tv/images/ch/316/LOGO/m/0/LOGO/m/0",
+        "name": "Golden"
+    },
+    "R29sZGVuIE1QWA==": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-MULTIPLEX/default.mpd",
+        "key": "bd4cb9f14429fbed409685c815c540b0:5575a9345a222e4d9933fa2ca0aed547",
+        "logo": "https://www.izzigo.tv/images/ch/158/LOGO/m/0/LOGO/m/0",
+        "name": "Golden MPX"
+    },
+    "R29sZGVuIFByZW1pZXI=": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER-HD/default.mpd",
+        "key": "85dfa994620163dbd09a42ff718f47f2:07da28d8e5496613412e4dae48f115b4",
+        "logo": "https://www.izzigo.tv/images/ch/324/LOGO/m/0/LOGO/m/0",
+        "name": "Golden Premier"
+    },
+    "R29sZGVuIFByZW1pZXIgRGVsYXkgLTJocnM=": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER--2HR-HD/default.mpd",
+        "key": "ad04f085736b989b059e1761053d1e42:6ad6ec959e24fcc610ef7be5d98f6085",
+        "logo": "https://www.izzigo.tv/images/ch/325/LOGO/m/0/LOGO/m/0",
+        "name": "Golden Premier Delay -2hrs"
+    },
+    "R29sZiBDaGFubmVs": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/GOLF-CHANNEL-HD/default.mpd",
+        "key": "b52c9d64e5cd3fe67acc4fc24885e51b:d44800258ae40ea1ec166af8c4aacda3",
+        "logo": "https://www.izzigo.tv/images/ch/144/LOGO/m/0/LOGO/m/0",
+        "name": "Golf Channel"
+    },
+    "R3JhbmRlcyBPcnF1ZXN0YXM=": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/MUSIC-BIG-BAND/default.mpd",
+        "key": "07aab935504d7f245cd55b69591e342a:cc88040fcf0965691c7edea5321fa7bc",
+        "logo": "https://www.izzigo.tv/images/ch/252/LOGO/m/0/LOGO/m/0",
+        "name": "Grandes Orquestas"
+    },
+    "SEJP": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/HBO-HD/default.mpd",
+        "key": "23adb3fc408b43aeb14742fc2604ca1c:70a9472475ec5412758d7896331c9d07",
+        "logo": "https://www.izzigo.tv/images/ch/326/LOGO/m/0/LOGO/m/0",
+        "name": "HBO"
+    },
+    "SEJPIChXZXN0KQ==": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/HBO-HD/default.mpd",
+        "key": "23adb3fc408b43aeb14742fc2604ca1c:70a9472475ec5412758d7896331c9d07",
+        "logo": "https://www.izzigo.tv/images/ch/168/LOGO/m/0/LOGO/m/0",
+        "name": "HBO (West)"
+    },
+    "SEJPIDI=": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/HBO2-HD/default.mpd",
+        "key": "77c892da4a888c00a0b1eb6b18bb3d89:1b073d7b46bbaf11037de050bfaa7f2b",
+        "logo": "https://www.izzigo.tv/images/ch/328/LOGO/m/0/LOGO/m/0",
+        "name": "HBO 2"
+    },
+    "SEJPIEZhbWlseQ==": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/HBO-FAMILY-HD/default.mpd",
+        "key": "eb08e21afd9fc87428af04f7256b1ffd:7ac23d590201aad9700802de96acf2a7",
+        "logo": "https://www.izzigo.tv/images/ch/332/LOGO/m/0/LOGO/m/0",
+        "name": "HBO Family"
+    },
+    "SEJPIEZhbWlseSAoRWFzdCk=": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/HBO-FAMILY-HD/default.mpd",
+        "key": "eb08e21afd9fc87428af04f7256b1ffd:7ac23d590201aad9700802de96acf2a7",
+        "logo": "https://www.izzigo.tv/images/ch/165/LOGO/m/0/LOGO/m/0",
+        "name": "HBO Family (East)"
+    },
+    "SEJPIE11bmRp": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd",
+        "key": "b644d9fbe333c78a62d441d50167a0ba:6c38cb5167c3824ff7e2740e2582768e",
+        "logo": "https://www.izzigo.tv/images/ch/334/LOGO/m/0/LOGO/m/0",
+        "name": "HBO Mundi"
+    },
+    "SEJPIFBsdXMgKFdlc3Qp": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/HBO-PLUS-HD/default.mpd",
+        "key": "75121196b35e1da9bde1fd73c3da42bf:cc173b8ea74575b0c4cc422d3bc43ef9",
+        "logo": "https://www.izzigo.tv/images/ch/330/LOGO/m/0/LOGO/m/0",
+        "name": "HBO Plus (West)"
+    },
+    "SEJPIFBvcA==": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/HBO-POP-HD/default.mpd",
+        "key": "2dc2d0bcb213419714e1583ced121176:e09449a247c1c9384f654ffe070d4467",
+        "logo": "https://www.izzigo.tv/images/ch/327/LOGO/m/0/LOGO/m/0",
+        "name": "HBO Pop"
+    },
+    "SEJPIFNpZ25hdHVyZQ==": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/HBO-SIGNATURE-HD/default.mpd",
+        "key": "9cb068af6d2a362be3bf9fb481b26cf4:cc0bc82134b083468229707c00980971",
+        "logo": "https://www.izzigo.tv/images/ch/331/LOGO/m/0/LOGO/m/0",
+        "name": "HBO Signature"
+    },
+    "SEJPIFh0cmVtZQ==": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/HBO-XTREME-HD/default.mpd",
+        "key": "8b7cd5553f6be79416bb9e6922478278:fb4cd74b5eb1020de74ddb3b0e203e66",
+        "logo": "https://www.izzigo.tv/images/ch/333/LOGO/m/0/LOGO/m/0",
+        "name": "HBO Xtreme"
+    },
+    "SGVhZCBMaW5lIE5ld3M=": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/HLN-SD/default.mpd",
+        "key": "95948bfeaf9b44914ee32b684faa8132:6e966d62dab82c1d43014796c1933677",
+        "logo": "https://www.izzigo.tv/images/ch/199/LOGO/m/0/LOGO/m/0",
+        "name": "Head Line News"
+    },
+    "SGVyYWxkbyBUdi4=": {
+        "url": "https://d2qb2cm0g9h56z.cloudfront.net/out/v1/5db46dd00b52454981865ac6613e1649/default.mpd",
+        "key": "6f0092581d894d91a843b958f8c7e3cd:df9f587f2e181f0470fe88af9ad57be0",
+        "logo": "https://www.izzigo.tv/images/ch/1332/LOGO/m/0/LOGO/m/0",
+        "name": "Heraldo Tv."
+    },
+    "SGltbm9zIGRlbCBSb2Nr": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/MUSIC-HIMNOS-ROCK/default.mpd",
+        "key": "0a08432a6140572120a92b1ef11c4b85:2eecfa36f3bfd1aec056f3a866d44936",
+        "logo": "https://www.izzigo.tv/images/ch/220/LOGO/m/0",
+        "name": "Himnos del Rock"
+    },
+    "SGlzdG9yeQ==": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/HISTORY-CHANNEL-HD/default.mpd",
+        "key": "0f263c3f1a2f9a0fbfebc63e44d996da:d137dcfb0b2a1f1f248f4b49098f38d9",
+        "logo": "https://www.izzigo.tv/images/ch/304/LOGO/m/0/LOGO/m/0",
+        "name": "History"
+    },
+    "SGlzdG9yeSAy": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/HISTORY-2-HD/default.mpd",
+        "key": "b02e4027db24f4b6355280fe1111a3d1:d349c3593276d585c8df10059b9cbcd1",
+        "logo": "https://www.izzigo.tv/images/ch/123/LOGO/m/0/LOGO/m/0",
+        "name": "History 2"
+    },
+    "SGlzdG9yeSBDaGFubmVs": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/HISTORY-CHANNEL-HD/default.mpd",
+        "key": "0f263c3f1a2f9a0fbfebc63e44d996da:d137dcfb0b2a1f1f248f4b49098f38d9",
+        "logo": "https://www.izzigo.tv/images/ch/119/LOGO/m/0/LOGO/m/0",
+        "name": "History Channel"
+    },
+    "SG9sYSBUVg==": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/HOLA-TV-HD/default.mpd",
+        "key": "d0b00c5861b0cbcedd505dbd3a09a107:27aaec2f9bf3946488ed366fc12f8d53",
+        "logo": "https://www.izzigo.tv/images/ch/299/LOGO/m/0/LOGO/m/0",
+        "name": "Hola TV"
+    },
+    "SG9tZSAmIEdhcmRlbiBUVg==": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-GARDEN-HD/default.mpd",
+        "key": "9652ecfb1de41c41862b0b1a0483b778:414035f51a30bda9a0f11d85471a4e17",
+        "logo": "https://www.izzigo.tv/images/ch/1232/LOGO/m/0/LOGO/m/0",
+        "name": "Home & Garden TV"
+    },
+    "SS1TQVQ=": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/ISAT-SD/default.mpd",
+        "key": "e843c31eac5acd42f6fbe489616aed7a:f9c330e9e67a62a4401e57f4de6c4d18",
+        "logo": "https://www.izzigo.tv/images/ch/72/LOGO/m/0/LOGO/m/0",
+        "name": "I-SAT"
+    },
+    "SUQ=": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-ID-HD/default.mpd",
+        "key": "f17e91e8c7d981cdc85b3b0f7bd2b6a2:d23b89ebe675c1c1f831dee6321c5070",
+        "logo": "https://www.izzigo.tv/images/ch/280/LOGO/m/0/LOGO/m/0",
+        "name": "ID"
+    },
+    "SW1hZ2VuIFRW": {
+        "url": "https://d12bww9t7e6mtv.cloudfront.net/out/v1/9a197e3386184432abe6b0ec9c082288/default.mpd",
+        "key": "3deb2a7e410c4bbb8a70404f4e0fa5ef:14197ddc7e2d455b01b6a2bce0b3f2a7",
+        "logo": "https://www.izzigo.tv/images/ch/913/LOGO/m/0/LOGO/m/0",
+        "name": "Imagen TV"
+    },
+    "SW5nZW5pbyBUVg==": {
+        "url": "https://d32ssuj3tq7z91.cloudfront.net/out/v1/58df277515a8439fbf523ba99a1856eb/default.mpd",
+        "key": "d7b93c8e87094875b18aaac7e92757b1:cc18553bdfb4b23e5f00ef052aaaef70",
+        "logo": "https://www.izzigo.tv/images/ch/34/LOGO/m/0/LOGO/m/0",
+        "name": "Ingenio TV"
+    },
+    "SW5ub3Zh": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/INNOVA-SD/default.mpd",
+        "key": "5a2f08ff55c9113c3bdb5b5a689ebac5:1ec865ca839e7669860ae94df34f8f5b",
+        "logo": "https://www.izzigo.tv/images/ch/44/LOGO/m/0/LOGO/m/0",
+        "name": "Innova"
+    },
+    "SmFtbWluJyBSZWdnYWU=": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/MUSIC-JAMMIN-REGGAE/default.mpd",
+        "key": "7e8746f1a81cafd9400607987c48a9fc:dd99dfa34c3637d4e5646a8a1c02ff8a",
+        "logo": "https://www.izzigo.tv/images/ch/219/LOGO/m/0",
+        "name": "Jammin' Reggae"
+    },
+    "SmF6eiBMYXRpbm8=": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/MUSIC-JAZZ-LATINO/default.mpd",
+        "key": "e9130f7a26ac903f7ec973934466704b:c59cb67a77180091e89bfd38c704e760",
+        "logo": "https://www.izzigo.tv/images/ch/250/LOGO/m/0",
+        "name": "Jazz Latino"
+    },
+    "SnVzdGljaWEgVFY=": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/JUSTICIA-TV-HD/default.mpd",
+        "key": "ea05e6d51d77cf49de9fa3fbbbaeec42:5e609ec5d6b14ddeeb621487df425cf5",
+        "logo": "https://www.izzigo.tv/images/ch/23/LOGO/m/0/LOGO/m/0",
+        "name": "Justicia TV"
+    },
+    "TGEgT2N0YXZh": {
+        "url": "https://d2qb2cm0g9h56z.cloudfront.net/out/v1/89141f9ac62f45329b64549a6319d1cf/default.mpd",
+        "key": "5f8aaf41db894b399d8e15285f9bd9a1:ed4f0547021fcc2e2a8f2ca6902cc794",
+        "logo": "https://www.izzigo.tv/images/ch/1292/LOGO/m/0/LOGO/m/0",
+        "name": "La Octava"
+    },
+    "TGFzIEVzdHJlbGxhcw==": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/CANAL-2-HD/default.mpd",
+        "key": "52ee820c0c080e216c70b431fdb6b8ca:b0f0c3b3ef31c603858c92ccfc009e1c",
+        "logo": "https://www.izzigo.tv/images/ch/268/LOGO/m/0/LOGO/m/0",
+        "name": "Las Estrellas"
+    },
+    "TGFzIEVzdHJlbGxhcyAtMWhy": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/LAS-ESTRELLAS-1HRS-SD/default.mpd",
+        "key": "94c7bb03dae7421a6554b742a33e3046:d99f82c07a06da8121a39fc9aeadad07",
+        "logo": "https://www.izzigo.tv/images/ch/13/LOGO/m/0/LOGO/m/0",
+        "name": "Las Estrellas -1hr"
+    },
+    "TGFzIEVzdHJlbGxhcyAtMg==": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/LAS-ESTRELLAS-2HRS-HD/default.mpd",
+        "key": "94c7bb03dae7421a6554b742a33e3046:d99f82c07a06da8121a39fc9aeadad07",
+        "logo": "https://www.izzigo.tv/images/ch/267/LOGO/m/0/LOGO/m/0",
+        "name": "Las Estrellas -2"
+    },
+    "TGFzIEVzdHJlbGxhcyAtMmhy": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/LAS-ESTRELLAS-2HRS-HD/default.mpd",
+        "key": "94c7bb03dae7421a6554b742a33e3046:d99f82c07a06da8121a39fc9aeadad07",
+        "logo": "https://www.izzigo.tv/images/ch/12/LOGO/m/0/LOGO/m/0",
+        "name": "Las Estrellas -2hr"
+    },
+    "TGF0aW4gTG91bmdl": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/MUSIC-LATIN-LOUNGE/default.mpd",
+        "key": "e6408695a2f41049614a80d67980ca63:9b7d9fe4af9ec5b70ad1fe92173d35c8",
+        "logo": "https://www.izzigo.tv/images/ch/218/LOGO/m/0/LOGO/m/0",
+        "name": "Latin Lounge"
+    },
+    "TGF0aW5vIFRyb3BpY2Fs": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/MUSIC-LATINO-TROPICAL/default.mpd",
+        "key": "02be7781fcff4185483ca297a59ae8a2:db33669437b10f278641b715b92c6a92",
+        "logo": "https://www.izzigo.tv/images/ch/214/LOGO/m/0",
+        "name": "Latino Tropical"
+    },
+    "TGlmZXRpbWU=": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/LIFETIME-HD/default.mpd",
+        "key": "d3a3312b437bdff4bdc2a8dd55e69926:7358f00df728eee5568f9ac4cb9fc822",
+        "logo": "https://www.izzigo.tv/images/ch/81/LOGO/m/0/LOGO/m/0",
+        "name": "Lifetime"
+    },
+    "TVRW": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/MTV-HD/default.mpd",
+        "key": "a4bae450c2afea1cb1f5c9ca398167c4:0a986f28c335c5776679a3b97b10674b",
+        "logo": "https://www.izzigo.tv/images/ch/294/LOGO/m/0/LOGO/m/0",
+        "name": "MTV"
+    },
+    "TVRWIDgwcw==": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/VH1-CLASSIC-SD/default.mpd",
+        "key": "37a4705de98b3ae04d2dc0f4ceaee34a:8f5cfac4b7a89d63a71434de887e632d",
+        "logo": "https://www.izzigo.tv/images/ch/89/LOGO/m/0/LOGO/m/0",
+        "name": "MTV 80s"
+    },
+    "TVRWIEhpdHM=": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/MTV-HITS-SD/default.mpd",
+        "key": "d7e585f54167981e6d29dd9840b5db36:ef8c7534ed96ef66a8e4260cfb41fdf5",
+        "logo": "https://www.izzigo.tv/images/ch/76/LOGO/m/0/LOGO/m/0",
+        "name": "MTV Hits"
+    },
+    "TVRWIExpdmU=": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/MTV-LIVE-HD/default.mpd",
+        "key": "8040638683268aaf8bb698203e666bf1:f7b7e8009dde651e2cc2091fd903c00c",
+        "logo": "https://www.izzigo.tv/images/ch/661/LOGO/m/0/LOGO/m/0",
+        "name": "MTV Live"
+    },
+    "TWFlc3Ryb3MgZGVsIENsw6FzaWNv": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/MUSIC-MAESTROS-CLASICO/default.mpd",
+        "key": "07400c6b4fad3d533511fed1203bda04:708d32dfab6f1e8d31767b42a35b2b58",
+        "logo": "https://www.izzigo.tv/images/ch/257/LOGO/m/0/LOGO/m/0",
+        "name": "Maestros del Cl\u00e1sico"
+    },
+    "TWFlc3Ryb3MgZGVsIEpheno=": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/MUSIC-JMAESTROS-JAZZ/default.mpd",
+        "key": "446285156374df83b0749c70f420aa9d:5f6635d234fec5f1826f2214b361907d",
+        "logo": "https://www.izzigo.tv/images/ch/248/LOGO/m/0/LOGO/m/0",
+        "name": "Maestros del Jazz"
+    },
+    "TWFyaWFjaGkgUGFyYSBTaWVtcHJl": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/MUSIC-MARIACHI-PARA-SIEMPRE/default.mpd",
+        "key": "5aaa4aa79cef1c2f4be17b50a637fac1:cc6684a454008a5693e28ceb89b14de0",
+        "logo": "https://www.izzigo.tv/images/ch/216/LOGO/m/0/LOGO/m/0",
+        "name": "Mariachi Para Siempre"
+    },
+    "TWFyaWF2aXNpw7Nu": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/MARIAVISION-HD/default.mpd",
+        "key": "bcad6ff9083bb73fc11475bb48528546:01a4bba614c8c97b5ee5d800e387006a",
+        "logo": "https://www.izzigo.tv/images/ch/434/LOGO/m/0/LOGO/m/0",
+        "name": "Mariavisi\u00f3n"
+    },
+    "TWV4aXF1ZW5zZQ==": {
+        "url": "https://d12bww9t7e6mtv.cloudfront.net/out/v1/74946828772842c78fe512d37ffd3363/default.mpd",
+        "key": "189f2387d36c4a4cbf5a9efdd07728bf:a69157a1fa42de57bc826daba6ae058b",
+        "logo": "https://www.izzigo.tv/images/ch/262/LOGO/m/0/LOGO/m/0",
+        "name": "Mexiquense"
+    },
+    "TWlsZW5pbw==": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/MILENIO-HD/default.mpd",
+        "key": "21a588bca13d9eca31fc3baf6884a526:bf898df886bd8e575a4023702919d550",
+        "logo": "https://www.izzigo.tv/images/ch/690/LOGO/m/0/LOGO/m/0",
+        "name": "Milenio"
+    },
+    "TWlsZW5pb1RW": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/MILENIO-HD/default.mpd",
+        "key": "21a588bca13d9eca31fc3baf6884a526:bf898df886bd8e575a4023702919d550",
+        "logo": "https://www.izzigo.tv/images/ch/25/LOGO/m/0/LOGO/m/0",
+        "name": "MilenioTV"
+    },
+    "TW9zYWljbyBEZXBvcnRlcw==": {
+        "url": "https://d2x688xcrrjspd.cloudfront.net/out/v1/0588d261b972443d850d7343e75a763d/deportes.mpd",
+        "key": "36b6dbf783904dc18cab8591a76836a3:d1323a1312680ff9afbf273df5ab38f6",
+        "logo": "https://www.izzigo.tv/images/ch/133/LOGO/m/0/LOGO/m/0",
+        "name": "Mosaico Deportes"
+    },
+    "TW9zYWljbyBFbnRyZXRlbmltaWVudG8=": {
+        "url": "https://d30wldjmree37l.cloudfront.net/out/v1/f63563de06f94d00acf786699de9cc28/mosaico2.mpd",
+        "key": "90c462df16ed440ca3d67f5f38cf1cd9:9df12b167b18f502515accd65b3eaca9",
+        "logo": "https://www.izzigo.tv/images/ch/49/LOGO/m/0/LOGO/m/0",
+        "name": "Mosaico Entretenimiento"
+    },
+    "TW9zYWljbyBIQk8gTUFY": {
+        "url": "https://dwupwmhnd5p0c.cloudfront.net/out/v1/8932c386929845d1b627af64e9d3e0aa/mhbo.mpd",
+        "key": "f7e600fffd0d4ebba5e49cba8a69da8f:45d94c27854a62cd9dd0ee8e6ad15706",
+        "logo": "https://www.izzigo.tv/images/ch/148/LOGO/m/0/LOGO/m/0",
+        "name": "Mosaico HBO MAX"
+    },
+    "TW9zYWljbyBJbmZhbnRpbA==": {
+        "url": "https://d12bww9t7e6mtv.cloudfront.net/out/v1/ec80106d36e44980a295c5fc10c133c2/ninos.mpd",
+        "key": "2e1915979b7a4a77b2a41779a54fa534:82b274eaabf3b991bbecb310e102ec6a",
+        "logo": "https://www.izzigo.tv/images/ch/99/LOGO/m/0/LOGO/m/0",
+        "name": "Mosaico Infantil"
+    },
+    "TW9zYWljbyBJbnRlcsOpcyBHZW5lcmFs": {
+        "url": "https://d3ltidrjpbkgsr.cloudfront.net/out/v1/a926f3fab9f24da2be48f763187e545c/mosaico_mpd.mpd",
+        "key": "781de41ef79d4ac1a19a16ebfc629272:c92d6a231c415a98f075cf82e2476ffd",
+        "logo": "https://www.izzigo.tv/images/ch/11/LOGO/m/0/LOGO/m/0",
+        "name": "Mosaico Inter\u00e9s General"
+    },
+    "TW9zYWljbyBOb3RpY2lhcyBlIEluZm9ybWFjacOzbg==": {
+        "url": "https://d1hacfkxse5lx7.cloudfront.net/out/v1/913093bdf54743ceb561692caeab7e4e/informacion.mpd",
+        "key": "461b604bd685403e89fa89b8f114c0c8:542ef06e90ebd5d5667fafb8d5db6af9",
+        "logo": "https://www.izzigo.tv/images/ch/196/LOGO/m/0/LOGO/m/0",
+        "name": "Mosaico Noticias e Informaci\u00f3n"
+    },
+    "TW9zYWljbyBQZWzDrWN1bGFz": {
+        "url": "https://d23krjoz8267fm.cloudfront.net/out/v1/2ea9d7594d1a4e6ea9fe18089bfc4cec/peliculas.mpd",
+        "key": "51928e57c3744d26a863b00a20bc75b8:ccd42b109f303a18e838457e79a4ccf8",
+        "logo": "https://www.izzigo.tv/images/ch/146/LOGO/m/0/LOGO/m/0",
+        "name": "Mosaico Pel\u00edculas"
+    },
+    "TW9zYWljbyBTVEFS": {
+        "url": "https://d3mspciwfw6hm0.cloudfront.net/out/v1/edccab1d5fd94afe8da020e20efcfa33/mfox.mpd",
+        "key": "10b5802efab349358a5bc6c42cc192d0:f16359902e5d423a54ff411a8fe58517",
+        "logo": "https://www.izzigo.tv/images/ch/147/LOGO/m/0",
+        "name": "Mosaico STAR"
+    },
+    "TXVjaCBNdXNpYw==": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/MUCH-MUSIC-SD/default.mpd",
+        "key": "767815f3ae7a4e3f8e243d3447de3cab:0d214acaf984ebf63311bba4f33555e9",
+        "logo": "https://www.izzigo.tv/images/ch/91/LOGO/m/0/LOGO/m/0",
+        "name": "Much Music"
+    },
+    "TcOhc0NoaWM=": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/MASCHIC-HD/default.mpd",
+        "key": "06f4d6b5476810942482a6e8f09a89ba:55fdaa0bc70e9623a2535c8e01cd91b4",
+        "logo": "https://www.izzigo.tv/images/ch/68/LOGO/m/0/LOGO/m/0",
+        "name": "M\u00e1sChic"
+    },
+    "TcOpeGljbyBUcmF2ZWwgQ2hhbm5lbA==": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/MTCH-HD/default.mpd",
+        "key": "32e33d2bc478752ffccc58ff99e25c83:a138549d16d65633da59c118b020db42",
+        "logo": "https://www.izzigo.tv/images/ch/39/LOGO/m/0/LOGO/m/0",
+        "name": "M\u00e9xico Travel Channel"
+    },
+    "TcO6c2ljYSBMaWdlcmE=": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/MUSIC-LIGERA/default.mpd",
+        "key": "5251ef2106aff064cf375aad74040baa:e0d16192c536d6418f479003bdda57c7",
+        "logo": "https://www.izzigo.tv/images/ch/255/LOGO/m/0/LOGO/m/0",
+        "name": "M\u00fasica Ligera"
+    },
+    "TcO6c2ljYSBQb3B1bGFyIEJyYXNpbGVpcmE=": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/MUSIC-POPULAR-BRASILEIRA/default.mpd",
+        "key": "b7a953b9160c61c11ad5d8d5d4ea89f5:3e4a9e729f8f7ada1ca15c0579f16486",
+        "logo": "https://www.izzigo.tv/images/ch/232/LOGO/m/0/LOGO/m/0",
+        "name": "M\u00fasica Popular Brasileira"
+    },
+    "TkZMIE5FVFdPUks=": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/NFL-HD/default.mpd",
+        "key": "f7958df98e4e83bc9413e5d77a132993:db5ea437c5dbbb887e0ef14e096511e1",
+        "logo": "https://www.izzigo.tv/images/ch/312/LOGO/m/0/LOGO/m/0",
+        "name": "NFL NETWORK"
+    },
+    "TkZMIE5ldHdvcms=": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/NFL-HD/default.mpd",
+        "key": "f7958df98e4e83bc9413e5d77a132993:db5ea437c5dbbb887e0ef14e096511e1",
+        "logo": "https://www.izzigo.tv/images/ch/142/LOGO/m/0/LOGO/m/0",
+        "name": "NFL Network"
+    },
+    "TkhLIFdvcmxk": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/NHK-HD/default.mpd",
+        "key": "c8b8a5bd4a2beb67a2cb57d5e3d481b4:12633a7287dc4f6b44b1ea0099a9097f",
+        "logo": "https://www.izzigo.tv/images/ch/667/LOGO/m/0/LOGO/m/0",
+        "name": "NHK World"
+    },
+    "TmF0IEdlbw==": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/NAT-GEO-HD/default.mpd",
+        "key": "10340f8803da2abe8ee68edd7741be4e:a9ccd7252e6fdf245f96377f7a48c841",
+        "logo": "https://www.izzigo.tv/images/ch/301/LOGO/m/0/LOGO/m/0",
+        "name": "Nat Geo"
+    },
+    "TmF0IEdlbyBLaWRz": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/NAT-GEO-KIDS-HD/default.mpd",
+        "key": "c19bbc966fea3307c394b033906b349b:ad4a545a297a0acb0d0bc5b045534c8c",
+        "logo": "https://www.izzigo.tv/images/ch/1012/LOGO/m/0/LOGO/m/0",
+        "name": "Nat Geo Kids"
+    },
+    "TmF0aW9uYWwgR2VvZ3JhcGhpYyBXaWxk": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/NAT-GEO-WILD-HD/default.mpd",
+        "key": "6b1353f51a0ce1d3b9b7dbfda9db269e:85d7b081e3a42a94d70e4a720f7cae8e",
+        "logo": "https://www.izzigo.tv/images/ch/303/LOGO/m/0/LOGO/m/0",
+        "name": "National Geographic Wild"
+    },
+    "TmV3IEFnZQ==": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/MUSIC-NEW-AGE/default.mpd",
+        "key": "e3b51766ad85d81e7ebf70edefbb288d:089efdfc09837d128b789ee1b6f71da6",
+        "logo": "https://www.izzigo.tv/images/ch/251/LOGO/m/0/LOGO/m/0",
+        "name": "New Age"
+    },
+    "TmljayBKci4=": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/NICK-JR-HD/default.mpd",
+        "key": "d5a08dae6fd13bade37cfdb7f603fb5b:9ce58b845d7e37ee786774c9c1bda4d7",
+        "logo": "https://www.izzigo.tv/images/ch/103/LOGO/m/0/LOGO/m/0",
+        "name": "Nick Jr."
+    },
+    "Tmlja011c2lj": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/NICKTOONS-SD/default.mpd",
+        "key": "25053e7ad166eedc0bcae7c10e5b9ff7:228a148e7a989762b88d0a647bf8900d",
+        "logo": "https://www.izzigo.tv/images/ch/111/LOGO/m/0/LOGO/m/0",
+        "name": "NickMusic"
+    },
+    "Tmlja2Vsb2Rlb24=": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/NICK-HD/default.mpd",
+        "key": "a6a1c8fdb4ad4026fff72f69e59da57f:9076aee3d2becb7f4de766aceffe7588",
+        "logo": "https://www.izzigo.tv/images/ch/107/LOGO/m/0/LOGO/m/0",
+        "name": "Nickelodeon"
+    },
+    "TnVldmU=": {
+        "url": "https://d12bww9t7e6mtv.cloudfront.net/out/v1/9bdc788290e14677a2f6de6240177d80/default.mpd",
+        "key": "1afdae0f81d5477aa71d60f7dedde97d:e9563c05a176456c1c03dfe8d8111afa",
+        "logo": "https://www.izzigo.tv/images/ch/272/LOGO/m/0/LOGO/m/0",
+        "name": "Nueve"
+    },
+    "T1RUXzE=": {
+        "url": "https://d32ssuj3tq7z91.cloudfront.net/out/v1/be81eafaac8d443abaaeb22afc22890f/default.mpd",
+        "key": "edb27053a7bc4590a0ee62ac3454f079:5af8f6eb789c484e8ed0074177b546b5",
+        "logo": "https://www.izzigo.tv/images//LOGO/m/0/LOGO/m/0",
+        "name": "OTT_1"
+    },
+    "T25jZSBOacOxYXMgeSBOacOxb3M=": {
+        "url": "https://d2qb2cm0g9h56z.cloudfront.net/out/v1/b463578e0de64e9da8a86dd73d961e06/default.mpd",
+        "key": "6d5b3eeb8d9d43eea3433b15051cf5c4:92e6b6d4a4fb66ee2f407d1e6fdd2578",
+        "logo": "https://www.izzigo.tv/images/ch/36/LOGO/m/0/LOGO/m/0",
+        "name": "Once Ni\u00f1as y Ni\u00f1os"
+    },
+    "T25jZSBUViA=": {
+        "url": "https://d12bww9t7e6mtv.cloudfront.net/out/v1/bce7f2ff4b9d4232a401ec6ad0e9362f/default.mpd",
+        "key": "3076aef3ee9a4572965896e8cfdaa0cb:3c1096a96f6a66067fc0486f1c5c8a1e",
+        "logo": "https://www.izzigo.tv/images/ch/273/LOGO/m/0/LOGO/m/0",
+        "name": "Once TV "
+    },
+    "UGFyYW1vdW50": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/PARAMOUNT-HD/default.mpd",
+        "key": "5478eb0328b5e7bca9da97d5ee6066be:0936bc64abed4d1c9c87b48afb7d5fb7",
+        "logo": "https://www.izzigo.tv/images/ch/320/LOGO/m/0/LOGO/m/0",
+        "name": "Paramount"
+    },
+    "UG9wIEFkdWx0bw==": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/MUSIC-POP-ADULTO/default.mpd",
+        "key": "27301ea60ee8b2141d9391580229c5bc:e59c0be82816d5136918346be779724b",
+        "logo": "https://www.izzigo.tv/images/ch/241/LOGO/m/0/LOGO/m/0",
+        "name": "Pop Adulto"
+    },
+    "UG9wIExhdGlubyBBY3R1YWw=": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/MUSIC-POP-LATINO-ACTUAL/default.mpd",
+        "key": "b7a953b9160c61c11ad5d8d5d4ea89f5:3e4a9e729f8f7ada1ca15c0579f16486",
+        "logo": "https://www.izzigo.tv/images/ch/212/LOGO/m/0/LOGO/m/0",
+        "name": "Pop Latino Actual"
+    },
+    "UG9wY29ybg==": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/MUSIC-POPCORN/default.mpd",
+        "key": "189c697fce9bce15268bc49ba0d05b37:8ff689ba92c6697e031b0aaf0f39c056",
+        "logo": "https://www.izzigo.tv/images/ch/243/LOGO/m/0",
+        "name": "Popcorn"
+    },
+    "UXVpZXJvIFRW": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/OCHO-TV-SD/default.mpd",
+        "key": "617e4f13364eb52ee348cca9e3ed102d:f54ee8058e71da58b6c3a7ab3ee5c366",
+        "logo": "https://www.izzigo.tv/images/ch/370/LOGO/m/0/LOGO/m/0",
+        "name": "Quiero TV"
+    },
+    "UiZCIENsw6FzaWNv": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/MUSIC-CLASICOS-SOUL/default.mpd",
+        "key": "b4f59b5ccd8f34b4a5196f38ae0adae7:51ae91fd6905246c410d98cea4242ed0",
+        "logo": "https://www.izzigo.tv/images/ch/238/LOGO/m/0",
+        "name": "R&B Cl\u00e1sico"
+    },
+    "UkFJ": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/RAI-HD/default.mpd",
+        "key": "ccaedeecd733ff29e7d269148fde92d5:91fdd13156f3c2931b8ae52984de12c2",
+        "logo": "https://www.izzigo.tv/images/ch/94/LOGO/m/0/LOGO/m/0",
+        "name": "RAI"
+    },
+    "UlQgZW4gRXNwYcOxb2w=": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/RT-HD/default.mpd",
+        "key": "41b53d2af71be3767ebd19ccd1e08255:1f17480fa86c6b5ccdbe7985d85a4d59",
+        "logo": "https://www.izzigo.tv/images/ch/385/LOGO/m/0/LOGO/m/0",
+        "name": "RT en Espa\u00f1ol"
+    },
+    "UmVhbCBNYWRyaWQgVFY=": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/REAL-MADRID-HD/default.mpd",
+        "key": "d155b02f91f730547c1407205a167a50:3786fde7144229057ffb609a771ad796",
+        "logo": "https://www.izzigo.tv/images/ch/1201/LOGO/m/0/LOGO/m/0",
+        "name": "Real Madrid TV"
+    },
+    "UmVnZ2FldMOzbg==": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/MUSIC-REGGAETON/default.mpd",
+        "key": "065035c8fb38636ecf23bcd68eb31329:3a86ff5050f78b713fbd5bafc4977677",
+        "logo": "https://www.izzigo.tv/images/ch/237/LOGO/m/0/LOGO/m/0",
+        "name": "Reggaet\u00f3n"
+    },
+    "Uml0bW9zIGRlbCBNdW5kbw==": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/MUSIC-DEL-MUNDO/default.mpd",
+        "key": "7f3acc6a667ba6562019076cf1312b1f:eac389b5377fe97112b37b1d60819482",
+        "logo": "https://www.izzigo.tv/images/ch/234/LOGO/m/0/LOGO/m/0",
+        "name": "Ritmos del Mundo"
+    },
+    "Um9jayBBbHRlcm5hdGl2bw==": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/MUSIC-ROCK-ALTERNATIVO/default.mpd",
+        "key": "fd01b1cd3e054885a48347f07d2b7212:d7f7d5dc80357fa2edb328adac3e25c9",
+        "logo": "https://www.izzigo.tv/images/ch/225/LOGO/m/0/LOGO/m/0",
+        "name": "Rock Alternativo"
+    },
+    "Um9jayBQZXNhZG8=": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/MUSIC-HARD-ROCK/default.mpd",
+        "key": "770e7c51ebf93fdbb734a56e93c7c98c:adc8cfd7af5166c73428caaf309c88e2",
+        "logo": "https://www.izzigo.tv/images/ch/239/LOGO/m/0/LOGO/m/0",
+        "name": "Rock Pesado"
+    },
+    "Um9jayBkZSBCcmFzaWw=": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/MUSIC-ROCK-BRASIL/default.mpd",
+        "key": "a9abf58fe4b8a18675caca15f9dd3b94:f975bc7be08345a308c560a36aca22db",
+        "logo": "https://www.izzigo.tv/images/ch/259/LOGO/m/0/LOGO/m/0",
+        "name": "Rock de Brasil"
+    },
+    "Um9jayBlbiBFc3Bhw7FvbA==": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/MUSIC-R0CK-ESPANOL/default.mpd",
+        "key": "bf276a83169df99806d3eff9b5192b00:5bba33e81bd8bc1eb806ac5b5d871883",
+        "logo": "https://www.izzigo.tv/images/ch/210/LOGO/m/0/LOGO/m/0",
+        "name": "Rock en Espa\u00f1ol"
+    },
+    "Um9tYW5jZSBMYXRpbm8=": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/MUSIC-ROMANCE-LATINO/default.mpd",
+        "key": "58c524dca5c8a85cbc4232becd32d9b6:a4a8fab2b831028ea06cfa10514e1d28",
+        "logo": "https://www.izzigo.tv/images/ch/211/LOGO/m/0/LOGO/m/0",
+        "name": "Romance Latino"
+    },
+    "Um9tcGVwaXN0YXM=": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/MUSIC-ROMPEPISTAS/default.mpd",
+        "key": "cc330de91705924b6f60184c47a7ece7:eb0c41f23d87fda4d61dd0b8f52fe3ee",
+        "logo": "https://www.izzigo.tv/images/ch/226/LOGO/m/0",
+        "name": "Rompepistas"
+    },
+    "U09OR0lFIA==": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/SONGIE-TV-SD/default.mpd",
+        "key": "65f48250f88d6bf0462e8b80ace67379:b5fd7008f91feb95879f1cd990d41550",
+        "logo": "https://www.izzigo.tv/images/ch/28/LOGO/m/0/LOGO/m/0",
+        "name": "SONGIE "
+    },
+    "U2Fsc2EgeSBNZXJlbmd1ZQ==": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/MUSIC-SALSA-MERENGUE/default.mpd",
+        "key": "fec59eba74b1aa4f071de15edac3e888:c4dc723b923ea1a066898618b0c095af",
+        "logo": "https://www.izzigo.tv/images/ch/213/LOGO/m/0",
+        "name": "Salsa y Merengue"
+    },
+    "U2FtYmEgeSBQYWdvZGU=": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/MUSIC-SAMBA-PAGODE/default.mpd",
+        "key": "6426178c03ae69017c01cc1a04e6d1b1:c43ebad43605ccfa1a77c26d7d6e2fe3",
+        "logo": "https://www.izzigo.tv/images/ch/217/LOGO/m/0/LOGO/m/0",
+        "name": "Samba y Pagode"
+    },
+    "U29ueQ==": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/SONY-HD/default.mpd",
+        "key": "2c550bba9673ab22a918680b80a38f3a:20bb42d8233695417d9c0e7ab1980cd7",
+        "logo": "https://www.izzigo.tv/images/ch/285/LOGO/m/0/LOGO/m/0",
+        "name": "Sony"
+    },
+    "U3BhY2U=": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/SPACE-HD/default.mpd",
+        "key": "9e173acf670382ea45cf4dd77bd3e4d2:1788b7ed4c60887baaf437770665d703",
+        "logo": "https://www.izzigo.tv/images/ch/286/LOGO/m/0/LOGO/m/0",
+        "name": "Space"
+    },
+    "U3Rhcg==": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/STAR-HD/default.mpd",
+        "key": "4a63916f28cc7ce552a396b74132900b:63be4c56c2bfe5bff7b60bbee6949df7",
+        "logo": "https://www.izzigo.tv/images/ch/1272/LOGO/m/0",
+        "name": "Star"
+    },
+    "U3RhciBBY3Rpb24=": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/FOX-ACTION-HD/default.mpd",
+        "key": "40fbe576c7f1d6cd9a8890fa726733b7:72f52e224e6e4f95096d4c851d475cf5",
+        "logo": "https://www.izzigo.tv/images/ch/338/LOGO/m/0",
+        "name": "Star Action"
+    },
+    "U3RhciBBY3Rpb24gKEVhc3Qp": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/FOX-ACTION-HD/default.mpd",
+        "key": "40fbe576c7f1d6cd9a8890fa726733b7:72f52e224e6e4f95096d4c851d475cf5",
+        "logo": "https://www.izzigo.tv/images/ch/179/LOGO/m/0",
+        "name": "Star Action (East)"
+    },
+    "U3RhciBBY3Rpb24gKFdlc3Qp": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/FOX-ACTION-(WEST)-SD/default.mpd",
+        "key": "dc56404b305a4c978a171cc753170cb5:0362b01be5d9dad7df28cc015502182d",
+        "logo": "https://www.izzigo.tv/images/ch/180/LOGO/m/0",
+        "name": "Star Action (West)"
+    },
+    "U3RhciBDaGFubmVs": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/FOX-HD/default.mpd",
+        "key": "ed2c4882260be2053bbddac8c0e48ee0:e0fb4a4c0eb6b8fe8d54f544f12aa035",
+        "logo": "https://www.izzigo.tv/images/ch/282/LOGO/m/0",
+        "name": "Star Channel"
+    },
+    "U3RhciBDaW5lbWE=": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/FOX-CINEMA-HD/default.mpd",
+        "key": "3a64f27ab85b688817ecfe049067ac8e:a31e5b2c9199b95487ab53babdb2822b",
+        "logo": "https://www.izzigo.tv/images/ch/704/LOGO/m/0",
+        "name": "Star Cinema"
+    },
+    "U3RhciBDbGFzc2ljcw==": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/FOX-CLASSICS-HD/default.mpd",
+        "key": "b8f90675c9677e9ea50dc5197c6ec481:da4fd322e8a6c6d2ecf4ff126fa38b17",
+        "logo": "https://www.izzigo.tv/images/ch/705/LOGO/m/0",
+        "name": "Star Classics"
+    },
+    "U3RhciBDb21lZHk=": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/FOX-COMEDY-HD/default.mpd",
+        "key": "8794382245bc78b4bf2f467139d21489:2f3150a71a9d1438481cf2e31af0b45b",
+        "logo": "https://www.izzigo.tv/images/ch/340/LOGO/m/0",
+        "name": "Star Comedy"
+    },
+    "U3RhciBGdW4gKFdlc3Qp": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/FOX-FAMILY-(WEST)-SD/default.mpd",
+        "key": "8c130bd909c7fab011a0f34d18d78366:68467a524a93f5cb56c44de6d7ff865a",
+        "logo": "https://www.izzigo.tv/images/ch/184/LOGO/m/0",
+        "name": "Star Fun (West)"
+    },
+    "U3RhciBIaXRz": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/FOX-MOVIES-HD/default.mpd",
+        "key": "d12f7b90c87062d2f1bac2b5bb92bb23:e692a58e167f76f2a10a40a3a071204d",
+        "logo": "https://www.izzigo.tv/images/ch/337/LOGO/m/0",
+        "name": "Star Hits"
+    },
+    "U3RhciBMaWZl": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/FOX-LIFE-HD/default.mpd",
+        "key": "dc103c8a96de5864da74dd50d90bb91d:8de881171326b53382212c40dd975901",
+        "logo": "https://www.izzigo.tv/images/ch/82/LOGO/m/0",
+        "name": "Star Life"
+    },
+    "U3RhciBTZXJpZXM=": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/FOX-1-SERIES-HD/default.mpd",
+        "key": "620aae4e32c8ac591f98f41745df7932:7ff59091760c114608b002cf1cc14e1c",
+        "logo": "https://www.izzigo.tv/images/ch/336/LOGO/m/0",
+        "name": "Star Series"
+    },
+    "U3RhciBTZXJpZXMgKEVhc3Qp": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/FOX-1-SERIES-HD/default.mpd",
+        "key": "620aae4e32c8ac591f98f41745df7932:7ff59091760c114608b002cf1cc14e1c",
+        "logo": "https://www.izzigo.tv/images/ch/177/LOGO/m/0",
+        "name": "Star Series (East)"
+    },
+    "U3RhciBTZXJpZXMgKFdlc3Qp": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/FOX-SERIES-(WEST)-SD/default.mpd",
+        "key": "8e9903d548747d066a8d1b29a2a28deb:38b32249b1ce8840dd5ca9c85814429d",
+        "logo": "https://www.izzigo.tv/images/ch/178/LOGO/m/0",
+        "name": "Star Series (West)"
+    },
+    "U3RpbmdyYXkgRXNwZWNpYWxlcw==": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/MUSIC-SESIONES-DANCEHALL/default.mpd",
+        "key": "f90b457b7dd03295d5de7cccaf0ecb88:3661511117d6161247096842686d9102",
+        "logo": "https://www.izzigo.tv/images/ch/231/LOGO/m/0/LOGO/m/0",
+        "name": "Stingray Especiales"
+    },
+    "U3lGeQ==": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/SYFY-HD/default.mpd",
+        "key": "a8c986ce4cb6146cffbbd7437eba54fd:a13e60c102f27dea6f11af330e5e7e22",
+        "logo": "https://www.izzigo.tv/images/ch/86/LOGO/m/0/LOGO/m/0",
+        "name": "SyFy"
+    },
+    "U8OzbG8gcGFyYSBQZXF1ZXM=": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/MUSIC-SOLO-PEQUES/default.mpd",
+        "key": "1b46269b9cd076fbe180da85abaaa905:521daeab4dda43c2245e8aaea289e516",
+        "logo": "https://www.izzigo.tv/images/ch/246/LOGO/m/0",
+        "name": "S\u00f3lo para Peques"
+    },
+    "VEJT": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/TBS-SD/default.mpd",
+        "key": "3de11856346f68bfc33fcbda78e527f7:2befbce106657e4852624314cbae20a0",
+        "logo": "https://www.izzigo.tv/images/ch/85/LOGO/m/0/LOGO/m/0",
+        "name": "TBS"
+    },
+    "VENN": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/TCM-SD/default.mpd",
+        "key": "5f0684754f88bacae26a549966d5ad45:c126aca9a3019a337bbfbca110d56cf6",
+        "logo": "https://www.izzigo.tv/images/ch/156/LOGO/m/0/LOGO/m/0",
+        "name": "TCM"
+    },
+    "VEwgbm92ZWxhcw==": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/TLNOVELAS-SD/default.mpd",
+        "key": "81abd4dbbbd5de9bca98fa592b9fec62:fec9f4a4f151fa771e872a3d48925969",
+        "logo": "https://www.izzigo.tv/images/ch/51/LOGO/m/0/LOGO/m/0",
+        "name": "TL novelas"
+    },
+    "VExD": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/TLC-HD/default.mpd",
+        "key": "149e7303b3efbcd47468d6f49aafdba8:2da2ef56ee11b4bad6b0b2d924e11d75",
+        "logo": "https://www.izzigo.tv/images/ch/66/LOGO/m/0/LOGO/m/0",
+        "name": "TLC"
+    },
+    "VE5U": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/TNT-HD/default.mpd",
+        "key": "42a5ecac8c208521208199ccc4027725:2465f108046671cdd307f13bd8fad672",
+        "logo": "https://www.izzigo.tv/images/ch/317/LOGO/m/0/LOGO/m/0",
+        "name": "TNT"
+    },
+    "VE5UIFNlcmllcw==": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/TNT-SERIES-HD/default.mpd",
+        "key": "6d9d49f99b5d9e4d0dc912cfba56c298:a6c5430b572bcf2e9dbd064ab3e1713c",
+        "logo": "https://www.izzigo.tv/images/ch/80/LOGO/m/0/LOGO/m/0",
+        "name": "TNT Series"
+    },
+    "VFVETg==": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd",
+        "key": "cbc3cd3edec93de39602607694958f14:295ae9f665472e3b6e4699bc5b52c20f",
+        "logo": "https://www.izzigo.tv/images/ch/306/LOGO/m/0/LOGO/m/0",
+        "name": "TUDN"
+    },
+    "VFYgR2FsaWNpYQ==": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/TV-GALICIA-SD/default.mpd",
+        "key": "3440f5ba6703f9b9d2b0756a34dac53c:c7112fb006f895dc30821cf6007fbb26",
+        "logo": "https://www.izzigo.tv/images/ch/96/LOGO/m/0/LOGO/m/0",
+        "name": "TV Galicia"
+    },
+    "VFYgVU5BTQ==": {
+        "url": "https://d1ynfzqkzrrwzs.cloudfront.net/out/v1/7809b509428d416ab1b555562b799171/default.mpd",
+        "key": "46e21e6ad65948f0a6fbafb70e8a81bd:3279f703edbb40eeac724c0830bb1f04",
+        "logo": "https://www.izzigo.tv/images/ch/121/LOGO/m/0/LOGO/m/0",
+        "name": "TV UNAM"
+    },
+    "VFY1IE1vbmRl": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/TV5-SD/default.mpd",
+        "key": "46ffbf4ea17fbc1734654b5e6529b3e5:39df404446e2f080bcff823fd1494f8f",
+        "logo": "https://www.izzigo.tv/images/ch/95/LOGO/m/0/LOGO/m/0",
+        "name": "TV5 Monde"
+    },
+    "VFZF": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/TVE-SD/default.mpd",
+        "key": "a04a061363fa104233c454d059ca9d9c:7d25a377467c54b5ffe94854cac5b5e8",
+        "logo": "https://www.izzigo.tv/images/ch/71/LOGO/m/0/LOGO/m/0",
+        "name": "TVE"
+    },
+    "VGFuZ28=": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/MUSIC-TANGO/default.mpd",
+        "key": "6b64ef905ef70241310861199da6b526:a5dcb4a540696d1f6925ff4f409e7749",
+        "logo": "https://www.izzigo.tv/images/ch/233/LOGO/m/0/LOGO/m/0",
+        "name": "Tango"
+    },
+    "VGVlbm5pY2s=": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/NICK-2-HD/default.mpd",
+        "key": "810bd660db41884c097c655e53b92a64:3aa70d5f3c3fad2a6c9bfb5dbfb9d721",
+        "logo": "https://www.izzigo.tv/images/ch/296/LOGO/m/0/LOGO/m/0",
+        "name": "Teennick"
+    },
+    "VGVsZWZl": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/TELEFE-HD/default.mpd",
+        "key": "17d917585a64018a5ddde0f0e6137413:30107f92c32a1b2f9f66ab24b0116275",
+        "logo": "https://www.izzigo.tv/images/ch/680/LOGO/m/0/LOGO/m/0",
+        "name": "Telefe"
+    },
+    "VGVsZWbDs3JtdWxh": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/TELEFORMULA-SD/default.mpd",
+        "key": "de217e5003c620405bce947bd3258dd9:943327c3b641cee17bfb95b9cb33d772",
+        "logo": "https://www.izzigo.tv/images/ch/26/LOGO/m/0/LOGO/m/0",
+        "name": "Telef\u00f3rmula"
+    },
+    "VGVsZWhpdA==": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-HD/default.mpd",
+        "key": "1e4f9d2187622e7509d386236469b7a7:99c3aacb022f56bb5304a2a847e26957",
+        "logo": "https://www.izzigo.tv/images/ch/74/LOGO/m/0/LOGO/m/0",
+        "name": "Telehit"
+    },
+    "VGVsZWhpdCBNdXNpY2E=": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-URBANO-SD/default.mpd",
+        "key": "87596be4a61dbad18983448a76a82a75:45dfb715c4f675715d1e3f79edcf8707",
+        "logo": "https://www.izzigo.tv/images/ch/77/LOGO/m/0/LOGO/m/0",
+        "name": "Telehit Musica"
+    },
+    "VGVsZWhpdCBNdXNpY2EgUGx1cw==": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-HD/default.mpd",
+        "key": "1e4f9d2187622e7509d386236469b7a7:99c3aacb022f56bb5304a2a847e26957",
+        "logo": "https://www.izzigo.tv/images/ch/293/LOGO/m/0/LOGO/m/0",
+        "name": "Telehit Musica Plus"
+    },
+    "VGVsZW11bmRv": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/TELEMUNDO-HD/default.mpd",
+        "key": "5a41783968be2763454aae534bd45526:6e56053969aaddb0d9fca30bef069429",
+        "logo": "https://www.izzigo.tv/images/ch/52/LOGO/m/0/LOGO/m/0",
+        "name": "Telemundo"
+    },
+    "VGVsZXZpc2EgTW9udGVycmV5": {
+        "url": "https://d1ynfzqkzrrwzs.cloudfront.net/out/v1/95b63673a18641289bc6821638373c03/default.mpd",
+        "key": "dcff08f466184a08b14784313bdc97ba:32cd1bceff83d8533bbb87897f5b153f",
+        "logo": "https://www.izzigo.tv/images/ch/45/LOGO/m/0/LOGO/m/0",
+        "name": "Televisa Monterrey"
+    },
+    "VG9vbmNhc3Q=": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/TOONCAST-SD/default.mpd",
+        "key": "e9af1411651fcf5331a1367055a0176e:229819a0cb477ffed02208b65f7b9aee",
+        "logo": "https://www.izzigo.tv/images/ch/113/LOGO/m/0/LOGO/m/0",
+        "name": "Tooncast"
+    },
+    "VHJ1IFRW": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/TRU-TV-HD/default.mpd",
+        "key": "7807e1f0af99ec60d55459cca1aabf48:a4530510f2ed0faab119c4a153423a3d",
+        "logo": "https://www.izzigo.tv/images/ch/87/LOGO/m/0/LOGO/m/0",
+        "name": "Tru TV"
+    },
+    "VHJ1VFY=": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/TRU-TV-HD/default.mpd",
+        "key": "7807e1f0af99ec60d55459cca1aabf48:a4530510f2ed0faab119c4a153423a3d",
+        "logo": "https://www.izzigo.tv/images/ch/287/LOGO/m/0/LOGO/m/0",
+        "name": "TruTV"
+    },
+    "VQ==": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/UNICABLE-HD/default.mpd",
+        "key": "291d52eb3b97fe7282087280a27cedfe:cba79c9a5ebc7a1e47646a5f6ace2c9c",
+        "logo": "https://www.izzigo.tv/images/ch/277/LOGO/m/0/LOGO/m/0",
+        "name": "U"
+    },
+    "VW5pdmVyc2FsIENoYW5uZWw=": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/UNIVERSAL-CHANNEL-HD/default.mpd",
+        "key": "3e4ccc6bb4a94bfd45e44a608715ca34:682e673381bfe62f1f0b5f95ec8a5ffe",
+        "logo": "https://www.izzigo.tv/images/ch/281/LOGO/m/0/LOGO/m/0",
+        "name": "Universal Channel"
+    },
+    "Vkgx": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/VH1-HD/default.mpd",
+        "key": "d087de698c2a98352825fe460501f1fe:bd3e68a037d6d4aa58d102504234c930",
+        "logo": "https://www.izzigo.tv/images/ch/295/LOGO/m/0/LOGO/m/0",
+        "name": "VH1"
+    },
+    "VmliZSBUVg==": {
+        "url": "https://d2qb2cm0g9h56z.cloudfront.net/out/v1/75a29189144445aa8708cf42ed30f893/default.mpd",
+        "key": "6c0ac2759da945cfa94149956dd366e3:76d03705332ea34752660127bfcac77f",
+        "logo": "https://www.izzigo.tv/images/ch/490/LOGO/m/0/LOGO/m/0",
+        "name": "Vibe TV"
+    },
+    "Vmllaml0YXMgcGVybyBCdWVuw61zaW1hcw==": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/MUSIC-VIEJOTAS-BUENISIMAS/default.mpd",
+        "key": "cbb25d843e3ddb776bfaf077a73e6ea8:ae919720bd8ff2e8a538619dd25394ca",
+        "logo": "https://www.izzigo.tv/images/ch/245/LOGO/m/0/LOGO/m/0",
+        "name": "Viejitas pero Buen\u00edsimas"
+    },
+    "Vml2YSBNw6l4aWNv": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/MUSIC-VIVA-MEXICO/default.mpd",
+        "key": "3f44056b80dde94f56c62b0294dc505c:b2c6615bb75e679165b993da350ba321",
+        "logo": "https://www.izzigo.tv/images/ch/215/LOGO/m/0/LOGO/m/0",
+        "name": "Viva M\u00e9xico"
+    },
+    "V2FybmVy": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/WARNER-HD/default.mpd",
+        "key": "92cb44acb9b5a4a80a8b94161f76b2f2:8250bf285c670276831c1b7c2105f448",
+        "logo": "https://www.izzigo.tv/images/ch/283/LOGO/m/0/LOGO/m/0",
+        "name": "Warner"
+    },
+    "WmVlIE11bmRv": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/ZEE-MUNDO-HD/default.mpd",
+        "key": "4262c1c20eef17141c1dbc9a7a407110:534e3b0f21fa2780890341ad8c0e0c5e",
+        "logo": "https://www.izzigo.tv/images/ch/1260/LOGO/m/0/LOGO/m/0",
+        "name": "Zee Mundo"
+    },
+    "Yml0TWU=": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd",
+        "key": "1acd797f6ec8e6b3c427909ac3f3b7c6:fc9f1820694a9568fdfe1c0c3959343b",
+        "logo": "https://www.izzigo.tv/images/ch/1263/LOGO/m/0/LOGO/m/0",
+        "name": "bitMe"
+    },
+    "d2l6eiBzcG9ydHM=": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/WIZZ-SPORTS-HD/default.mpd",
+        "key": "cbffa1552cc55d718207f3bb2cc2f92b:3dac28592bc30fe3dd1bab8d67cda81a",
+        "logo": "https://www.izzigo.tv/images/ch/1266/LOGO/m/0/LOGO/m/0",
+        "name": "wizz sports"
+    },
+    "d2l6eiBzcG9ydHMgTElURQ==": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/WIZZ-SPORTS-LITE/default.mpd",
+        "key": "bd80fe8672c484d7d75ae7bb7285ca83:a2c1b0b388cc0019ff0346522e55f4bc",
+        "logo": "https://www.izzigo.tv/images/ch/1265/LOGO/m/0/LOGO/m/0",
+        "name": "wizz sports LITE"
+    },
+    "w4l4aXRvcyBFdXJvcGVvcw==": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/MUSIC-EURO-HITS/default.mpd",
+        "key": "99662aa1f956d45563581c1d63087e73:3e5cb53235669de06b0c329b86c32078",
+        "logo": "https://www.izzigo.tv/images/ch/224/LOGO/m/0/LOGO/m/0",
+        "name": "\u00c9xitos Europeos"
+    },
+    "w4l4aXRvcyBSb23DoW50aWNvcw==": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/MUSIC-CANCIONES-AMOR/default.mpd",
+        "key": "a886c4945a0b4bae759572bdb581e94d:07d9675f23b9c13a7e20703bdca9fe96",
+        "logo": "https://www.izzigo.tv/images/ch/229/LOGO/m/0/LOGO/m/0",
+        "name": "\u00c9xitos Rom\u00e1nticos"
+    },
+    "w4l4aXRvcyBkZSBCcmFzaWw=": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/MUSIC-EXITOS-BRASIL/default.mpd",
+        "key": "fe21b1a6fc2fd3750d2c6ec55917faed:3d936c773915866befa06f5917cecd5b",
+        "logo": "https://www.izzigo.tv/images/ch/249/LOGO/m/0",
+        "name": "\u00c9xitos de Brasil"
+    },
+    "w4l4aXRvcyBkZSBJdGFsaWE=": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/MUSIC-EXITOS-ITALIA/default.mpd",
+        "key": "147385e815a011f9f1ef594c846a6d33:befef5d9ec6e1307fe6fc0583367c652",
+        "logo": "https://www.izzigo.tv/images/ch/235/LOGO/m/0/LOGO/m/0",
+        "name": "\u00c9xitos de Italia"
+    },
+    "w4l4aXRvcyBkZSBsYXMgQW3DqXJpY2Fz": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/MUSIC-EXITOS-RECIENTES/default.mpd",
+        "key": "8001792dd81628081ad30432b4992276:7a912adfd5f3949df71d1db799b51962",
+        "logo": "https://www.izzigo.tv/images/ch/236/LOGO/m/0",
+        "name": "\u00c9xitos de las Am\u00e9ricas"
+    },
+    "w4l4aXRvcyBkZSBsb3MgNzA=": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/MUSIC-ANOS-70/default.mpd",
+        "key": "6f30008243dcb6f9d0e5833b77e7c828:7bc8fba4d0ec1ea013c82f012ca0071b",
+        "logo": "https://www.izzigo.tv/images/ch/221/LOGO/m/0/LOGO/m/0",
+        "name": "\u00c9xitos de los 70"
+    },
+    "w4l4aXRvcyBkZSBsb3MgODA=": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/MUSIC-ANOS-80/default.mpd",
+        "key": "fc51713029960614ebc3e3d44b81418b:fb6ab82ad885116bcdbeaaa3cfcb8d31",
+        "logo": "https://www.izzigo.tv/images/ch/222/LOGO/m/0/LOGO/m/0",
+        "name": "\u00c9xitos de los 80"
+    },
+    "w4l4aXRvcyBkZSBsb3MgOTA=": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/MUSIC-ANOS-90/default.mpd",
+        "key": "a2b16d87277ba7e9b415e8e9eb11b42c:ce69181870900acc6acf2b1b027bd3a5",
+        "logo": "https://www.izzigo.tv/images/ch/223/LOGO/m/0/LOGO/m/0",
+        "name": "\u00c9xitos de los 90"
+    },
+    "w4l4aXRvcyBlbiBJbmdsw6lz": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/MUSIC-EXITOS-AMERICAS/default.mpd",
+        "key": "c667cb892eb850b03468c3e5539c0eac:575cbfac6c82c84301e3523be3d3d34c",
+        "logo": "https://www.izzigo.tv/images/ch/230/LOGO/m/0/LOGO/m/0",
+        "name": "\u00c9xitos en Ingl\u00e9s"
+    },
+    "w5NwZXJhIFBsdXM=": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/MUSIC-OPERA-PLUS/default.mpd",
+        "key": "e5d182a2324b775f2d6e0189a64205ef:950a3c6cb7e0ede84f13d52429421e4e",
+        "logo": "https://www.izzigo.tv/images/ch/258/LOGO/m/0/LOGO/m/0",
+        "name": "\u00d3pera Plus"
+    },
+    "QWwgSmF6ZWVyYSBUVg==": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/AL-JAZEERA-HD/default.mpd",
+        "key": "b4ef2f7c5f5d2e49e7d92a77858419db:46ed0fdbf630e8a7344c92445628da2d",
+        "logo": "https://www.izzigo.tv/images/ch/660/LOGO/m/0",
+        "name": "Al Jazeera TV"
+    },
+    "QTNTZXJpZXM=": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/ATRES-SERIES-HD/default.mpd",
+        "key": "5730db07df3cfeb2cff629525d3b81dd:47f045fdadf4cdf7c29ae9965126890b",
+        "logo": "https://www.izzigo.tv/images/ch/278/LOGO/m/0",
+        "name": "A3Series"
+    },
+    "QU1YIE5vdGljaWFz": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/AMX-NOTICIAS-SD/default.mpd",
+        "key": "5987d4d99e492de73d94b35d7d2b5fab:a5a600a19b571b041dd228231d152c71",
+        "logo": "https://www.izzigo.tv/images/ch/1530/LOGO/m/0",
+        "name": "AMX Noticias"
+    },
+    "QW50ZW5hIDM=": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/ANTENA3-HD/default.mpd",
+        "key": "703ea167cf1c22c1efe543666be7ec03:a3b7fafc7e06ec58f2287e47aa9f6a0c",
+        "logo": "https://www.izzigo.tv/images/ch/92/LOGO/m/0",
+        "name": "Antena 3"
+    },
+    "Q05OIGVuIEVzcGHDsW9s": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/CNN-EN-ESPANOL-SD/default.mpd",
+        "key": "87bfa6b1a35ab137435d528e76d94efa:606f4b9ef365d99cc179e8462da9a463",
+        "logo": "https://www.izzigo.tv/images/ch/197/LOGO/m/0",
+        "name": "CNN en Espa\u00f1ol"
+    },
+    "Q2FydG9vbml0bw==": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/BOOMERANG-HD/default.mpd",
+        "key": "d83cba7bdfae0ec882e70b278614b4fe:42e02a9ee95cf823a770e2abc4d01acb",
+        "logo": "https://www.izzigo.tv/images/ch/1550/LOGO/m/0",
+        "name": "Cartoonito"
+    },
+    "RFcgQW1lcmlrYQ==": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/DW-AMERIKA-SD/default.mpd",
+        "key": "4fde7d1026d3ab3e39a1a416526aaa41:686af7ebdc65655899b5f0206133fd73",
+        "logo": "https://www.izzigo.tv/images/ch/97/LOGO/m/0",
+        "name": "DW Amerika"
+    },
+    "RFcgTGF0aW5vYW3DqXJpY2E=": {
+        "url": "http://live5-ott.izzigo.tv/out/u/dash/DW-ESPANOL-SD/default.mpd",
+        "key": "61c18352e73ba6b80402b0a2e8e1ce9c:cc694529be8c5ca770e3a29b78d95194",
+        "logo": "https://www.izzigo.tv/images/ch/666/LOGO/m/0",
+        "name": "DW Latinoam\u00e9rica"
+    },
+    "RGlzY292ZXJ5IEhvbWUgJiBIZWFsdGg=": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-HEALTH-HD/default.mpd",
+        "key": "406c4cad869cd9b98c030229d3ebf674:2ef83fb68aeb6069316c7161fa37342a",
+        "logo": "https://www.izzigo.tv/images/ch/65/LOGO/m/0",
+        "name": "Discovery Home & Health"
+    },
+    "RG9nIFRW": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/DOGTV-SD/default.mpd",
+        "key": "8cbb83d731756ea2b30d970b35b6ef66:70f11d962b4056048e447da9e8244f26",
+        "logo": "https://www.izzigo.tv/images/ch/1230/LOGO/m/0",
+        "name": "Dog TV"
+    },
+    "RHJlYW1Xb3Jrcw==": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/DREAM-WORKS-HD/default.mpd",
+        "key": "904f8107a9357f139f6c2762a72fef27:71d80927355d4fbeb76fdd36d2727e61",
+        "logo": "https://www.izzigo.tv/images/ch/1591/LOGO/m/0",
+        "name": "DreamWorks"
+    },
+    "RWwgRmluYW5jaWVybyAtIEJsb29tYmVyZw==": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/EL-FINANCIERO-HD/default.mpd",
+        "key": "578c354c7e65ac8af864eb2b16ce9057:994fd95f34d5ba6016d26861065e52df",
+        "logo": "https://www.izzigo.tv/images/ch/38/LOGO/m/0",
+        "name": "El Financiero - Bloomberg"
+    },
+    "R29sZGVuIEVkZ2U=": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd",
+        "key": "b6ca3456b40c7dabe828be9e0c27e81b:95e078079a4bf6d6642c5cfbcc6148ef",
+        "logo": "https://www.izzigo.tv/images/ch/151/LOGO/m/0",
+        "name": "Golden Edge"
+    },
+    "R29sZGVuIFBsdXM=": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd",
+        "key": "06bfefe4951d2138bc015cba201873f9:4ae8079388bc24df242cd99f13510bc6",
+        "logo": "https://www.izzigo.tv/images/ch/316/LOGO/m/0",
+        "name": "Golden Plus"
+    },
+    "SEJPIE1VTkRJ": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd",
+        "key": "b644d9fbe333c78a62d441d50167a0ba:6c38cb5167c3824ff7e2740e2582768e",
+        "logo": "https://www.izzigo.tv/images/ch/171/LOGO/m/0",
+        "name": "HBO MUNDI"
+    },
+    "SEJPIFBPUA==": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/HBO-POP-HD/default.mpd",
+        "key": "2dc2d0bcb213419714e1583ced121176:e09449a247c1c9384f654ffe070d4467",
+        "logo": "https://www.izzigo.tv/images/ch/172/LOGO/m/0",
+        "name": "HBO POP"
+    },
+    "SEJPIFhUUkVNRQ==": {
+        "url": "https://live5-ott.izzigo.tv/out/u/dash/HBO-XTREME-HD/default.mpd",
+        "key": "8b7cd5553f6be79416bb9e6922478278:fb4cd74b5eb1020de74ddb3b0e203e66",
+        "logo": "https://www.izzigo.tv/images/ch/174/LOGO/m/0",
+        "name": "HBO XTREME"
+    },
+    "SGVyYWxkbyBUVg==": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/HERALDO-TV-HD/default.mpd",
+        "key": "e8bec612a936b4c99a281f52d59724a6:be74851c415b7c40ecee927a80a39f66",
+        "logo": "https://www.izzigo.tv/images/ch/1240/LOGO/m/0",
+        "name": "Heraldo TV"
+    },
+    "SW5vdmE=": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/INNOVA-SD/default.mpd",
+        "key": "5a2f08ff55c9113c3bdb5b5a689ebac5:1ec865ca839e7669860ae94df34f8f5b",
+        "logo": "https://www.izzigo.tv/images/ch/44/LOGO/m/0",
+        "name": "Inova"
+    },
+    "TVRWIDAwcw==": {
+        "url": "https://live3-ott.izzigo.tv/out/u/dash/VH1-HD/default.mpd",
+        "key": "d087de698c2a98352825fe460501f1fe:bd3e68a037d6d4aa58d102504234c930",
+        "logo": "https://www.izzigo.tv/images/ch/78/LOGO/m/0",
+        "name": "MTV 00s"
+    },
+    "TWlsZW5pbyBUVg==": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/MILENIO-HD/default.mpd",
+        "key": "21a588bca13d9eca31fc3baf6884a526:bf898df886bd8e575a4023702919d550",
+        "logo": "https://www.izzigo.tv/images/ch/690/LOGO/m/0",
+        "name": "Milenio TV"
+    },
+    "TW9zYWljbyBIQk8=": {
+        "url": "https://dwupwmhnd5p0c.cloudfront.net/out/v1/8932c386929845d1b627af64e9d3e0aa/mhbo.mpd",
+        "key": "185aa106243a497ba7a8e9d63d4f3bf9:386a335983d0d9fa447254c9b20a331b",
+        "logo": "https://www.izzigo.tv/images/ch/148/LOGO/m/0",
+        "name": "Mosaico HBO"
+    },
+    "TW9zYWljbyBNdW5kbyB5IEFwcmVuZGl6YWpl": {
+        "url": "https://dcuoufxq35cz8.cloudfront.net/out/v1/a9d3147ac14440f8aa6af49a98e09e59/mundo.mpd",
+        "key": "eed8df112d504a97901895af4a3335b7:51ea7578c891b6659eb90ac41e8a308d",
+        "logo": "https://www.izzigo.tv/images/ch/114/LOGO/m/0",
+        "name": "Mosaico Mundo y Aprendizaje"
+    },
+    "TW9zYWljbyBVbml2ZXJzYWwr": {
+        "url": "https://d3mspciwfw6hm0.cloudfront.net/out/v1/edccab1d5fd94afe8da020e20efcfa33/mfox.mpd",
+        "key": "2c18957426c84ecba59a2282a8247472:cf6e56154c75175dd7de53ee490c9fda",
+        "logo": "https://www.izzigo.tv/images/ch/147/LOGO/m/0",
+        "name": "Mosaico Universal+"
+    },
+    "TmF0aW9uYWwgR2VvZ3JhcGhpYw==": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/NAT-GEO-HD/default.mpd",
+        "key": "10340f8803da2abe8ee68edd7741be4e:a9ccd7252e6fdf245f96377f7a48c841",
+        "logo": "https://www.izzigo.tv/images/ch/117/LOGO/m/0",
+        "name": "National Geographic"
+    },
+    "Tmlja211c2lj": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/NICKTOONS-SD/default.mpd",
+        "key": "25053e7ad166eedc0bcae7c10e5b9ff7:228a148e7a989762b88d0a647bf8900d",
+        "logo": "https://www.izzigo.tv/images/ch/111/LOGO/m/0",
+        "name": "Nickmusic"
+    },
+    "TnU5dmU=": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/CANAL-9-HD/default.mpd",
+        "key": "582f8f0f9c9a6a349113d71807580708:913204b9ae3bbb1ecbc809dc7b1c36c5",
+        "logo": "https://www.izzigo.tv/images/ch/20/LOGO/m/0",
+        "name": "Nu9ve"
+    },
+    "T3BlcmEgUGx1cw==": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/MUSIC-OPERA-PLUS/default.mpd",
+        "key": "e5d182a2324b775f2d6e0189a64205ef:950a3c6cb7e0ede84f13d52429421e4e",
+        "logo": "https://www.izzigo.tv/images/ch/1560/LOGO/m/0",
+        "name": "Opera Plus"
+    },
+    "UlQ=": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/RT-HD/default.mpd",
+        "key": "41b53d2af71be3767ebd19ccd1e08255:1f17480fa86c6b5ccdbe7985d85a4d59",
+        "logo": "https://www.izzigo.tv/images/ch/385/LOGO/m/0",
+        "name": "RT"
+    },
+    "UmV0cm8gTGF0aW5v": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/MUSIC-MAESTROS-CLASICO/default.mpd",
+        "key": "07400c6b4fad3d533511fed1203bda04:708d32dfab6f1e8d31767b42a35b2b58",
+        "logo": "https://www.izzigo.tv/images/ch/1461/LOGO/m/0",
+        "name": "Retro Latino"
+    },
+    "U29ueSBNb3ZpZXM=": {
+        "url": "https://live4-ott.izzigo.tv/out/u/dash/SONY-MOVIES-HD/default.mpd",
+        "key": "6b1353f51a0ce1d3b9b7dbfda9db269e:85d7b081e3a42a94d70e4a720f7cae8e",
+        "logo": "https://www.izzigo.tv/images/ch/1592/LOGO/m/0",
+        "name": "Sony Movies"
+    },
+    "VGVsZWhpdCBNw7pzaWNh": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-URBANO-SD/default.mpd",
+        "key": "87596be4a61dbad18983448a76a82a75:45dfb715c4f675715d1e3f79edcf8707",
+        "logo": "https://www.izzigo.tv/images/ch/77/LOGO/m/0",
+        "name": "Telehit M\u00fasica"
+    },
+    "VGVsZWhpdCBNw7pzaWNhIFBsdXM=": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-HD/default.mpd",
+        "key": "1e4f9d2187622e7509d386236469b7a7:99c3aacb022f56bb5304a2a847e26957",
+        "logo": "https://www.izzigo.tv/images/ch/293/LOGO/m/0",
+        "name": "Telehit M\u00fasica Plus"
+    },
+    "VW5pdmVyc2FsIENpbmVtYQ==": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CINEMA-HD/default.mpd",
+        "key": "8794382245bc78b4bf2f467139d21489:2f3150a71a9d1438481cf2e31af0b45b",
+        "logo": "https://www.izzigo.tv/images/ch/339/LOGO/m/0",
+        "name": "Universal Cinema"
+    },
+    "VW5pdmVyc2FsIENvbWVkeQ==": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-COMEDY-HD/default.mpd",
+        "key": "dc56404b305a4c978a171cc753170cb5:0362b01be5d9dad7df28cc015502182d",
+        "logo": "https://www.izzigo.tv/images/ch/340/LOGO/m/0",
+        "name": "Universal Comedy"
+    },
+    "VW5pdmVyc2FsIENyaW1l": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CRIME-HD/default.mpd",
+        "key": "15de9147d54a9f200c5b2e398bacd1a4:85664e248eaad2e129b21d2c73faee01",
+        "logo": "https://www.izzigo.tv/images/ch/337/LOGO/m/0",
+        "name": "Universal Crime"
+    },
+    "VW5pdmVyc2FsIFByZW1pZXI=": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-PREMIERE-HD/default.mpd",
+        "key": "8e9903d548747d066a8d1b29a2a28deb:38b32249b1ce8840dd5ca9c85814429d",
+        "logo": "https://www.izzigo.tv/images/ch/336/LOGO/m/0",
+        "name": "Universal Premier"
+    },
+    "VW5pdmVyc2FsIFJlYWxpdHk=": {
+        "url": "https://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-REALITY-HD/default.mpd",
+        "key": "8c130bd909c7fab011a0f34d18d78366:68467a524a93f5cb56c44de6d7ff865a",
+        "logo": "https://www.izzigo.tv/images/ch/338/LOGO/m/0",
+        "name": "Universal Reality"
+    },
+    "wqFIb2xhISBUVg==": {
+        "url": "https://live1-ott.izzigo.tv/out/u/dash/HOLA-TV-HD/default.mpd",
+        "key": "d0b00c5861b0cbcedd505dbd3a09a107:27aaec2f9bf3946488ed366fc12f8d53",
+        "logo": "https://www.izzigo.tv/images/ch/70/LOGO/m/0",
+        "name": "\u00a1Hola! TV"
+    }
+}

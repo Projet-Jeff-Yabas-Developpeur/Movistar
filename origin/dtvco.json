@@ -1,0 +1,500 @@
+{
+  "AE_dtvco": {
+    "name": "A&E",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/YWVlX2xpbmVhcl9jaGFubmVs_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1002/manifest.mpd",
+    "key": "0ec70432c8fd5037baa0f44c9d80967e:b69d625196b9e3bc9349ed14914c6648"
+  },
+  "Animal_Planet_LatinAm_HD_dtvco": {
+    "name": "Animal Planet LatinAm HD",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/YW5pbWFsX3BsYW5ldF9sYXRpbmFtX2hkX2xpbmVhcl9jaGFubmVs_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1012/dash/1012_ANIMALPLANET/manifest.mpd",
+    "key": "149c371df27a56a18805272041381592:618b752d33c3e44420219b5c18b0f748"
+  },
+  "Atreseries_dtvco": {
+    "name": "Atreseries",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/YXRyZXNlcmllc19saW5lYXJfY2hhbm5lbA_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1015/manifest.mpd",
+    "key": "49dab3bfbc255da1b20852d172bb2f53:06295c8d6009a47f8c83e5c0d3f6fdd0"
+  },
+  "AXN_dtvco": {
+    "name": "AXN",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/YXhuX2xpbmVhcl9jaGFubmVs_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1018/dash/1018_AXN/manifest.mpd",
+    "key": "9ae34844dd435516aa4deab5f242e83e:6f314b938fcef4a3c1792541952c14aa"
+  },
+  "Baby_TV_HD_dtvco": {
+    "name": "Baby TV HD",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/YmFieV90dl9oZF9saW5lYXJfY2hhbm5lbA_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1024/manifest.mpd",
+    "key": "123d7ab3730d5384afb76f3109b83fcd:f0934d2d01a3aa662b0c4c345617a75a"
+  },
+  "Cartoon_Network_dtvco": {
+    "name": "Cartoon Network",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2FydG9vbl9uZXR3b3JrX2xpbmVhcl9jaGFubmVs_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1037/manifest.mpd",
+    "key": "edc66be5dcac5cdfac5cc22a9413aef9:94868d14789f0aec38867e53c911d0a8"
+  },
+  "Cartoonito_dtvco": {
+    "name": "Cartoonito",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2FydG9vbml0b19saW5lYXJfY2hhbm5lbA_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1027/dash/1027_CARTOONITO/manifest.mpd",
+    "key": "6d842222f1715a59ad24623c21745344:87061469dad96757078704a03ee3c67f"
+  },
+  "Cine_Latino_dtvco": {
+    "name": "Cine Latino",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2luZV9sYXRpbm9fbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1045/manifest.mpd",
+    "key": "14c6468aad565259a32023577ac79a39:f31842f9921a41263e5e66fd4e00cc71"
+  },
+  "Cinecanal_Colombia_HD_dtvco": {
+    "name": "Cinecanal Colombia HD",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2luZWNhbmFsX2NvbG9tYmlhX2hkX2xpbmVhcl9jaGFubmVs_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1042/dash/1042_CINECANAL_CHILE/manifest.mpd",
+    "key": "d70032e5bfdc5a91b91d34cd58881e69:22071c32e730a74f3a726ccdda6c6b63"
+  },
+  "Cinemax_dtvco": {
+    "name": "Cinemax",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2luZW1heF9saW5lYXJfY2hhbm5lbA_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1047/dash/1047_CINEMAX/manifest.mpd",
+    "key": "c3eeece1367c56f7a836c6d8ec1b016c:1277ade61ad4d3c6fede5c3f9da36b69"
+  },
+  "CNN_en_Español_dtvco": {
+    "name": "CNN en Español",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y25uX2VuX2VzcGFub2xfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1050/dash/1050_CNN_EN_ESPANOL/manifest.mpd",
+    "key": "35b1383120da599982dba7d5b4565f0e:50c58d568991777d0bc3ffc8f6803c92"
+  },
+  "Comedy_Central_dtvco": {
+    "name": "Comedy Central",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y29tZWR5X2NlbnRyYWxfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1053/dash/1053_COMEDY_CENTRAL/manifest.mpd",
+    "key": "cef48e7cfdbd570187a39bff3e433f05:83fbc8198927fdc469e7968d7503c4f6"
+  },
+  "DIRECTV_eventos_1_dtvco": {
+    "name": "DIRECTV eventos 1",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/ZGlyZWN0dl9ldmVudG9zXzFfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1064/manifest.mpd",
+    "key": "2b482eade7e6519caf4349af56683f6a:89e6e83c06ce3bc5f6738f266fbf88f3"
+  },
+  "DIRECTV_eventos_2_dtvco": {
+    "name": "DIRECTV eventos 2",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/ZGlyZWN0dl9ldmVudG9zXzNfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1065/dash/1065_DIRECTV_SPORTS_OCC_2/manifest.mpd",
+    "key": "d677a19db3a05a019d8683b9250cbc0f:e2756e96d7d9d63729b645a6139cb513"
+  },
+  "DIRECTV_eventos_3_dtvco": {
+    "name": "DIRECTV eventos 3https://dtvott-cbc.akamaized.net/dash_live_1068/dash/1068_DIRECTV_SPORTS_OCC_5/manifest.mpd",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/ZGlyZWN0dl9ldmVudG9zXzNfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1066/manifest.mpd",
+    "key": "7ac8dd7d48545bc881091ee1bbecaf42:9787ea06df2f063245bbda4a738e51cc"
+  },
+  "DIRECTV_eventos_4_dtvco": {
+    "name": "DIRECTV eventos 4",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/ZGlyZWN0dl9ldmVudG9zXzNfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1067/dash/1067_DIRECTV_SPORTS_OCC_4/manifest.mpd",
+    "key": "8f80dcd366285395b267c7ecbe7ad4b5:654f9c425fd363496b1e6bc97bd4444e"
+  },
+  "DIRECTV_eventos_5_dtvco": {
+    "name": "DIRECTV eventos 5",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/ZGlyZWN0dl9ldmVudG9zXzNfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1068/dash/1068_DIRECTV_SPORTS_OCC_5/manifest.mpd",
+    "key": "2c1b10362c89516590a6601a3cc6f27b:b326284f3ddbd70fcb4cc9df4239c22c"
+  },
+    "DIRECTV_eventos_6_dtvco": {
+    "name": "DIRECTV eventos 6",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/ZGlyZWN0dl9ldmVudG9zXzNfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1069/dash/1069_DIRECTV_SPORTS_OCC_6/manifest.mpd",
+    "key": "a8cf52be0eb358c9a8bfcd1fc94d7cb5:834c7082d28d85f5da38dde949b66c9a"
+  },
+    "DIRECTV_eventos_7_dtvco": {
+    "name": "DIRECTV eventos 7",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/ZGlyZWN0dl9ldmVudG9zXzNfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1070/dash/1070_DIRECTV_SPORTS_OCC_7/manifest.mpd",
+    "key": "eed64e0b13bc5a65b789997ec22a23d0:10d1e87f6e75c3633ffc7b7d2eccd5fa"
+  },
+  "DIRECTV_Sports_Col_dtvco": {
+    "name": "DIRECTV Sports Col)",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/ZGlyZWN0dl9zcG9ydHNfY29sX2xpbmVhcl9jaGFubmVs_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1059/manifest.mpd",
+    "key": "60203b253cb45019b0a739bb2b32345a:31e8d7c9def0d523c559904f23f94ce2"
+  },
+  "DIRECTV_Sports_2_dtvco": {
+    "name": "DIRECTV Sports 2",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/ZGlyZWN0dl9zcG9ydHNfMl9saW5lYXJfY2hhbm5lbA_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1063/manifest.mpd",
+    "key": "1413caa03e045743b6496232b09e68fa:25ce4f6cd3ee5613922f9c7f6f6e07bd"
+  },
+  "DIRECTV_Sports_Plus_dtvco": {
+    "name": "DIRECTV Sports Plus",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/ZGlyZWN0dl9zcG9ydHNfcGx1c19saW5lYXJfY2hhbm5lbA_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd",
+    "key": "f19c3a8c638d52c2ab77b9566bcb2996:e4fabf39d23cd6557fa71b6e754ef1e7"
+  },
+  "Discovery_Channel_dtvco": {
+    "name": "Discovery Channel",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/ZGlzY292ZXJ5X2NoYW5uZWxfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1073/manifest.mpd",
+    "key": "82f7aaae49e556c1985da0462337df43:76b13fd8a298d188ac5252387b228687"
+  },
+  "Discovery_Home__Health_HD_dtvco": {
+    "name": "Discovery Home & Health HD",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/ZGlzY292ZXJ5X2hvbWVfZV9oZWFsdGhfaGRfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1074/dash/1074_DISCOVERYHH/manifest.mpd",
+    "key": "cba19074379a5b3c875cd1ace01b6cbe:d9549830c29d5ff0c5c701036eb9cba4"
+  },
+  "Discovery_ID_dtvco": {
+    "name": "Discovery ID",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/ZGlzY292ZXJ5X2lkX2xpbmVhcl9jaGFubmVs_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1076/dash/1076_DISCOVERY_ID/manifest.mpd",
+    "key": "aab6b4fdb2e15bef8ef07c397b057e60:e42c375f8304be0563aea9b38eda1f76"
+  },
+  "Discovery_Kids_dtvco": {
+    "name": "Discovery Kids",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/ZGlzY292ZXJ5X2tpZHNfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1079/manifest.mpd",
+    "key": "a3b91f95dc9152ce8fa34a7fed103b70:694eb12c6ca401b454bd742c374a50c0"
+  },
+  "Discovery_Turbo_dtvco": {
+    "name": "Discovery Turbo",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/ZGlzY292ZXJ5X3R1cmJvX2xpbmVhcl9jaGFubmVs_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1081/manifest.mpd",
+    "key": "d32d815d1f7f5325ba73562534662c92:75e66a4ed7880c71655d24e52cad3bd3"
+  },
+  "Disney_JR_Sur_dtvco": {
+    "name": "Disney JR Sur)",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/ZGlzbmV5X2pyX3N1cl9saW5lYXJfY2hhbm5lbA_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1087/manifest.mpd",
+    "key": "a07d8bfe2f9956f28ca11466b4f520d5:11fdd8900d1eba9a6c95551f418dbf07"
+  },
+  "Disney_XD_Sur_dtvco": {
+    "name": "Disney XD Sur)",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/ZGlzbmV5X3hkX3N1cl9saW5lYXJfY2hhbm5lbA_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1088/manifest.mpd",
+    "key": "458f70034e895a93a534ce537f8ae315:db40fc91a5c803f374e692c3339f0ac2"
+  },
+  "E_Entertainment_dtvco": {
+    "name": "E! Entertainment",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/ZV9lbnRlcnRhaW5tZW50X2xpbmVhcl9jaGFubmVs_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1091/manifest.mpd",
+    "key": "b567e74bf1bf590a8fdb8ddfd5dc6f32:17d3197e960bcb02234e70866bdb0703"
+  },
+  "El_Tiempo_dtvco": {
+    "name": "El Tiempo",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/ZWxfdGllbXBvX2xpbmVhcl9jaGFubmVs_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1094/manifest.mpd",
+    "key": "3b79c9a295ae523da2f0a1ac33029a64:1a1feb2d2092bc20f3cb27cb19fe22ef"
+  },
+  "ESPN_2_Latin_Andina_HD_dtvco": {
+    "name": "ESPN 2 Latin Andina HD",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/ZXNwbl8yX2xhdGluX2FuZGluYV9oZF9saW5lYXJfY2hhbm5lbA_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1098/manifest.mpd",
+    "key": "5027cdebfec857549c37f38015824ed5:ecb064ec2179fb0a43d18ef76ea4a75f"
+  },
+  "ESPN_3_Andina_dtvco": {
+    "name": "ESPN 3 Andina",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/ZXNwbl8zX2FuZGluYV9saW5lYXJfY2hhbm5lbA_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1102/manifest.mpd",
+    "key": "bf68b40ab9c258598b73204509ab860d:f12a67c00d4ef28955072aec316a26f0"
+  },
+  "ESPN_4_Sur_dtvco": {
+    "name": "ESPN 4 Sur",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/ZXNwbl80X3N1cl9saW5lYXJfY2hhbm5lbA_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1119/manifest.mpd",
+    "key": "5222bd8c2898593982fc2550e493aa69:59b269b80becd036307a605d9938160f"
+  },
+  "ESPN_Colombia_HD_dtvco": {
+    "name": "ESPN Colombia HD",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/ZXNwbl9jb2xvbWJpYV9oZF9saW5lYXJfY2hhbm5lbA_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1105/dash/1105_ESPN_CHILE/manifest.mpd",
+    "key": "e97438334f9259b5879ffff21631f2c4:20a2c7f102fd3e96bacda90c24df3e95"
+  },
+  "ESPN_EXTRA_SOUTH_dtvco": {
+    "name": "ESPN EXTRA SOUTH",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/ZXNwbl9leHRyYV9zb3V0aF9saW5lYXJfY2hhbm5lbA_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1107/manifest.mpd",
+    "key": "66da31070eac58fcadb911804917ea28:886d612fb16aceb172db68fd3016a737"
+  },
+  "Europa_Europa_dtvco": {
+    "name": "Europa Europa",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/ZXVyb3BhX2V1cm9wYV9saW5lYXJfY2hhbm5lbA_11002_LOGO_360x270.png",
+    "playbackUrl": "hlhttps://dtvott-abc.akamaized.net/dash_live_1110/dash/1110_EUROPA/manifest.mpd",
+    "key": "eec60466074155c0b124e1121890bae2:00d7b5c38f7a9e196768ac6f4583eb45"
+  },
+  "Food_Network_dtvco": {
+    "name": "Food Network",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Zm9vZF9uZXR3b3JrX2xpbmVhcl9jaGFubmVs_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1113/manifest.mpd",
+    "key": "756032fd73ed536f93a6d187a7956999:d1ab5f25f977c0dc01785b44d91cdb9c"
+  },
+  "FOX_Sports_2_dtvco": {
+    "name": "FOX Sports 2",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Zm94X3Nwb3J0c18yX2xpbmVhcl9jaGFubmVs_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1122/manifest.mpd",
+    "key": "08c3e6540dcf56ba99c1286065fc0d14:e8c55a55bf97e39d2238056cf368573b"
+  },
+  "FOX_Sports_3_dtvco": {
+    "name": "FOX Sports 3",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Zm94X3Nwb3J0c18zX2xpbmVhcl9jaGFubmVs_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1123/manifest.mpd",
+    "key": "2901c41dbfc85aa6a26db29cc56bc2c6:9e1d0809b5e966987deaed55fd2631ad"
+  },
+  "FX_Colombia_HD_dtvco": {
+    "name": "FX Colombia HD",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/ZnhfY29sb21iaWFfaGRfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1126/dash/1126_FX/manifest.mpd",
+    "key": "155efc19c4e45385ac0057989a535c30:a6cd3b7d0434cc3df38b39e011f6f1bf"
+  },
+  "FX_Movies_dtvco": {
+    "name": "FX Movies",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/ZnhfbW92aWVzX2xpbmVhcl9jaGFubmVs_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1131/manifest.mpd",
+    "key": "2b57f033bf7f599ca324ebfa0769544c:d59537621ef004a6b54a9ebc29548e22"
+  },
+  "Glitz_dtvco": {
+    "name": "Glitz",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Z2xpdHpfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1132/manifest.mpd",
+    "key": "06545fb66e7d5ea38362bc2cefb0cace:4f437f342ea9f6eb1169b5ca46261655"
+  },
+  "Golf_Channel_dtvco": {
+    "name": "Golf Channel",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Z29sZl9jaGFubmVsX2xpbmVhcl9jaGFubmVs_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1135/manifest.mpd",
+    "key": "8e759ebb898859c58405a4ff3c8f6a02:1d784c5432e1ff43e10ac6f683db68ef"
+  },
+  "H2_History_dtvco": {
+    "name": "H2 History",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/aDJfaGlzdG9yeV9saW5lYXJfY2hhbm5lbA_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1147/manifest.mpd",
+    "key": "98bf1d510cb45145942e5d4c1d5f211d:d6d518949cf734c3e03328dda5b45966"
+  },
+  "HBO_dtvco": {
+    "name": "HBO",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/aGJvX2xpbmVhcl9jaGFubmVs_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1140/manifest.mpd",
+    "key": "99eefc068db3509b9f0cf5b34114219d:6c23e31a4d83b568e84aec609a63ebc9"
+  },
+  "HBO_2_dtvco": {
+    "name": "HBO 2",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/aGJvXzJfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1137/manifest.mpd",
+    "key": "2a2aed17dc6050fb9dee6e65a06b3925:bac5818a6e1135db3c9f24fb752f699f"
+  },
+  "HBO_Family_dtvco": {
+    "name": "HBO Family",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/aGJvX2ZhbWlseV9saW5lYXJfY2hhbm5lbA_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1139/manifest.mpd",
+    "key": "8cba3f6ee1725111a04928d81c538040:905acc55f36631432f242e278f1bb0b5"
+  },
+  "HBO_Plus_dtvco": {
+    "name": "HBO Plus",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/aGJvX3BsdXNfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1141/manifest.mpd",
+    "key": "6795a303a9e8517fbca38376c0af2f76:1bdb317229066ad2d74c4814a138e136"
+  },
+  "HBO_Signature_dtvco": {
+    "name": "HBO Signature",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/aGJvX3NpZ25hdHVyZV9saW5lYXJfY2hhbm5lbA_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1143/manifest.mpd",
+    "key": "72348e07625450d38063971b855b3224:b4a6d2f8cdd32be66537f1a62ffa62d6"
+  },
+  "HGTV_dtvco": {
+    "name": "HGTV",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/aGd0dl9saW5lYXJfY2hhbm5lbA_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1144/manifest.mpd",
+    "key": "bdfac486d5255d2396945102d1d3884f:8c46e4e0890780d7816e3888b7c738c7"
+  },
+  "History_Channel_dtvco": {
+    "name": "History Channel",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/aGlzdG9yeV9jaGFubmVsX2xpbmVhcl9jaGFubmVs_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1148/manifest.mpd",
+    "key": "0dc64f9b19ab51ae88959afec96e7631:ef1d0894a936f7393ec7bfa38ff618cb"
+  },
+  "IVC_Net_HD_dtvco": {
+    "name": "IVC Net HD",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/aXZjX25ldF9oZF9saW5lYXJfY2hhbm5lbA_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1153/manifest.mpd",
+    "key": "4c5635ca8f8b532bb0f061179c0bde3a:d8177ebd15f893fc6bb9c5122a8d73f3"
+  },
+  "Lifetime_dtvco": {
+    "name": "Lifetime",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/bGlmZXRpbWVfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1159/manifest.mpd",
+    "key": "3267fd32de1b52609ff6505dd67d320b:b28bdc1c46090b860a8bcdc1cdc95a97"
+  },
+  "Mas_Chic_dtvco": {
+    "name": "Mas Chic",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/bWFzX2NoaWNfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1161/manifest.mpd",
+    "key": "0dba929df2da5896a9f1b7c313c886a8:9242e69aec59c91203a17836aa97e66e"
+  },
+  "NatGeo_Kids_dtvco": {
+    "name": "NatGeo Kids",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/bmF0Z2VvX2tpZHNfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1167/manifest.mpd",
+    "key": "7c40e7f2be695b1dafa261e672269ded:6e255a3244e496f569717d559332fc08"
+  },
+  "National_Geographic_Latam_dtvco": {
+    "name": "National Geographic Latam",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/bmF0aW9uYWxfZ2VvZ3JhcGhpY19sYXRhbV9saW5lYXJfY2hhbm5lbA_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1168/manifest.mpd",
+    "key": "03c909180f885be5a04f532e09115e2a:f64b49cd560b6fab5d0a5dfa6c676c9f"
+  },
+  "NBA_TV_International_HD_dtvco": {
+    "name": "NBA TV International HD",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/bmJhX3R2X2ludGVybmF0aW9uYWxfaGRfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1171/manifest.mpd",
+    "key": "053559d122b85f2b8925ee8a62122502:e1cccab401a9f4c4d4926eb13d4f5315"
+  },
+  "NTN_24_-_Nuestra_Tele_Noticias_24HS_dtvco": {
+    "name": "NTN 24 - Nuestra Tele Noticias 24HS",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/bnRuXzI0X251ZXN0cmFfdGVsZV9ub3RpY2lhc18yNGhzX2xpbmVhcl9jaGFubmVs_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1176/manifest.mpd",
+    "key": "afa0a5ddc5a4563ab2d2e546727e833a:4887bb7d6db29c560f7d9677ae6f2769"
+  },
+  "OnDIRECTV_Andes_dtvco": {
+    "name": "OnDIRECTV Andes",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/b25kaXJlY3R2X2FuZGVzX2xpbmVhcl9jaGFubmVs_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1177/manifest.mpd",
+    "key": "12968a4d1de25e928a759ecaa16e900c:68865f2dc28c8ebac03c8a9d3b79e05a"
+  },
+  "Paramount_Network_dtvco": {
+    "name": "Paramount Network",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/cGFyYW1vdW50X25ldHdvcmtfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1181/manifest.mpd",
+    "key": "68188b3bb79453cab7b26ee929a25ed4:610c951737cb9e221f07c986b6c66f7d"
+  },
+  "RAI_dtvco": {
+    "name": "RAI",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/cmFpX2xpbmVhcl9jaGFubmVs_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1184/manifest.mpd",
+    "key": "3ecc61555371520b9b594846603e0a4b:2652b3109d65da3f69de5022f882aef5"
+  },
+  "Smithsonian_Channel_dtvco": {
+    "name": "Smithsonian Channel",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/c21pdGhzb25pYW5fY2hhbm5lbF9saW5lYXJfY2hhbm5lbA_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1188/manifest.mpd",
+    "key": "8dac986c59b7535da4c3c79e0d55ee43:30b9f30bb7ba3b1a51d7e39f46f371ad"
+  },
+  "Sony_dtvco": {
+    "name": "Sony",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/c29ueV9saW5lYXJfY2hhbm5lbA_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1190/manifest.mpd",
+    "key": "1010b99fb124540aaa475a41259751eb:1975c6bcc9566a6e94ab263dc8f04b57"
+  },
+  "SPACE_ANDES_dtvco": {
+    "name": "SPACE ANDES",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/c3BhY2VfYW5kZXNfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1191/dash/1191_SPACE/manifest.mpd",
+    "key": "2c26600e666a5f72b9b04bcf53a273dc:68a7eb550aa9f9e0c2e736d440b1245b"
+  },
+  "Studio_Universal_dtvco": {
+    "name": "Studio Universal",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/c3R1ZGlvX3VuaXZlcnNhbF9saW5lYXJfY2hhbm5lbA_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1209/dash/1209_STUDIO_UNIVERSAL/manifest.mpd",
+    "key": "bc6adccdabb75cfd8fe969a7c07cbb11:3f2a002e06be8c66345446ef5c582174"
+  },
+  "SyFy_dtvco": {
+    "name": "SyFy",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/c3lmeV9saW5lYXJfY2hhbm5lbA_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd",
+    "key": "3f90aafd0ab85c6d92e93114e278917b:9b1e41e8a55a182f69000bdc9304e3cc"
+  },
+  "TBS_dtvco": {
+    "name": "TBS",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/dGJzX2xpbmVhcl9jaGFubmVs_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1212/manifest.mpd",
+    "key": "49eb2c18bed652cc93c875cebb9af40e:841820d2663bab26e01a4bdcbf71e443"
+  },
+  "TLC_dtvco": {
+    "name": "TLC",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/dGxjX2xpbmVhcl9jaGFubmVs_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1224/manifest.mpd",
+    "key": "4a7c00fac2ca5984b695f7b3de63d73e:691b6463397d4209e78faa6ff5bcc1eb"
+  },
+  "TNT_dtvco": {
+    "name": "TNT",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/dG50X2xpbmVhcl9jaGFubmVs_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1226/dash/1226_TNT/manifest.mpd",
+    "key": "a90c8574055a541eb7ba07ff0da20bc7:4a5c54869dc5c9fef0cb44530aa70ae5"
+  },
+  "TNT_Series_HD_dtvco": {
+    "name": "TNT Series HD",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/dG50X3Nlcmllc19oZF9saW5lYXJfY2hhbm5lbA_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1229/manifest.mpd",
+    "key": "8ccb8af4a878570d8878921b84abee19:a7ebe0cc1da69dcc300f19f7b4a628c7"
+  },
+  "Trutv_dtvco": {
+    "name": "Trutv",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/dHJ1dHZfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1234/manifest.mpd",
+    "key": "4384c85046b55afabd89053702d3d328:adcad015239b3099fd40e6020eb57a18"
+  },
+  "Turner_Classic_Movies_dtvco": {
+    "name": "Turner Classic Movies",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/dHVybmVyX2NsYXNzaWNfbW92aWVzX2xpbmVhcl9jaGFubmVs_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1235/manifest.mpd",
+    "key": "e59c1fe4edb757df8aa312847c210461:136a87625db7237600b6be76139989a7"
+  },
+  "TV_Cortos_dtvco": {
+    "name": "TV Cortos",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/dHZfY29ydG9zX2xpbmVhcl9jaGFubmVs_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1238/manifest.mpd",
+    "key": "6df41a825a3e5fb092e980e4873bcf07:fda83457d54092f972f8e1a7e608f102"
+  },
+  "Universal_Channel_HD_dtvco": {
+    "name": "Universal Channel HD",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/dW5pdmVyc2FsX2NoYW5uZWxfaGRfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1243/dash/1243_UNIVERSAL_ARG/manifest.mpd",
+    "key": "3a2cfe6f84f5573c82277af6ceb23c51:6f72430eef6b803f2b266da1f4eadc9a"
+  },
+  "Universal_Cinema_dtvco": {
+    "name": "Universal Cinema",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/dW5pdmVyc2FsX2NpbmVtYV9saW5lYXJfY2hhbm5lbA_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1253/manifest.mpd",
+    "key": "ce0a7c883e2a5430bba97a3d68e0daf8:e30dd4908e667637369dfb6582f54d64"
+  },
+  "Universal_Comedy_dtvco": {
+    "name": "Universal Comedy",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/dW5pdmVyc2FsX2NvbWVkeV9saW5lYXJfY2hhbm5lbA_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1252/manifest.mpd",
+    "key": "252ddb6e79dd5351bb95eac1115d4191:f2051f38612f0a71cde7174a3c6c4526"
+  },
+  "Universal_Crime_Este_dtvco": {
+    "name": "Universal Crime Este)",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/dW5pdmVyc2FsX2NyaW1lX2VzdGVfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1254/manifest.mpd",
+    "key": "e2402ee3736c56b3bd5d50acf2300961:329937e5d236a35ffe91d6cd7125becc"
+  },
+  "Universal_Crime_Oeste_dtvco": {
+    "name": "Universal Crime Oeste)",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/dW5pdmVyc2FsX2NyaW1lX29lc3RlX2xpbmVhcl9jaGFubmVs_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1257/manifest.mpd",
+    "key": "b336674589ff5a42b5de5059c8b1a6f6:0f706b6d46e08d9933bba60f7f50dc04"
+  },
+  "Universal_Premiere_Este_dtvco": {
+    "name": "Universal Premiere Este)",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/dW5pdmVyc2FsX3ByZW1pZXJlX2VzdGVfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1256/manifest.mpd",
+    "key": "d080be28a0fc5970bf1de897f80d40bd:ab8187d50d311d30bc0d7dc6eb5697d1"
+  },
+  "Universal_Premiere_Oeste_dtvco": {
+    "name": "Universal Premiere Oeste)",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/dW5pdmVyc2FsX3ByZW1pZXJlX29lc3RlX2xpbmVhcl9jaGFubmVs_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1258/manifest.mpd",
+    "key": "c3d590373af254bfbe2b258e40d4f99d:4267cd330bb056804bd84aee34d42560"
+  },
+  "Universal_Reality_dtvco": {
+    "name": "Universal Reality",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/dW5pdmVyc2FsX3JlYWxpdHlfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-abc.akamaized.net/dash_live_1255/manifest.mpd",
+    "key": "c0402ba07dad5b0cb227af248ea2c5ee:ab463fb78e7e17b5e0ee4ea8bca35ec9"
+  },
+  "Warner_Channel_dtvco": {
+    "name": "Warner Channel",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/d2FybmVyX2NoYW5uZWxfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
+    "playbackUrl": "https://dtvott-cbc.akamaized.net/dash_live_1248/manifest.mpd",
+    "key": "56a24732c7c558a0b244dc9d5f910f87:61dfef81cee11cb419a6120270b9587b"
+  }
+}

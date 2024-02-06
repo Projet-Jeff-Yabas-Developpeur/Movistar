@@ -1,0 +1,945 @@
+{
+  "1Magic": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL05/VAM/VAM.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "83dc4f91804b4f9a844e2fbd2dc64484:ca7b816213ea3b9f80375adfbd5d1034",
+    "name":"1 Magic"
+  },
+  "1_KZN": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL04/1KZ/1KZ.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "18943d15bf9c4bbbb17aa746932fc42a:581623ebc67ab8ff52051f87aaf21523"
+  },
+  "AfricaMagic Urban Movies": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL06/AMM/AMM.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "c75bb9ae8c4c4ac5a5e30fd4ff1ec6ac:540af4bee7bf8177ca24cac6709e5c6c"
+  },
+  "AfricaMagic_Epic": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL03/35B/35B.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "746409e781a04c489d188cc2adca22e0:1a7466dd7c800052568118e3f5aff478"
+  },
+  "Africa_Magic_Family": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL05/AFM/AFM.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "6036a2bbdb8347e5a69e77957478ef29:7876fb76935e4ae6760116f5f2985c3d"
+  },
+  "Al_Jazeera": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL01/ALJ/ALJ.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "d1036ac6c9fd424086834cac42e0a75c:9d9c15c20707b95174730614908c49e4"
+  },
+  "BBC Earth": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL06/ETH/ETH.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "6cd6c54d2c284b0191355e811e46db2b:f9b26175962d156a550ef4bf686bbc35"
+  },
+  "BBC Lifestyle": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL05/B23/B23.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "1351907cfc3344f6b5c489ed8aae5cad:91ef7f32831a0851522f63720b4aec4b"
+  },
+  "BBC_Brit": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL01/B26/B26.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "6a16093ae8334123bd08098ac44f27d4:d02a38c97d5c50ff563f327c2da2170f"
+  },
+  "BET": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL06/BHD/BHD.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "9024ca6955ca4d5599c851d875d01f09:e9a5d706e9fe15826a576ab060b831a6"
+  },
+  "Big_Brother_Mzansi": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL01/MDH/MDH.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "9d8b84f7d40946be94a18fcebfcaa90f:5c0c9998fd728e043d901f982c8e9ca5"
+  },
+  "Bloomberg": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL06/BLO/BLO.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "bce05709f85e4bfa93b4e614ef015f9b:c141d82b3ce9d21fe9093333932ff34e"
+  },
+  "Boomerang": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL05/33B/33B.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "ed4cafc153bc4838a5a97029431fa1ea:317e474be982f0459c6d1f84e83d56bb"
+  },
+  "Business_Day_TV": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL06/ABC/ABC.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "8f888ba8bc2746a188d39a0863ebab1e:58467d91e11e1b413376e61798692206"
+  },
+  "CBS Justice": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL04/CJH/CJH.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "23774508d34d4732b2557433aa21fc7e:5ffb453d55acd11585adf72ddc9e62a3"
+  },
+  "CBS_Reality": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL05/CRH/CRH.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "09ee49ed676f403eb1b05bd1298bf5b3:28aae47bb465f4f0c1707dca9c327016"
+  },
+  "CCTV_4": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL02/SHO/SHO.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "4cc5f929000140ab816250da270f6dd1:4e468f5006b309d69acebcdd321d5d4a"
+  },
+  "CGTN_News": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL04/CC9/CC9.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "280f938f13da43749ca6bd91ec5af462:137f06f210c2f2f41807fc4c4432d909"
+  },
+  "CNBC_Africa": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL03/CN8/CN8.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "d60a28fa7af04ded984a3a3cc6283214:178cfb35641de6fa5c02016426d2de41"
+  },
+  "CNN_International": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL04/CNN/CNN.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "baee122e114f4072a31e4dd13d520eff:e3262a37827894309ba9586d52f8ece4"
+  },
+  "Cape_Town_TV": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL03/CTV/CTV.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "13095fc866714541a6e2ff22da1f6b6c:569059e53dbfcccbe49f2db985c7823c"
+  },
+  "Cartoon_Network": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL06/CHD/CHD.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "050531f0296e4b2e8f2c47bffc1b17b3:a26025155542831ea7feb80cd608d929"
+  },
+  "Cbeebies": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL06/CBB/CBB.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "e1ee25b8bf934be6b3dfa14ba01d3de9:73dfa96dc95efba148abc8455e9ced5e"
+  },
+  "Channel_O": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL05/OHD/OHD.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "1382c6f01eba4e4e9441e00f9df0441b:b046815f489c7b0cdae81a71257016f8"
+  },
+  "Comedy Central": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL03/C33/C33.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "bb349ddc004b4b80bd39a72464b89927:1046629ca8f8e5eebac19605d99f1070"
+  },
+  "Curiosity Channel": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL05/CSH/CSH.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "12f4357f0c3143b8b9bfe29313b1c3a0:b6b49fdd689aaf82b7a72cc7377967ad"
+  },
+  "Da_Vinci": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL05/E07/E07.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "177f1983ada94603bc20c7b3e3f97a59:87acc1875c19f84add285986680b43e3"
+  },
+  "Daystar": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL04/DW5/DW5.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "60727f800cb1469fa0d9b37b7f4d66c0:040954690c0a6d0e75421ca68a0cf9f0"
+  },
+  "Deutsche_Welle": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL01/DW4/DW4.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "da69c7d422a54a40a283e273ab188123:8837230ac2ee50b674d70cf82f9c603a"
+  },
+  "Discovery_CH": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL05/DHD/DHD.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "5db9639399af4e9f874aee1eb1378616:f874af5644a51ee66e95239da6c61f32"
+  },
+  "Discovery_Family": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL06/F32/F32.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "716a3e123b424fbeaf0c1dcb9379f040:d93c97bf91bd715556ca66e8e1622390"
+  },
+  "Discovery_ID": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL05/I32/I32.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "d4f9e659e15d422a9ead9c27651faa1a:a413ef0b2b012a634c3abf940c680b8e"
+  },
+  "Discovery_TLC_Entertainment": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL06/T32/T32.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "f17f4fc2299c43169580cbf9abd53647:a9cf23d0a21eec9aa622c8f8be8293c1"
+  },
+  "Disney_Channel": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL05/SO8/SO8.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "803c4724cafe4f64bfd6067716f75c26:a571dd491776ce93824013cf56c9bffb"
+  },
+  "Disney_Junior": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL06/DPH/DPH.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "6582f95e4f704e1599e897df5616c8e0:5da193f029c1161cab777571f7f4c59f"
+  },
+  "Dumisa": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL03/DUM/DUM.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "6988dc70f5474e61ba06a47c769d7a89:3653c6a67f491801ca9edd8ee7a58a5e"
+  },
+  "E!_Entertainment_Television": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL06/E26/E26.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "42f0715794504c958aa6a3b6a18f3bc2:7265835a0badbdb3f1e2c55c97a9ada0"
+  },
+  "ESPN": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL02/I26/I26.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "e3a01de7d1014b4abcf224a5db1c8006:743c9af93c50e0f29c88d00ce0a2c0f9"
+  },
+  "ESPN 2": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL05/SDN/SDN.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "dde9231c06af4ca988d8d4b12b4ea577:5dd3fd009f8b01da9a50d73a41858a50"
+  },
+  "Emmanuel_TV": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL02/EMM/EMM.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "0d29693b828242878996a2d8a65b1dfc:42f5f4ddf0ed0bc3dad4446bfb022b0b"
+  },
+  "EuroNews": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL06/EN1/EN1.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "a604f3bf9eb743f7bb0100790beae9b2:c98ffcd2c92a2dc417e5794d42de564d"
+  },
+  "FAITH": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL06/TBK/TBK.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "6e235de43b4a41cc85a32ecdb842812c:70caec9ff424a0903eaec183b7d76466"
+  },
+  "Food_Network": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL01/F26/F26.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "f17c732057c54449a4bf4d514f58dd6c:97cbe351888d6391605fea150f1f0ef5"
+  },
+  "GauTV": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL02/GAU/GAU.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "ef954a548151442c844a684947f17a14:f6b8598ab69fb72e11669f9e60c7007b"
+  },
+  "Ginx_eSports_TV": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL04/M30/M30.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "7b7e8aa8d77e456ebe740cc8f9f472fd:7573e968a1eba99a63313ae2f70819fd"
+  },
+  "HGTV": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL02/Z26/Z26.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "9e5c7a48729e408b9ab6657e605bfc66:47518e2be084ec068d95148b8aa97e23"
+  },
+  "Honey": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL02/S30/S30.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "b6ffa4b660524a9b869ecaa8cfb9a83b:2d895f6595472b6b488f2670b4ea22ce"
+  },
+  "Ignition": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL05/ITV/ITV.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "87242fbab8cb4d94b2ef8e0b991243ad:48870c56b5aa67f3a80ed693810eadeb"
+  },
+  "JimJam": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL02/JJM/JJM.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "da1f734ac36640adad3a771d24a1675a:b85797d7d8f621164d9db725b2a120d1"
+  },
+  "KIX": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL02/ITH/ITH.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "416184a38b1843dd8f564a4c95fe67bd:30d8408cfc86e25e27fdb5b4a911dbcd"
+  },
+  "Lesotho_TV": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL01/LTV/LTV.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "b866fa0774c44554a49113cec66a039a:ab6a73195f72b511ddb2fef5fef95c64"
+  },
+  "Lifetime": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL05/LTE/LTE.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "12c9585a949344318254d27022bc4e6a:d155833f899d375040fe0927a9db62c4"
+  },
+  "M-Net_Movies_1": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL04/M1D/M1D.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "898c38b61e8047ff938125828a52c791:ac27e138ca1dc32f908c256e0b0f3876"
+  },
+  "M-Net_Movies_2": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL01/MAP/MAP.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "2e89f5fcf0ed45d4990f16762282e226:dae13f41116513bbad3b38991f5151fb"
+  },
+  "M-Net_Movies_3": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL05/MCH/MCH.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "cb8fcbeeae064f8c83236ee7d6ff8ffd:b80f114debfa743fb00d985d461e8e9f"
+  },
+  "M-Net_Movies_4": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL05/MZE/MZE.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "263366c89f504102bd374923f9e8a252:5897ea0bdceef4421f631f3a817933af"
+  },
+  "MTV": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL01/M33/M33.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "bce5b8634116440d873d6223ba7818e1:60aec0ed05bed20f1c5e57abdb05f9d9"
+  },
+  "MTV_Base": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL04/B33/B33.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "b18f77717e2048f581e887bb57ad736a:1a440bb0fbb309ebae3434c86068cd06"
+  },
+  "Maisha_Magic_Movies": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL01/TGG/TGG.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "ee4e706fdace4bc99af74f2110fb05e1:c5224013b79917f17d7abd2546ee8217"
+  },
+  "Me": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL06/MFH/MFH.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "8e82fcdd6b514f648e3178cb54c3e9b7:de5a166bbff9709f191b56ec218bfd7f"
+  },
+  "Mindset": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL02/E11/E11.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "ed481f78805d4a858487ee73a23fe6ac:b8254888da684eddeb0c105210b8bd27"
+  },
+  "MojaLove": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL01/MOH/MOH.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "9b25e43174984fac80dcddce7970f20c:b386ecf6fcbddceac3f0de2bfb1782e2"
+  },
+  "Mpuma_Kapa_TV": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL05/TVB/TVB.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "f196c28129664af29fef5b88246903ac:a38c45c6f05057b0cd10f26d1c5ee10e"
+  },
+  "Mzansi Bioskop": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL06/35A/35A.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "9b530d9463374468b5258a81fb015bd1:29e0a175d9817b6218252af186046311"
+  },
+  "Mzansi_Magic": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL04/MZH/MZH.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "f71a88fc2be34f828ae019fd8f33ed59:fb4a3b2c4bd5487f28f0edc81accbd68"
+  },
+  "Mzansi_Magic_Music": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL06/MZM/MZM.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "f82a388c08e2447f966b0468c79551a1:9f6a90c5cc6bb10893da03b6bdf4bb0c"
+  },
+  "Mzansi_Wethu": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL04/W30/W30.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "4f2d2dcd040f4b67bcdc16830ed947ff:d66ba0be810713b644b1646748958afd"
+  },
+  "NDTV247": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL04/DEE/DEE.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "ed8ebaf8ee32479d86ad733c6c286556:cfe9e9f9d8652e5bb6152b78652ee78a"
+  },
+  "NIK": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL05/NIC/NIC.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "47b02f03dace447b9a99455ec51fd859:0894b866b1aed91291400666671bb6cf"
+  },
+  "National_Geographic": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL06/NA8/NA8.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "a8773979a5f343349e45937dfd5a1187:288c899a904b0b9c386ade494828fdd1"
+  },
+  "National_Geographic_WILD": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL06/NGW/NGW.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "d7ca63711a024878a815ba4365deff1e:baa51d0964317f7cfe8cdefc941b3773"
+  },
+  "Newzroom_Afrika": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL06/NZD/NZD.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "5daec1ffd942427d8c7e64779ac520d4:fd39ae20bb6560ff282c4b32d32f4275"
+  },
+  "Nick Jr": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL06/NJR/NJR.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "b5f5ca0a9a0c4757a57925f582e05e15:455326813e39098f369706fc11239e56"
+  },
+  "NickTOONS": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL05/NTO/NTO.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "26303eb6a7204fcaa2605bde30c6f674:674c387dea2620c9a97cc0be74eb2753"
+  },
+  "Nigerian_Idol": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL04/B24/B24.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "aa280fdce3974abca57a2a9c7b365c39:c21d1a9613966c2f83cdc1b6cf8131d0"
+  },
+  "Novela_Magic": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL03/MST/MST.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "5dcce969015c4557accdac5da91f3b9c:b9eb8f80ec0aee2241d5937d450915eb"
+  },
+  "One_Gospel": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL06/GOS/GOS.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "f50c0921b1df4421b9d64ada55141aac:396db5eacec6e229ae81c1136c88623c"
+  },
+  "PBS_Kids": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL02/DW6/DW6.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "2997c5bc686b4b9eb477e0e3c70af1b0:c2709a5a2271a19863a5fb57b97f155b"
+  },
+  "Parliamentary_Service": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL06/PAR/PAR.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "6b65950c96b44b0dbb703d02851addb4:a0a3c867d7617114bf69eca0368cf670"
+  },
+  "People’s_Weather": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL03/WEA/WEA.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "87ea71703e0b470a81af5ebb9ab01146:61149137f6f33608bc4b4e4a53b7ed8e"
+  },
+  "RAI_Italia": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL05/RAI/RAI.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "7525515d45e34f9c8d796d6bf2c12ee0:8d324f925c365c98894977657b3c0e28"
+  },
+  "ROK": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL05/19K/19K.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "9961803b8e9949f8a8b121252799fdb9:d0146eeb3e2f1f80f1414ce73d579649"
+  },
+  "RTP_Internacional": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL02/RTP/RTP.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "eb75a5878d0f4ac7871819d7958c7616:63f2e31336c462ab6d046a02f518d536"
+  },
+  "Racing_240": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL05/SKY/SKY.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "a13aff7263fe4156989264ee1f9f844b:f478dea6eb80271a22a97ea8ea47ba7e"
+  },
+  "Real_Time": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL05/RTA/RTA.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "6b948cac80434e59a2b07af54373e5e9:eca39b4be593f952bbaf541b7ef5d054"
+  },
+  "Russia_Today": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL01/EVE/EVE.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "7a438c178a3144448a0bc16b711e9c2b:8edaf56771c1f75eb45e6cf9d044d3f8"
+  },
+  "SABC News": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL05/SAN/SAN.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "ef982ed49b284ce5b981a1d679fd403b:ce3b6f409e6c51da96058b129abd9e99"
+  },
+  "SABC_1": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL03/B1C/B1C.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "5384d219a18c4f818df776fe77141131:fb5ccd7d78d937f8ed50499b39318997"
+  },
+  "SABC_2": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL02/B2C/B2C.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "096c254e376e4d81846f2cde7b336071:b0cca92d352eed4cf185336aec1db2d3"
+  },
+  "SABC_3": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL01/B3C/B3C.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "403a2e2e2e294c389c616bebc3c05d33:d9d42386877560009abda127cf9d1bda"
+  },
+  "SABC_News": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL05/SAN/SAN.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "ef982ed49b284ce5b981a1d679fd403b:ce3b6f409e6c51da96058b129abd9e99"
+  },
+  "SOUND_CITY": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL01/MM2/MM2.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "5fc563ee3e354d8f829b3d465a99cdf6:2b67c3b517a4c4621e6c265b8d31005d"
+  },
+  "SS Action": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL05/HD7/HD7.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "bf72b45155cd4ac2948a627f41591254:d82f19871e21b1ded34f387811609697"
+  },
+  "SS Cricket": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL03/12H/12H.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "a07bb7b00ac2497fb2c2735e7eed4ebd:e3566e542211517682b419cc44f1b241"
+  },
+  "SS Football Plus Africa": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL05/MSH/MSH.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "c2e092d2f6fb44ee8766e9314fb44b44:00edc34cb01d0831516c6950a30e3dbf"
+  },
+  "SS Golf": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL04/EDH/EDH.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "cfe5182c4e524fc8a638c57a4f80f915:4493589477ee84530c6703eeb1dbbc02"
+  },
+  "SS Grandstand Africa": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL03/SH4/SH4.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "4b29d6fece78424faa40940156b9d5d5:1fcd814ed0e22437d69b2ad11ef2503c"
+  },
+  "SS LaLiga": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL01/SSH/SSH.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "e3ef0e696205463b911aa6f2630f9a87:98f3fa90c9ed0e99c9df2c68729c8ee3"
+  },
+  "SS Maximo 1": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL03/XHD/XHD.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "f36130b7a0b44185949c98e417e2f426:5624117db68e8fdb0b5100b5232a48bb"
+  },
+  "SS Motorsport": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL01/E30/E30.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "50275301a9234dc68ef2243b0408a9a0:dcc6bd6af990b054041353b2fbc3f9e3"
+  },
+  "SS Premier League Africa": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL04/TS2/TS2.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "e658d6f9c43d44a3aa6ff8f625393ff5:a7e3d7c75b0a8becd16d7b6905e04da8"
+  },
+  "SS Rugby": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL01/A11/A11.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "c9e8c3eed9af4a3cbe7f4080e15acd7c:b6a9efd99c07ffc805d108981388c5f9"
+  },
+  "SS Tennis": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL05/S34/S34.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "585f175e4f4e4612b449c0b9343739ea:a6a2c164c5a587ae2b7ffcfba0061ef8"
+  },
+  "SS Variety 1": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL04/HD6/HD6.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "84e40d1904de496d90e1ccc0835e05fe:f8af5812480a943f192c73011ae016e0"
+  },
+  "SS Variety 2": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL05/HD5/HD5.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "e2c0e8d136c545b798a91b55e1b45d02:b686354a0dcf48a70818081ad5877c09"
+  },
+  "SS Variety 3": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL04/34S/34S.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "c51f76a6607b4654b7c38aad5bf0db7e:386ecb8286ac105e935f6b12e890ceb5"
+  },
+  "SS Variety 4": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL03/9HD/9HD.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "0f9311de2e1a49ac9189f1d4ded14c63:ba3a743bdfab1b3e3804b09b3b27fed9"
+  },
+  "Sky News": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL02/S33/S33.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "059153b8278240b9bb32fe0d0a406b07:8c0c780411de31e8973a5ca51eae2cf1"
+  },
+  "Soweto_TV": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL06/STV/STV.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "9d7e8da00dc147859a08af7f22f037f3:d92bc5764c804c8c27e981933655466a"
+  },
+  "Spice_TV": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL02/SPI/SPI.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "1427aced63d84ceba4fc54765f65682d:2e5cdca220f33b89da5a511677debef1"
+  },
+  "Star_Life": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL06/H26/H26.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "a9c9a0c2e27d402c9667c286aa9ac63c:8d2fcf65622fa6f633edcaa07e8daff2"
+  },
+  "Studio_Universal": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL05/SUH/SUH.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "56e11ac7033b4159a864e6c4f3cb61aa:ac07a44b281d917ff9a3aba2004b3328"
+  },
+  "SuperSport_Blitz": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL06/SSZ/SSZ.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "8c1c2ba170ec4ff488eb6b31e2329871:6dc8e92314c26f7daece8e07daa87d3a"
+  },
+  "SuperSport_Football": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL05/MSH/MSH.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "c2e092d2f6fb44ee8766e9314fb44b44:00edc34cb01d0831516c6950a30e3dbf"
+  },
+  "SuperSport_La_Liga": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL01/SSH/SSH.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "e3ef0e696205463b911aa6f2630f9a87:98f3fa90c9ed0e99c9df2c68729c8ee3"
+  },
+  "SuperSport_OTT": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL06/ST1/ST1.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "83fd2fc3a1064108bd279c07dc0d2b8d:b486b71f939fa3e0ee566b40e6a9894b"
+  },
+  "SuperSport_OTT_2": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL06/ST2/ST2.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "4da7353a92f0471687105b7de4b30d3e:b7bc93efb3520efa04efe6b7bb5a0e1f"
+  },
+  "SuperSport_OTT_3": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL03/ST3/ST3.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "0b415e69b51e404ba88e43275ab89d9e:7e1e8c12f3823784c774ca901ee13729"
+  },
+  "SuperSport_OTT_4": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL04/ST4/ST4.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "c5e9bc60bf4d49daa22c13813b6fe8c2:c1f2266050f16037793533247fcf845b"
+  },
+  "SuperSport_OTT_5": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL06/ST5/ST5.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "3635a3e3881747d482fdb0f198c92d5d:2c05a2432fa547a761e708ce6e35f802"
+  },
+  "SuperSport_OTT_6": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL06/950/950.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "b8997779d38543f9a51f5f220e95705c:a6341333c084f033a9a3fd289b349639"
+  },
+  "SuperSport_OTT_7": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL01/951/951.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "d54c8d7b874c4934a6785c532f01c294:1f3df5e6ca990af79dd03175b52358a0"
+  },
+  "SuperSport_OTT_8": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL02/952/952.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "8aa8358878e9403c8b4e31e72eb3f4b7:649cfc1bf911ed4aafff20898b718454"
+  },
+  "SuperSport_PSL": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL01/SH2/SH2.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "c6d79ee3d06741cdb63d19c761f7b5d4:e765388cbc743eaa7c412fb3661d1e14"
+  },
+  "SuperSport_Play": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL06/SPY/SPY.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "02a783850f154453ba7af9b4e1fb734b:d69e7560e3205594c020593c5b4ca3cf"
+  },
+  "SuperSport_Premier_League": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL04/TS2/TS2.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "e658d6f9c43d44a3aa6ff8f625393ff5:a7e3d7c75b0a8becd16d7b6905e04da8"
+  },
+  "SuperSport_Variety_3": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL04/34S/34S.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "c51f76a6607b4654b7c38aad5bf0db7e:386ecb8286ac105e935f6b12e890ceb5"
+  },
+  "SuperSport_Variety_4": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL03/9HD/9HD.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "0f9311de2e1a49ac9189f1d4ded14c63:ba3a743bdfab1b3e3804b09b3b27fed9"
+  },
+  "TBN_Africa": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL05/TB1/TB1.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "88d5a7bf6ded43f7abff25ee4662ae91:fd4eb6d4e017b40932ca5459680034b1"
+  },
+  "TLNovelas": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL06/FS1/FS1.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "6e2674fa8b424b10ae47952d18a3b19a:e624173adb82fd357c1d0f28eafde335"
+  },
+  "TNT_Africa": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL05/TND/TND.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "e52484c1dd184cea9c4ab7bd806298a0:ed93e63717e118bb7b91cc46494cc84f"
+  },
+  "TRACE_Africa": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL06/8GT/8GT.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "0ff2a9367cfa4ce6abc10ecb0e12ccf6:1fb030134a3bc19c49a865b387aa2fae"
+  },
+  "TRACE_Gospel": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL01/TG2/TG2.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "97f33437015b471cb52c198a63ef1d05:9a1d984c8ad15bb1795c87f962b86b85"
+  },
+  "TRACE_Urban": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL04/T26/T26.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "a336655a8aba41bab0885111a2ff589d:1d566171f0dbf7a38b2783b89e4c6962"
+  },
+  "Telemundo": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL06/TEL/TEL.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "ce79c4b5fab44903973acd15fae58701:c17b0a65358254a6949672cafb533549"
+  },
+  "TellyTrack": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL01/IGN/IGN.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "7562c718f2ba4ae59c1223079d06bbd9:96440ad8745c5dbb5bff80ae601a2094"
+  },
+  "The_Home_Channel": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL04/HCH/HCH.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "40a0023c30734966b81239c07699e818:9d1c2a581c965a238bd6d45f0e4610e8"
+  },
+  "Travel_Channel": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL02/TRV/TRV.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "719136da733b40d591686e059b62bc10:682c3385da3ed0e2ae657fb0f0ca892a"
+  },
+  "Tshwane_TV": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL05/TSH/TSH.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "a14199e2836744bcbafc7beaa511aa2d:ba0e67db0c70a7b63282717bb477f3f4"
+  },
+  "Universal_TV": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL05/UHD/UHD.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "52f7e19fc0934da3be3341a4fdfa578d:a4552787daeb4732b9bac3cea3823555"
+  },
+  "VIA": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL05/VHD/VHD.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "85c44e71d7b84e4fa0c15c7353407bce:7639ba97c17e6c6ed66eadca28c1c2d1"
+  },
+  "WWE_Channel": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL06/WWE/WWE.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "be60aa9f5b1945db9ba4d47de7dec49f:980ad14ab34b7ca75811279db1cd1d1b"
+  },
+  "WildEarth": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL03/POP/POP.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "dd41684cfa184b6bbdf742d6f490b3ba:44a09acc423178230e45527ad22e9469"
+  },
+  "Zee_World": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL06/M11/M11.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "74d311667c0c49eeacbf98de079bc240:1d41037993e43c2cda142b91db772c20"
+  },
+  "africanews": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL05/CEE/CEE.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "b5388408d0944ac485bef9f3260e83b2:6f77120f31479d886fd0ece71c5df3e8"
+  },
+  "e.TV_Extra": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL05/E01/E01.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "77a5758186be46a4b9d9d586584045ca:e42e6248066d361fefb6b64eb34197d8"
+  },
+  "e.tv": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL05/HDE/HDE.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "5ff929879d964db896e5c4872fc9e49a:50760d4146db5d7d58bd13a1f5fb2f4a"
+  },
+  "eMovies": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL05/E03/E03.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "cc76ae091adf4e248e5b957b35092216:0b3540cbb53142a6e3cc5fbad9a4b104"
+  },
+  "eMovies_Extra": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL02/E05/E05.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "1e9b9c1d73fc46e1a179096c1d97e2fa:856eb4cc757283cc034cd6366f34fda3"
+  },
+  "eNCA": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL06/ENH/ENH.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "ca8d7a8c56c44ed190ca405d2ee0245e:41d473047e7b0666990f5b7a11625d4a"
+  },
+  "eNews Channel Africa": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL06/ENH/ENH.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "ca8d7a8c56c44ed190ca405d2ee0245e:41d473047e7b0666990f5b7a11625d4a"
+  },
+  "eToonz": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL06/E06/E06.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "cec84f7e189b413aac0ace97c00e0693:f8ca52ff441589934893bc1fdf438e94"
+  },
+  "fliekNET": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL04/FND/FND.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "fbfb9d66c56f41038ab311e3ce254d8b:862e45b82c7e16cdd6e09aa0d1e189b5"
+  },
+  "iTV_Networks": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://r-live-cache.akamaized.net/USL05/IST/IST.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "8c4aa35b5020402ea0c9116417863234:df9c54ec912f5a57c03496dbe23365c3"
+  },
+  "kykNET": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL04/KHD/KHD.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "b87dc961b5f34c1a8f1f4d0ae80f2df3:9e36caf91ed666731b75734a68b63a76"
+  },
+  "kykNET_&_Kie": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL07/K30/K30.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "2aa5bbacc98e4eb3a6938b5a2961bb71:2df74bfe62e999e0e6fcd057bc9e01d3"
+  },
+  "kykNET_Nou!": {
+    "group": "DSTv Now | Africa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DStv_2012_logo.svg/800px-DStv_2012_logo.svg.png",
+    "url": "https://i-live-cache.akamaized.net/USL01/KNM/KNM.isml/dash/TS2-video=2800000-990292145952.mpd",
+    "key": "18419e0132514bb9b46b394437014670:4f5a62a13404931b8c65517381ec100a"
+  }
+}

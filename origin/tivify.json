@@ -1,0 +1,922 @@
+{
+    "TGEgMg==": {
+        "url": "https://tvup-live.secure2.footprint.net/la2/la2.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5a65fb546ba63915ccb5138f.png",
+        "key": [
+            "832717475b2a5115b7f95b005a0ce0a7:10331c4aa012924657261a4f908fac23",
+            "a2e339d9da8157df90b04eb12b0ef082:e377f6a7186f22ba35b0b56baf65d0f5",
+            "e8b98661dcee5706ba3e9c319da5eefc:08914c3dd4ad15a8cc6eaaa5ab2eaca6"
+        ],
+        "name": "La 2"
+    },
+    "UlRQaQ==": {
+        "url": "https://live-tcsand.thechannel.store/rtpi/rtpi.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5db865fc8a834e007359c277.png",
+        "key": [
+            "6e0fac26502d5bb4b0fc49b25fd50581:d0e8b983a64cefe213db1e319d2f1273",
+            "9b4199e2613f5e3796a4b190f1062796:b7dfb234f2f74aaa986ee2fc5ac14d89",
+            "3c084eeddc345d4089be7603ba91dfd2:89d1edceb97925f4f8c130070e332b8f"
+        ],
+        "name": "RTPi"
+    },
+    "UGFyYW1vdW50IENoYW5uZWw=": {
+        "url": "https://tvup-live.secure.footprint.net/paramount-channel6/paramount-channel6.mpd",
+        "logo": "https://media.tvup.cloud/canales/5ac5e61303080405b20a4feflogoColor.png",
+        "key": [
+            "384dcf0a01995f91b62627356c556884:a7783d2592d9171a3f0f8140c9197c58",
+            "d38764e374f95e429f9abd90879156e7:4f6dd100e6fd51838db58a6e0103ba8a",
+            "525843a0f14c5c2591ce5e08e32d29c1:e8d223e5a60e97ef003501ed359c1464"
+        ],
+        "name": "Paramount Channel"
+    },
+    "TGEgMQ==": {
+        "url": "https://live-tcsgra.thechannel.store/la1-nacional/la1-nacional.mpd",
+        "logo": "https://media.tvup.cloud/canales/5a65fb256ba63915ccb5138elogoColor.png",
+        "key": [
+            "832717475b2a5115b7f95b005a0ce0a7:10331c4aa012924657261a4f908fac23",
+            "a2e339d9da8157df90b04eb12b0ef082:e377f6a7186f22ba35b0b56baf65d0f5",
+            "e8b98661dcee5706ba3e9c319da5eefc:08914c3dd4ad15a8cc6eaaa5ab2eaca6"
+        ],
+        "name": "La 1"
+    },
+    "Q2FuYWwgRXh0cmVtYWR1cmE=": {
+        "url": "https://live-tcsgra.thechannel.store/canalextremadura/canalextremadura.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5e20374ee525a500595b85af.png",
+        "key": [
+            "0568718433c5517a82328406e3cb6c67:214dbe7039526614c7279e011ebbd5a2",
+            "53b887e007af5bdd9c4f1ed272d6f593:f2d32bfd8f811701eb4464cd94fd9898",
+            "db1c242b01795d8496af4bee4c1c20b9:eeedbae8b3fad2c4a6f1aaad3fb2e2e7"
+        ],
+        "name": "Canal Extremadura"
+    },
+    "Q2FuYWwgMjQgaG9yYXM=": {
+        "url": "https://tvup-live.secure.footprint.net/canal24hhd/canal24hhd.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5ac5c56a03080405b20a4fe3.png",
+        "key": [
+            "2b0c1c275ef8536dbfcdde83d013ca5c:074756616626cdbaaacf1ef0c4d42be1",
+            "aaac4054caaa5c6cb66a1feb3d4cb4d5:0f0440b2c99e6c7c22310f724c3214b8",
+            "2d3e2b4ccc5953a181b7c9e66171b949:9f2598ac87145e4978bda37ddb63abe2"
+        ],
+        "name": "Canal 24 horas"
+    },
+    "REtJU1M=": {
+        "url": "https://tvup-live.secure.footprint.net/dkiss/dkiss.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5ac5e50b03080405b20a4fe7.png",
+        "key": [
+            "d38a20170e8c54398a7e4aa95232998d:3d2b903b2feac7bf5620f97c5ab81174",
+            "6f13577465cd59548b5a9627afaafae4:9dd85da80df88f92511adb77f87d6f5c",
+            "5cf660a9321254bc94c6402a586e522f:7d3c87139f5d6c2ab8ab18eeb0200268"
+        ],
+        "name": "DKISS"
+    },
+    "Tm92YQ==": {
+        "url": "https://tvup-live.secure.footprint.net/nova6/nova6.mpd",
+        "logo": "https://media.tvup.cloud/canales/5ac5f8f08140f92ff4e1bd5clogoColor.png",
+        "key": [
+            "c2b773f5c09559e58ad72c9014a54c76:32a70aecba0819174d9d4c42dbead31f",
+            "442dce681cf2569f9a6dd5fd83ca07d1:6bc78863a4ce36228e4526f07bb37f7d",
+            "503618f829785defbc4a40da1c350c8d:efc45b64f9a3af0a9558fabaac5fafa3"
+        ],
+        "name": "Nova"
+    },
+    "Q2FuYWwgU3Vy": {
+        "url": "https://tvup-live.secure2.footprint.net/canalsur/canalsur.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5b07d812b0b6b936758c5a96.png",
+        "key": [
+            "b52ec6e05e505714a3544c627527e502:6135f6df958ff3e401876310e8150d12",
+            "867d11505b885f939bd4de52e7494921:b77ddb50d2d52fa482e590b4c342e086",
+            "1cab1c7de5565799aba4d3dbc133ee78:ff0331d5860c312596581d079ac042dc"
+        ],
+        "name": "Canal Sur"
+    },
+    "TGEgU2V4dGE=": {
+        "url": "https://tvup-live.secure2.footprint.net/lasexta/lasexta.mpd",
+        "logo": "https://media.tvup.cloud/canales/5a314f7c38ca220c6cb04586logoColor.png",
+        "key": [
+            "da34f7ba51495627b5e78a56fe263ce6:2e984786ede5f201dca69f9322e0e382",
+            "14df1a00d89f5d89a24d883de1c6a4c5:2ad506e0bf9e3344f4df2cc673d728f6",
+            "a217bce8fa71550f9ad12cb0827517b6:85e998af299b4dd66cbe8ab4542f5978"
+        ],
+        "name": "La Sexta"
+    },
+    "VGVsZWNpbmNv": {
+        "url": "https://tvup-live.secure2.footprint.net/telecincohd/telecincohd.mpd",
+        "logo": "https://media.tvup.cloud/canales/5ac5e63803080405b20a4ff0logoColor.png",
+        "key": [
+            "dce5deb54b865167800919adc9e02785:1baeb5122a0d4c551b67342249eea325",
+            "7e107183004d5751b412c16b79ad57ae:2842b34a46e5564d5c8c63851c0e3074",
+            "fd3d89fcb6915064a798c8b67a7c8052:3c2728904658076c9ba84252d777f2e2"
+        ],
+        "name": "Telecinco"
+    },
+    "Q3VhdHJv": {
+        "url": "https://tvup-live.secure2.footprint.net/cuatro/cuatro.mpd",
+        "logo": "https://media.tvup.cloud/canales/5ac5e4b203080405b20a4fe5logoColor.png",
+        "key": [
+            "e09c802723245e1aa49aba16a4682875:88eefdfef3a36b12aa0855d7e1665e16",
+            "3a94f08ff07f5a9b872faa13305aa753:c9e9bffb445a554ebda25a554d80b523",
+            "de1027a8129253ea833b44fbd453d0e2:b7925a291f79b9bde0ee7c09b52050b2"
+        ],
+        "name": "Cuatro"
+    },
+    "QkJDIFdvcmxkIE5ld3M=": {
+        "url": "https://tvup-live.secure.footprint.net/bbcworldnews/bbcworldnews.mpd",
+        "logo": "https://media.tvup.cloud/canales/5b02d6c5c5895a2dc7b5d07blogoColor.png",
+        "key": [
+            "ee1b9a8cac42590d87af38a6cb2e30be:bcb11e69c9b9be7c9387ffaa066c0bd4",
+            "3666d4476e625dd48fd058dc1cbb1dda:6311f53b3f93d1730ec222d1a32895e7",
+            "81e34c3f3cb9581c9631a3ddba094bc0:2dc2033a7d2185aceb91c33ef0627504"
+        ],
+        "name": "BBC World News"
+    },
+    "U3VwZXIgMy0zMw==": {
+        "url": "https://tvup-live.secure.footprint.net/super333hdsrt/super333hdsrt.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5afeb829d2fc610babd2b88f.png",
+        "key": [
+            "fdeccd59bf845953bbd4475ff7c6191a:24ea6bdccf02a9f980ec00a6f441caed",
+            "106873f72be658f0bbd7625d49f27099:743c2036253ff8234ccb2d237f35bb87",
+            "fce257dda2e55d97878ec9a8723d7e4e:6fe7e7f096ba2222e116ab4aa25fcb65"
+        ],
+        "name": "Super 3-33"
+    },
+    "QXRyZXNlcmllcw==": {
+        "url": "https://tvup-live.secure2.footprint.net/atresseries/atresseries.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5ac5c44003080405b20a4fdf.png",
+        "key": [
+            "db3f59ccff3553079085950cb62a7a4c:dafb2a5a6fc0b089fdfd7305dc8acc7e",
+            "477279a15cba558bb6b5d8ba1ffc576e:50a67488f3fb16f5632ef7f1c713fcbb",
+            "61e822acd9f65bc98039ba190b1e2fb6:20966b8c52375586bd25444ac3752f05"
+        ],
+        "name": "Atreseries"
+    },
+    "TWVnYQ==": {
+        "url": "https://tvup-live.secure.footprint.net/mega6/mega6.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5ac5e5a303080405b20a4fec.png",
+        "key": [
+            "c944d115b73959cda41f33066a9877b8:f7bc864c6d3aa6ff92525d7fed9ec8b4",
+            "6302013cde9a5a4eb1b0803c8c1ec244:5d3f72b800ac27146d74ed257a97459b",
+            "0100ddf2f5eb56bb9d11553af0669203:26a225912583d730e35791abfe513790"
+        ],
+        "name": "Mega"
+    },
+    "VFYz": {
+        "url": "https://tvup-live.secure2.footprint.net/tv3hd/tv3hd.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5a314e548e26040be8a9f3fd.png",
+        "key": [
+            "1d58108e91da504586fbb9c003ebeaee:19f73191635c8c234430427963d67b5b",
+            "1337251852e45596abc5271a000f2b1b:2fb14301d629be77d5f15ed168c7c50a",
+            "a6e24607ee2c5fa69bc765172db72b1f:5b3d75926393f27aabd5c1dba8ffa48c"
+        ],
+        "name": "TV3"
+    },
+    "Q05OIEludGVybmF0aW9uYWw=": {
+        "url": "https://tvup-live.secure.footprint.net/cnninternational/cnninternational.mpd",
+        "logo": "https://media.tvup.cloud/canales/5b02d601c5895a2dc7b5d078logoColor.png",
+        "key": [
+            "c2695d35ffd15fb89ae084c666112368:d250699d3540b8099ad8114450693b5b",
+            "bfd472da66045c329db7bcbe463dc8f1:fba9f339e9d76f31ce865bec0b25b337",
+            "3aeeeebc7d235549884a8df3e7b8d818:18e89a9daca6799646fb3c415598c11c"
+        ],
+        "name": "CNN International"
+    },
+    "QmFyw6dhIFRW": {
+        "url": "https://tvup-live.secure.footprint.net/barcatv/barcatv.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5b3b80572ab31714b07b65f7.png",
+        "key": [
+            "c75fa077f3185e4899a5c08458fff8d7:bd8817e700e723bd0366fd82b5d02a45",
+            "53f4449a2ce35c1c91a2cb6bd467e2a6:fc522076202388068ccfe1a961f3abd1",
+            "551dbac900da53f3b2b30b589e5fb999:1c6df1a6a5ca8aaa16a00f488fa00322"
+        ],
+        "name": "Bar\u00e7a TV"
+    },
+    "UGlyaW5ldXMgVFY=": {
+        "url": "https://live-tcsand.thechannel.store/pirineustv/pirineustv.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5db1c8e4543d1a0055b5a425.png",
+        "key": [
+            "727c073e5a8455c68ba517aaec4d7ef7:953869a710fb5b9e42e2f8b9bc049e9e",
+            "4b3e310310015b318439f3f6eebab3f8:4262c4b8cb2eb24a69b73001c12a108c",
+            "6221239d6e4253e59404d26db0d7dc4e:79e6ec1f2c0bfbf552b1d30fec5b06f6"
+        ],
+        "name": "Pirineus TV"
+    },
+    "U3VyZiBDaGFubmVs": {
+        "url": "https://tvup-live.secure.footprint.net/surfchannel/surfchannel.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5e45566b2a9605005a02bae3.png",
+        "key": [
+            "da1174e37df7502bb009d541cc8fc6ea:b18710bc729b1ebe52d31702491c27ed",
+            "ff89b0ed7c955c048993283517edbeaf:b97602827ea90a572946bec79c8b1d22",
+            "5ed7768149fd51f49163643eacd6563d:d81dac1a58d656d57ad1324c6055f295"
+        ],
+        "name": "Surf Channel"
+    },
+    "VFJFQ0U=": {
+        "url": "https://live-tcsgra.thechannel.store/trece6/trece6.mpd",
+        "logo": "https://media.tvup.cloud/canales/5b07e3b5b0b6b936758c5a97logoColor.png",
+        "key": [
+            "f0213291d4a25fee9530de65c9532ae6:254de907dbb549bb660ce714e4b45828",
+            "05d85d5b234a592bb1fdedaea2638f2f:a4c2a5cf13e84411a1ebc744ef23965f",
+            "42f47d56a5d25a159fec6cf164b2ffd8:74801648c42315b6f8a07ad4eb4f26b3"
+        ],
+        "name": "TRECE"
+    },
+    "RXNwb3J0IDM=": {
+        "url": "https://tvup-live.secure.footprint.net/esport3hdsrt/esport3hdsrt.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5b04156ab63af22346518c4c.png",
+        "key": [
+            "9b2b62b8db875bd5969642626241c3cf:8124685104fc563ca9580d61d861c92c",
+            "ccf49dd534ad5d9aae37992e17a55163:aa905b9cc6532ba23aef4dc646bde575",
+            "6820b602409657249b51aaf013cc6d70:bbb5dc7af876a299db0b1c4eb6783866"
+        ],
+        "name": "Esport 3"
+    },
+    "QXJhZ8OzbiBUVg==": {
+        "url": "https://tvup-live.secure.footprint.net/aragontvsd/aragontvsd.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5d6e37ce1b12bc0056d0320c.png",
+        "key": [
+            "43feff59f98a54a3b88d595fb85afebd:9372c717852a95a6c90de80031f8cfc0",
+            "bfd6795befef527cb360d91ce4d14d74:b7cbb7bc210032f2078d34089a02874d",
+            "eda6eead4e335ce089e4994fa68d305e:911d8bde33f88903dee6fd5670bd2df9"
+        ],
+        "name": "Arag\u00f3n TV"
+    },
+    "TmVveA==": {
+        "url": "https://tvup-live.secure.footprint.net/neox6/neox6.mpd",
+        "logo": "https://media.tvup.cloud/canales/5ac5e5f003080405b20a4feelogoColor.png",
+        "key": [
+            "cda9d1d0d2225822a777fd9ce5ec8327:0c0cbddeff997205d1e93e353746ae57",
+            "86f96b6d5d7d5399ac1e03968489da97:a601f83e8ca69500450f6b73b648a706",
+            "4efa51ff888e5a3c8ff5ab005d9da6ae:0b85d7ddc0b19c06895f905533c667ef"
+        ],
+        "name": "Neox"
+    },
+    "SUIz": {
+        "url": "https://tvup-live.secure2.footprint.net/ib3hd/ib3hd.mpd",
+        "logo": "https://media.tvup.cloud/canales/5afeab43d2fc610babd2b87flogoColor.png",
+        "key": [
+            "1f0484848384543981a0933434b068b5:e9af97a4f20101147bf13294376ae12c",
+            "f809239f2e5e52d48625d1280ce74fbf:9f805669b0c52a1af78d3f074ffc143c",
+            "e43f83b4ee0f583895e46b5669618154:e56521f5704b0c39bd8122619cba9491"
+        ],
+        "name": "IB3"
+    },
+    "RE1BWA==": {
+        "url": "https://tvup-live.secure.footprint.net/dmax6/dmax6.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5ac5e52a03080405b20a4fe8.png",
+        "key": [
+            "8f6274cbc36a52f7a9104f5fab9f1918:27060c527a69d604b42cbf2982127238",
+            "a23af59626f25a87bb7a92632047de16:53c3ca7308ad2b9ee0a33d4c0b266931",
+            "31202201d2055ddfb0e567d6fe222b09:fd5d557ea82bf155bc9b06c8cb000159"
+        ],
+        "name": "DMAX"
+    },
+    "RVRCMg==": {
+        "url": "https://tvup-live.secure.footprint.net/etb2/etb2.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5c1762f0a69b842193852d54.png",
+        "key": [
+            "3c0886e9400252c6bb9c52fbfac4175d:90840aa0e621a2af048c9a399c956260",
+            "df24e7a7501f5f809f81fa4c9064cb99:26179af8630fa96b313d0c6fa57d1760",
+            "f7fdddebddda5fc49f2268d184bdeff0:8627c611b96876f2c072574205878bb7"
+        ],
+        "name": "ETB2"
+    },
+    "RkRG": {
+        "url": "https://tvup-live.secure.footprint.net/fdf6/fdf6.mpd",
+        "logo": "https://media.tvup.cloud/canales/5ac5e58003080405b20a4feblogoColor.png",
+        "key": [
+            "40ce6754176d52ed82db2a8116d2e12c:ec5eaf31fac8eb8991e16252556c71a0",
+            "95a6488922955d6b9a19a69d8508e518:0750e61795386ffac2fdd48e9c620fc0",
+            "2e255081cd925c10adfe47b5b5161288:d0475bc6922f5340fed1f77c73b6be65"
+        ],
+        "name": "FDF"
+    },
+    "w4AgUHVudA==": {
+        "url": "https://tvup-live.secure.footprint.net/apunt6/apunt6.mpd",
+        "logo": "https://media.tvup.cloud/canales/5cb43c78aada4d004cda83a2logoColor.png",
+        "key": [
+            "43ae606d9b6353eabe9a4f978b170cd3:5a11691794bf1f2c2d23058223fb1940",
+            "06c42aacb94e59439c13b8e60e9ab459:1a440692ba70da9f3a8aff3585886501",
+            "f84e6a10158454a6bfe5c14adf95e8e7:9c35cda3f0b528f6d90e223b0e311530"
+        ],
+        "name": "\u00c0 Punt"
+    },
+    "VFZH": {
+        "url": "https://live-tcsgra.thechannel.store/tvghd/tvghd.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5d777d87a9824d0056b02a67.png",
+        "key": [
+            "a4feda47489550538da18fc55ae35099:d8afdf8224d243b6088a0d82d92e6494",
+            "e9d0914252c05a4a94c02a534e8d7f22:324209864a16873af9aefca94ed2358c",
+            "c44b71ad7ef75defad4de72894ae0450:27ba4f6ebd4ffe0205099723a4d064d5"
+        ],
+        "name": "TVG"
+    },
+    "QW50ZW5hIDM=": {
+        "url": "https://tvup-live.secure2.footprint.net/antena3hd/antena3hd.mpd",
+        "logo": "https://media.tvup.cloud/canales/5a314f7c38ca220c6cb04587logoColor.png",
+        "key": [
+            "640a1875f10d58c188045cbabc8ebf0b:400eff1e1dee5da1e5f67dc7bd46f1d8",
+            "ec51a6d024c957f3ab0b977289d01ad6:32e98b51de453fde7062fe9897f86016",
+            "c967281621d450f5bd4af5fc2e5d368f:a33084064a1e074c476d06a7031d3fd4"
+        ],
+        "name": "Antena 3"
+    },
+    "My8yNA==": {
+        "url": "https://tvup-live.secure.footprint.net/324hdsrt/324hdsrt.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5b02e3e9c5895a2dc7b5d094.png",
+        "key": [
+            "d76b91ca7b6f5a719b1d6ccdf53cb030:c836482222227cdcbfb69199f0a2d592",
+            "881f441f877c523aba0a00a51ca9a32e:ade5ca79a57e1546d8a22de1aa3894a4",
+            "ca5961d08e135d35b83654161624f413:9affcfa4b1272a35575995787db9385c"
+        ],
+        "name": "3/24"
+    },
+    "QmUgTWFk": {
+        "url": "https://tvup-live.secure.footprint.net/bemad/bemad.mpd",
+        "logo": "https://media.tvup.cloudhttps://media.tvup.cloud/canales/5ac5c4c303080405b20a4fe1logoColor.png?t=1648750342",
+        "key": [
+            "cd82b713c10d54d4bd6244d44ce4243c:19e0ad98e89b473f3b2d6e0012455e70",
+            "bc57ba34fe945fd086c514e17fccfcea:e87423c7f9e4c636149cc1032e52a991",
+            "e9be3b739f285980aba34379d2d2bdb3:f841b4962247d6516b31aa590eba4379"
+        ],
+        "name": "Be Mad"
+    },
+    "RVRCMQ==": {
+        "url": "https://tvup-live.secure.footprint.net/etb1/etb1.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5c1761caa69b842193852d50.png",
+        "key": [
+            "6dc42bc800975f59985e9e8305a3d739:c5bb45e09bedb67aa31f9e6f560221f7",
+            "a6b7e59a95f6561e836c431f060462ee:73950d395a05c6718631d36a11164e85",
+            "39997d4203ed52d1a1d65d6b299a4af7:377ba49bdb8f394e7fdbc6d62e2aef4e"
+        ],
+        "name": "ETB1"
+    },
+    "RGlzbmV5IENoYW5uZWw=": {
+        "url": "https://tvup-live.secure.footprint.net/disneychannel6/disneychannel6.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5acf0f6b897f1a7078f5c644.png",
+        "key": [
+            "dcbc92d3a75f5307a1ec42fc8587fd3f:b81bac95e5b65cf7d16ad2a3fe44f4cc",
+            "894ddea4621a57ffa5d8c788980150a6:e0a0dbebb0fa9c424eddbad464e8a0ac",
+            "60618bd9268d5bc288d5e67110691966:4a6a8edea7c4c1660e7c36e9277fbb47"
+        ],
+        "name": "Disney Channel"
+    },
+    "QmV0aXMgVFY=": {
+        "url": "https://tvup-live.secure.footprint.net/Fbetistv/betistv.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5b1e746bdd713247dee47264.png",
+        "key": [
+            "6cd1d1803d0b5de1aefe4bba7beac0af:82244ce848c40dd001cb857f940794c6",
+            "46f8ef436ac25d2287b0d30ed6955421:76e1ad44a4e7ac667b5a7ea0d7f6a24f",
+            "ececc82587fb566da988c043526cbff3:72e47299c23f07ec246e0f175226a497"
+        ],
+        "name": "Betis TV"
+    },
+    "QW5kYWx1Y8OtYSBUVg==": {
+        "url": "https://tvup-live.secure.footprint.net/andaluciatv/andaluciatv.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5cbcb460f75662004cbb5040.png",
+        "key": [
+            "99fece573256516481ba9863d94ee781:129f4aa6bf64af089fd0f1674cf94df8",
+            "49e35f7f848b5c82a6e38993c0ba9165:44b6e40899795cbe953130acee6741a3",
+            "e6e5e03a99e05e8dbe66452de0685e0a:f8afb9cad0d16fb131d2e4b06ebaa2a5"
+        ],
+        "name": "Andaluc\u00eda TV"
+    },
+    "VFYzIENBVA==": {
+        "url": "https://tvup-live.secure.footprint.net/tv3esp/tv3esp.mpd",
+        "logo": "https://media.tvup.cloud/canales/5c59a481df377c004c5519aalogoColor.png",
+        "key": [
+            "1d58108e91da504586fbb9c003ebeaee:19f73191635c8c234430427963d67b5b",
+            "1337251852e45596abc5271a000f2b1b:2fb14301d629be77d5f15ed168c7c50a",
+            "a6e24607ee2c5fa69bc765172db72b1f:5b3d75926393f27aabd5c1dba8ffa48c"
+        ],
+        "name": "TV3 CAT"
+    },
+    "RGl2aW5pdHk=": {
+        "url": "https://tvup-live.secure.footprint.net/divinity6/divinity6.mpd",
+        "logo": "https://media.tvup.cloud/canales/5ac5e4e403080405b20a4fe6logoColor.png",
+        "key": [
+            "63ccd61500b95640b3954f195be2f3c6:bb04af7315fff65194f61f8e7cc10a7a",
+            "a901e297d86450208f7eacb2e9393c7d:bbe94cb8f491b13104bb13706fe77b31",
+            "5638560d31f95892bf26187e0c5c1b39:583d38cdd4a60c2b527aa9e4f1b2fa17"
+        ],
+        "name": "Divinity"
+    },
+    "Q2xhbg==": {
+        "url": "https://tvup-live.secure.footprint.net/clan/clan.mpd",
+        "logo": "https://media.tvup.cloud/canales/5af069f7e05c6c75f9537c3dlogoColor.png",
+        "key": [
+            "c85e78b23cff5a99913320c85649bb4d:67f9e5acab608704392326687788754c",
+            "7a5c067a1d565353965d3ca0cbe9f501:d46e9f54b7477580965adcae3c456186",
+            "350cfd7cbc785c48bd5b9ed8fc49c13c:4546be5bfd3751687e114f3c305e009b"
+        ],
+        "name": "Clan"
+    },
+    "SElUIFRW": {
+        "url": "https://tvup-live.secure.footprint.net/hit-tv/hit-tv.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5b1e8644dd713247dee47266.png",
+        "key": [
+            "1e1c6a08b2c55751a8864c568f33746e:c8d998450425987d397599d01c1464a2",
+            "7185b2e8d86353e992fd95995424ddfd:f359fc67c7a760cb575e4f720e65dacc",
+            "b855e601fd555db39d22331da67b872e:c826d2dab80ae1dff6a6a2eabf5e9a75"
+        ],
+        "name": "HIT TV"
+    },
+    "VGVsZW1hZHJpZA==": {
+        "url": "https://tvup-live.secure2.footprint.net/telemadrid6/telemadrid6.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5c14c432a69b842193852b62.png",
+        "key": [
+            "4cbbd54ff6525563a7ea1cebadee94cc:db702355f9bea375d3b11666adbb3814",
+            "97d0eba838ec5e20a6d0c5e675951eb7:37b723f96878a9866c37d38b07363873",
+            "e15bbdd4cc525e18810c15d3a00ab893:93436a21e39d8d648b47098c5dc0d850"
+        ],
+        "name": "Telemadrid"
+    },
+    "TWV6em8=": {
+        "url": "https://tvup-live.secure.footprint.net/mezzo6/mezzo6.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5e442b7a852d67006ca7e8c6.png",
+        "key": [
+            "d7ac44aab2035fa3903afd91eec822af:fc942c97343fb4c4cdd887dcf683d6f1",
+            "c987af9dd9f25cc3ba5c2db5e6f081ae:bda8702158af8c3da23bd7eb358fa099",
+            "1e340a08716759bd9654001cfb6d9bfc:3260fa706e392c0d6da7004004dafcc2"
+        ],
+        "name": "Mezzo"
+    },
+    "VFBBNw==": {
+        "url": "https://tvup-live.secure.footprint.net/tpa7/tpa7.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5c013700b7adda22348eab19.png",
+        "key": [
+            "ff8ffb3382de5fd18d1470002332d919:fc4fe98ccf6efb5ec341a686319920a6",
+            "ed6d0ac207355ab19f68b512b003b0e7:8ebba37766456953258f5ef1b068134d",
+            "5b4d2c4212cb545b9fe416da3cf81116:0ade5bcef2048c4302ebd19013c9c5f7"
+        ],
+        "name": "TPA7"
+    },
+    "RW5lcmd5": {
+        "url": "https://tvup-live.secure.footprint.net/energy6/energy6.mpd",
+        "logo": "https://media.tvup.cloud/canales/5ac5e54703080405b20a4fe9logoColor.png",
+        "key": [
+            "e1ca2d74b7ac5ec483bbb84792b1f34e:e037bf050148d8a672f7dfcd7a38c5d9",
+            "99de1572b9165d7889fe657ea33643c8:0c3c678de597ef2634d00b16e7691e5d",
+            "3ea8b1e6899557a2a5312e6e35c58592:6c2031bf111cca051dce0c82690537f8"
+        ],
+        "name": "Energy"
+    },
+    "OFRW": {
+        "url": "https://live-tcsgra.thechannel.store/8tvhd/8tvhd.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5b041646b63af22346518c4e.png",
+        "key": [
+            "d8403fc263b959c1aa2303b5a13a3b00:98a6d999e2ea5993743db26088d47678",
+            "633f800084ba57ccae14cd5fb373f46a:5a850fb292a39eeeab9c1a4f3125c086",
+            "395b35e11c625c08a10da029a73da5ac:1aa9b8cce2a01940933c731031c7e49e"
+        ],
+        "name": "8TV"
+    },
+    "Q2FuYWwgNA==": {
+        "url": "https://live-tcsgra.thechannel.store/canal4baleares/canal4baleares.mpd",
+        "logo": "https://media.tvup.cloud/canales/5bb5d815968944004b1fb4fdlogoColor.png",
+        "key": [
+            "a78cecc0cd2b58fabd99bb694cc5456c:48fa2e4556483d2217cad3acd42d0641",
+            "1a2ffe1781d1584ea9e0f16ff462abf0:bb4b27f2d1e0d56cee710d8572448e2c",
+            "ba9858fbbb06518e812a947705013a9b:aaa4a46efdbf55ef6ce3ab1651c9ed11"
+        ],
+        "name": "Canal 4"
+    },
+    "VGVsZWRlcG9ydGU=": {
+        "url": "https://tvup-live.secure.footprint.net/teledeporte/teledeporte.mpd",
+        "logo": "https://media.tvup.cloud/canales/5ac5e65403080405b20a4ff1logoColor.png",
+        "key": [
+            "d962c3675d745fdab592691e4bfb9363:3a6ba1c2c1861ea8f0faac107fd720f6",
+            "b04b77914daf55cab5d41dd0b8738a1c:56c333f69681d1ae3f9fb71261f34424",
+            "dfd2c747f51754679a03feaa47a7e179:8cce238cb42b12d1a57ca6fe3ec067d0"
+        ],
+        "name": "Teledeporte"
+    },
+    "QmV0ZXbDqQ==": {
+        "url": "https://tvup-live.secure.footprint.net/beteve6/beteve6.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5cdc1465d1a7460050d8af0a.png",
+        "key": [
+            "35498019b722559695426f539c039b85:16bcc7d6c7a9c5d16df5f1d59658c02f",
+            "5e2564901872536eab0e9c39d5fa57d2:25ad5060af3a633a7720f129ee7ec8fd",
+            "48b1cf1f4cd25b6e8a092516cdff8c50:2cfb95046159ddbf2483fbec3c898a33"
+        ],
+        "name": "Betev\u00e9"
+    },
+    "TWV6em8gTGl2ZQ==": {
+        "url": "https://tvup-live.secure.footprint.net/mezzolivehd6/mezzolivehd6.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5e442cfa3eb7c200593cd2c9.png",
+        "key": [
+            "72915f280198527eafdc5e3128f29c8f:8a0f577ceffd471e0268eec1031df37e",
+            "80244ac0c0775f7c854cb467aa9910c1:ec27c241903c03cbe7aff6d20e996629",
+            "2dbe748b2d2d5b92af25e296d8a60543:f9422e0641a2dc7d84dc0cb4c729e099"
+        ],
+        "name": "Mezzo Live"
+    },
+    "Qm9pbmc=": {
+        "url": "https://tvup-live.secure.footprint.net/boing/boing.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5ac5c53b03080405b20a4fe2.png",
+        "key": [
+            "69dfe8cd8d695012b0489f71bf7a5335:7484437c0e161618883c6c88954200ed",
+            "19fe0b1fe0a252a4bf5691558b965aef:0f99c728ca27d01e23dcb17df0fa74a1",
+            "cae9c9c74cbc51bb8750dae4f38a07e3:4653f836e5cc353ab7d4ef9fad47e4f3"
+        ],
+        "name": "Boing"
+    },
+    "NyBSZWdpw7NuIGRlIE11cmNpYQ==": {
+        "url": "https://tvup-live.secure2.footprint.net/7rmhd/7rmhd.mpd",
+        "logo": "https://media.tvup.cloud/canales/5afeb463d2fc610babd2b888logoColor.png",
+        "key": [
+            "c6509c7d4fa85ea4989b4580cfa1bdda:f7bc220a8e11c3c9f27c8d9fdbfac059",
+            "4d5e31e6c9af550195b6f7f7ebd461ab:1a8dc2516b932564941deda703ab1d87",
+            "ab203c6297e85a6eb4ecc6e83611e896:15d04892f44065fc2f81149ecb82fa7d"
+        ],
+        "name": "7 Regi\u00f3n de Murcia"
+    },
+    "TW90b3J2aXNpb24gVFY=": {
+        "url": "https://tvup-live.secure.footprint.net/motorvision/motorvision.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5e455c96531ee300764b5e5d.png",
+        "key": [
+            "2c23c6b75702529b9e24cff728ba570a:f24aeebffa9675c55b0b796790d3e3d6",
+            "f437642e7ebf51ff8869d488caa6768f:812249fa8466fd8ad40e1f3ab7008d08",
+            "fe6556072b6b59a5aa8bddcb7daacb11:2c669a111554a321d46f2fb8ba522269"
+        ],
+        "name": "Motorvision TV"
+    },
+    "UmVhbCBNYWRyaWQ=": {
+        "url": "https://live-tcsgra.thechannel.store/realmadridtv6/realmadridtv6.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5acf10a2897f1a7078f5c645.png",
+        "key": [
+            "a8759890f7325d19ac8904c2a0abeade:6c4d9975bcaac1ac036d004749914cd1",
+            "050a67dfa179552ca5bf216bb6b9876a:7aea067e6aaab0b599fdb3608a21f27b",
+            "50df9e6447755951b7ac575cb3a992c2:07372466b29328f93b92952c2c1a7765"
+        ],
+        "name": "Real Madrid"
+    },
+    "QVhO": {
+        "url": "https://tvup-live.secure.footprint.net/axn-hd/axn-hd.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5ac5c48b03080405b20a4fe0.png",
+        "key": [
+            "c38d619a252c5fecb5dcd4b4b30d97b0:f70767c89ebbf906afa2798d8a1eee24",
+            "a9aff0ac9929566ea52cd4b6e64e3891:d85a0e1506c90413218106f5608e258d",
+            "3e45813adb125487a3f2168545a1cbe5:d0212d83a7ee6b8b3d97f368726461ab"
+        ],
+        "name": "AXN"
+    },
+    "VE5U": {
+        "url": "https://tvup-live.secure.footprint.net/tnt6/tnt6.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5afebb29d2fc610babd2b896.png",
+        "key": [
+            "06126cbf40a65bbf80b113ae7a197c6d:bb4aede156703ba4b6553536afc74bc2",
+            "881c072a896757689c3a6e40df1c9ef0:5cf7c2ca14263430f4e44a7dfac156d4",
+            "340dc435e54b576e8bcfc6b4885b9381:eed8429c8399c40233dfd577d3fc54a0"
+        ],
+        "name": "TNT"
+    },
+    "Q2FsbGUgMTM=": {
+        "url": "https://tvup-live.secure.footprint.net/calle13-6/calle13-6.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5afebb8bd2fc610babd2b897.png",
+        "key": [
+            "5721630a1b205b7ebacb0f2cbb6f8daa:2115d0593598ea9ebefeb8eda9f7dd1d",
+            "06693536a5bb5bbdbbf3e16a39bb8319:164ba2c2430102eb35810558975f41cc",
+            "e6f00627ba0156cc9bff981ccfc40608:4f55bdae240b230377207f1dea3360bf"
+        ],
+        "name": "Calle 13"
+    },
+    "QVhOIFdoaXRl": {
+        "url": "https://tvup-live.secure.footprint.net/axnwhite6/axnwhite6.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5afebca7d2fc610babd2b899.png",
+        "key": [
+            "9d0e1d32ace3532e81fb21be52949c56:54ae194b083112f3008e905313be5093",
+            "82a77b401c0c5be3a5907b9962788337:695608510248592e048954f532c69db7",
+            "9c262a291c60590bad7b1bf0bb54aaa3:a1f6a488ce17d9fc6a2f17ab321ffb56"
+        ],
+        "name": "AXN White"
+    },
+    "U3lGeQ==": {
+        "url": "https://tvup-live.secure.footprint.net/syfy6/syfy6.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5afebd3ad2fc610babd2b89b.png",
+        "key": [
+            "ab5b7ffa610a557db6c1f53d87ff509f:71e12aedc10ca89f45fdac4b768d2203",
+            "afb915994fe955139e252c39181ecc08:4e9730a2d298fab3fc22fdb07dc7bd56",
+            "92b4029f4f685e16af0ab7b454507cc1:646177d8a6d4ee42f8233a88ccdc0bdf"
+        ],
+        "name": "SyFy"
+    },
+    "VENN": {
+        "url": "https://tvup-live.secure.footprint.net/tcm6/tcm6.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5b028553c5895a2dc7b5d036.png",
+        "key": [
+            "02efaf2e29b25db9bed5fdbb2ef94e8b:9320e78d6460776130f3123469595332",
+            "0857fb4ffb525bf6b2e05b75b62015f3:700ed254515e1ce1cd11e4b2547bbcdc",
+            "638f7314ca6f5ee9b11b50d2aaef9eed:10f8d6d19cade299c767b9d8c526c569"
+        ],
+        "name": "TCM"
+    },
+    "QVhOIFZPUw==": {
+        "url": "https://tvup-live.secure.footprint.net/axnvos/axnvos.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5e7deea45e1f90006bb77e05.png",
+        "key": [
+            "36679ec113235842a6ca130c4575c794:bd5d46c0461e3524449c0e08c7ea0a6f",
+            "758e6e44fc315c1b9a0327da56b44255:a4448cfb39156abd0f1ba41969a6a116",
+            "41ca13862cc25ef393d6dd7b443ca2ca:976ead12fc85a2515c27739479ff6fe8"
+        ],
+        "name": "AXN VOS"
+    },
+    "U2V2aWxsYSBGQyBUVg==": {
+        "url": "https://tvup-live.secure.footprint.net/sfctelevision/sfctelevision.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5e9daafebf006a006ee25f49.png",
+        "key": [
+            "6cd1d1803d0b5de1aefe4bba7beac0af:82244ce848c40dd001cb857f940794c6",
+            "46f8ef436ac25d2287b0d30ed6955421:76e1ad44a4e7ac667b5a7ea0d7f6a24f",
+            "ececc82587fb566da988c043526cbff3:72e47299c23f07ec246e0f175226a497"
+        ],
+        "name": "Sevilla FC TV"
+    },
+    "Q01NIFRW": {
+        "url": "https://live-tcsgra.thechannel.store/castillalamancha/castillalamancha.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5eb909661a74010063dd01a4.png",
+        "key": [
+            "165abc99c7f3516e89dda94fba3742a3:ee4143387ed9cda7687fa20f0347e1df",
+            "6dafdcbca18b5451b25bb7d51c4a2fe5:8314052eb73b09c803cc28be91ce57d3",
+            "838b28ce3e085a20b526f686c2b71079:cc8ca146a91fdac8e2148e6263ab7f0c"
+        ],
+        "name": "CMM TV"
+    },
+    "Qk9NIENpbmU=": {
+        "url": "https://tvup-live.secure.footprint.net/bomcine/bomcine.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5ed362eb679e5b005f258b57.png",
+        "key": [
+            "b0923e7750cc584ea472d3fff0b4750f:724239f6096af1d6a8d8e1658a4c650f",
+            "2fb24d98456a5de7ad1abd72d6b12489:cf8d200e6c02819f397ac86803aaa473",
+            "f828659ed06950749fa3d84aa84f8007:1ad9aafcd2f2e67dca476d0f6a82d123"
+        ],
+        "name": "BOM Cine"
+    },
+    "Q2FuYWwgU3VyIEFuZGFsdWPDrWE=": {
+        "url": "https://live-tcsgra.thechannel.store/canalsurinternacional/canalsurinternacional.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5ee9fff71ce1aa005e15903a.png",
+        "key": [
+            "b0923e7750cc584ea472d3fff0b4750f:724239f6096af1d6a8d8e1658a4c650f",
+            "2fb24d98456a5de7ad1abd72d6b12489:cf8d200e6c02819f397ac86803aaa473",
+            "f828659ed06950749fa3d84aa84f8007:1ad9aafcd2f2e67dca476d0f6a82d123"
+        ],
+        "name": "Canal Sur Andaluc\u00eda"
+    },
+    "VGVsZW1hZHJpZCBHbG9iYWw=": {
+        "url": "https://tvup-live.secure.footprint.net/telemadridinternacional/telemadridinternacional.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5eea1a3668e3f10084d59a2b.png",
+        "key": [
+            "23288eb23c8553fb8ed6018c701f3ecf:28e55a780764bc22dd8c20e268962d66",
+            "4b83ec2ef22c566bae42d069fbddf26b:8ef95c178a4a498abace6d814ddfc1b3",
+            "b3964a136d065ce6b8c9553a09617834:fbdb0e7e940720c22fbbb3c12a548af2"
+        ],
+        "name": "Telemadrid Global"
+    },
+    "TGEgNw==": {
+        "url": "https://live-tcsgra.thechannel.store/7cyltv/7cyltv.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5efb6ded1656920066b2777b.png",
+        "key": [
+            "83eec36a1478502bab1213726a834bdb:775531939c2ed5437e3ade5704c80894",
+            "2eaf322ccb785687b15186f0efc6f063:6c2a33dfa7072d1894a419a2b48d3b4b",
+            "e83077bc6a6a542183db478fe761075d:b960e2f9c17ddd9e0c8a91413d443f5f"
+        ],
+        "name": "La 7"
+    },
+    "TGEgOA==": {
+        "url": "https://live-tcsgra.thechannel.store/8cyltv/8cyltv.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5efb6e543407ff005f143167.png",
+        "key": [
+            "c80a170055b55742b50565cc90eed48c:1f8b24117f2d22b1f465f604ea8b8088",
+            "00537ba5d943507aad2e7034ffa0e666:69b2c61fa46f0df07f2e7d642da4622c",
+            "16b9a4dce7dd596aaa1ef20b58577daa:4aa87a25df6d20eade58dfba0f50a683"
+        ],
+        "name": "La 8"
+    },
+    "VFBBOA==": {
+        "url": "https://tvup-live.secure.footprint.net/tpa8/tpa8.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5efc32cc377b9a00658da210.png",
+        "key": [
+            "fdde56380d3e5cf2b9a80b5e866c78e5:4b6c1f9f73f5b6063b5faa0783b4f59c",
+            "dc712f15aa675b598af7452b686ebe0a:a492fb9e2a923dc73d0f038a51d4469c",
+            "50b7e1079f2c5e06a24f6f9d0b769755:d2c2fc1ef8a0d95606f718ee44e7093d"
+        ],
+        "name": "TPA8"
+    },
+    "Q2FuYWwgWU9VISBUVg==": {
+        "url": "https://tvup-live.secure.footprint.net/you/you.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5f0eace8560a9100740a40a4.png",
+        "key": [
+            "362c2fb2623e5803af65916c707dfda5:7ed97e345c55364080ac9144b7d8bc19",
+            "61998300a0c95e45b25566dc2bde8547:28db978e3d2f5068ea8a5a3acdb4c3b4",
+            "cba6ae116149542eaad28545f43d8aeb:a03e74558890c822906f7418f7af0e79"
+        ],
+        "name": "Canal YOU! TV"
+    },
+    "VFZHIDI=": {
+        "url": "https://live-tcsgra.thechannel.store/tvg2/tvg2.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5f23c7d2a39a240075a7a311.png",
+        "key": [
+            "a4feda47489550538da18fc55ae35099:d8afdf8224d243b6088a0d82d92e6494",
+            "e9d0914252c05a4a94c02a534e8d7f22:324209864a16873af9aefca94ed2358c",
+            "c44b71ad7ef75defad4de72894ae0450:27ba4f6ebd4ffe0205099723a4d064d5"
+        ],
+        "name": "TVG 2"
+    },
+    "VFYgQ2FuYXJpYQ==": {
+        "url": "https://live-tcsgra.thechannel.store/tvcanaria/tvcanaria.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5f436bcafd67260066323ae5.png",
+        "key": [
+            "769d6b44a69854a38587fdc228c1dc4f:cc74075d74e65bf2eed0f3814bd2c509",
+            "32b966ecc58a5d5aae6519081698bbac:82b786ed7b4227f6f22f817bd1555e4f",
+            "3a07da0bc96c5c9292d4051aafd07f87:7073ecaf8b5bbcbdf57b2e477cccee0c"
+        ],
+        "name": "TV Canaria"
+    },
+    "SHVzdGxlciBUVg==": {
+        "url": "https://tvup-live.secure.footprint.net/hustler/hustler.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5f5766dfcf6e100064479cd1.png",
+        "key": [
+            "52ef957352fd5ee2a00deb7f6afa736b:bc8433d03767ea44436d37d53c76579c",
+            "8dcd041af3dd5cbfaecc224331f94602:b4582b3b9b7fe9f54b170dfb14eef359",
+            "23fcc2016b2b50b9b5a13cc318994007:969b66268db459ece60bf29bfa4fd196"
+        ],
+        "name": "Hustler TV"
+    },
+    "UHJpdmF0ZQ==": {
+        "url": "https://tvup-live.secure.footprint.net/private/private.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5f5767321bd3b90064cd8785.png",
+        "key": [
+            "52ef957352fd5ee2a00deb7f6afa736b:bc8433d03767ea44436d37d53c76579c",
+            "8dcd041af3dd5cbfaecc224331f94602:b4582b3b9b7fe9f54b170dfb14eef359",
+            "23fcc2016b2b50b9b5a13cc318994007:969b66268db459ece60bf29bfa4fd196"
+        ],
+        "name": "Private"
+    },
+    "QkZNIFRW": {
+        "url": "https://live-tcsand.thechannel.store/bmf/bmf.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5f901eb373c9880074cc406f.png",
+        "key": [
+            "f0493e27d5355b95b82b51c862c66e08:1cd16bdfdf294b0a8d54a3a60c24a973",
+            "8a54ddf0e6cd596d90c18c893aea99e9:9b34dd946698111e7ffab49bb57d4c3b",
+            "0c1c9e256175507ab9c9f9ea091bb5c4:9baf3510d836d1e0e6c8222bee1630a5"
+        ],
+        "name": "BFM TV"
+    },
+    "TGEgT3RyYQ==": {
+        "url": "https://tvup-live.secure.footprint.net/laotra/laotra.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5f96a0831a1838006f570679.png",
+        "key": [
+            "d50e0c6e6e975bc9b3530f278fbe17fa:2d562b41a9c9f5c52993b5bfc264ea13",
+            "48e72d1a500559cc8d430d47123ab05b:8775fa681534d8307a867a70defdd7d7",
+            "109d8f72512252a7a63e6240f14f3e18:b60d37787dc868fcf6ec3c44854cdef2"
+        ],
+        "name": "La Otra"
+    },
+    "RWwgVG9ybyBUVg==": {
+        "url": "https://tvup-live.secure.footprint.net/eltorotv/eltorotv.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5f9be2ba52dc8c007fc95d13.png",
+        "key": [
+            "36dfee87b94652a59320d5f466dd84d4:b70786ebec6cc40f98de665f53e017da",
+            "e54a1ce2278e5bb181b7b74b990a68b3:f7b9329eba32316a5fcdf065cc62cc7a",
+            "1391be76994051779056bf130a44e7de:3685fc019da2cb1177a0b32d65dd75fb"
+        ],
+        "name": "El Toro TV"
+    },
+    "VGVsZXZpc2nDsyBMJ0hvc3BpdGFsZXQ=": {
+        "url": "https://live-tcsgra.thechannel.store/tvhospitalet/tvhospitalet.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_5ffff9413f2376002503bb2c.png",
+        "key": [
+            "d1e7353d4265581b9e07c703a7debfd9:1f7a7827e34709e98e28c7c04413bdca",
+            "246b0e122118521d909e5c6f0d168bc0:5f3f12d2093edf357393fa2c8cb95006",
+            "784d58bc9e5457378d04f72acee2600d:4a3724b8caecfc96fa9531479dec597f"
+        ],
+        "name": "Televisi\u00f3 L'Hospitalet"
+    },
+    "QkROIFRlbGV2aXNpw7M=": {
+        "url": "https://live-tcsgra.thechannel.store/bdnbadalona/bdnbadalona.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_6007eebf9ee9270031e56568.png",
+        "key": [
+            "ee1c5be6b0fd5f409d63d0ec49d3b6e6:b41a4bde630bdcd388173b1f77bd9c4f",
+            "8f1da19740945d57aece8ff3063fbb7c:f65530d6a26518dd353112405d2137f9",
+            "4abc6c7c7233523593374cebf13108be:4ff868395b986fc5953a1ae38f1a29a5"
+        ],
+        "name": "BDN Televisi\u00f3"
+    },
+    "VmFsbMOocyBWaXNpw7M=": {
+        "url": "https://live-tcsgra.thechannel.store/vallesvisio/vallesvisio.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_6048fa49f585750031e19839.png",
+        "key": [
+            "f0b26861b93e55508ec3739a4a93381b:2c50b6886c0188b8ee773d73a41358a7",
+            "e77c162edda15a5791a610a5b741799f:c8722e7c4705d446da5aab668128a062",
+            "7481ebd12d9555259d29b126ab99d4d8:b6b2e5435ec72654a6ce87ad49dae796"
+        ],
+        "name": "Vall\u00e8s Visi\u00f3"
+    },
+    "SUIzIEdsb2JhbA==": {
+        "url": "https://tvup-live.secure.footprint.net/ib3global/ib3global.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_60d9ee5620076b001a8401af.png",
+        "key": [
+            "d5e4c18ab7bf525b8471bd20f0469e36:1824a116ee5538fcc3911a128e4c9506",
+            "055d7a0d6e685fa581237c57dfd5f1fd:953777b7480d0cd1b089a3f8b2abc8eb",
+            "7fb2724f748b5263955638d5b48ee0cf:9b1500262b85adecf194fd1a38f09478"
+        ],
+        "name": "IB3 Global"
+    },
+    "TGEgOCBNZWRpdGVycsOhbmVv": {
+        "url": "https://live-tcsgra.thechannel.store/la8mediterraneo/la8mediterraneo.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_60d9efa9593c07001c560ac7.png",
+        "key": [
+            "6480b95f01375c8a8be32e28ca154b69:e3d50f0b0e70188f16dd1a38e521db9c",
+            "36a5b2fa33da5b97acb23a138a20c423:4c26d64fb21f167b326679f4f283ee8f",
+            "044a4e79def8586a917caaf882608016:142db64dc8ef317992a7afe0862cf3ea"
+        ],
+        "name": "La 8 Mediterr\u00e1neo"
+    },
+    "N1RWIEFuZGFsdWPDrWE=": {
+        "url": "https://live-tcsgra.thechannel.store/7andalucia/7andalucia.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_60d9f0a21627ac0021b5163a.png",
+        "key": [
+            "0f4dfcb8330e500e9092f07dc9718976:8c1c5ec60c56f18cf956062fe24969ca",
+            "fde353ec5c5e5d56b37765795e15a10c:923d11985490e91ffcf51c04508fc259",
+            "3b9951b893ce5512bc34ee4afde38e6c:3682768849632a0d8508aa5f762f7412"
+        ],
+        "name": "7TV Andaluc\u00eda"
+    },
+    "OCBNYWRyaWQgVFY=": {
+        "url": "https://live-tcsgra.thechannel.store/8madrid/8madrid.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_60dab461eb84d1001aa69c11.png",
+        "key": [
+            "88bdfbc3d41e55de8e0fd3b7f8a4767c:077a93899e4cc2be7b932f359ff2ccef",
+            "f1aa48be676a5dfe94fe75925b321962:b6c403ec1a866b2d6912e28274de8e01",
+            "93dbeeeb8f71585ebc2ec46552fba748:26a495be0bcfb00c81be23ff8e413591"
+        ],
+        "name": "8 Madrid TV"
+    },
+    "TmVnb2Npb3MgVFY=": {
+        "url": "https://tvup-live.secure.footprint.net/negociostvhd/negociostvhd.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_60dab53deb84d1001aa69c13.png",
+        "key": [
+            "0fb1175f6dec5428abed28740acefc1c:5b3f1cd5994e3e32a409a495ef536cc8",
+            "4d5aa5fa6d5b54b782c656d3c015f4c7:135276eb5d7a4ae588cefbb282bc95d9",
+            "379fc714b0755bac86ffe31db66d68b2:d563f20abe5a00ac52da9ed82f1b8d39"
+        ],
+        "name": "Negocios TV"
+    },
+    "QVhOIFdoaXRlIFZPUw==": {
+        "url": "https://tvup-live.secure.footprint.net/axnwhitevos/axnwhitevos.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_6155cb3cb8461d0022544bd7.png",
+        "key": [
+            "9d0e1d32ace3532e81fb21be52949c56:54ae194b083112f3008e905313be5093",
+            "82a77b401c0c5be3a5907b9962788337:695608510248592e048954f532c69db7",
+            "9c262a291c60590bad7b1bf0bb54aaa3:a1f6a488ce17d9fc6a2f17ab321ffb56"
+        ],
+        "name": "AXN White VOS"
+    },
+    "VE5UIFZPUw==": {
+        "url": "https://tvup-live.secure.footprint.net/tntvos/tntvos.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_6155cbf4b8461d0022544cbf.png",
+        "key": [
+            "06126cbf40a65bbf80b113ae7a197c6d:bb4aede156703ba4b6553536afc74bc2",
+            "881c072a896757689c3a6e40df1c9ef0:5cf7c2ca14263430f4e44a7dfac156d4",
+            "340dc435e54b576e8bcfc6b4885b9381:eed8429c8399c40233dfd577d3fc54a0"
+        ],
+        "name": "TNT VOS"
+    },
+    "VENNIFZPUw==": {
+        "url": "https://tvup-live.secure.footprint.net/tcmvos/tcmvos.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_6155cc4b7116f30021694e5d.png",
+        "key": [
+            "02efaf2e29b25db9bed5fdbb2ef94e8b:9320e78d6460776130f3123469595332",
+            "0857fb4ffb525bf6b2e05b75b62015f3:700ed254515e1ce1cd11e4b2547bbcdc",
+            "638f7314ca6f5ee9b11b50d2aaef9eed:10f8d6d19cade299c767b9d8c526c569"
+        ],
+        "name": "TCM VOS"
+    },
+    "VmVyZGkgQ2xhc3NpY3M=": {
+        "url": "https://live-tcsgra.thechannel.store/verdi/verdi.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_619e1671196d7b0021e9dc66.png",
+        "key": [
+            "e008068945555fec939f797c373c9950:78fb6dc1c8494632d4f03015940d69f7",
+            "af06c2015f945d408b5db5991846edbe:eba0547f0542ea8243b0feb9e3620a5c",
+            "206c96751450509786e0149a16ffadf3:14456f0344b1dc3e4a1f741818027b79"
+        ],
+        "name": "Verdi Classics"
+    },
+    "Q2FsbGUgMTMgVk9T": {
+        "url": "https://tvup-live.secure.footprint.net/calle13vos/calle13vos.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_61a08ef6196d7b0021eefd68.png",
+        "key": [
+            "5721630a1b205b7ebacb0f2cbb6f8daa:2115d0593598ea9ebefeb8eda9f7dd1d",
+            "06693536a5bb5bbdbbf3e16a39bb8319:164ba2c2430102eb35810558975f41cc",
+            "e6f00627ba0156cc9bff981ccfc40608:4f55bdae240b230377207f1dea3360bf"
+        ],
+        "name": "Calle 13 VOS"
+    },
+    "U1lGWSBWT1M=": {
+        "url": "https://tvup-live.secure.footprint.net/syfyvos/syfyvos.mpd",
+        "logo": "https://media.tvup.cloud/canales/color_lg_61a08fb70184470022338cd0.png",
+        "key": [
+            "ab5b7ffa610a557db6c1f53d87ff509f:71e12aedc10ca89f45fdac4b768d2203",
+            "afb915994fe955139e252c39181ecc08:4e9730a2d298fab3fc22fdb07dc7bd56",
+            "92b4029f4f685e16af0ab7b454507cc1:646177d8a6d4ee42f8233a88ccdc0bdf"
+        ],
+        "name": "SYFY VOS"
+    }
+}

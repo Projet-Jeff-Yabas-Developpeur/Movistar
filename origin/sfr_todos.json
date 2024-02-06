@@ -1,0 +1,1622 @@
+{
+    "MTNFTUVfUlVF_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$13EME_RUE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47aa20729d2e0533b28450a08e5:040909699fffa2aa0c33d4add9eddfea",
+        "name": "13EME_RUE"
+    },
+    "MjRIVFZF_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$24HTVE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47aa20e29d2e0533b28450a08e5:7981e6ce753423ee72e1ba36d85770bd",
+        "name": "24HTVE"
+    },
+    "Mk1NQVJPQw==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$2MMAROC\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47aa20f29d2e0533b28450a08e5:1470a68c14162b584de3bb388ea35be4",
+        "name": "2MMAROC"
+    },
+    "MlNUVg==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$2STV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a99c729b2e0533b28450a103e:8491fe32fca2ee6b895e0d08e75fead4",
+        "name": "2STV"
+    },
+    "NlRFUg==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$6TER\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a99c929b2e0533b28450a103e:abf6d9089d675426ab7792490999b271",
+        "name": "6TER"
+    },
+    "QTNfQ0lORQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$A3_CINE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad23429bae0533b28450a5949:07bb8ff66e872c956baf9c01d18d847f",
+        "name": "A3_CINE"
+    },
+    "QUIx_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NEUF_AB1\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbdd29b4e0533b28450a72df:91ed59cd799574d599b840b6a2717b99",
+        "name": "AB1"
+    },
+    "QUJPTEFUVg==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ABOLATV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac6be29bee0533b28450a2d36:b98ce75d9c3a438871aa98327387b96e",
+        "name": "ABOLATV"
+    },
+    "QUNUSU9O_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ACTION\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a9c2c29dae0533b28450a12f4:92d6a8ae65c7bf79d10b149774cdd2fa",
+        "name": "ACTION"
+    },
+    "QUZSSUNBMjQ=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$AFRICA24\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbe229b4e0533b28450a72df:c843d020894e5e3995790582aae7ee27",
+        "name": "AFRICA24"
+    },
+    "QUZSSUNBQkxF_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$AFRICABLE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a99cc29b2e0533b28450a103e:4bb553fd2ea314ba6e1ac18455d03c79",
+        "name": "AFRICABLE"
+    },
+    "QUxBT1VMQQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ALAOULA\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47aa21229d2e0533b28450a08e5:a375ff7d9cb6ccc731e29923eb9a6edc",
+        "name": "ALAOULA"
+    },
+    "QUxBUkFCSVlB_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ALARABIYA\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad37f29b8e0533b28450a5a69:6255cf898b2cf067639eb99a8151199f",
+        "name": "ALARABIYA"
+    },
+    "QUxKQVpFRVJBRU5HTElTSA==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ALJAZEERAENGLISH\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac6dd29bee0533b28450a2d36:8f081038ba1cd0c661793bce85009ee2",
+        "name": "ALJAZEERAENGLISH"
+    },
+    "QUxNQUdIUklCSUE=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ALMAGHRIBIA\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac6de29bee0533b28450a2d36:8f5a4250fd5e432167d792f021663d3e",
+        "name": "ALMAGHRIBIA"
+    },
+    "QUxNQUpESE9MWVFVUkFO_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ALMAJDHOLYQURAN\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad99c29d0e0533b28450a5061:2c546106bbc96b7c72e5490cbaf1eac2",
+        "name": "ALMAJDHOLYQURAN"
+    },
+    "QUxNQVNSSVlB_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ALMASRIYA\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac6df29bee0533b28450a2d36:82b9914ee41e4c3d28a2434d53fd1842",
+        "name": "ALMASRIYA"
+    },
+    "QUxTQUNFMjA=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ALSACE20\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac6e129bee0533b28450a2d36:e44fb18df5f1ff3b5407d1e502422fa2",
+        "name": "ALSACE20"
+    },
+    "QUxUSUNFU1RVRElP_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NEUF_ALTICESTUDIO\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac6c629bee0533b28450a2d36:405ef8cdc0034f66b90c9689576acd53",
+        "name": "ALTICESTUDIO"
+    },
+    "QU5HRVJTVEVMRQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ANGERSTELE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be479c4b004d3e0533b28450a4097:62b7404f66abcbd752f7ce0ff4d588e4",
+        "name": "ANGERSTELE"
+    },
+    "QU5JTUFVWA==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ANIMAUX\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be479c4b104d3e0533b28450a4097:09b9c7204b339724ff39b636a88232db",
+        "name": "ANIMAUX"
+    },
+    "QU5URU5ORUE=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ANTENNEA\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad37a29b8e0533b28450a5a69:b4e6229ab0a3d828b145503837928ad6",
+        "name": "ANTENNEA"
+    },
+    "QVJNRU5JQTE=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ARMENIA1\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be479c4b504d3e0533b28450a4097:ee15cb1f3dee6a074a41153e70f04b3a",
+        "name": "ARMENIA1"
+    },
+    "QVJNRU5JQVRW_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ARMENIATV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be479c4b604d3e0533b28450a4097:bfbc045cfc04bb8d3f653dffd91332f0",
+        "name": "ARMENIATV"
+    },
+    "QVJSQUJJQQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ARRABIA\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be479c4b704d3e0533b28450a4097:14e966701d49de7794668c41bd6c46c5",
+        "name": "ARRABIA"
+    },
+    "QVJSWUFESUE=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ARRYADIA\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be479c4b804d3e0533b28450a4097:10f87a4cb90696d9d18f3019584d585c",
+        "name": "ARRYADIA"
+    },
+    "QVJURQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ARTE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a9c2d29dae0533b28450a12f4:093851275cdecb2435648f52fbfe7808",
+        "name": "ARTE"
+    },
+    "QVJURUFMTEVNQU5E_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ARTEALLEMAND\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47aa21629d2e0533b28450a08e5:54ab34cda242de3909f4e75d02999c27",
+        "name": "ARTEALLEMAND"
+    },
+    "QVNTQURJU1NB_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ASSADISSA\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47aa21729d2e0533b28450a08e5:9ece0626186737e6fe2b8d604405006b",
+        "name": "ASSADISSA"
+    },
+    "QVNUUk9DRU5URVI=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ASTROCENTER\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be479c4be04d3e0533b28450a4097:b63c5927769d12ffca68b72b0c4ff074",
+        "name": "ASTROCENTER"
+    },
+    "QVpVUlRW_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$AZURTV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbc829dee0533b28450a72b5:5e7e59eddf1b578a3286475e08122363",
+        "name": "AZURTV"
+    },
+    "QkFSQUVN_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$BARAEM\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be479c4bd04d3e0533b28450a4097:d42ad4efaf619571e54fcf72d4dbf545",
+        "name": "BARAEM"
+    },
+    "QkJDRU5URVJUQUlOTUVOVA==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$BBCENTERTAINMENT\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47aa20629d2e0533b28450a08e5:d5055e1c6f77e5fb58e7fe0c74ccd16b",
+        "name": "BBCENTERTAINMENT"
+    },
+    "QkJDV09STERORVdT_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$BBCWORLDNEWS\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad38829b8e0533b28450a5a69:40980f9d4f7e83edbb3dc2b9f04021b9",
+        "name": "BBCWORLDNEWS"
+    },
+    "QkJMQUNLQUZSSUNB_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$BBLACKAFRICA\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad23929bae0533b28450a5949:52049cd5b7643ddc5fe22daba46e53aa",
+        "name": "BBLACKAFRICA"
+    },
+    "QkJMQUNLQ0FSSUJCRUFO_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$BBLACKCARIBBEAN\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad99229d0e0533b28450a5061:b1449d22ca72b3847f2f8d90c98488ae",
+        "name": "BBLACKCARIBBEAN"
+    },
+    "QkJMQUNLQ0xBU1NJSw==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$BBLACKCLASSIK\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad38929b8e0533b28450a5a69:f4ecbb25394bd35adfb247e8a33cbdbc",
+        "name": "BBLACKCLASSIK"
+    },
+    "QkVJTk1VTFRJMQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NEUF_BEINMULTI1\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad38b29b8e0533b28450a5a69:39c20726e6046a8daa0cac9769d4f9bb",
+        "name": "BEINMULTI1"
+    },
+    "QkVJTk1VTFRJMg==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NEUF_BEINMULTI2\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad38c29b8e0533b28450a5a69:3347388623ca6b30dde4168077922781",
+        "name": "BEINMULTI2"
+    },
+    "QkVJTk1VTFRJMw==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NEUF_BEINMULTI3\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad38d29b8e0533b28450a5a69:28184f668fef0b3732c9fed26861f112",
+        "name": "BEINMULTI3"
+    },
+    "QkVJTk1VTFRJNA==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NEUF_BEINMULTI4\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad38e29b8e0533b28450a5a69:1792b02fba7e1bbe0da8cdb44103dc6e",
+        "name": "BEINMULTI4"
+    },
+    "QkVJTk1VTFRJNQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NEUF_BEINMULTI5\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be479c4bf04d3e0533b28450a4097:2ebb699d015d8e71e13d9acadaf7ed8f",
+        "name": "BEINMULTI5"
+    },
+    "QkVJTk1VTFRJNg==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NEUF_BEINMULTI6\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47aa21829d2e0533b28450a08e5:cd5f5d140671b3a9594972bd4dda4e90",
+        "name": "BEINMULTI6"
+    },
+    "QkVJTk1VTFRJNw==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NEUF_BEINMULTI7\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47aa21929d2e0533b28450a08e5:a2c1cc608bb291a21b858e6159532c53",
+        "name": "BEINMULTI7"
+    },
+    "QkVJTk1VTFRJOA==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NEUF_BEINMULTI8\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47aa21a29d2e0533b28450a08e5:27480235eb8415f3fc6f5b3d8be4fd2c",
+        "name": "BEINMULTI8"
+    },
+    "QkVJTlNQT1JUMQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NEUF_BEINSPORT1\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be479c4b604d3e0533b28450a4097:bfbc045cfc04bb8d3f653dffd91332f0",
+        "name": "BEINSPORT1"
+    },
+    "QkVJTlNQT1JUMg==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NEUF_BEINSPORT2\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47aa21329d2e0533b28450a08e5:40326f5fc706d0982a7510ee30803dbe",
+        "name": "BEINSPORT2"
+    },
+    "QkVORklDQVRW_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$BENFICATV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47aa21d29d2e0533b28450a08e5:cd6dd6e7f231169f5222b06c4130d5e3",
+        "name": "BENFICATV"
+    },
+    "QkVSQkVSRVRW_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$BERBERETV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a8e7b29aee0533b28450a27fa:9c28f46923a70bb41c58b9553993cc2c",
+        "name": "BERBERETV"
+    },
+    "QkVU_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$BET\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a9e8129c8e0533b28450a1575:26a6a116a208c857c533c54ab5cb2fb2",
+        "name": "BET"
+    },
+    "QkVVUkZNVFY=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$BEURFMTV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad38f29b8e0533b28450a5a69:16c709b506843259e6cd8c0576e58433",
+        "name": "BEURFMTV"
+    },
+    "QkZNR1JBTkRMSUxMRQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$BFMGRANDLILLE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad36f29b8e0533b28450a5a69:2e3ca42a441b25299cfbb380c11737fb",
+        "name": "BFMGRANDLILLE"
+    },
+    "QkZNR1JBTkRMSVRUT1JBTA==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$BFMGRANDLITTORAL\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a53cc29b0e0533b28450a1cbb:8f26749746d1a05b9deb1788f8204b8d",
+        "name": "BFMGRANDLITTORAL"
+    },
+    "QkZNX0JVU0lORVNT_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$BFM_BUSINESS\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad39029b8e0533b28450a5a69:7315b32eb6afda81a40c4858ac1de246",
+        "name": "BFM_BUSINESS"
+    },
+    "QkZNX0RJQ0lfQUxQRVNEVVNVRA==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$BFM_DICI_ALPESDUSUD\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "ba53dab62a344d01e0533b28450aa269:d9260281a95a64ce3d299af19830ba82",
+        "name": "BFM_DICI_ALPESDUSUD"
+    },
+    "QkZNX0RJQ0lfSEFVVEVQUk9WRU5DRQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$BFM_DICI_HAUTEPROVENCE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "ba53dab62ee94d05e0533b28450aaecb:ecdb9a78e1c75f6800f1b58b50a5e56a",
+        "name": "BFM_DICI_HAUTEPROVENCE"
+    },
+    "QkZNX0xZT04=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$BFM_LYON\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad23729bae0533b28450a5949:88c55f7079dd9243330cff4455c4643e",
+        "name": "BFM_LYON"
+    },
+    "QkZNX1BBUklT_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$BFM_PARIS\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be479c4a804d3e0533b28450a4097:1e7d39905bf5051d741a7e2eb4058a32",
+        "name": "BFM_PARIS"
+    },
+    "QkZNX1RW_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$BFM_TV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a9c2e29dae0533b28450a12f4:318b5c9369b8db3365c23d597ef46c17",
+        "name": "BFM_TV"
+    },
+    "QkxPT01CRVJH_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$BLOOMBERG\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad39129b8e0533b28450a5a69:a9bc5e17014bac2c1cc99953d06c49b6",
+        "name": "BLOOMBERG"
+    },
+    "Qk9JTkc=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$BOING\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a9c2f29dae0533b28450a12f4:a4d31f46a7b180a5222a08c35134500a",
+        "name": "BOING"
+    },
+    "Qk9PTUVSQU5HUExVUzE=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$BOOMERANGPLUS1\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47abb3829bce0533b28450a3247:8f1644c37dadc62201a1a4b9697169c2",
+        "name": "BOOMERANGPLUS1"
+    },
+    "Qk9PTUVSQU5HVUs=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$BOOMERANGUK\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a9c3029dae0533b28450a12f4:3153f3a5aabb8d104fbc6a2e6f8c311e",
+        "name": "BOOMERANGUK"
+    },
+    "QlRW_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$BTV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad38a29b8e0533b28450a5a69:e6b18143d45a543d7b8bae018d0f2024",
+        "name": "BTV"
+    },
+    "Q0FOQUwy_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$CANAL2\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47abb4129bce0533b28450a3247:78f4dde56870c87e62f87bdd12126c5c",
+        "name": "CANAL2"
+    },
+    "Q0FOQUwzMQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$CANAL31\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47abb4029bce0533b28450a3247:a99b775671b8df867b6c32803bd029e7",
+        "name": "CANAL31"
+    },
+    "Q0FOQUwzMg==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$CANAL32\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47abb4229bce0533b28450a3247:6900afe15bdea8896e4b2511e0eca674",
+        "name": "CANAL32"
+    },
+    "Q0FOQUxBTEdFUklF_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$CANALALGERIE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47abb4329bce0533b28450a3247:056841a4f5e93101f95a6ee3969b11f9",
+        "name": "CANALALGERIE"
+    },
+    "Q0FOQUxK_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$CANALJ\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47aa20529d2e0533b28450a08e5:e604da5ee9fd056e036302de175a6850",
+        "name": "CANALJ"
+    },
+    "Q0FOQUxR_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$CANALQ\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbae29dee0533b28450a72b5:e89f953b14f38fe07ac22600aaa11fa8",
+        "name": "CANALQ"
+    },
+    "Q0FOQUxfQ09DSU5B_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$CANAL_COCINA\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a53d029b0e0533b28450a1cbb:0098403850025862e533459853dedd48",
+        "name": "CANAL_COCINA"
+    },
+    "Q0FSVE9PTk5FVFdPUks=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$CARTOONNETWORK\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47aa1f529d2e0533b28450a08e5:ac2cf14a6125a333e8d341d382a1675f",
+        "name": "CARTOONNETWORK"
+    },
+    "Q0NUVjQ=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$CCTV4\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47abb4829bce0533b28450a3247:aee93674ffca95e450c14b593651eedd",
+        "name": "CCTV4"
+    },
+    "Q0NUVkRPQ1VNRU5UQVJZ_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$CCTVDOCUMENTARY\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47abb4a29bce0533b28450a3247:8dfdc36aa62598176b6010b4145ce9f6",
+        "name": "CCTVDOCUMENTARY"
+    },
+    "Q0NUVkY=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$CCTVF\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47abb4b29bce0533b28450a3247:acece3330fe51a9a34cd84901501667f",
+        "name": "CCTVF"
+    },
+    "Q0NUVk1PVklF_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$CCTVMOVIE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad37b29b8e0533b28450a5a69:b66f992e3f2f21ce97e6d5fd8125bd63",
+        "name": "CCTVMOVIE"
+    },
+    "Q0NUVllVTEU=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$CCTVYULE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47abb4c29bce0533b28450a3247:7f3405a5a689f059ce812b2bfeefa640",
+        "name": "CCTVYULE"
+    },
+    "Q0hBTk5FTE9ORVJVU1NJQQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$CHANNELONERUSSIA\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47abb5029bce0533b28450a3247:8988d967535a685e169c63b704cac9af",
+        "name": "CHANNELONERUSSIA"
+    },
+    "Q0hBU1NFRVRQRUNIRQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$CHASSEETPECHE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47abb5129bce0533b28450a3247:ab067be0e8da75dc41b40279c550b878",
+        "name": "CHASSEETPECHE"
+    },
+    "Q05CQ0VVUk9QRQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$CNBCEUROPE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47abb5729bce0533b28450a3247:6ed5e8bc3c6a274a0a04d0b4abb26dd5",
+        "name": "CNBCEUROPE"
+    },
+    "Q05OSU5U_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$CNNINT\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47abb5829bce0533b28450a3247:35aeccb6e900167414f273d0da3e1039",
+        "name": "CNNINT"
+    },
+    "Q09NRURZQ0VOVFJBTA==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$COMEDYCENTRAL\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a53be29b0e0533b28450a1cbb:957c0b50d245b984435e6d8a2fbcc24b",
+        "name": "COMEDYCENTRAL"
+    },
+    "Q1JUVg==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$CRTV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47abb5b29bce0533b28450a3247:a46e8aa20abb2871af061b31ff3ea4bb",
+        "name": "CRTV"
+    },
+    "Q1VMVFVSRUJPWA==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$CULTUREBOX\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "ba53dab5f9ca120fe0533b28450aeedf:9f18b14e081ec7a529c29d1e164af856",
+        "name": "CULTUREBOX"
+    },
+    "REVDQVNB_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$DECASA\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a53c529b0e0533b28450a1cbb:1ac81709e6af70a1b74ab323a6c0cbf9",
+        "name": "DECASA"
+    },
+    "REVVVFNDSEVXRUxMRQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$DEUTSCHEWELLE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac6d129bee0533b28450a2d36:eb52f1eb806686ecd8cce5e79b01a152",
+        "name": "DEUTSCHEWELLE"
+    },
+    "RElTQ09WRVJZX0ZBTUlMWQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$DISCOVERY_FAMILY\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a53bf29b0e0533b28450a1cbb:10cad7d7ba95ea3054dae5c0d81d0f23",
+        "name": "DISCOVERY_FAMILY"
+    },
+    "RElTQ09WRVJZX0lOVkVTVA==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$DISCOVERY_INVEST\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a53bd29b0e0533b28450a1cbb:da1a0d829fc6262524e1a5acc3e0e628",
+        "name": "DISCOVERY_INVEST"
+    },
+    "RElTQ09WRVJZX1NDSUVOQ0U=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$DISCOVERY_SCIENCE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47aa1f429d2e0533b28450a08e5:48d51309c4420cbf2f8cbdc9209e36d4",
+        "name": "DISCOVERY_SCIENCE"
+    },
+    "RFJBR09OVFY=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$DRAGONTV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac6ce29bee0533b28450a2d36:c7c182f0a449ca6d9c909d56531ebcd1",
+        "name": "DRAGONTV"
+    },
+    "RFVCQUlUVg==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$DUBAITV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac6d029bee0533b28450a2d36:6b75196ec0c4676f6b213a3bf3398114",
+        "name": "DUBAITV"
+    },
+    "RUNIT1JPVUtORVdT_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ECHOROUKNEWS\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac1d929c0e0533b28450a2895:4199cf114fbf54ba062c217fdf1a3d0c",
+        "name": "ECHOROUKNEWS"
+    },
+    "RUxCSUxBRFRW_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ELBILADTV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad23b29bae0533b28450a5949:690f4cb5cc4fb742b34839ded882d137",
+        "name": "ELBILADTV"
+    },
+    "RUxESkFaQUlSSUE=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ELDJAZAIRIA\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac1da29c0e0533b28450a2895:50948f6ff071114784610d3e611b6bb4",
+        "name": "ELDJAZAIRIA"
+    },
+    "RU5HTElTSENMVUJUVg==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ENGLISHCLUBTV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be479c4ac04d3e0533b28450a4097:7045864f6c13ea0749130536fc207dd0",
+        "name": "ENGLISHCLUBTV"
+    },
+    "RU5OQUhBUlRW_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ENNAHARTV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac6d629bee0533b28450a2d36:f8a6a93757cf3773cf24a691ccd3a944",
+        "name": "ENNAHARTV"
+    },
+    "RVJFVFY=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ERETV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad9b029d0e0533b28450a5061:1b39fdabd409905ce7462d2679f95574",
+        "name": "ERETV"
+    },
+    "RVRCU0FU_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ETBSAT\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a9e6f29c8e0533b28450a1575:dcc205ca7a920bd167cecc2902dc1b2d",
+        "name": "ETBSAT"
+    },
+    "RVVST05FV1NGUg==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$EURONEWSFR\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a9e7129c8e0533b28450a1575:4ddc42d0a510c4fe1e4dcd2f49bd3502",
+        "name": "EURONEWSFR"
+    },
+    "RV9FTlRFUlRBSU5NRU5U_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$E_ENTERTAINMENT\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac6d329bee0533b28450a2d36:4922e7ae1de10a4acab6a2c1db8aba4a",
+        "name": "E_ENTERTAINMENT"
+    },
+    "RlIzQUxQRVM=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$FR3ALPES\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad18e29b6e0533b28450a581d:7ea0e2f6519b6f70bc07c2037998830a",
+        "name": "FR3ALPES"
+    },
+    "RlIzQUxTQUNF_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$FR3ALSACE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad18f29b6e0533b28450a581d:8bdb01d3e1f8e8dd2658fdf3a358b6c2",
+        "name": "FR3ALSACE"
+    },
+    "RlIzQVFVSVRBSU5F_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$FR3AQUITAINE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad19029b6e0533b28450a581d:127ffd2d8656e3bcfaf34b12fa3b7b4f",
+        "name": "FR3AQUITAINE"
+    },
+    "RlIzQVVWRVJHTkU=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$FR3AUVERGNE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad19129b6e0533b28450a581d:1a177a2bea259f81c3826cb989d6c2e8",
+        "name": "FR3AUVERGNE"
+    },
+    "RlIzQkFTU0VOT1JNQU5ESUU=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$FR3BASSENORMANDIE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad19229b6e0533b28450a581d:c3557af7ff4176fdc699e6453969fd23",
+        "name": "FR3BASSENORMANDIE"
+    },
+    "RlIzQk9VUkdPR05F_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$FR3BOURGOGNE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad19329b6e0533b28450a581d:339061844a70c4a45e1885bc02ea4cf3",
+        "name": "FR3BOURGOGNE"
+    },
+    "RlIzQlJFVEFHTkU=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$FR3BRETAGNE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad19429b6e0533b28450a581d:c1a145526b4a875a230de1526363aa82",
+        "name": "FR3BRETAGNE"
+    },
+    "RlIzQ0VOVFJF_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$FR3CENTRE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad19629b6e0533b28450a581d:ff4cf9912b4de06b683adcdfd6a25d99",
+        "name": "FR3CENTRE"
+    },
+    "RlIzQ0hBTVBBR05FX0FSREVOTkU=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$FR3CHAMPAGNE_ARDENNE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad19729b6e0533b28450a581d:d9f6bd3e1495bba6087fa69b7fc418ca",
+        "name": "FR3CHAMPAGNE_ARDENNE"
+    },
+    "RlIzQ09SU0U=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$FR3CORSE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad19829b6e0533b28450a581d:eba902c64ef7faf694c4960bfc5f4a5a",
+        "name": "FR3CORSE"
+    },
+    "RlIzQ09URV9EX0FaVVI=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$FR3COTE_D_AZUR\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad19529b6e0533b28450a581d:8fe64a1897546e2fe0f469c0b5385287",
+        "name": "FR3COTE_D_AZUR"
+    },
+    "RlIzSEFVVEVOT1JNQU5ESUU=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$FR3HAUTENORMANDIE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad19a29b6e0533b28450a581d:f5c78e05dbff6e3127a524e8d337b83d",
+        "name": "FR3HAUTENORMANDIE"
+    },
+    "RlIzSURG_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$FR3IDF\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac1ea29c0e0533b28450a2895:ded99ee7b13b45d2a57ded36c831c97a",
+        "name": "FR3IDF"
+    },
+    "RlIzTEFOR1VFRE9D_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$FR3LANGUEDOC\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad19b29b6e0533b28450a581d:ae2d62dd27acee655c7ab9f84404ccfc",
+        "name": "FR3LANGUEDOC"
+    },
+    "RlIzTElNT1VTSU4=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$FR3LIMOUSIN\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad19c29b6e0533b28450a581d:33562ae0765842f4c884c07f223db324",
+        "name": "FR3LIMOUSIN"
+    },
+    "RlIzTE9SUkFJTkU=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$FR3LORRAINE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad24429bae0533b28450a5949:a8dcdaf61bae853169a4793e4d9e0796",
+        "name": "FR3LORRAINE"
+    },
+    "RlIzTUlESVBZUkVORUVT_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$FR3MIDIPYRENEES\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad24529bae0533b28450a5949:e50f806fc0d3ca5bac04876c1d9708a8",
+        "name": "FR3MIDIPYRENEES"
+    },
+    "RlIzTkFRVE4=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$FR3NAQTN\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a8e7129aee0533b28450a27fa:7ca172f84a6e368f231424ca2e01b162",
+        "name": "FR3NAQTN"
+    },
+    "RlIzTk9SRFBBU0RFQ0FMQUlT_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$FR3NORDPASDECALAIS\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac1e929c0e0533b28450a2895:08ef6c47169183a0022b247473f06544",
+        "name": "FR3NORDPASDECALAIS"
+    },
+    "RlIzUEFZU0RFTEFMT0lSRQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$FR3PAYSDELALOIRE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac1ec29c0e0533b28450a2895:0127057bb5c3e88c823da3ea40ce8979",
+        "name": "FR3PAYSDELALOIRE"
+    },
+    "RlIzUElDQVJESUU=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$FR3PICARDIE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac1eb29c0e0533b28450a2895:ac09afc21ea268fc8d959d736d1149cb",
+        "name": "FR3PICARDIE"
+    },
+    "RlIzUE9JVE9VQ0hBUkVOVEVT_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$FR3POITOUCHARENTES\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac1ed29c0e0533b28450a2895:6185f7bd36dacb989ac9707384736519",
+        "name": "FR3POITOUCHARENTES"
+    },
+    "RlIzUFJPVkVOQ0VBTFBFUw==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$FR3PROVENCEALPES\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac1ee29c0e0533b28450a2895:627f54e8dc84b74a8b637f7bec0a6935",
+        "name": "FR3PROVENCEALPES"
+    },
+    "RlIzUkhPTkVBTFBFUw==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$FR3RHONEALPES\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac1ef29c0e0533b28450a2895:11b14699200d5cca8a499305169f8464",
+        "name": "FR3RHONEALPES"
+    },
+    "RlJBTkNFMg==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NEUF_FRANCE2\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a9e8f29c8e0533b28450a1575:68aaa9fb02c982c38af1f9cd65f450ac",
+        "name": "FRANCE2"
+    },
+    "RlJBTkNFMjQ=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$FRANCE24\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad18c29b6e0533b28450a581d:0b4df31ed942a4bdf3a0bbb1b48eb4f6",
+        "name": "FRANCE24"
+    },
+    "RlJBTkNFMjRBTkdMQUlT_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$FRANCE24ANGLAIS\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad18b29b6e0533b28450a581d:d96080013435aa74a25fa4a389c9e775",
+        "name": "FRANCE24ANGLAIS"
+    },
+    "RlJBTkNFMjRBUkFCRQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$FRANCE24ARABE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad18a29b6e0533b28450a581d:fba22614d101fb27675651648efad0c6",
+        "name": "FRANCE24ARABE"
+    },
+    "RlJBTkNFMw==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NEUF_FRANCE3\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac1ef29c0e0533b28450a2895:11b14699200d5cca8a499305169f8464",
+        "name": "FRANCE3"
+    },
+    "RlJBTkNFNA==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NEUF_FRANCE4\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a9e9129c8e0533b28450a1575:dc5a5a5220c8b2f3200209ed906cbb22",
+        "name": "FRANCE4"
+    },
+    "RlJBTkNFNQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NEUF_FRANCE5\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a9e9229c8e0533b28450a1575:f6b4f6d80a541758058c4810838fecb1",
+        "name": "FRANCE5"
+    },
+    "RlJBTkNFX0lORk8=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$FRANCE_INFO\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbb229dee0533b28450a72b5:369d26579d1b6f0fc1b3f42ec83e71ed",
+        "name": "FRANCE_INFO"
+    },
+    "R0FMSUNJQVRW_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$GALICIATV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad38329b8e0533b28450a5a69:3cbdc0054ce2c5132a3870e5c3130878",
+        "name": "GALICIATV"
+    },
+    "R0FNRU9ORQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NEUF_GAMEONE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a9e9429c8e0533b28450a1575:b12c204749e257a4497d6468a0cf88a8",
+        "name": "GAMEONE"
+    },
+    "R0FNRU9ORUhE_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NEUF_GAMEONEHD\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad19d29b6e0533b28450a581d:975dbb81db7122c0c780f56159670f68",
+        "name": "GAMEONEHD"
+    },
+    "R0lOWA==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$GINX\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a8e8729aee0533b28450a27fa:f70d8596239ea07e7a42f51ea44ba59c",
+        "name": "GINX"
+    },
+    "R09MRkNIQU5ORUw=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$GOLFCHANNEL\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad1a229b6e0533b28450a581d:6fc92df1e20b8d1334fa41334719f1d0",
+        "name": "GOLFCHANNEL"
+    },
+    "R09MRkVUVg==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$GOLFETV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac6c529bee0533b28450a2d36:dcd6362a048dd849c8b6693978b9d006",
+        "name": "GOLFETV"
+    },
+    "R1VBTkdET05HVFZTRA==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$GUANGDONGTVSD\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a9c1b29dae0533b28450a12f4:8f35f515539ccc533ace76bf328e7a76",
+        "name": "GUANGDONGTVSD"
+    },
+    "R1VMTEk=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NEUF_GULLI\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a9e9529c8e0533b28450a1575:c5f6355551ee6f3baa8ffd46945098e9",
+        "name": "GULLI"
+    },
+    "SEFOTklCQUxUVg==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$HANNIBALTV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad1a629b6e0533b28450a581d:fb4d04bfc9312867fc0862c45255cc83",
+        "name": "HANNIBALTV"
+    },
+    "SEQx_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$HD1\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad99b29d0e0533b28450a5061:7f8364aadae300beba0c672420e22c44",
+        "name": "HD1"
+    },
+    "SElTVE9JUkU=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$HISTOIRE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a9c3329dae0533b28450a12f4:61800fa49e9a318573cc8a9ae8f37866",
+        "name": "HISTOIRE"
+    },
+    "SFVOQU5UVg==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$HUNANTV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad99d29d0e0533b28450a5061:83e39c3d93351cdb0cfd2bf5711fb3f8",
+        "name": "HUNANTV"
+    },
+    "STI0TkVXUw==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$I24NEWS\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad1a529b6e0533b28450a581d:09c5b0a91aa5999eb30d49a9a62fe8e0",
+        "name": "I24NEWS"
+    },
+    "STI0TkVXU0FOR0xBSVM=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$I24NEWSANGLAIS\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47aa20c29d2e0533b28450a08e5:361d40b1b793bee153150744c84c93dc",
+        "name": "I24NEWSANGLAIS"
+    },
+    "STI0TkVXU0FSQUJF_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$I24NEWSARABE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47aa20d29d2e0533b28450a08e5:57fe68bb66be909cde901aa0484ee6c0",
+        "name": "I24NEWSARABE"
+    },
+    "SURGMQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$IDF1\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad99f29d0e0533b28450a5061:a8451476ad68e8d471f09dddb784d887",
+        "name": "IDF1"
+    },
+    "SUxUVg==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ILTV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac6bb29bee0533b28450a2d36:5bd7f48832dcdc5a5cd8ed6e917e7de3",
+        "name": "ILTV"
+    },
+    "SVFSQUFJTlQ=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$IQRAAINT\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad9a129d0e0533b28450a5061:4d4a3bda8560f0dfb1327c276d583dac",
+        "name": "IQRAAINT"
+    },
+    "SVFSQUFUVg==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$IQRAATV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a8e7a29aee0533b28450a27fa:eaf48b8e1aae76f94536e882b517f122",
+        "name": "IQRAATV"
+    },
+    "SkVFTVRW_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$JEEMTV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac6dc29bee0533b28450a2d36:aa8584bddb8a9eff5acb5fd5c6badb7a",
+        "name": "JEEMTV"
+    },
+    "Sk9SREFOU0FURUxMSVRFQ0hBTk5FTA==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$JORDANSATELLITECHANNEL\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad9a629d0e0533b28450a5061:e207fa940b3a7db9bce90c356bbe1a0a",
+        "name": "JORDANSATELLITECHANNEL"
+    },
+    "SlNCQ0lOVA==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$JSBCINT\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad9a729d0e0533b28450a5061:7e21326b368e2f38ea53a01e93c1560b",
+        "name": "JSBCINT"
+    },
+    "S0FCRUxFSU5T_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$KABELEINS\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be479c4a904d3e0533b28450a4097:f17a3444f3167b73fcae183df30d8d26",
+        "name": "KABELEINS"
+    },
+    "S09NQkFUU1BPUlQ=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$KOMBATSPORT\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbaa29dee0533b28450a72b5:9ad03620f7dc12959064cfd29512d615",
+        "name": "KOMBATSPORT"
+    },
+    "S1RP_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$KTO\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad9ae29d0e0533b28450a5061:0fa686076d3542c936503335b8acb818",
+        "name": "KTO"
+    },
+    "TEFDSEFJTkVOT1JNQU5ERQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$LACHAINENORMANDE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbb629dee0533b28450a72b5:41109836abb357e99d3d8150e6eb2d51",
+        "name": "LACHAINENORMANDE"
+    },
+    "TENJ_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$LCI\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a9c3429dae0533b28450a12f4:8a02964ec80d7e2595a30464f6a7793d",
+        "name": "LCI"
+    },
+    "TENQ_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$LCP\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad1a929b6e0533b28450a581d:d36fc0b59ce09111e3fd31aacf93b2fb",
+        "name": "LCP"
+    },
+    "TENQQU4yNF8yNA==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$LCPAN24_24\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad1aa29b6e0533b28450a581d:d58581f95ae066c4d5ab1546b4ea9a46",
+        "name": "LCPAN24_24"
+    },
+    "TEVRVUlQRV8yMQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$LEQUIPE_21\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a9c3529dae0533b28450a12f4:48f597c6ddbd590dfc0181eb71fa00f9",
+        "name": "LEQUIPE_21"
+    },
+    "TE9DQUxWSVNBTw==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$LOCALVISAO\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afba729dee0533b28450a72b5:ff847fa5f1f9c8fbd3ddf772c65cb34c",
+        "name": "LOCALVISAO"
+    },
+    "TFVDS1lKQUNL_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$LUCKYJACK\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad1ab29b6e0533b28450a581d:9c60a77603eec8ea26faaeb3f3fa4612",
+        "name": "LUCKYJACK"
+    },
+    "TFVYRVRW_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$LUXETV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad1ac29b6e0533b28450a581d:538c3c9b563cf5cd700c1b02bc5dca45",
+        "name": "LUXETV"
+    },
+    "TTY=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$M6\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a9e9629c8e0533b28450a1575:58c95ab267fa708d186366876c104759",
+        "name": "M6"
+    },
+    "TTZfTVVTSUM=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$M6_MUSIC\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad1b029b6e0533b28450a581d:6aec259c52b714eef3f642dff1c973ca",
+        "name": "M6_MUSIC"
+    },
+    "TUFOR0FT_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$MANGAS\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a9c3629dae0533b28450a12f4:2493efd1b2ff76fbae213c58d0803c39",
+        "name": "MANGAS"
+    },
+    "TUFSSVRJTUFUVg==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$MARITIMATV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad1b329b6e0533b28450a581d:9bab9e500936c9d85a425b8968e14829",
+        "name": "MARITIMATV"
+    },
+    "TUJD_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$MBC\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad1b429b6e0533b28450a581d:b1318ebee85e0eaeefc8b0c93394db79",
+        "name": "MBC"
+    },
+    "TUNN_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$MCM\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a53d129b0e0533b28450a1cbb:ab96b43e21af1a30a5577d4377926659",
+        "name": "MCM"
+    },
+    "TUVESTFTQVQ=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$MEDI1SAT\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad9b529d0e0533b28450a5061:be4001a5f51f1e1700bf4df85f2a4333",
+        "name": "MEDI1SAT"
+    },
+    "TUVMT0RZ_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$MELODY\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a99ac29b2e0533b28450a103e:7864751f9c768da142f024825343a431",
+        "name": "MELODY"
+    },
+    "TUVMT0RZX0RBRlJJUVVF_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$MELODY_DAFRIQUE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad36d29b8e0533b28450a5a69:281c4ec3338b438da42eba91ea4dfe66",
+        "name": "MELODY_DAFRIQUE"
+    },
+    "TUVOU1VQVFY=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$MENSUPTV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbbc29dee0533b28450a72b5:a1fd8b452ab3276d84774c0ba1e67681",
+        "name": "MENSUPTV"
+    },
+    "TUVaWk8=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$MEZZO\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbbe29dee0533b28450a72b5:c7ff83cd46ecb92b214936452a42f0aa",
+        "name": "MEZZO"
+    },
+    "TUVaWk9MSVZF_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$MEZZOLIVE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbbd29dee0533b28450a72b5:fcb90b74191407efaa8539007d4ec820",
+        "name": "MEZZOLIVE"
+    },
+    "TUlSQUJFTExFVFY=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$MIRABELLETV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbbf29dee0533b28450a72b5:2e97239b0a762dd6083e63ed2f8ccc8a",
+        "name": "MIRABELLETV"
+    },
+    "TVRWSElUUw==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$MTVHITS\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a99c029b2e0533b28450a103e:81f9644797294c82b68d1a8d39ca859f",
+        "name": "MTVHITS"
+    },
+    "TVVSUlRW_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$MURRTV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a99be29b2e0533b28450a103e:45fda3c0f9ef08f882ffd0944643319e",
+        "name": "MURRTV"
+    },
+    "TVlDVUlTSU5F_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$MYCUISINE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afba529dee0533b28450a72b5:fc1ed976c596464133e7589b9228be27",
+        "name": "MYCUISINE"
+    },
+    "TkNfRElTQ09WRVJZQ0hBTk5FTEhE_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NC_DISCOVERYCHANNELHD\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47aa20429d2e0533b28450a08e5:dd6a4ce86efd0cb87cdaddc22f2b4741",
+        "name": "NC_DISCOVERYCHANNELHD"
+    },
+    "TkNfSk9ORUhE_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NC_JONEHD\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47aa20229d2e0533b28450a08e5:0188a7501502224e0803175fb1b222b0",
+        "name": "NC_JONEHD"
+    },
+    "TkNfTVRWSEQ=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NC_MTVHD\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47aa1fe29d2e0533b28450a08e5:69352953d7c2fe73c7f5740de7636374",
+        "name": "NC_MTVHD"
+    },
+    "TkVTU01B_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NESSMA\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbc629dee0533b28450a72b5:6058e40cc8e8bacdcf862e7e9d624775",
+        "name": "NESSMA"
+    },
+    "TkhLV09STEQ=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NHKWORLD\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbc729dee0533b28450a72b5:f88cefb0c1594d5c759197868c2f7d66",
+        "name": "NHKWORLD"
+    },
+    "TklDS0VMT0RFT04=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NICKELODEON\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47aa1f129d2e0533b28450a08e5:7285921d54f40d46cc70bfacf9649d8a",
+        "name": "NICKELODEON"
+    },
+    "TklDS0VMT0RFT040VEVFTg==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NICKELODEON4TEEN\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac6ca29bee0533b28450a2d36:807a1782053c63f4fbcb0b74594c62c4",
+        "name": "NICKELODEON4TEEN"
+    },
+    "TklDS0VMT0RFT05KVU5JT1I=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NICKELODEONJUNIOR\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47aa1f029d2e0533b28450a08e5:50266aabebbea38b38f286ecc319515d",
+        "name": "NICKELODEONJUNIOR"
+    },
+    "TklDS0VMT0RFT05QTFVTT05F_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NICKELODEONPLUSONE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac1d729c0e0533b28450a2895:5ff8b76c9493fb2a9807710c1831ccff",
+        "name": "NICKELODEONPLUSONE"
+    },
+    "Tk9MTFlXT09EVFY=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NOLLYWOODTV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbca29dee0533b28450a72b5:d71b831cfc3d1357cfd498bb3e912ddd",
+        "name": "NOLLYWOODTV"
+    },
+    "TlQx_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NT1\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a53d329b0e0533b28450a1cbb:f82301a2c3d7bbeba16467901a24692a",
+        "name": "NT1"
+    },
+    "TlRE_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NTD\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbce29dee0533b28450a72b5:cdcdbfcf130dd7c20368d12d93e58382",
+        "name": "NTD"
+    },
+    "TlRW_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NTV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbcf29dee0533b28450a72b5:60543707e6933ebaba8fdc496dfae571",
+        "name": "NTV"
+    },
+    "TlVNRVJPXzIz_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NUMERO_23\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a53e629b0e0533b28450a1cbb:a8f3e30c8fc28072e8545cda37a997d7",
+        "name": "NUMERO_23"
+    },
+    "T0NJTkVDSE9D_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NEUF_OCINECHOC\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a53d429b0e0533b28450a1cbb:f1948f724f3535807fc3b7655b09c06c",
+        "name": "OCINECHOC"
+    },
+    "T0NJTkVHRUFOVFM=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NEUF_OCINEGEANTS\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a53d529b0e0533b28450a1cbb:bf593be6f9a80788dc0205110bf2cf6d",
+        "name": "OCINEGEANTS"
+    },
+    "T0NJTkVNQVg=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NEUF_OCINEMAX\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a53d629b0e0533b28450a1cbb:9ae1524e835eac0e869f00aeb63e4b1e",
+        "name": "OCINEMAX"
+    },
+    "T0NJTkVOT1ZP_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NEUF_OCINENOVO\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a53d729b0e0533b28450a1cbb:54c134c66174e95326a904ca8b3457e2",
+        "name": "OCINENOVO"
+    },
+    "T0xUVg==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$OLTV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac6c929bee0533b28450a2d36:ea96289667f6913b329aa3dab70d924f",
+        "name": "OLTV"
+    },
+    "T1JUQg==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ORTB\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a53e829b0e0533b28450a1cbb:3d88a8642361188bea883c53ec3c418b",
+        "name": "ORTB"
+    },
+    "T1JUQw==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ORTC\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a53e929b0e0533b28450a1cbb:7a48e042fb67651254e7179074436db2",
+        "name": "ORTC"
+    },
+    "T1JUTQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ORTM\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a53ea29b0e0533b28450a1cbb:05bd0c16677b70947157b0933aac1de2",
+        "name": "ORTM"
+    },
+    "UEFSQU1PVU5U_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$PARAMOUNT\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a53ec29b0e0533b28450a1cbb:8def263aedcd4ce75e3bd41e8c22802d",
+        "name": "PARAMOUNT"
+    },
+    "UEFSQU1PVU5UUExVUzE=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$PARAMOUNTPLUS1\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbb329dee0533b28450a72b5:02c7a1e5da42884ed19058a6d140110e",
+        "name": "PARAMOUNTPLUS1"
+    },
+    "UEFSSVNQUkVNSUVSRQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$PARISPREMIERE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a53d929b0e0533b28450a1cbb:5efacce631fde406497ea5998b46d1b2",
+        "name": "PARISPREMIERE"
+    },
+    "UEhPRU5JWENORQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$PHOENIXCNE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a9c3b29dae0533b28450a12f4:b5a77e1032332a69218ce3314b1f408c",
+        "name": "PHOENIXCNE"
+    },
+    "UElFUklTRUxUVg==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$PIERISELTV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac6b829bee0533b28450a2d36:022bbd0d8ab0b42a2785b88f780ca7c9",
+        "name": "PIERISELTV"
+    },
+    "UE9SVE9DQU5BTA==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$PORTOCANAL\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a9e7c29c8e0533b28450a1575:730f5f69316f3cd6387d83c65c358b3e",
+        "name": "PORTOCANAL"
+    },
+    "UFJPU0lFQkVOU0FUMVdFTFQ=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$PROSIEBENSAT1WELT\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a8e8829aee0533b28450a27fa:3abb5c64aed897a0dedf565544ce08e2",
+        "name": "PROSIEBENSAT1WELT"
+    },
+    "UFVCTElDU0VOQVQ=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$PUBLICSENAT\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a8e8929aee0533b28450a27fa:be060a997785abd664de3bf82e4f18c6",
+        "name": "PUBLICSENAT"
+    },
+    "UkFJVU5P_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$RAIUNO\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a8e8a29aee0533b28450a27fa:13493a73f4a90a6ac2dd86c575480426",
+        "name": "RAIUNO"
+    },
+    "UkVDT1JETkVXUw==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$RECORDNEWS\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a8e8e29aee0533b28450a27fa:0b6829aae238c434a588385686821456",
+        "name": "RECORDNEWS"
+    },
+    "UkZNVFY=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$RFMTV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbbd29dee0533b28450a72b5:fcb90b74191407efaa8539007d4ec820",
+        "name": "RFMTV"
+    },
+    "Uk1DU1BPUlQx_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$RMCSPORT1\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbce29b4e0533b28450a72df:ec7b42d680f395e98b70f0f41528d13e",
+        "name": "RMCSPORT1"
+    },
+    "Uk1DU1BPUlQy_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$RMCSPORT2\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbcd29b4e0533b28450a72df:3f09c23d329e616e5be781381578b9d6",
+        "name": "RMCSPORT2"
+    },
+    "Uk1DU1BPUlRMSVZFMTA=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$RMCSPORTLIVE10\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbc629b4e0533b28450a72df:13e4e749d27fa540c7427df23387ba1b",
+        "name": "RMCSPORTLIVE10"
+    },
+    "Uk1DU1BPUlRMSVZFMTE=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$RMCSPORTLIVE11\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbc529b4e0533b28450a72df:60716b9af75972e30dfbad63764e2fed",
+        "name": "RMCSPORTLIVE11"
+    },
+    "Uk1DU1BPUlRMSVZFMTI=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$RMCSPORTLIVE12\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbc429b4e0533b28450a72df:5111d58c70b9371f18bec4cea82996b7",
+        "name": "RMCSPORTLIVE12"
+    },
+    "Uk1DU1BPUlRMSVZFMTM=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$RMCSPORTLIVE13\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbc329b4e0533b28450a72df:19f3cf33711f591cea80b01fa79c83a3",
+        "name": "RMCSPORTLIVE13"
+    },
+    "Uk1DU1BPUlRMSVZFMTQ=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$RMCSPORTLIVE14\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbc229b4e0533b28450a72df:e85dff1819ac81edafa47ce9e426eacf",
+        "name": "RMCSPORTLIVE14"
+    },
+    "Uk1DU1BPUlRMSVZFMw==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$RMCSPORTLIVE3\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "bae0abaa952a26cbe0533b28450a9878:35a4f31b31084db95a17f722a671aa26",
+        "name": "RMCSPORTLIVE3"
+    },
+    "Uk1DU1BPUlRMSVZFNA==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$RMCSPORTLIVE4\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "bae0abaac3a03086e0533b28450afc5e:9f2de3b0b19e3adf5153075e54e4c699",
+        "name": "RMCSPORTLIVE4"
+    },
+    "Uk1DU1BPUlRMSVZFNQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$RMCSPORTLIVE5\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbcb29b4e0533b28450a72df:1e997d3ca17dafe659778369bffb69cf",
+        "name": "RMCSPORTLIVE5"
+    },
+    "Uk1DU1BPUlRMSVZFNg==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$RMCSPORTLIVE6\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbca29b4e0533b28450a72df:3b93e5243301b8ae6894150aaf170e9c",
+        "name": "RMCSPORTLIVE6"
+    },
+    "Uk1DU1BPUlRMSVZFNw==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$RMCSPORTLIVE7\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbc929b4e0533b28450a72df:991b4807238d7d2d7a726b4e019dc968",
+        "name": "RMCSPORTLIVE7"
+    },
+    "Uk1DU1BPUlRMSVZFOA==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$RMCSPORTLIVE8\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbc829b4e0533b28450a72df:84ee44b4db5d81bc0c1a84eaa33c00ce",
+        "name": "RMCSPORTLIVE8"
+    },
+    "Uk1DU1BPUlRMSVZFOQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$RMCSPORTLIVE9\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbc729b4e0533b28450a72df:82922f00901058b0d3d06d01cb55b67f",
+        "name": "RMCSPORTLIVE9"
+    },
+    "Uk1DX0RFQ09VVkVSVEU=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$RMC_DECOUVERTE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a53db29b0e0533b28450a1cbb:1a1027b7e1c097a80e4bd4522c8ea4e4",
+        "name": "RMC_DECOUVERTE"
+    },
+    "Uk9UQU5BQUZMQU0=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ROTANAAFLAM\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a8e7929aee0533b28450a27fa:1e0d8eb34d94312aca43830e31f150d8",
+        "name": "ROTANAAFLAM"
+    },
+    "Uk9UQU5BQ0lORU1B_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ROTANACINEMA\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a8e9029aee0533b28450a27fa:b73561f3f15821f775088f99b6f1d4f4",
+        "name": "ROTANACINEMA"
+    },
+    "Uk9UQU5BQ0xJUA==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ROTANACLIP\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a8e9129aee0533b28450a27fa:66bee03fb5461364596505d37f386c3f",
+        "name": "ROTANACLIP"
+    },
+    "UlRC_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$RTB\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a8e9529aee0533b28450a27fa:3aeb22d375407086dafd42b2fa1a9efa",
+        "name": "RTB"
+    },
+    "UlRH_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$RTG\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a8e9829aee0533b28450a27fa:f439714714c2332cb21189f92bc1f331",
+        "name": "RTG"
+    },
+    "UlRJMQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$RTI1\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac1fe29c0e0533b28450a2895:8ce0b904207436fe9cb45c75fd955e62",
+        "name": "RTI1"
+    },
+    "UlRMMkFMTEVNQU5E_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$RTL2ALLEMAND\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a8e9929aee0533b28450a27fa:6204d922549bf3c604cd25268622f73c",
+        "name": "RTL2ALLEMAND"
+    },
+    "UlRMOQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NEUF_RTL9\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a53dc29b0e0533b28450a1cbb:d7f4f338168550d62f979d13c2104863",
+        "name": "RTL9"
+    },
+    "UlRMTklUUk9UVg==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$RTLNITROTV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a8e8429aee0533b28450a27fa:c92b229f83837abbbfcf3f6bc38e467c",
+        "name": "RTLNITROTV"
+    },
+    "UlRMVEVMRVZJU0lPTg==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$RTLTELEVISION\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a8e9a29aee0533b28450a27fa:546d4a94eae883ada4d6d1f55bdca586",
+        "name": "RTLTELEVISION"
+    },
+    "UlROQw==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$RTNC\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be479c4c004d3e0533b28450a4097:6052ee859d514b9d226c2df6d95f17b7",
+        "name": "RTNC"
+    },
+    "UlRQSQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$RTPI\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac1f329c0e0533b28450a2895:87f8d1b5d98ca52157f7f15d6b6cc57b",
+        "name": "RTPI"
+    },
+    "UlRSUExBTkVUQQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$RTRPLANETA\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac1f429c0e0533b28450a2895:02a4ff2adcfbe31b808608f69a96dd24",
+        "name": "RTRPLANETA"
+    },
+    "UlRTMQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$RTS1\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac1f529c0e0533b28450a2895:654bf3e42f82690b02968478505923c5",
+        "name": "RTS1"
+    },
+    "U0NJRU5DRUVUVklF_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$SCIENCEETVIE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac6d529bee0533b28450a2d36:2b6f646653446ad10e717e565fbda3bd",
+        "name": "SCIENCEETVIE"
+    },
+    "U0VSSUVDTFVC_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$SERIECLUB\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47aa1f729d2e0533b28450a08e5:00cac6bf2a4bcc38a25bd45189b3df93",
+        "name": "SERIECLUB"
+    },
+    "U0ZSU1BPUlQx_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NEUF_SFRSPORT1\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac6c129bee0533b28450a2d36:6ab322b896fefbdd2849bf38c499e661",
+        "name": "SFRSPORT1"
+    },
+    "U0ZSU1BPUlQy_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NEUF_SFRSPORT2\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad98729d0e0533b28450a5061:5e8646f62535f6d6b5268b343fa8f131",
+        "name": "SFRSPORT2"
+    },
+    "U0tZTkVXUw==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$SKYNEWS\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac1fb29c0e0533b28450a2895:28bc1b8e7aa1145ae5f3816479488b4c",
+        "name": "SKYNEWS"
+    },
+    "U09MX01VU0lDQQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$SOL_MUSICA\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad23329bae0533b28450a5949:b7cc6da964276f7124d84dcd8ee3c141",
+        "name": "SOL_MUSICA"
+    },
+    "U09NT1M=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$SOMOS\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad23e29bae0533b28450a5949:8956e6f53740036640b88ed3d3960b65",
+        "name": "SOMOS"
+    },
+    "U1BPUlRFTkZSQU5DRQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$SPORTENFRANCE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad99129d0e0533b28450a5061:1b75fa4b9ae6d4ab6ec4ba0d9998f8d5",
+        "name": "SPORTENFRANCE"
+    },
+    "U1RWMg==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$STV2\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a9e9929c8e0533b28450a1575:6ec7824e4866a1157940e77249bbe8f5",
+        "name": "STV2"
+    },
+    "U1VQRVJSVEw=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$SUPERRTL\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a9e9b29c8e0533b28450a1575:e4e950631bf3a32e4f5f3f5a859ce7fd",
+        "name": "SUPERRTL"
+    },
+    "U1lGWQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$SYFY\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47aa1f729d2e0533b28450a08e5:00cac6bf2a4bcc38a25bd45189b3df93",
+        "name": "SYFY"
+    },
+    "VEFNQVpJR0hUNA==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TAMAZIGHT4\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac1e629c0e0533b28450a2895:69165f47ab318f3d246409788e3a3a17",
+        "name": "TAMAZIGHT4"
+    },
+    "VENNQ0lORU1B_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TCMCINEMA\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a53de29b0e0533b28450a1cbb:b94c3389abe915e26a402ae87f89359c",
+        "name": "TCMCINEMA"
+    },
+    "VEVCRU8=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TEBEO\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac6ba29bee0533b28450a2d36:d0af269a8bd8f450c637bad7b0496e44",
+        "name": "TEBEO"
+    },
+    "VEVMRUZPT1Q=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TELEFOOT\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "ab3ca2980ca85580e0533b28450a3f65:b2a9212c03b32daf30eb1e4a3815d388",
+        "name": "TELEFOOT"
+    },
+    "VEVMRUZPT1RfU1RBRElVTTE=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TELEFOOT_STADIUM1\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "ab3ca2986a2755b6e0533b28450a99d3:d0c7907a4ac19378ca0e474db586ca7d",
+        "name": "TELEFOOT_STADIUM1"
+    },
+    "VEVMRUZPT1RfU1RBRElVTTI=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TELEFOOT_STADIUM2\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "ab3ca2985a9655bde0533b28450ae929:210d95838dd4a068232ff5417de26311",
+        "name": "TELEFOOT_STADIUM2"
+    },
+    "VEVMRUZPT1RfU1RBRElVTTM=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TELEFOOT_STADIUM3\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "ab3ca298696855aee0533b28450a98ef:357243da156a5dbeda5f9192ec399079",
+        "name": "TELEFOOT_STADIUM3"
+    },
+    "VEVMRUZPT1RfU1RBRElVTTQ=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TELEFOOT_STADIUM4\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "ab3ca29848ca55a7e0533b28450afb75:be10be9af921f64dbf7bb9392c43f445",
+        "name": "TELEFOOT_STADIUM4"
+    },
+    "VEVMRUZPT1RfU1RBRElVTTU=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TELEFOOT_STADIUM5\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "ab3ca2983f2a55abe0533b28450af2d7:7724e78962915e4c1ce0f89ce052bdfa",
+        "name": "TELEFOOT_STADIUM5"
+    },
+    "VEVMRUZPT1RfU1RBRElVTTY=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TELEFOOT_STADIUM6\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "ab3ca2984d4955a5e0533b28450afcd0:675a279d36743de0722093c307b0df64",
+        "name": "TELEFOOT_STADIUM6"
+    },
+    "VEVMRUZPT1RfU1RBRElVTTc=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TELEFOOT_STADIUM7\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "ab3ca2988b3f55a3e0533b28450abee1:2665cb360975d8dbe42e8f4cc4f7980c",
+        "name": "TELEFOOT_STADIUM7"
+    },
+    "VEVMRUZPT1RfU1RBRElVTTg=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TELEFOOT_STADIUM8\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "ab3ca298408e55a9e0533b28450af33d:4956b37b711086450e7686cd3d674362",
+        "name": "TELEFOOT_STADIUM8"
+    },
+    "VEVMRUdPSEVMTEU=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TELEGOHELLE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac6b529bee0533b28450a2d36:f0f1ede88e330611c909e036ee644a0a",
+        "name": "TELEGOHELLE"
+    },
+    "VEVMRUdSRU5PQkxF_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TELEGRENOBLE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a53bc29b0e0533b28450a1cbb:3759c8ee1fb01c0f60af6e96644d3fb6",
+        "name": "TELEGRENOBLE"
+    },
+    "VEVMRUxPQ0FMRUJJRVNIRUlN_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TELELOCALEBIESHEIM\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac6b929bee0533b28450a2d36:cb5f7f30461f58eb0df7fff925e8ffb2",
+        "name": "TELELOCALEBIESHEIM"
+    },
+    "VEVMRU5BTlRFUw==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TELENANTES\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a99b729b2e0533b28450a103e:be33d821ab70d95388fe640799baa83f",
+        "name": "TELENANTES"
+    },
+    "VEVMRVBBRVNF_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TELEPAESE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad38229b8e0533b28450a5a69:3e537712bdc67dfc76809c9aa66ed370",
+        "name": "TELEPAESE"
+    },
+    "VEVMRVNDSElMVElHSEVJTQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TELESCHILTIGHEIM\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac6b729bee0533b28450a2d36:bbe7cb13fd9fb31e34f7a2c0a90a2a3b",
+        "name": "TELESCHILTIGHEIM"
+    },
+    "VEVMRVZJU0lPTk1PTlRSRVVJTA==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TELEVISIONMONTREUIL\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad99629d0e0533b28450a5061:df274f8b393b68d28ec6120cef3c4650",
+        "name": "TELEVISIONMONTREUIL"
+    },
+    "VEVWQQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TEVA\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a53e029b0e0533b28450a1cbb:c7635a7e097b8c6e08df02eea7b61f00",
+        "name": "TEVA"
+    },
+    "VEYx_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TF1\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a53e129b0e0533b28450a1cbb:b06c704d8da89332e257afe414792e01",
+        "name": "TF1"
+    },
+    "VEYxX1BMVVMx_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TF1_PLUS1\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be479c49804d3e0533b28450a4097:a3d5c0a26b41cca7ddec5e8307d612c4",
+        "name": "TF1_PLUS1"
+    },
+    "VEZN_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TFM\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a99b229b2e0533b28450a103e:22c3767f3b661ae4f4502c29e8768ebf",
+        "name": "TFM"
+    },
+    "VEhFSVNSQUVMSU5FVFdPUks=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$THEISRAELINETWORK\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad9a329d0e0533b28450a5061:5ee286c419a03e34e0d2832b9d45949d",
+        "name": "THEISRAELINETWORK"
+    },
+    "VElKSQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TIJI\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47aa1ef29d2e0533b28450a08e5:b61342d47a4131150130bb816415557b",
+        "name": "TIJI"
+    },
+    "VEw3U0FJTlRfRVRJRU5ORQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TL7SAINT_ETIENNE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a99b429b2e0533b28450a103e:9cb5e03a12f61c8148992ebb2db0043f",
+        "name": "TL7SAINT_ETIENNE"
+    },
+    "VE1D_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TMC\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a53e229b0e0533b28450a1cbb:48dfe2b90400672127b0014084b12a22",
+        "name": "TMC"
+    },
+    "VE1DX1BMVVMx_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TMC_PLUS1\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac6c229bee0533b28450a2d36:57d913a0755c61ab5c60960c291dab9e",
+        "name": "TMC_PLUS1"
+    },
+    "VE9PTkFNSQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TOONAMI\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a9e7e29c8e0533b28450a1575:62cbe697bc5fea772e85a9d9a793fcdd",
+        "name": "TOONAMI"
+    },
+    "VE9VVEVMX0hJU1RPSVJF_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TOUTEL_HISTOIRE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbec29b4e0533b28450a72df:b4aa53f904a35d6b93aa6855722e1f8c",
+        "name": "TOUTEL_HISTOIRE"
+    },
+    "VFJBQ0VBRlJJQ0E=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TRACEAFRICA\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbe629b4e0533b28450a72df:7b60b8914164c671a69cebe066222455",
+        "name": "TRACEAFRICA"
+    },
+    "VFJBQ0VHT1NQRUw=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TRACEGOSPEL\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a9e7d29c8e0533b28450a1575:521e9db00e2962bf3706e05ff5e7ef94",
+        "name": "TRACEGOSPEL"
+    },
+    "VFJBQ0VUT0NB_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TRACETOCA\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a53c429b0e0533b28450a1cbb:05785702eeef5f28c2b973fe0236673d",
+        "name": "TRACETOCA"
+    },
+    "VFJBQ0VVUkJBTg==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TRACEURBAN\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbe829b4e0533b28450a72df:b44d1d951cc70a1fa070634d48ee1ce4",
+        "name": "TRACEURBAN"
+    },
+    "VFJBQ0VfQ0FSRUlCRQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TRACETROPICAL\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbe929b4e0533b28450a72df:4e78173e8587a8f1c130a2d78fdc014f",
+        "name": "TRACE_CAREIBE"
+    },
+    "VFJFSw==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TREK\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad98b29d0e0533b28450a5061:170df7b639a6dd07829c6ab06c3e105e",
+        "name": "TREK"
+    },
+    "VFY1TU9OREVFVVJPUEU=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TV5MONDEEUROPE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbee29b4e0533b28450a72df:58386276afd70ad241c3a7c119a8bf12",
+        "name": "TV5MONDEEUROPE"
+    },
+    "VFY3Qk9SREVBVVg=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TV7BORDEAUX\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbef29b4e0533b28450a72df:00ca49db640a50e6eca0e3b82728ce24",
+        "name": "TV7BORDEAUX"
+    },
+    "VFY4TU9TRUxMRV9FU1Q=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TV8MOSELLE_EST\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be479c4c104d3e0533b28450a4097:0d474dd76537c51358fba6c42f116f17",
+        "name": "TV8MOSELLE_EST"
+    },
+    "VFZCUkVJWkg=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TVBREIZH\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a53e329b0e0533b28450a1cbb:af3906607e72e5712c0f6c29b909ba17",
+        "name": "TVBREIZH"
+    },
+    "VFZDT05HTw==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TVCONGO\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac20129c0e0533b28450a2895:e152efb91d135154fafca73d61793d66",
+        "name": "TVCONGO"
+    },
+    "VFZF_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TVE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbf129b4e0533b28450a72df:71df7db72f246fc7a980b9a6efbabbab",
+        "name": "TVE"
+    },
+    "VFZGSUw3OA==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TVFIL78\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac6e229bee0533b28450a2d36:dcc5c8d84dcc3fcd3c455cdc4e6c214b",
+        "name": "TVFIL78"
+    },
+    "VFZJRklDQ0FP_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TVIFICCAO\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad99729d0e0533b28450a5061:b0b3e5b7c30c4e29fc67dfa6c49af0f5",
+        "name": "TVIFICCAO"
+    },
+    "VFZMWU9O_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TVLYON\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a99c329b2e0533b28450a103e:547b28f953b6dd96d110fd6230744055",
+        "name": "TVLYON"
+    },
+    "VFZN_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TVM\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a9e9f29c8e0533b28450a1575:33fd6e01a0e63aa6e7b4a37b359ea2bd",
+        "name": "TVM"
+    },
+    "VFZNT1NBSUs=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TVMOSAIK\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac20429c0e0533b28450a2895:74aa6c057da2dde7c55b8081af83f1e8",
+        "name": "TVMOSAIK"
+    },
+    "VFZOQVRUVU5JU0lFTk5F_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TVNATTUNISIENNE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbe529b4e0533b28450a72df:d28a110885f8f5b524684ebaac806536",
+        "name": "TVNATTUNISIENNE"
+    },
+    "VFZQSQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TVPI\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad23829bae0533b28450a5949:ca7ed4c131cb2a69d77410382e5559dc",
+        "name": "TVPI"
+    },
+    "VFZQUE9MT05JQQ==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TVPPOLONIA\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a9c1829dae0533b28450a12f4:7241d5dee92a54b1d1db559cd675262a",
+        "name": "TVPPOLONIA"
+    },
+    "VFZSSU5U_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TVRINT\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a9c1a29dae0533b28450a12f4:e81ac0b1acb35d0a66212d7aa0e0542e",
+        "name": "TVRINT"
+    },
+    "VFZUT1VSUw==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TVTOURS\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a9c1e29dae0533b28450a12f4:f3340eadc13ec663dc18cd1330b06a12",
+        "name": "TVTOURS"
+    },
+    "VFZWRU5ERUU=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$TVVENDEE\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a9c2029dae0533b28450a12f4:5cc24f86b1bda1c6b07ff82ba27c64a7",
+        "name": "TVVENDEE"
+    },
+    "VVNIVUFJQV9UVg==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$USHUAIA_TV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a53e429b0e0533b28450a1cbb:c255a01070d83bc2a3ed6559baf0a29b",
+        "name": "USHUAIA_TV"
+    },
+    "VklBMzE=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$VIA31\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac6c329bee0533b28450a2d36:6c5672347f855bb77940ea94be89690b",
+        "name": "VIA31"
+    },
+    "VklBMzQ=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$VIA34\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a9c1d29dae0533b28450a12f4:b35f41c6eaf3b6ca400168aa6468f413",
+        "name": "VIA34"
+    },
+    "VklBNjY=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$VIA66\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac6c729bee0533b28450a2d36:193cba9df9065edc2d79ad48b404796b",
+        "name": "VIA66"
+    },
+    "VklBR1JBTkRQQVJJUw==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$VIAGRANDPARIS\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a99b029b2e0533b28450a103e:e3fbf156e505fafe4ae6276fc19fe130",
+        "name": "VIAGRANDPARIS"
+    },
+    "Vk9TR0VTVFY=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$VOSGESTV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a9c2729dae0533b28450a12f4:83f02cd55b0786e5f9df8942b6f7d9ad",
+        "name": "VOSGESTV"
+    },
+    "Vk9YQUZSSUNB_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$VOXAFRICA\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a9c2829dae0533b28450a12f4:7c8c8f2840a9337a8a566683ebb49ed3",
+        "name": "VOXAFRICA"
+    },
+    "Vk9YQUxMRU1BTkQ=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$VOXALLEMAND\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a9c2929dae0533b28450a12f4:2e247d0f1f046fa7c7c305f18d557652",
+        "name": "VOXALLEMAND"
+    },
+    "Vzk=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NEUF_W9\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a53e529b0e0533b28450a1cbb:bf0075fa5d94bf4bb23a69115d6302ec",
+        "name": "W9"
+    },
+    "V0FOVFpUVg==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$WANTZTV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbd129b4e0533b28450a72df:2e2b1ec5b6ecf80aa3ab6a180a9814b5",
+        "name": "WANTZTV"
+    },
+    "V0VMVA==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$WELT\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ad23229bae0533b28450a5949:75bae2857955bb1032ba8b8fd700355b",
+        "name": "WELT"
+    },
+    "V0VP_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$WEO\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbd429b4e0533b28450a72df:fb218db5211f389ada7c1b14feb0ca07",
+        "name": "WEO"
+    },
+    "WElBTUVOU1RBUg==_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$XIAMENSTAR\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbd529b4e0533b28450a72df:4c6ae679332ad8d4de81d7cbcc75163b",
+        "name": "XIAMENSTAR"
+    },
+    "WkVFX0FGTEFN_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ZEE_AFLAM\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47ac1db29c0e0533b28450a2895:19157904886fe71e4ec602b0c9b9ccbd",
+        "name": "ZEE_AFLAM"
+    },
+    "Wk9VS1RW_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ZOUKTV\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a8e7e29aee0533b28450a27fa:588846c4e063b1f8b67ddd3b71b9291f",
+        "name": "ZOUKTV"
+    },
+    "WlRWV09STEQ=_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$ZTVWORLD\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47a8e7f29aee0533b28450a27fa:10b8bdfbeb9e8717fd9b1c4043138a30",
+        "name": "ZTVWORLD"
+    },
+    "ZlRWOE1C_SFR": {
+        "url": "https:\/\/ncdn-live-pctv.pfd.sfr.net\/sdash\/LIVE$NEUF_TV8MB\/index.mpd\/Manifest?start=LIVE&end=END&device=dash_dyn_wide",
+        "key": "aa8be47afbf029b4e0533b28450a72df:3c534032f220c65a1c456290514aef54",
+        "name": "fTV8MB"
+    }
+}

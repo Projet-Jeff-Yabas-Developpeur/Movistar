@@ -1,0 +1,182 @@
+{
+    "RVNQTiBIRA==_MIOTV": {
+        "url": "https://supercanal-cdn2.tbxdrm.com/espn1/manifest.mpd",
+        "logo": "https://experience-cdn.tbxnet.com/images/networkLogo/mioplay.espn.png?_v=1.5.72",
+        "key": [
+            "c0520f003c935e57b2443fff76173542:f4a963d02e39ee8cc879a2d66e5e19ea",
+            "d7ffd70697825454b0f7c388da4d47c1:94ed6f0145ff0386a2addc2a01d9f270",
+            "fb422911559357d3a07358c790a49e32:e8b62ff5b0a32f24000d6ff17dd6f836"
+        ],
+        "name": "ESPN HD"
+    },
+    "RVNQTiAyIEhE_MIOTV": {
+        "url": "https://supercanal-cdn2.tbxdrm.com/espn2/manifest.mpd",
+        "logo": "https://experience-cdn.tbxnet.com/images/networkLogo/espn2.png?_v=1.5.72",
+        "key": [
+            "4731ffc47d175a2ba490b630f4f2d59b:4639f97e60263b94077f243c0f0c82e8",
+            "31e12c321623544bbbcb1fb67188f1b0:f14461ec767ee8e811593ed94eb8f4f0",
+            "b0904c8d275e5a2eaf8ba42c92975e6b:289fee1372aada7b7c2d97944b5e67cd"
+        ],
+        "name": "ESPN 2 HD"
+    },
+    "RVNQTiAzIEhE_MIOTV": {
+        "url": "https://supercanal-cdn2.tbxdrm.com/espn3/manifest.mpd",
+        "logo": "https://experience-cdn.tbxnet.com/images/networkLogo/espn3.png?_v=1.5.72",
+        "key": [
+            "63a38d71d73c5f96897504991f0b70df:1a075a8d699452b632c283803be3d4dc",
+            "55b2a88b10ab53fca02119459982bd68:42fe3965809a23c8864b97e488b7cc6f",
+            "f29114b142365c87a3385ed61e9c1fb4:dc9886785336b30511bdb5df63b11298"
+        ],
+        "name": "ESPN 3 HD"
+    },
+    "RVNQTiBFWFRSQSBIRA==_MIOTV": {
+        "url": "https://supercanal-cdn2.tbxdrm.com/espnextra/manifest.mpd",
+        "logo": "https://experience-cdn.tbxnet.com/images/networkLogo/mioespnextra.png?_v=1.5.72",
+        "key": [
+            "d5a3361e5d1e545c9f89cfd86c1aac39:f07d58fd0e147e60364af218740d4658",
+            "a66d45e221985e64a80003aecbff1fbf:d485eb2888e9a4be0d37244446110c2f",
+            "584993e864f65470a10116ca12916cda:57e14858914200752e9a9d397b0e7d46"
+        ],
+        "name": "ESPN EXTRA HD"
+    },
+    "Rk9YIFNQT1JUUw==_MIOTV": {
+        "url": "https://supercanal-cdn1.tbxdrm.com/foxsports/manifest.mpd",
+        "logo": "https://experience-cdn.tbxnet.com/images/networkLogo/foxsports.png?_v=1.5.72",
+        "key": [
+            "1abeff59ab11581aa9decfa9ee740832:33b54eb44c2843a9780e11afe404695e",
+            "5e134a8064845a58ae1a279146d711f9:2950fe6a227bfb6d4f72efae68ecc229",
+            "dd61bd4ca1bb502bb992bf24de7c8f31:7af8237ffb3187dcac71a12f75fcccc8"
+        ],
+        "name": "FOX SPORTS"
+    },
+    "Rk9YIFNQT1JUUyAy_MIOTV": {
+        "url": "https://supercanal-cdn1.tbxdrm.com/foxsports2/manifest.mpd",
+        "logo": "https://experience-cdn.tbxnet.com/images/networkLogo/foxsports2.png?_v=1.5.72",
+        "key": [
+            "79fc3098a5a7524ab1460dee8428ea2b:3c22abc3367d1ff6c10d985020d2251e",
+            "339afd49d2055c7b9589c50a00673cf1:9fbde1e873f631d4aade5679b57a6ce1",
+            "d77c930e0699599fa3843dff67bd4375:3c4f598431ad853b01d486f676a0df13"
+        ],
+        "name": "FOX SPORTS 2"
+    },
+    "VFlDIFNQT1JUUw==_MIOTV": {
+        "url": "https://supercanal-cdn2.tbxdrm.com/tycsports/manifest.mpd",
+        "logo": "https://experience-cdn.tbxnet.com/images/networkLogo/miotyc.png?_v=1.5.72",
+        "key": [
+            "44aa7ad4920d5050932127014c2f23b4:0ec94f0b0cacbfbaf7ce96e85afda610",
+            "802a2a8b50745bd09f01646b7212c864:9b3b205e6106f2c98d89c1644f2818a4",
+            "b60c01ba8f6a5c6ea2e07e68c6e3ee5d:cbd7741f446f9d88020a12d8b4f824b8"
+        ],
+        "name": "TYC SPORTS"
+    },
+    "R09MRiBDSEFOTkVM_MIOTV": {
+        "url": "https://supercanal-cdn2.tbxdrm.com/golfchannel/manifest.mpd",
+        "logo": "https://experience-cdn.tbxnet.com/images/networkLogo/miogolf.png?_v=1.5.72",
+        "key": [
+            "8b691688f5085b75833500aedef23494:665ca58a7842bc7c9f6d65ef92fe78c0",
+            "5c4abae59f7d5df2952774efda06b64a:b02d0b85a1116ccd4a27e8ff5248e589",
+            "642a6074338e5eb4b6cc004f443ffb87:2c92c93030b9dd40ace43ceb004a2fc2"
+        ],
+        "name": "GOLF CHANNEL"
+    },
+    "Rk9YIFNQT1JUUyAz_MIOTV": {
+        "url": "https://supercanal-cdn1.tbxdrm.com/foxsports3/manifest.mpd",
+        "logo": "https://experience-cdn.tbxnet.com/images/networkLogo//foxsports3.png?_v=1.5.72",
+        "key": [
+            "527886325f775187aaf26f9192fe1cd0:30d4d665ef9318c5ece383744f34bfe6",
+            "7bd137c7f37e5e6d9fbc2ac4d7c059b9:a76721a0c6ad3371ba4a71dcf3b15225",
+            "7b31622e5fc152fbb45462d47ac3580d:37807b86e6517c5ee2869913ee7db7ac"
+        ],
+        "name": "FOX SPORTS 3"
+    },
+    "VEVMRUZF_MIOTV": {
+        "url": "https://supercanal-cdn1.tbxdrm.com/telefe/manifest.mpd",
+        "logo": "https://experience-cdn.tbxnet.com/images/networkLogo/miotelefe.png?_v=1.5.72",
+        "key": [
+            "a5d588270b555ad1b9e09315193ce4fc:7438aaf0af420034467a134623c13b2e",
+            "55fa67ce254751538f143ca33d5afbf5:bcdf0644170307bc057db35d89606d1e",
+            "c62f1734865655829b42e4eadd337466:5a4530db3fc3ec7f748618d4a24cbef2"
+        ],
+        "name": "TELEFE"
+    },
+    "QU1FUklDQQ==_MIOTV": {
+        "url": "https://supercanal-cdn1.tbxdrm.com/america/manifest.mpd",
+        "logo": "https://experience-cdn.tbxnet.com/images/networkLogo/mioamerica.png?_v=1.5.72",
+        "key": [
+            "2bcc64a739405c20aafb9011adc91126:266db7b1a9f28e633eedeb1e6b6bc51b",
+            "3baafbda2ed456e4aecaff2eab36fcce:c11e8e545de268f6ce7fc82bd904db51",
+            "024bd3e5e54a57c79e7c9f5f1e217aff:14569cf52ab3b6e4a2e5438dbd202e3d"
+        ],
+        "name": "AMERICA"
+    },
+    "VFZQVUJMSUNB_MIOTV": {
+        "url": "https://supercanal-cdn2.tbxdrm.com/tvpublica/manifest.mpd",
+        "logo": "https://experience-cdn.tbxnet.com/images/networkLogo/miotvpublica.png?_v=1.5.72",
+        "key": [
+            "f6493229e7ef567b9439df17264dabc7:5ecf5ede581f94efdd73366c7d360643",
+            "c16dfa50ad8d5c919b4fd1b30425d350:c4c01125b769909ec42237f715d5dd48",
+            "fd25434731ae57138da20a06db19578e:9da97cd850fbbc6a7f0c7d0a02baedcc"
+        ],
+        "name": "TVPUBLICA"
+    },
+    "Q0FOQUwgOQ==_MIOTV": {
+        "url": "https://supercanal-cdn1.tbxdrm.com/canal9/manifest.mpd",
+        "logo": "https://experience-cdn.tbxnet.com/images/networkLogo/miocanal9.png?_v=1.5.72",
+        "key": [
+            "c8f353093ff35f42a7296bea6f204441:aadc19210041d45a1c46ce66a3f003fe",
+            "1a523ffdd7465777967cc358bfd1ca40:b982a06430b02d2f774630209ce041f5",
+            "096611c0580551bd810992a6cfb5f313:01eeccca55eb090ad7b393884a998ea3"
+        ],
+        "name": "CANAL 9"
+    },
+    "TEEgTkFDST8/Tg==_MIOTV": {
+        "url": "https://supercanal-cdn2.tbxdrm.com/lanacion/manifest.mpd",
+        "logo": "https://experience-cdn.tbxnet.com/images/networkLogo/miolanacion.png?_v=1.5.72",
+        "key": [
+            "fe12d896c2ef52d6a5624b188f084591:664a99ec5047964486412744878105b9",
+            "94dd70898c325cffaf2c44f00a9760bd:59d2f34e68a44df64309a819d4999992",
+            "5ba28ca8e1fb51688092634b275e194b:ad28bd0c68604746440b9ab2a99b2488"
+        ],
+        "name": "LA NACI??N"
+    },
+    "MjZUVg==_MIOTV": {
+        "url": "https://supercanal-cdn2.tbxdrm.com/26tv/manifest.mpd",
+        "logo": "https://experience-cdn.tbxnet.com/images/networkLogo/miocanal26.png?_v=1.5.72",
+        "key": [
+            "9b37f6bf668a5aa69150ced373ccb006:aa2d55ae9fe3f160db69ad80c69695c1",
+            "4a0b74ea9c9d5816b4481dda1c2222e2:3600a1a81ec5eec5c97b8445fc2fdfb8",
+            "18d206085e0c50e6a1b372b92fc217d6:fa8d2f7914f654d07344415c2be3ea8e"
+        ],
+        "name": "26TV"
+    },
+    "Q1JPTklDQVRW_MIOTV": {
+        "url": "https://supercanal-cdn2.tbxdrm.com/cronicatv/manifest.mpd",
+        "logo": "https://experience-cdn.tbxnet.com/images/networkLogo/miocronica.png?_v=1.5.72",
+        "key": [
+            "cb92afe9f74f5fbf80d63095ad792075:feac43a78906e19478f5e183238b1e94",
+            "75292b138ff35e1093776339380517c3:841ecead1afef60d808d8958077bd112",
+            "8df22adfd37c552d8c5e72864bb71fe2:9baefffc81d9108b0295c6dcb3ac6a39"
+        ],
+        "name": "CRONICATV"
+    },
+    "Rk9YIFNQT1JUUyBQUkVNSVVNIE1Y_MIOTV": {
+        "url": "https://fox-edge2-mx.tbxdrm.com/mxfoxsportspremium/manifest.mpd",
+        "logo": "https://experience-cdn.tbxnet.com/images/networkLogo//foxsportspremium.png?_v=1.5.72",
+        "key": [
+            "a9621ef03f2f5933a2c860ecc9d168c1:e23122083f231b9eab8ee317f2f3d11c",
+            "afc6f55c41ce5c97b0a423f1af9dbe67:85720c85e66cce4a347aab7bab81dd89",
+            "12865479e04452c8bb9fa38841857895:1f4532765088e2723aa2e1970ba4d72f"
+        ],
+        "name": "FOX SPORTS PREMIUM MX"
+    },
+    "VE5UIFNQT1JUUw==_MIOTV": {
+        "url": "https://supercanal-cdn1.tbxdrm.com/tntsports/manifest.mpd",
+        "logo": "https://experience-cdn.tbxnet.com/images/networkLogo/tntsports.png?_v=1.5.72",
+        "key": [
+            "32a676e28a33590b94a6e498ad83b486:e74d3a490e83035ba4fb62d90f78d30a",
+            "6fc46152f5f95fbd9b5cd86ca70ec8cc:9215c3144ef88413f858196d9b79198f",
+            "20977c2237e3511793cb731c41f513ad:e6fa8f27b510bef16d0c6c0c43eb112e"
+        ],
+        "name": "TNT SPORTS"
+    }
+}

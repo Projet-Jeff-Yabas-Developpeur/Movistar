@@ -1,0 +1,782 @@
+{
+    "QSZFIE11bmRvIEhE_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/AE_Mundo_HD\/SA_DASH_cipix\/AE_Mundo_HD.mpd",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8540\/channel\/image.png",
+        "key": "430e25f361b8414eb639882f9d267348:134f8512c76050e0d58ad587897e9787",
+        "name": "A&E Mundo HD"
+    },
+    "QU1D_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/AMC\/SA_DASH_cipix\/AMC.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8545\/channel\/image.png",
+        "key": "572bb05e9c234085bf0c0ef0440dc714:ec54118261f384dcadb80e41ef4e3e13",
+        "name": "AMC"
+    },
+    "QVhOIEhE_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/AXN_HD\/SA_DASH_cipix\/AXN_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8551\/channel\/image.png",
+        "key": "c7dc272e8b7742b198c88fe8b56dfdfc:65f44c959121b26c3c9f79eaba0a783f",
+        "name": "AXN HD"
+    },
+    "QWRyZW5hbGluYSBTcG9ydHMgTmV0d29yayBIRA==_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/UFC_HD\/SA_DASH_cipix\/UFC_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8542\/channel\/image.png",
+        "key": "5148233ff9604e60b233d3b750c69c56:39a0d5658d62540aa6d235a67670b680",
+        "name": "Adrenalina Sports Network HD"
+    },
+    "QWxsZWdybyBIRA==_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Allegro_HD\/SA_DASH_cipix\/Allegro_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8544\/channel\/image.png",
+        "key": "30cfbdb0b8a04fb694caa03dc1341316:2e911d92780241dc7a882989b2d08209",
+        "name": "Allegro HD"
+    },
+    "QW3DqXJpY2EgMjQ=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/America_24\/SA_DASH_cipix\/America_24.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8541\/channel\/image.png",
+        "key": "a6662cc3062242aca5f0820ba39a32e9:8c7906e9aa1232d0f32de565025aae07",
+        "name": "Am\u00e9rica 24"
+    },
+    "QW3DqXJpY2EgU3BvcnRz_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/America_Sports\/SA_DASH_cipix\/America_Sports.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8547\/channel\/image.png",
+        "key": "311087cc963741808079b2f7c5a9179d:7b0f20ca29ee5a949934613760349246",
+        "name": "Am\u00e9rica Sports"
+    },
+    "QW3DqXJpY2EgVFYgSEQ=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/AMERICA_TV\/SA_DASH_cipix\/AMERICA_TV.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8546\/channel\/image.png",
+        "key": "26bbe14a22e84f658be33f1c60e5d8e9:944f1d10165c2baa527e969c1c36d55e",
+        "name": "Am\u00e9rica TV HD"
+    },
+    "QW5pbWFsIFBsYW5ldCBIRA==_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Animal_Planet_HD\/SA_DASH_cipix\/Animal_Planet_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8548\/channel\/image.png",
+        "key": "1d90710491254111b51870d162e816f0:d3ab856e131735965c33155087ea9648",
+        "name": "Animal Planet HD"
+    },
+    "QXJnZW50aW7DrXNpbWE=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Argentinisima\/SA_DASH_cipix\/Argentinisima.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8549\/channel\/image.png",
+        "key": "b2725d20792147c5b6e92d53d29019f3:9bdb54b6a7d58a47127fc393dc6aaa69",
+        "name": "Argentin\u00edsima"
+    },
+    "Qm9saXZpc2lvbg==_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Bolivia_TV\/SA_DASH_cipix\/Bolivia_TV.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/12261\/channel\/image.png",
+        "key": "9734c8fb0d6049f79cf7be92694fcfff:f1be218d4148370b0da0439335c84dd7",
+        "name": "Bolivision"
+    },
+    "Qm9vbWVyYW5n_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Boomerang\/SA_DASH_cipix\/Boomerang.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8553\/channel\/image.png",
+        "key": "41ab459e8f3a4f96ab6002b3e684e637:6b05845d6f3b660b1a4d3976fa8a37e4",
+        "name": "Boomerang"
+    },
+    "QzVO_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/C5N\/SA_DASH_cipix\/C5N.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8554\/channel\/image.png",
+        "key": "57d76e3c33df4a6482ee421a14cb3a3f:50f26f4ae88d11a2c6390484b14feaac",
+        "name": "C5N"
+    },
+    "Q00gTXVzaWNhbA==_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/CM_Musical\/SA_DASH_cipix\/CM_Musical.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8670\/channel\/image.png",
+        "key": "928a7a8e314e4b31a845f5888be781e9:11a42c7a2700970bfd866ca41ec72cb7",
+        "name": "CM Musical"
+    },
+    "Q05OIEVzcGHDsW9s_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/CNN_Espanol\/SA_DASH_cipix\/CNN_Espanol.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8673\/channel\/image.png",
+        "key": "5b7eaf8eb3134cf180628aa4e8eae0f9:729613cd93f4f91614672844ad0459f6",
+        "name": "CNN Espa\u00f1ol"
+    },
+    "Q05OIEludGVybmF0aW9uYWw=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/CNN_International\/SA_DASH_cipix\/CNN_International.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8672\/channel\/image.png",
+        "key": "1fc079eb80d24909a06a36171dc9f056:c55c1b3135409a956d413193b6c9af5c",
+        "name": "CNN International"
+    },
+    "Q2FuYWwgKMOhKQ==_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Canal_A\/SA_DASH_cipix\/Canal_A.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8557\/channel\/image.png",
+        "key": "88b9f702187d4bbb9928759bc192017f:6dfbe43a0f45bc42c4af3741f54bc39e",
+        "name": "Canal (\u00e1)"
+    },
+    "Q2FuYWwgMjY=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Canal_26\/SA_DASH_cipix\/Canal_26.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8556\/channel\/image.png",
+        "key": "3adc2ba44fa6455e82fdabff0756f05c:6f3bbcb8d926114b6f5ab16aa68a8823",
+        "name": "Canal 26"
+    },
+    "Q2FuYWwgNCBTYWx0YQ==_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Canal_4_Salta\/SA_DASH_cipix\/Canal_4_Salta.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8559\/channel\/image.png",
+        "key": "6169470424b647c39c15c065687a4c41:403cbb091dbea061a0d16988b4448d15",
+        "name": "Canal 4 Salta"
+    },
+    "Q2FuYWwgTFVa_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Canal_Luz\/SA_DASH_cipix\/Canal_Luz.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8561\/channel\/image.png",
+        "key": "9830014f87e34d5eb2ab925cae75eac7:36caab1499e604a779b67e616a048deb",
+        "name": "Canal LUZ"
+    },
+    "Q2FuYWwgUnVyYWw=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Canal_Rural\/SA_DASH_cipix\/Canal_Rural.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8562\/channel\/image.png",
+        "key": "d876583334634cffa873f780a9d2e199:de205da7604a43842765468df8d17c48",
+        "name": "Canal Rural"
+    },
+    "Q2FuYWwgVmFzY28=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Canal_Vasco\/SA_DASH_cipix\/Canal_Vasco.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8664\/channel\/image.png",
+        "key": "9754a664b603470bb0c938cb6b7a3aa6:4366145c8e07c4db250ffe859d8b646b",
+        "name": "Canal Vasco"
+    },
+    "Q2FydG9vbiBOZXR3b3JrIEhE_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Cartoon_Networks_HD\/SA_DASH_cipix\/Cartoon_Networks_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8665\/channel\/image.png",
+        "key": "8505bcc7686d491785bf330fad0be055:af867eb33b90ec0f39c472ff4e7b253e",
+        "name": "Cartoon Network HD"
+    },
+    "Q2luZUFS_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Cine_AR\/SA_DASH_cipix\/Cine_AR.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8666\/channel\/image.png",
+        "key": "50941297da5e453e94f4d237a33f6065:7832f5161a4513a694ee1b6ed7abce54",
+        "name": "CineAR"
+    },
+    "Q2luZWNhbmFsIEhE_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/CINECANAL_HD\/SA_DASH_cipix\/CINECANAL_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8667\/channel\/image.png",
+        "key": "f1845c8d9f5f4c98a7a846dbbc9693ad:6df31f0df566126cccac117988e1061e",
+        "name": "Cinecanal HD"
+    },
+    "Q2luZW1heCBIRA==_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Cinemax\/SA_DASH_cipix\/Cinemax.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8668\/channel\/image.png",
+        "key": "b55bef6a392d4db69271a4b2fa103de9:ffb8ebce43e561b066294cf733251484",
+        "name": "Cinemax HD"
+    },
+    "Q2l1ZGFkIE1hZ2F6aW5l_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Ciudad_Magazine\/SA_DASH_cipix\/Ciudad_Magazine.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8669\/channel\/image.png",
+        "key": "30204000029141b0bb1d2c9cb834da33:3841feb1439e3cb125092c1f74d389b5",
+        "name": "Ciudad Magazine"
+    },
+    "Q3LDs25pY2EgVFY=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Cronica_TV\/SA_DASH_cipix\/Cronica_TV.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8674\/channel\/image.png",
+        "key": "bbdc7914d1314d39a1ebd403a53b1f24:6634e7b43d1252437a613b2412e7d37e",
+        "name": "Cr\u00f3nica TV"
+    },
+    "REhFIEhE_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/DHE_HD\/SA_DASH_cipix\/DHE_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8676\/channel\/image.png",
+        "key": "477296e28a7f49268abc45685b8b69a3:45b4508bbf0c02bf523104157e2ced81",
+        "name": "DHE HD"
+    },
+    "RGVwb3JUViBIRA==_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/DeporTV_HD\/SA_DASH_cipix\/DeporTV_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8675\/channel\/image.png",
+        "key": "bbbf9304aeed4c88ad099ca96f06c2a6:0d62e66d57b39b234f31f0b63be5dc2f",
+        "name": "DeporTV HD"
+    },
+    "RGV1dHNjaGUgV2VsbGU=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Deutsche_Welle\/SA_DASH_cipix\/Deutsche_Welle.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8685\/channel\/image.png",
+        "key": "ca7e2a93b0f74057b4060d41c193b4f8:98568e44585996689580604f2d370be6",
+        "name": "Deutsche Welle"
+    },
+    "RGlzY292ZXJ5IENoYW5uZWwgSEQ=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Discovery_Channel_HD\/SA_DASH_cipix\/Discovery_Channel_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8677\/channel\/image.png",
+        "key": "cb27418d13a74c0083f2bfe207e9e770:30262f260af3e98807c35f3e61657db2",
+        "name": "Discovery Channel HD"
+    },
+    "RGlzY292ZXJ5IEgmSCBIRA==_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/DIscovery_H_H_HD\/SA_DASH_cipix\/DIscovery_H_H_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8714\/channel\/image.png",
+        "key": "8fedc91df3d1459aad4033a96ac66ba2:a113c3a8fb8f5b6b686cd298f3193294",
+        "name": "Discovery H&H HD"
+    },
+    "RGlzY292ZXJ5IEtpZHMgSEQ=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Discovery_Kids_HD\/SA_DASH_cipix\/Discovery_Kids_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8680\/channel\/image.png",
+        "key": "7483f014f0da44e5aacf2f7907e0edaf:e19b86e2005602a6984fa55fd7fa417e",
+        "name": "Discovery Kids HD"
+    },
+    "RGlzY292ZXJ5IFNjaWVuY2U=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/DIscovery_Science\/SA_DASH_cipix\/DIscovery_Science.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8681\/channel\/image.png",
+        "key": "e372bcdb3f514eaa92746c0c0a047a7b:d4eb05f260bc5dce65ff0f87540fb029",
+        "name": "Discovery Science"
+    },
+    "RGlzY292ZXJ5IFRoZWF0ZXIgSEQ=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Discovery_Theater_HD\/SA_DASH_cipix\/Discovery_Theater_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8752\/channel\/image.png",
+        "key": "0b48ad06af444432bd4ba945d497d6a4:6f688c4814eca87602c6725a82173240",
+        "name": "Discovery Theater HD"
+    },
+    "RGlzbmV5IENoYW5uZWwgSEQ=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Disney_Channel_HD\/SA_DASH_cipix\/Disney_Channel_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8659\/channel\/image.png",
+        "key": "960a20daf43345719dd039c71fd1602c:aa0ddfaf59d0d1e07dc4c72d88f3b47b",
+        "name": "Disney Channel HD"
+    },
+    "RGlzbmV5IEp1bmlvcg==_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Disney_Junior\/SA_DASH_cipix\/Disney_Junior.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8683\/channel\/image.png",
+        "key": "a61f0cb4cc6d48b6a1fbc2d5d28074ba:7a8e6ed7bedf37844e5af55cd1124a5a",
+        "name": "Disney Junior"
+    },
+    "RGlzbmV5IFhEIEhE_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Disney_XD_HD\/SA_DASH_cipix\/Disney_XD_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8684\/channel\/image.png",
+        "key": "abe33adaa385462aa9abeee7ce82eb98:b5a50f262c7173c6ab91d2108543f677",
+        "name": "Disney XD HD"
+    },
+    "RSEgSEQ=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/E_HD\/SA_DASH_cipix\/E_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8686\/channel\/image.png",
+        "key": "04cc96456a0f49debb3cc05cfead54a1:b285ef8253b429edee8412c91e3e1b3c",
+        "name": "E! HD"
+    },
+    "RVNQTiAyIEhE_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/ESPN_2_HD\/SA_DASH_cipix\/ESPN_2_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/41350\/channel\/image.png",
+        "key": "836865c61eb14b69b9e5f44f1c3c6946:44e907ce0aee95c62ecb141314ed4ad5",
+        "name": "ESPN 2 HD"
+    },
+    "RVNQTiAzIEhE_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/ESPN_3_HD\/SA_DASH_cipix\/ESPN_3_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8694\/channel\/image.png",
+        "key": "c47c7b457ba046738f112567fedec661:fb8d1ae0ee237d441449b27bdbebeaa9",
+        "name": "ESPN 3 HD"
+    },
+    "RVNQTiBFWFRSQSBIRA==_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/ESPNp_HD\/SA_DASH_cipix\/ESPNp_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/41172\/channel\/image.png",
+        "key": "a8082fc466f246da80212d793fd95eaf:383b9f12f6bb5aa4c5086a2b76a2e8c8",
+        "name": "ESPN EXTRA HD"
+    },
+    "RVNQTiBIRA==_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/ESPN_HD\/SA_DASH_cipix\/ESPN_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/41352\/channel\/image.png",
+        "key": "56f12bf8ad1b47f99bb92deae2165d54:5c4d0306c4c45054169531dcc75cb8b7",
+        "name": "ESPN HD"
+    },
+    "RVdUTg==_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/EWTN\/SA_DASH_cipix\/EWTN.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8698\/channel\/image.png",
+        "key": "dbc78126b23f472fb29d8c605c6f726f:2a8052317b496ea7642df3c8ac90dbea",
+        "name": "EWTN"
+    },
+    "RWwgR2FyYWdlIEhE_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/El_Garage\/SA_DASH_cipix\/El_Garage.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8687\/channel\/image.png",
+        "key": "85be16a960374006ad509051b8dde65e:dfa2e3b58fc440b47e3d698ac642329f",
+        "name": "El Garage HD"
+    },
+    "RWwgR291cm1ldA==_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/El_Gourmet\/SA_DASH_cipix\/El_Gourmet.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8688\/channel\/image.png",
+        "key": "9b3dbc406e774477a302c4ea4915b556:87628fe6bff5be3d7e1e7886d10d0185",
+        "name": "El Gourmet"
+    },
+    "RWwgTnVldmUgSEQ=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/CANAL_9_HD\/SA_DASH_cipix\/CANAL_9_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8689\/channel\/image.png",
+        "key": "7b0f9c086c52443abafa54ec8793a37c:27a8d57cbbdbede3848ee0f9fd37ee82",
+        "name": "El Nueve HD"
+    },
+    "RWwgVHJlY2UgSEQ=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Canal_13_HD\/SA_DASH_cipix\/Canal_13_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8654\/channel\/image.png",
+        "key": "3c9fed9b01234c6292ceecfbaa077a38:79e0fd04199f53dba14ecd5df4bf1f3b",
+        "name": "El Trece HD"
+    },
+    "RWwgY2FuYWwgZGUgbGFzIGVzdHJlbGxhcw==_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/El_canal_de_las_estrellas\/SA_DASH_cipix\/El_canal_de_las_estrellas.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8723\/channel\/image.png",
+        "key": "3bcd559dc04b4e7bb90d8963643b3dba:41d1800812b9df079c83bb8246ba7e89",
+        "name": "El canal de las estrellas"
+    },
+    "RW5jdWVudHJv_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Encuentro\/SA_DASH_cipix\/Encuentro.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8691\/channel\/image.png",
+        "key": "0254ba862a3647a6a5f0d1429c80fdaf:0035e0a7e2458d62bac8d0208a2fb45b",
+        "name": "Encuentro"
+    },
+    "RXVyb2NoYW5uZWw=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Eurochannel\/SA_DASH_cipix\/Eurochannel.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8696\/channel\/image.png",
+        "key": "85f2094c4b664c0caccb8b0b81b37b27:eb295e275f7464bd23aa036900308706",
+        "name": "Eurochannel"
+    },
+    "RXVyb3BhIEV1cm9wYQ==_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Europa_Europa\/SA_DASH_cipix\/Europa_Europa.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8697\/channel\/image.png",
+        "key": "21eab79467814f82957dcaee5b8a9418:b55f6b20310f5c576ea60ebc9a76dd30",
+        "name": "Europa Europa"
+    },
+    "Rk9YIEhE_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/FOX_HD\/SA_DASH_cipix\/FOX_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8708\/channel\/image.png",
+        "key": "f0059800bdab4353bb8652006676d50c:38a0e80304651b0094761b22941022bd",
+        "name": "FOX HD"
+    },
+    "Rk9YIFNwb3J0cyAyIEhE_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Fox_Sports_2_HD\/SA_DASH_cipix\/Fox_Sports_2_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8706\/channel\/image.png",
+        "key": "0865e3d0219743a6903087a61e68912e:8c319b41729d0637840b987e107de46e",
+        "name": "FOX Sports 2 HD"
+    },
+    "Rk9YIFNwb3J0cyAzIEhE_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Fox_Sports_3_HD\/SA_DASH_cipix\/Fox_Sports_3_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8707\/channel\/image.png",
+        "key": "878df41085e2495ab17dff538a4610c5:1cf280b4fa53ba1c9aa195222778a21c",
+        "name": "FOX Sports 3 HD"
+    },
+    "Rk9YIFNwb3J0cyBIRA==_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/FOX_SPORTS_HD\/SA_DASH_cipix\/FOX_SPORTS_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8705\/channel\/image.png",
+        "key": "90fd0225253a42c89e36d4bc5a007498:caebfd1e078f1315f9e66ff98544c125",
+        "name": "FOX Sports HD"
+    },
+    "Rlg=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/FX\/SA_DASH_cipix\/FX.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8709\/channel\/image.png",
+        "key": "ba8388ec07fb481ab6f4070d047d213c:f446770b1d101321f2149786e82d517f",
+        "name": "FX"
+    },
+    "RmlsbSZBcnRz_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Film_Arts\/SA_DASH_cipix\/Film_Arts.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8699\/channel\/image.png",
+        "key": "b3c14ae320b14057b83c70636d67fafe:75e0bb89e6f69d2ad265db1b48df8acc",
+        "name": "Film&Arts"
+    },
+    "RVNQTiBQcmVtaXVt_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Fox_Sports_Premium_HD\/SA_DASH_cipix\/Fox_Sports_Premium_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8556\/channel\/image2.png",
+        "key": "4d649bb55c4c46028b85bbb41550cb59:ed6da9b1ff8da94a4fdc1a1461048622",
+        "name": "ESPN Premium"
+    },
+    "R2FsaWNpYQ==_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Galicia_TV\/SA_DASH_cipix\/Galicia_TV.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8711\/channel\/image.png",
+        "key": "2eacebd988e34a4fb005b6c0760dfd60:17254376a34e8088a17c6c10165f70f4",
+        "name": "Galicia"
+    },
+    "R2xpdHo=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Glitz\/SA_DASH_cipix\/Glitz.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8712\/channel\/image.png",
+        "key": "05474daa4b0f4c2d83c2f538350b1046:445d27d9a3c65f357371801dd268056c",
+        "name": "Glitz"
+    },
+    "R29sZGVu_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Golden\/SA_DASH_cipix\/Golden.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8713\/channel\/image.png",
+        "key": "494bf3b530eb4de2bb797206c7cfc94c:a24128dd04c000a1be8777aa2da53669",
+        "name": "Golden"
+    },
+    "R29sZiBDaGFubmVsIEhE_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Golf_Channel_HD\/SA_DASH_cipix\/Golf_Channel_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/26263\/channel\/image.png",
+        "key": "8f39d80f7516410581e1fee5bd6eaf90:0725fee6e99ebfa71b7c6c51d92f5fa0",
+        "name": "Golf Channel HD"
+    },
+    "SDIgSEQ=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/H2\/SA_DASH_cipix\/H2.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8715\/channel\/image.png",
+        "key": "874a3f1f5b9e44caaf92bef2f1e46eb6:94e1078dcccd8a3d7cc2b9f6bb377b7a",
+        "name": "H2 HD"
+    },
+    "SEJP_NOWEXPRESS": {
+        "url": null,
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8720\/channel\/image.png",
+        "key": "8d751cb5074c4947b21eb25f77cb1eeb:bfa397f056c14992ea10c4d048a154ac",
+        "name": "HBO"
+    },
+    "SEJPIDI=_NOWEXPRESS": {
+        "url": null,
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8719\/channel\/image.png",
+        "key": "94b2d2f3b3c94d5fa2364246307b3bf3:3c89901e9aa28fd489e762599e56fdd7",
+        "name": "HBO 2"
+    },
+    "SEJPIEZBTUlMWQ==_NOWEXPRESS": {
+        "url": null,
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8716\/channel\/image.png",
+        "key": "7c7c44919701452c97a694fbe4a489d3:d8ccd8234382982c4a87f5066b6734a8",
+        "name": "HBO FAMILY"
+    },
+    "SEJPIE1VTkRJ_NOWEXPRESS": {
+        "url": null,
+        "logo": "http:\/\/www.reportv.com.ar\/buscador\/img\/Logos\/10973506.jpg",
+        "key": "77c7c7cee8684cbda01a9ce80b708ff1:907817861eddbe98434d276693028c1c",
+        "name": "HBO MUNDI"
+    },
+    "SEJPIFBMVVM=_NOWEXPRESS": {
+        "url": null,
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8718\/channel\/image.png",
+        "key": "af9cd256b23d4058b60bafaa1229c4bc:600cbd7379e9966eb3b08c257535c6f9",
+        "name": "HBO PLUS"
+    },
+    "SEJPIFBPUA==_NOWEXPRESS": {
+        "url": null,
+        "logo": "http:\/\/www.reportv.com.ar\/buscador\/img\/Logos\/10973521.jpg",
+        "key": "e6f6e3ff55834f39b479935034696162:121fccf43f8d60ab21d853d14bdfd1f8",
+        "name": "HBO POP"
+    },
+    "SEJPIFNJR05BVFVSRQ==_NOWEXPRESS": {
+        "url": null,
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8717\/channel\/image.png",
+        "key": "a36493e0e2c14647ab66bc79bac92a1d:88ad0caaca21941e8c5550e84613af64",
+        "name": "HBO SIGNATURE"
+    },
+    "SEJPIFhUUkVNRQ==_NOWEXPRESS": {
+        "url": null,
+        "logo": "http:\/\/www.reportv.com.ar\/buscador\/img\/Logos\/10973532.jpg",
+        "key": "7bcaf7371c6945d48014ba9a102d596f:64eec3417f2d56a253f824a6c239c673",
+        "name": "HBO XTREME"
+    },
+    "SEdUVg==_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Discovery_Civilization\/SA_DASH_cipix\/Discovery_Civilization.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/12260\/channel\/image.png",
+        "key": "1253390d2d684c12bb008b1f04d651e3:8d1a1273f0152a9aa103de27d587a604",
+        "name": "HGTV"
+    },
+    "SGlzdG9yeSBDaGFubmVsIEhE_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/History_Channel_HD\/SA_DASH_cipix\/History_Channel_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8721\/channel\/image.png",
+        "key": "9def25e306fc4c2d9be851f20a332ed9:6907654a1489a506ac2846a512b83e52",
+        "name": "History Channel HD"
+    },
+    "SUQgSEQ=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/ID_HD\/SA_DASH_cipix\/ID_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8679\/channel\/image.png",
+        "key": "6e32d25d71a245f5944446492e3df938:2c710c054102a2873b1041f284ad79a5",
+        "name": "ID HD"
+    },
+    "SVNBVA==_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/ISAT\/SA_DASH_cipix\/ISAT.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8722\/channel\/image.png",
+        "key": "0a39f10fd3e14792824e8b28398a56c7:0067302fd86471573ee31565a5dedede",
+        "name": "ISAT"
+    },
+    "TE4r_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/LN_Plus\/SA_DASH_cipix\/LN_Plus.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8725\/channel\/image.png",
+        "key": "55cba36b5e7940f999d0d445e45a70dd:7874b03b0d2d1a003f51c5b31dd462a4",
+        "name": "LN+"
+    },
+    "TGlmZXRpbWUgSEQ=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Lifetime_HD\/SA_DASH_cipix\/Lifetime_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8724\/channel\/image.png",
+        "key": "66262c01b32a4e2da571b93761f5689a:3ee6596b16fd299931d12c7d6cb60e26",
+        "name": "Lifetime HD"
+    },
+    "TG92ZSBOYXR1cmUgSEQ=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Love_Nature_HD\/SA_DASH_cipix\/Love_Nature_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8872\/channel\/image.png",
+        "key": "fe4a6036a17244e098fce3207ceb8b53:eb8407fe44d2a440f1ce5cccc7a0fbdd",
+        "name": "Love Nature HD"
+    },
+    "TVRW_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/MTV\/SA_DASH_cipix\/MTV.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8734\/channel\/image.png",
+        "key": "65cd1b3fe0824ac2899ed72544c825de:72537c0a73920c55ec5b7664d35d5bab",
+        "name": "MTV"
+    },
+    "TVRWIEhpdHM=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/MTV_Hits\/SA_DASH_cipix\/MTV_Hits.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8735\/channel\/image.png",
+        "key": "15bec50c1f4f419ba5c11b90bd58c699:94ebc6f469fc86e8f32564edcdbb16d4",
+        "name": "MTV Hits"
+    },
+    "TWFzIENoaWM=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Mas_Chic\/SA_DASH_cipix\/Mas_Chic.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8730\/channel\/image.png",
+        "key": "e6212c7652dc432f9018620b2faac536:89fd70e93d2e7e40d2e1f1e63a50afdc",
+        "name": "Mas Chic"
+    },
+    "TXVjaCBNdXNpYw==_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Much_Music\/SA_DASH_cipix\/Much_Music.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8736\/channel\/image.png",
+        "key": "a1817f7194b14631a0bf07d09b1732cb:c9f48895709671c9d5f7de7b38c50c39",
+        "name": "Much Music"
+    },
+    "TkVUIFRW_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/NET_TV\/SA_DASH_cipix\/NET_TV.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8737\/channel\/image.png",
+        "key": "323863c030614b028ba80d9d10079c91:52d9be0648a72fc28c6d9f1c1c6599af",
+        "name": "NET TV"
+    },
+    "TmF0R2Vv_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/NatGeo\/SA_DASH_cipix\/NatGeo.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8726\/channel\/image.png",
+        "key": "55099d56305f4579b4cf3182a917a330:44c4adb0a6c716188782b885effbd097",
+        "name": "NatGeo"
+    },
+    "TmF0R2VvIFdpbGQgSEQ=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/NatGeo_Wild_HD\/SA_DASH_cipix\/NatGeo_Wild_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8728\/channel\/image.png",
+        "key": "b9dbbe4c63ba4c7db178ec34266bca7e:105779599917fd735ceaa5d62b8816ab",
+        "name": "NatGeo Wild HD"
+    },
+    "TmljayBKcg==_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Nick_Junior\/SA_DASH_cipix\/Nick_Junior.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8739\/channel\/image.png",
+        "key": "daee8bbd99014ba9935eb37230cab6b2:11c091df456e14fb28f1c6136d1c9713",
+        "name": "Nick Jr"
+    },
+    "Tmlja2Vsb2Rlb24=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Nickelodeon\/SA_DASH_cipix\/Nickelodeon.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8738\/channel\/image.png",
+        "key": "e2b2b6d1adb1437eba2df3c04e9c1734:47d350bc577d69cd81071913255fb1db",
+        "name": "Nickelodeon"
+    },
+    "TnVldm8gVGllbXBv_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Nuevo_Tiempo\/SA_DASH_cipix\/Nuevo_Tiempo.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8740\/channel\/image.png",
+        "key": "ec7fe6c7c2ec4374898d721a2c8d2968:40e88cea56f6056253171d881fec5dc0",
+        "name": "Nuevo Tiempo"
+    },
+    "UGFrYSBQYWth_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Paka_Paka\/SA_DASH_cipix\/Paka_Paka.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8741\/channel\/image.png",
+        "key": "7c08a216e60d4a608e06e2dcaedd66ed:511e18bf0161c820e35fb31fb0fd7269",
+        "name": "Paka Paka"
+    },
+    "UGFyYW1vdW50IEhE_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Paramount_HD\/SA_DASH_cipix\/Paramount_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/26043\/channel\/image.png",
+        "key": "120e512c66f740d087929553076c5148:415a1a4fca416bf6aa6d7a36bb756943",
+        "name": "Paramount HD"
+    },
+    "UXVpZXJvIE3DunNpY2E=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Quiero_Musica\/SA_DASH_cipix\/Quiero_Musica.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8742\/channel\/image.png",
+        "key": "2abb6acc64b94cbe8550b48be0a29a3c:b9d5ed228e6d7206a6725675f9f32843",
+        "name": "Quiero M\u00fasica"
+    },
+    "UmFpIEl0YWxpYQ==_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Rai_Italia\/SA_DASH_cipix\/Rai_Italia.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8743\/channel\/image.png",
+        "key": "907725b9f82c4dd7b5067dca0ee00191:51f9ae5f83459ad4ff899c7ecaccedd8",
+        "name": "Rai Italia"
+    },
+    "U29ueSBIRA==_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Sony_HD\/SA_DASH_cipix\/Sony_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8663\/channel\/image.png",
+        "key": "d5218656752b46c194da540d3a1cca13:7943bac0d1664fdb72140a8ee4cea817",
+        "name": "Sony HD"
+    },
+    "U3BhY2UgSEQ=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Space_HD\/SA_DASH_cipix\/Space_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8744\/channel\/image.png",
+        "key": "af77ef73baa349fbb04166620418ab21:ed4347f495f9b2d83ad536b5b5e6c885",
+        "name": "Space HD"
+    },
+    "U3R1ZGlvIFVuaXZlcnNhbCBIRA==_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Studio_Universal_HD\/SA_DASH_cipix\/Studio_Universal_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8745\/channel\/image.png",
+        "key": "f1a73f0cdea54d709c74db32d2a06229:9a8ad1ddcfe2d20c57851fa122e01e39",
+        "name": "Studio Universal HD"
+    },
+    "U3VuIENoYW5uZWwgSEQ=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Sun_Channel_HD\/SA_DASH_cipix\/Sun_Channel_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/10940\/channel\/image.png",
+        "key": "2d191191f9a64fb48d9e9c26fc9e6698:d31050228e9258a3aa8414221f8816c6",
+        "name": "Sun Channel HD"
+    },
+    "VEJT_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/TBS\/SA_DASH_cipix\/TBS.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8746\/channel\/image.png",
+        "key": "0892ebfac9f04e8695f30b0c81cb70d1:b9a9be22be67ba7f94760eaa91ac7e70",
+        "name": "TBS"
+    },
+    "VENN_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/TCM\/SA_DASH_cipix\/TCM.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8747\/channel\/image.png",
+        "key": "a75d68697f5b4d32a513341a4c5d12c0:ec8c33ffaa5088edb7936f4f6fb51cb2",
+        "name": "TCM"
+    },
+    "VExD_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/TLC\/SA_DASH_cipix\/TLC.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8753\/channel\/image.png",
+        "key": "c6eba92167fd428385894c6f1e805389:084b48cd93cad3d0e89e3dc18f5cbcd4",
+        "name": "TLC"
+    },
+    "VE4gSEQ=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/TN_HD\/SA_DASH_cipix\/TN_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8755\/channel\/image.png",
+        "key": "73477e592667468aadc028053b6f0609:64d6a0a6868f52a3ac58839587fe5b83",
+        "name": "TN HD"
+    },
+    "VE5UIEhE_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/TNT_HD\/SA_DASH_cipix\/TNT_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8756\/channel\/image.png",
+        "key": "7bc3b0d6a36a4dc9aa8b5ee154c1884e:194d4a5999e216227c3642ecc8043842",
+        "name": "TNT HD"
+    },
+    "VE5UIFNlcmllcyBIRA==_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/TNT_SERIES_HD\/SA_DASH_cipix\/TNT_SERIES_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8757\/channel\/image.png",
+        "key": "4519e51cdf6b47c980c1c676deb0a5c4:505a5abe37757857327d907db3e01829",
+        "name": "TNT Series HD"
+    },
+    "VE5UIFNwb3J0cw==_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/TNT_Sports_HD\/SA_DASH_cipix\/TNT_Sports_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8556\/channel\/image2.png",
+        "key": "9428de2d7075436f82b044db91d928ae:c1c18eecb906179318e97ee3eaca6bfb",
+        "name": "TNT Sports"
+    },
+    "VFYgQ2hpbGU=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/TV_Chile\/SA_DASH_cipix\/TV_Chile.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8763\/channel\/image.png",
+        "key": "f414292152c941e2b644ce071e4f24c3:b94c240c4da0f1fda95de1658e22bcb0",
+        "name": "TV Chile"
+    },
+    "VFYgUMO6YmxpY2EgSEQ=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/TV_PUBLICA_HD\/SA_DASH_cipix\/TV_PUBLICA_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8764\/channel\/image.png",
+        "key": "a0558c7d279c4ab6a31702b9452da4c3:3235982dafa1658faf2a9fee5fdb916e",
+        "name": "TV P\u00fablica HD"
+    },
+    "VFY1IE1vbmRl_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/TV5_Monde\/SA_DASH_cipix\/TV5_Monde.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8761\/channel\/image.png",
+        "key": "dbd05ea4fb334cda9468104a97832926:c3e7597e77f9e0b7fdc42ed7f570d924",
+        "name": "TV5 Monde"
+    },
+    "VFZF_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/TVE\/SA_DASH_cipix\/TVE.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8762\/channel\/image.png",
+        "key": "f8369f722dc84f2ab5092a40fc2d7f45:307b89fd4442a83de626835862550887",
+        "name": "TVE"
+    },
+    "VGVsZWZlIFNhbHRh_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Canal_11_Salta\/SA_DASH_cipix\/Canal_11_Salta.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8750\/channel\/image.png",
+        "key": "6a47917ca83343ea8dcca63189e36d78:84b0fe420ed5de7ef83c608d78d74f15",
+        "name": "Telefe Salta"
+    },
+    "VGVsZW11bmRvIEhE_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Telemundo_HD\/SA_DASH_cipix\/Telemundo_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8751\/channel\/image.png",
+        "key": "cb0b3941cdc64580aff58beb43301795:66cc7070f4bd4eadbc439bd7ee2f903e",
+        "name": "Telemundo HD"
+    },
+    "VGVsZW5vdmVsYXM=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Telenovelas\/SA_DASH_cipix\/Telenovelas.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8754\/channel\/image.png",
+        "key": "955731f583c544749570b878c5575f7e:57f654ec4bca08d0c04b3ed8fa9c8b3b",
+        "name": "Telenovelas"
+    },
+    "VGVsZXN1cg==_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Telesur\/SA_DASH_cipix\/Telesur.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/24517\/channel\/image.png",
+        "key": "281fcb0e3dc34f0d946aad79f144f5b4:595d5b0b93cd40a9c4e568c1bf94534d",
+        "name": "Telesur"
+    },
+    "VG9vbmNhc3Q=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Tooncast\/SA_DASH_cipix\/Tooncast.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8759\/channel\/image.png",
+        "key": "b92a349667634f6b8f80a5a68d188d56:50c03f10fbc8faf15f51120200c463f2",
+        "name": "Tooncast"
+    },
+    "VHJ1VFYgSEQ=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/TruTV_HD\/SA_DASH_cipix\/TruTV_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8760\/channel\/image.png",
+        "key": "e7a878d3929141aca1d208f0e67ace63:802d97a6d7aef40e2e10f51bca4669b2",
+        "name": "TruTV HD"
+    },
+    "VHVyYm8=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Turbo\/SA_DASH_cipix\/Turbo.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8682\/channel\/image.png",
+        "key": "76209a395888441a9abb8035b83492fb:a4033ab015cb9ecf6f3e2ba039048a3b",
+        "name": "Turbo"
+    },
+    "VHlDIFNwb3J0cyAy_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/TyC_Sports_2\/SA_DASH_cipix\/TyC_Sports_2.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8766\/channel\/image.png",
+        "key": "e2606caffba8441b8768b08ab01d3ea1:2079b1e9adb06fa132444eb1cdc6ebd4",
+        "name": "TyC Sports 2"
+    },
+    "VHlDIFNwb3J0cyBIRA==_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/TyC_HD\/SA_DASH_cipix\/TyC_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8765\/channel\/image.png",
+        "key": "63e6b0db66434556a23c855bd5b6e7d2:4c4f0286647963aec05c15df1ba51224",
+        "name": "TyC Sports HD"
+    },
+    "VW5pdmVyc2FsIEhE_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Universal_Channel_HD\/SA_DASH_cipix\/Universal_Channel_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8767\/channel\/image.png",
+        "key": "d8c05118f0634fa6b7a8c69902110bbc:7a07f3e34d6fa7699390c687b81e5536",
+        "name": "Universal HD"
+    },
+    "Vkgx_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/VH1\/SA_DASH_cipix\/VH1.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8768\/channel\/image.png",
+        "key": "5bc93c580baa42daa6014339d85114bc:9b8ed994ea870f8e0f980b6e181f2fe8",
+        "name": "VH1"
+    },
+    "VkgxIENsYXNzaWM=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/VH1_Classics\/SA_DASH_cipix\/VH1_Classics.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8769\/channel\/image.png",
+        "key": "3b9bb0d2620243f1ae8351e49aec26a3:40cb9a29cee1fff4b1e6dbc96be0f9b1",
+        "name": "VH1 Classic"
+    },
+    "Vm9sdmVy_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Volver\/SA_DASH_cipix\/Volver.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8770\/channel\/image.png",
+        "key": "5ad0e61c281e4fa4b4f4c2b2631259d7:36b66f5625d316857ef647da8c8eb21d",
+        "name": "Volver"
+    },
+    "V2FybmVyIENoYW5uZWwgSEQ=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Warner_Channel_HD\/SA_DASH_cipix\/Warner_Channel_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8771\/channel\/image.png",
+        "key": "738f56b0f3894f02a389738a8c7fb30d:7fbb83f3b16c5a98ddd73c92e6833712",
+        "name": "Warner Channel HD"
+    },
+    "V29ybGQgSEQ=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/World_HD\/SA_DASH_cipix\/World_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8662\/channel\/image.png",
+        "key": "f65bc28d3c0d42f183d11e56cba285e8:8fbc1502bed284ff019c17ff9ef8f78d",
+        "name": "World HD"
+    },
+    "Wm9vTW9vIEhE_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/ZooMoo_HD\/SA_DASH_cipix\/ZooMoo_HD.mpd?dvr_window_length=30",
+        "logo": "https:\/\/tvsamwproxy.boldmss.com\/images\/8772\/channel\/image.png",
+        "key": "998edc6abea448b9adb6a73a8ca3c390:ec76d989d8ebb9b646900e8c91b40d87",
+        "name": "ZooMoo HD"
+    },
+    "VW5pdmVyc2FsIENpbmVtYQ==_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Universal_Cinema_HD\/SA_DASH_cipix\/Universal_Cinema_HD.mpd?dvr_window_length=30",
+        "logo": null,
+        "key": "18f5e8d73b7a4866ad381d24153cc0ed:3a49f3d6976d4b48250c114e9b55002d",
+        "name": "Universal Cinema"
+    },
+    "VW5pdmVyc2FsIFByZW1pZXJl_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Universal_Premiere_HD\/SA_DASH_cipix\/Universal_Premiere_HD.mpd?dvr_window_length=30",
+        "logo": null,
+        "key": "e313f6d989ef4667895e8ad9d8673b48:9088443e1be2b9dab39b0aa3ba3e8fa1",
+        "name": "Universal Premiere"
+    },
+    "VW5pdmVyc2FsIENyaW1l_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Universal_Crime_HD\/SA_DASH_cipix\/Universal_Crime_HD.mpd?dvr_window_length=30",
+        "logo": null,
+        "key": "80227d0925d44a3e8e05cbd6a7c96375:785e5d82643a688ed935547864629ee6",
+        "name": "Universal Crime"
+    },
+    "VW5pdmVyc2FsIENvbWVkeQ==_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Universal_Comedy_HD\/SA_DASH_cipix\/Universal_Comedy_HD.mpd?dvr_window_length=30",
+        "logo": null,
+        "key": "21b672c4b7e0421c9eaa137c81bc9485:6e10e047bec6c83014fbc752d1670c87",
+        "name": "Universal Comedy"
+    },
+    "VW5pdmVyc2FsIFJlYWxpdHk=_NOWEXPRESS": {
+        "url": "https:\/\/anbalancer.express.com.ar\/live\/c1eds\/Universal_Reality_HD\/SA_DASH_cipix\/Universal_Reality_HD.mpd?dvr_window_length=30",
+        "logo": null,
+        "key": "bb955e35e784496996c2426e21993ad1:78635735c6c2b58801708f89713e194f",
+        "name": "Universal Reality"
+    }
+}

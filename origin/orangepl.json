@@ -1,0 +1,511 @@
+{
+  "4FunDance": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/4FunDance/hd2-dashdrm02/4FunDance.mpd",
+    "key": [
+             "24c17b57972e462a80bb28813f2590b0:0c0245c084bc46b56dee3d5a72391e07",
+             "5d5f8c23f45f45e9867f787f3772ddce6ac6b4c3e2869967a2ca8c0b32a0d5fe",
+             "c01319dd688c4190bf87a13b2a31b491:ba559683e26246751d59d5d9dda0aba6",
+             "f19cde8072fb414d98896a4eaedd09e4:473ddcc48f723b05829b0200d3f1c288"
+           ]
+  },
+  "4FunKids": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/4FunKids/hd2-dashdrm02/4FunKids.mpd",
+    "key": ["5e771cb30005432fab245597869d63f3:edeb667dec97ffd0c9ec36e6f68edb05","2809a0f9255b4169bed606cc6e332c0e:356a680b2a93019d3f11d14b6f91ba8e","b9f9e8ef01254857ba75f6f758cd1d9d:33ec8d8d56037f58f7870d5e26229df1","1e2d25d55c274111b606952f24c65d2b:bb3f1c9fb80abfa122efc9111b05c0b8"]
+  },
+  "4FunTV": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/4FunTV/hd2-dashdrm02/4FunTV.mpd",
+    "key": "b911a31a131c4016ac76e04bd3d79e28:0ce642f27010f64953369925c8d6f211,600deafdcab045e793cc7f7b421627b7:8d0923599c18073a2f29d0f29b502eae,3e50e225b9234a8b8c6a67635d04fb96:810aeccda26fea392c8f1218b24a36a6,196348fefe544fa387ad692057d17fba:c63b73b6c0b15867d2c6cd6102a7261c"
+  },
+  "11Sports1": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/11Sports1/hd2-dashdrm02/11Sports1.mpd",
+    "key": "9d042fa273964e24a9109e23f4e313cc:540e3601e1b82192c76c7411ad9c8c8e,801d9e39d41a49418615f7cee4b6e031:84b9bec014f0509ee2a4296e5877cf40,cf513b83f32d4234a7b4982ae9ca3161:68293d1b7143588339baeaedbe3939d9,014e7cf40d9e490a812964f4aa72449e:01b8caafb230eb2a07cc965d54ef4441"
+  },
+  "11Sports2": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/11Sports2/hd2-dashdrm02/11Sports2.mpd",
+    "key": "8331b6fdb5d14cdb82ff4895b997704c:2efbc6cd610345be9401fafd818c4dc4,4e1df327c661472f96319dd7e98bf5bd:36263f85c3c25a131f47cee90924e1f3,147736fc9f244d0ca8bc3f2169acec8e:3d1c1f5044392378b5c05f29899920a1,71be6f968ab54a8bb847b58bbc7c628e:3dd907fffdbffd7ec01b4025ad97ec6a"
+  },
+  "11Sports3": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/11Sports3/hd2-dashdrm02/11Sports3.mpd",
+    "key": "55b19ea29fdd4c96825531f96a504df1:a6ec613e0eadfb923ff816e4c8c68a4a,696c7203cea54375a2433c8be361f6ed:39e60bf9f0154884f5039d8e6cc47601,1de6210c1b064b928c5bb003da7023e5:d1eb59b178c89539d7caf1022968107e,ce125d7af48a45799d671941125ed55e:973599517f31f3b4327fa975f549ed2b"
+  },
+  "11Sports4": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/11Sports4/hd2-dashdrm02/11Sports4.mpd",
+    "key": "0bc811aaa10a4c3198aa3b6679198382:609b0c987d1657f1adc7aa53ae733200,a662726cb8804451961d356d65ba8450:47f362b448bd8f63d2402d428d352aed,f6818e7c25964791896250a119420d85:9f67cb00a75a9e0a068918256a227806,2c7dea2fa563424789ea200675e56817:5bf4b84797df5a8ac149c5bb69d639c4"
+  },
+  "AXNHD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/AXNHD/hd2-dashdrm02/AXNHD.mpd",
+    "key": "a405f53e1e6c44de90691424f6c5768d:14ee9b057d07131d710ce8316280146a,6846cd4ba384493a90184fe6497c48a6:0a8afe62110f802f1ad0ccab2322a01a,23d74034d0c6483cb66e2a6bc3c3e66f:4d7bb28c620096b94ee1a7f62cbcfc06,f5ab7abed3bd453294d734e09044f6ac:e5dcc51c69bd06457cc4bafd360b3256"
+  },
+  "AlekinoplusHD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/AlekinoplusHD/hd2-dashdrm02/.mpd",
+    "key": "443632bfcadc423c8dee88be157941db:8a5b4a0a6cadf75cbb15b5eab31eb0da,263fdf3b405b4f19b80fa697e1900ec6:3a0a26901264591156a01968f6fdb33d,a03f5cf461ef4f3fa6a7ea9fc3426cf0:2d880c8d5f53de69196fb3c7f55d990b,c08db75ef4f542b19d1a03d242bb4986:f9c2845caa914e6d7b2cb524c83b6c5d"
+  },
+  "BBCBritHD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/BBCBritHD/hd2-dashdrm02/BBCBritHD.mpd",
+    "key": "637dfc203e624b4db07d785fdcfe897d:b4ba8e834892b416e23fa5efe24dc5d1,7bbdc8318b2c411da6f4de25809401bc:6eeaf33a9d2056cd3208e260e538e73f,363625221d6c4e119d024b78b7c63dba:c228fe420f80077364aff1b18b722eb1,86fbac28e0ee4a29899f3e5e84ea145f:73956a037afe3a0107685ea6142c493e"
+  },
+  "BBCEarthHD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/BBCEarthHD/hd2-dashdrm02/BBCEarthHD.mpd",
+    "key": "e779852ca02c413dbb87bddea2a618e2:a0616b5d180324f14b585e7c886aa69b,d7ebda6040ea45418bd345e17d707803:367cd03e1998628659e136da62ab3654,668032ca003e4f2eb6fbd5b68193258c:f5f268dfc1f985c4cb38c82155a7b994,db4e28147691446a8ea72e78661ef8c7:94fdd4ff7d3b4193773d9cf92b6c1819"
+  },
+  "BBCLifestyle": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/BBCLifestyle/hd2-dashdrm02/BBCLifestyle.mpd",
+    "key": "c9f5e39aa331476c920e86d61e2b4ec5:d90f500cd079d5e7594646b41823ed10,175131e143aa46b7a70d73401d372ea3:90cc7b34e247413ea0bdf339aa776015,0347e66bca5f4dbcaea51d5da6a08e82:f5dddd02941df1a4ef675a982a688b5d,a9fda46cafeb454ab22742ec2dabc9a0:e58ef1f8e021792590c80847a7aa9e01"
+  },
+  "Biznes24": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/Biznes24/hd2-dashdrm02/Biznes24.mpd",
+    "key": "2d1886f629d644e3a4cac2c2a5779ecc:5b9ee712f395604e10b33be22c57c7f1,ddcc56c5d1054ea3900ffba201aff24c:0c950e64161869332e0e1f1107ca37ba,94565136606b49f48a715659f0cf4ca2:d5cfd73fc4076c5d8ed1d6d894dadda1,432b422953704a24be7c5a071aa3f3ae:a9eedde0743e8c4caf8bf89db7a31a3a"
+  },
+  "Boomerang": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/Boomerang/hd2-dashdrm02/Boomerang.mpd",
+    "key": "6b828ec8823d40c4b1a3419f021984d6:386e16cf655e26e213e0c3caf6f1ac14,782a2677fde94048b0ccab1beae21174:62fcb0e400f514bcd5fd3e06497c2dfb,da5f3493d2ba428a92e142ca36a1450c:61ce65834fe617ff052484f5da305f86,b4b2f13b17324a389bf9edd23b9b294a:5d3ed60f2a0a621477d9fa99c070289c"
+  },
+  "CANALplusHD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/CANALplusHD/hd2-dashdrm02/CANALplusHD.mpd",
+    "key": "673498cfae1a4e0aaba3eccbf083e160:8f5d97f4cd513c23c8dbd47e650f24d3,854d59a4aa2f4c9aa4593fff8b357d0d:34632ae222b905a5b0c2bf4eed71343d,9f08bd2afe5643c881793c4b21659761:e95e5c90661c1177d6d6cf42338eb3e0,89e763e8ccab4b01bab8320713da176f:4b7c2965590f59fcfdd9b6ec3309a33e"
+  },
+  "CI": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/CI/hd2-dashdrm02/CI.mpd",
+    "key": "2b991820ad69466087893bb06ab08d22:0de0815e1af40ddb852cee1f576ba5ab,d54eae5f433c4e9dbb3594c68df96e1c:172646d7de51dd79f50de88516162950,d336991fba174f179b47d0b5d228b66e:2367d8af66ae771e5881ac063fd040c2,b5aa1e039b664ca9b29eb7595ce795d5:8f5f540ad3f42a0076afcb90759b754c"
+  },
+  "CNBCEurope": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/CNBCEurope/hd2-dashdrm02/CNBCEurope.mpd",
+    "key": "97961632b1e14149a2323069d6e556b5:342f8457bfe29aa532cc19d47795ed9b,1bdc2122f24a45a1a78a87384cd5a7dd:212f37d20e7caa17e49698fc327d6ee4,ba0aa107815d4db38f4b6f3befca2ad3:e5ba4c80b7614c507b48596027f54fa6,1250ac22c8754b5082e456d28d38ec5d:23c5fc2f3557fe3ab04d254571af85d4"
+  },
+  "CNN": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/CNN/hd2-dashdrm02/CNN.mpd",
+    "key": "7351287b853b48349c9cd47eb61fc1a5:67b07f1c303a807b8fc9c750a867ec58,88401bbc801c47dbb1bae985b338fa32:01b5fcc1a18120278d8dd69e2a0597b9,2c37ea8bc0b844ceaf11fe86bf619c9d:04af18c7d043e257318e94fd9364adf6,4b9dc752d5d3406a8e747f8684ddad1d:eccdae74958e99e2981f9954561eaacf"
+  },
+  "CartoonNetworkSD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/CartoonNetworkSD/hd2-dashdrm02/CartoonNetworkSD.mpd",
+    "key": "1fcbaf9712b14f2d832e7e9f7d74a7d7:7136ac86380ca06bd5308008cbdf5cc7,a3cb14b725e44f9a8c4ae4c7c35c1c1c:12bfe5ab0548bd2290ee1f9b04021c6d,c31467e243024910ae36b9fbfaf45312:834835e06cc5b610d6956abeafda9b88,78a3a5487153461dae2cf01faee47c4e:261e94368e40ef5f123bbc78f0639bd8"
+  },
+  "CbeebiesSD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/CbeebiesSD/hd2-dashdrm02/CbeebiesSD.mpd",
+    "key": "60241884adfe499f921d25c600d7dfa7:7a94aa32ad854f04896336146cea47ba,8d12455553f7438f8b39058202ccbedc:33f0ac82ad2158ed5b273ad4dfafcf00,856aeafcea0d4c889eef1dc9606caddd:a2baf311618869704590e13ba0affb9b,b5ff3c76e6844b37905a01170a9dfdb5:8508b4e5a16e65c82a4db60f468b8b5b"
+  },
+  "ComedyCentralFamilyHD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/ComedyCentralFamilyHD/hd2-dashdrm02/ComedyCentralFamilyHD.mpd",
+    "key": "4914d1978fee41069fdf5c0295ee4eac:20b514bbe5a34508fb90dd96abba00d4,ffb1f85048bb4145a9fda372b77dd258:e181ed978e863007da346d839ff7bbdc,b1c34b925a6c4a8196076923903a42b2:20fe73558163a1b1bb8b4546b8a0b23a,3d9ae91f64f441698bd587f34ccb63c7:f7ec6f9316736ccee8762234750a3aa2"
+  },
+  "ComedyCentralHD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/ComedyCentralHD/hd2-dashdrm02/ComedyCentralHD.mpd",
+    "key": "b9337cebbcd949ca92a42f86198e8705:03d88df2c89ca9980b3b868513418443,3a7a804656944d2b85da947689655d6f:b373dae14d4e956184e0928b67514bb7,e7eadf2d757c41e08dad99b91081b295:224e19d6afeb732700c4b77a91f7b1ab,da5908eced2241de8116a151630c0705:e0b4d78179e74a63a2fec454e7cbfc5c"
+  },
+  "CplusDok": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/CplusDok/hd2-dashdrm02/CplusDok.mpd",
+    "key": "3846a4c523b54250b78c2a80024a287e:5d16847cbe8bd584eb0b63e1a8f51404,db35d82324964a5aa70d1fdc498ff903:13d55d657f483f4fcb0edcc1a849bdc0,fc4c055869d84c088199da9588bd1748:db814a0c650ff9f1a8d2475ce9ecc5c2,d8521f5c3b5d4debb91d2d851677c2e3:35af009b29f153ac7a48e2cfd83e4241"
+  },
+  "CplusDomo": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/CplusDomo/hd2-dashdrm02/CplusDomo.mpd",
+    "key": "d6f48931f8e04ac389caf722b54b81b1:23111962e17dfa631996369c1627aab5,610ebc689096431980f7b29da6899154:ecdea24ff7d0b4f872b77a715938fea0,889e763c68da4e4180c82d4933ed7a38:8f290164fea0f4d702ace36b4606c796,4fd10279d9f44794821e2536a77680f2:7a96afe58676d5acfaba202b4a0ca96e"
+  },
+  "CplusFamilyHD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/CplusFamilyHD/hd2-dashdrm02/CplusFamilyHD.mpd",
+    "key": "da7b34a28fc74c40bcdda47906de2255:ee90f1f832d5e0086c9492e04fed03c1,b54658c9e6f34c96aa1ea295bd05f332:52a9ef2b51965920c8cfe9a64a0316ec,47c4baa696cb4bed88da676cf8492ab9:8b8d9626d24cdde41ff333341a1d6c4a,a87a2e79634848799af56fd9d1ccbb17:bbcbec216e2b038696a9389b1913776c"
+  },
+  "CplusFilmHD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/CplusFilmHD/hd2-dashdrm02/CplusFilmHD.mpd",
+    "key": "fd5d77900c1b4a0faadf85e50956d28d:0a9e2526477cd783af930e9b98edef65,62cf31c5a1a84f4fa94f4a7363e386de:1b4be1f337c0655b525813fa75b00821,8741188b18084b2d8a09f235310ef2c8:05ad1442f1ed3dae900e007f347723bf,dd98a9090af2440a9b10bd8f99baca98:c60b6ac4bb4746f4bb68d2fbd1e3084a"
+  },
+  "CplusNowHD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/CplusNowHD/hd2-dashdrm02/CplusNowHD.mpd",
+    "key": "80891e0cb3454c57a3c52b66d97060cf:92ac316df0a91b88f4e332b240f5d453,26ad03d4c8c948f484e4d20bfe9d69ab:47fcd3eeacdddee3b8764352c0739dbf,011dcd7241064fc2aa43f00ad01510e4:ad49080561a364c9f40d965f236d3b5a,27a4ab4251ec47c2b75d8dab279050e3:2287fa19e2b6afff69e55020ab8579e1"
+  },
+  "CplusSeriale": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/CplusSeriale/hd2-dashdrm02/CplusSeriale.mpd",
+    "key": "00017dc844f2424da2954e64dee4055f:cbc08648bf2c0d4f96f06008d51f4038,14fb520340744fc98db3542418126c9b:744fbc48dc92c371a25551e47b4bf8b1,976b0d1b3fb54d9584a9b688fb74815f:139f9eb32e07ee21dd968d5f82f128bf,69ccf8d116854ea699bb1cddfb5da496:5d9e0e60c98b5ab27847a0180a6e1ada"
+  },
+  "CplusSport2HD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/CplusSport2HD/hd2-dashdrm02/CplusSport2HD.mpd",
+    "key": "4f7fa9f0250a43cea8aebd8167f1fc81:f6bbc783b0e7a46a147e673a4347730a,89787fecb0ac43ab86aa356054e2a183:f0153c6dc5c55c5f23fcdeed8241d5e4,9a6e747c79dc4c2a8892197611e37987:cb92d1bb2e92ffa4de9c7d23c5677879,f5c080517f6c4366b1930315a6aa70e7:581eba7045254d1de036557789932a05"
+  },
+  "CplusSport3HD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/CplusSport3HD/hd2-dashdrm02/CplusSport3HD.mpd",
+    "key": "009d1ea463574791a88e5d008f7ab15c:fa4812bd0d608c2f8bfeb02fb213320d,274cafc63e854f9ca14acbc49af103a0:4dc63ff74dc5415f3c0c63b62f8fedaa,5b869f492ace427290770464e7d94c86:e508cea2e4becd7a87adfbd863d9f827,b4274e5bdb7e4370bb87af609a74a64e:4763cbd2fa26f4de8bead22db09b0f46"
+  },
+  "CplusSport4HD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/CplusSport4HD/hd2-dashdrm02/CplusSport4HD.mpd",
+    "key": "349ac684fa744cfabea756975f29aa5b:36e275c981979c0cbac5e50f357d4157,bb22610c6783458f8300ef9a1f159a8e:48878c1f8963c79e74908a32e73030a1,638d2f06b75c4341a990ebebae2055ae:493508c2f5af5428bb8e09da1207324c,bdcfde35c73f4c2dbd628fa3694010b9:96a0683d85cc793eeb116b94731b2a4e"
+  },
+  "CplusSportHD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/CplusSportHD/hd2-dashdrm02/CplusSportHD.mpd",
+    "key": "5fb92575d7da45219e9a88646cd3e243:31d1f1df9c246eb734de1be0f6bf6acf,7cd69bed1cc54d83bd7f988f622c1157:332e0a856cdfcd7a1d6da6dcf84633a7,7c35f5ae279941b7be726157476d7031:53dcc0a61387ce3fa3bfa290a9bc80c7,4e942b1dad92436baad0c6a6901f6d13:5adefdb3f4edd5ceee23d37c10c37e5c"
+  },
+  "DeutscheWelle": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/DeutscheWelle/hd2-dashdrm02/DeutscheWelle.mpd",
+    "key": "5db8fce9b8b64795866e52445c2bc9dd:3396fc1a725b78c35723329012c7cd9a,74a0575124194c7bad32bf903f3371eb:0305c0882e568468c1591a6dbd31e2ea,1339b0d09f3d4363a0b3eca054ff9429:22fef9e6518a8fd10e6a356955332741,8f4882abfc9e46b4bd26e1064d8f541a:fb96f8777fa3deea672415b38cb10fed"
+  },
+  "Disney": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/Disney/hd2-dashdrm02/Disney.mpd",
+    "key": "90654f29a8a84690b71df8bac4e235b7:98806263760c68d15ae4e060cb2bfccc,c864e60c551540089d5055e7bd444c43:912727a54ef923814388e5a1c4aba5a2,d93a3a8e07664b5da7bc6caa46f51689:f8e5fac99903d15c0d0575c1db76506a,0aec353e66614029a7a1ef48961261e9:0cb52c12c4af46679cb0669062d55231"
+  },
+  "DisneyJuniorSD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/DisneyJuniorSD/hd2-dashdrm02/DisneyJuniorSD.mpd",
+    "key": "a9c7b347be3a4d90a8d93f780ea2221d:470b2e6da2b3c252630ee9fb56e54c1f,ffe7ef2c124e452aa075aac14ec3f744:5453c327cdd3b71aa7bd8651361a236b,19be5056bc1f4c3691cd5cf2c029df07:0839417d19aae1486fded153dc483751,224a77edc3254bbdb51a9a40248367f2:0d56262f34aacaca1db060afc259520c"
+  },
+  "DomoplusHD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/DomoplusHD/hd2-dashdrm02/DomoplusHD.mpd",
+    "key": "e677c27134a749979fb738c969899cde:ada7fd43f47068ca77206f40240aaf96,d9aab3c2ff0842348d896f348b46ba06:ab1537a18d5a8a3a041b87c793a0ba10,7ad76966ea3d4547a42ea120f3cce178:a388c62e66abd0c9efc282faeefbfdea,4b5dc1dc3d13407ca63195e95e78862a:964f0087d2e8883ea49534c0bddbba23"
+  },
+  "ESD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/ESD/hd2-dashdrm02/ESD.mpd",
+    "key": "482cb24524cf4e3cb037cfa1d9c160ad:60cfeea39d8996709ad35baa99100ce3,51f33eb17b4a4a539571a4d21433638b:2f01f87f3603af86fece189f3af51c17,cccbc580c3e243f2b3a47b7680b41afc:671888117ae54554a37381dc241b289d,5721e6d6c3fc481eb7a1186d1d8e279f:00cc3e3dcedc2178086b7f38a6c3cd91"
+  },
+  "EVENT1": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/EVENT1/hd2-dashdrm02/EVENT1.mpd",
+    "key": "6893fada1af744a39697c66428c8c08d:f88d47dbf891b41c211540d899dd4794,0b184e3e0b8945558977621dc53535b5:1c78266d44f28ee508cc3110e0435ba9,590f0b8717b24d88b8bfc2101e9d0971:c7b6f5f4d014412dd698bd29ee047fa5,1b64cc0cc17d4587b00c24bd40623b56:1733b0c4d7341030b726cf858cd2c421"
+  },
+  "EVENT2": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/EVENT2/hd2-dashdrm02/EVENT2.mpd",
+    "key": "c10cfa5e56074dd59568e4dba5de94f9:0ae08eda9f2c8b1cbc4cb9c665d50734,ca30750c030f49f4ad726ddef21be24a:31501a8079414efea67c267963c91e6e,cc440c3672e04da4a7fbb3f98d5e4ccf:ba0ea880d0c8b19d53d2cd255eaa04b4,069965db773b4044af9409d6a8979ff2:ecf570e5cf1cda94cc8e5b8687effb0f"
+  },
+  "EVENT3": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/EVENT3/hd2-dashdrm02/EVENT3.mpd",
+    "key": "a7f3b89183364976ab6e605bbbcc791e:43fd2f9c227da3a7a3087bdca9bb2fed,fd980d77946643deb4850ed560cc7704:81a37cf9cfc98653182ce41aec859125,a6d5af8aaa504bb9881c8f8013464ae8:b9da69f20c7a88a6bd2a769ba83fa37e,f09cc982dae049cda610e5cdd0bf4fd5:aea85bf16633800caa198e1047c832e4"
+  },
+  "EVENT4": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/EVENT4/hd2-dashdrm02/EVENT4.mpd",
+    "key": "25ad7291a24d4a678a42088657c91a4e:6a95350805eddfc75321ab71f8576e9b,3d88544a4674aa7a90af87470796cc6:7102e7bea0be49c88e6fb2d0b01b34d6,691a6b0a84bb40969dce29ee77fa61f3:a959f04550b19a17fda02c130846d1df,b2ddcd77a63d46848385ee815d53a2a1:8ce697e3e81dacc56ae303b064639f8f"
+  },
+  "Euronews": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/Euronews/hd2-dashdrm02/Euronews.mpd",
+    "key": "e33b69583d484f19a1e99799db81c6ec:5043ae27e1131d2dc026577df37e5346,2b151038e0a74268b4050d926d6e7130:8f555f72dd4713c940958a0751a448c8,cc0084eb742a4f279398be1af13ab0c2:b0ae38448aca7cd207157d6aaadd2396,a1eb20ec3d6c446f812903b365d3371d:e7bbb39c6e036edebdb6f71468dcebd2"
+  },
+  "FoxHD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/FoxHD/hd2-dashdrm02/FoxHD.mpd",
+    "key": "d512bdadea75447798a67d0f635a5727:62d1d1aa7c0963700ff1f328579b677b,5b6c200017e54800b8573c17c506e5ca:05af074c1440ccc84147bd4dc5634148,2310312d4d874d739f514398d62c9657:fccd87a041f7ca14a31f87fdf4d7ce7c,bf2ec80955904ddd9882a44b3f6d7bcc:8222523c2b551162f4b1c5edd8538e56"
+  },
+  "France24ENG": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/France24ENG/hd2-dashdrm02/France24ENG.mpd",
+    "key": "539f6699d5234aed84456655d28a2002:6a7b9f3019f422359b5daaab80f3e3d0,9c713dcb62b3445b8a28a90cc483d201:ba9baa3d1b389ff9b5a492c21112a8d0,d3aa0b71f1334d1897dbee29286ea0ec:ce6478abc87d5851e9f583086f1601b6,ce55116465de42dfba1e73c8fe9462cc:1db80aeffdb58ca650da6c364e18aca6"
+  },
+  "France24FR": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/France24FR/hd2-dashdrm02/France24FR.mpd",
+    "key": "58cc95a35a4948c69a793c987fe96760:502d3d8ddd3b812cb7c016b657b8c346,584ee3f804e74819b658fadafda933d1:06812340c19d7258273868b505320564,a4d25143b3df4e08aa9fd501677b8e5e:9fb87cbda0e34fed2d6ca6a9f30c17a7,36a843a5261e4dbbb881f03f87690f76:ca5d5db69c1d64937efffdcca4b4ecfe"
+  },
+  "HBO2HD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/HBO2HD/hd2-dashdrm02/HBO2HD.mpd",
+    "key": "3e9c77ac07414d329c169ee40cb71f82:61bc0bd306d848a98da00fe303d1094d,7bb198f3d6594c09a32fd22662db2deb:9a14a4899241f2db38614baedcbd14e0,485f558b6a5742e4a88566359dd1592b:3f06e586bdddbe074dfbb7142d1070f4,2c33d1cf95fd43099234b9868cfea11d:415e0e7ca0ce0fb594b0f99be0a2316b"
+  },
+  "HBO3HD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/HBO3HD/hd2-dashdrm02/HBO3HD.mpd",
+    "key": "bb51efd8a315426192b791f9135f4e15:f65781c86c3d1921ad338afe3235d6a7,4e6dcc85da7848148dc7bc3a22337a18:0a3c77f80e1de90aedc9ec50eed80f23,9dba60a45b37423dae82dba2966d69ce:0ddbe11f0fcd5edc2d74aa4e712db293,2692f1bfeafe46c08571a592cf4e532e:31d896f029c2d6aff80f0a544d95fdd4"
+  },
+  "HBOHD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/HBOHD/hd2-dashdrm02/HBOHD.mpd",
+    "key": "4538f13088ab4ea9a6a8da58e09da31f:24a2763c7d53d12237ca86c1fa00f29c,59f3f50ead0f4b4584df295c3e093420:bdfc186139be32be61029071033bd7e9,8df1548430aa410f99ce5892b0253115:e92063572335f32ac1cb94f058ecfb69,6e2e20df42fa468b8728133a0d3ea3de:2982cf4c3202817ec1be8bcf96f636b8"
+  },
+  "HistoryHD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/HistoryHD/hd2-dashdrm02/HistoryHD.mpd",
+    "key": "964f2a8350d94c17a9b6a4013f88545b:f60dca5941646a7ee322b30b510d3e86,d85347788fc346858b0719c1aefc90a0:0eec822516c51c3e0d9d1f5a3da1ac17,ebde399c544f457785d98c9486859064:913bb3da24fc94f6f4f96888d1097613,6c030a772c9e42eaa5b0dea6a3d8b20f:b6872631c217c44157e36c56ba3065a2"
+  },
+  "KinoPolska": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/KinoPolska/hd2-dashdrm02/KinoPolska.mpd",
+    "key": "2b351d1902354ffe914d63dfe6487275:5ae6d3903482bc92bcc3bed7f4b5986b,6239d94de3304c59908cf7a5b3c5674c:523fe7b0677d1aa86d0f8edb6e4d8e88,b0462e064c6c4045bc2f87ed9a9a244a:e2b701eb87ba5723e45a53e5dcd2795c,d435981fb8fa47f6bcd7bbed384881ef:6ff22ba9e8baa25780ed4543837d2365"
+  },
+  "KuchniaplusHD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/KuchniaplusHD/hd2-dashdrm02/KuchniaplusHD.mpd",
+    "key": "5ac72d2d71a7437c8b8909b5deca98a9:fb32590c8c358e92f3ad49aab54b27fa,9a1cb476424640609e54dc3933fcc84d:4e6487b526e90bc06132601fdb49d4f6,086ecc6180c4421e9338418af91d0781:13ba0f493976560253206249bd502872,0db46bdee0ae495d80d7e4af63a47943:83a670d96d6bd0a1416ece291b4857cf"
+  },
+  "MTV80": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/MTV80/hd2-dashdrm02/MTV80.mpd",
+    "key": "c865c9e8fe674ac6bb388f2cfad99eaf:4ca3185b1f94cded847c057f1c8fe93e,fa1bf87a69de453081071810a2e201c8:40184ba93e4b92012da9c3a02b471ed8,e4668b222dc24891bad5d2f54cca536f:e31cb34622f79a5885a36b41e979633b,1a171e5faf2245819ec66a050a02173d:584eb64f85cc3b7a5955d6618ff6d038"
+  },
+  "MTV90": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/MTV90/hd2-dashdrm02/MTV90.mpd",
+    "key": "4edea4e21f334cd19b5cf8ce94877441:d672eb26a78f61a8666695571f51a8cf,d73358bee4384f2585887e90bf9dc658:ebcd4d360268987702877fea3a7d19bd,d00c116e5fe74d8cbb8770ca649f8fcf:b67a0f9df8a018162a548458f45ec708,9a54e9cb41954f3cb28a1710474b532a:c08c46e8dbc79f5a78e50286f23eb807"
+  },
+  "MTVDance": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/MTVDance/hd2-dashdrm02/MTVDance.mpd",
+    "key": "63fac17bf60f45b9bcf7209c7156c2f6:0b55319f1f270e976ffd727de8b06459,e39853465a8a45f7b80701a66ef93729:fa565dabb6d2f6fc1d6e359e64499c0f,d5c63633f0cc4f7e9d1d29f6dd94b860:b719e707b66c38055a944c8b8df1380e,f5e865b385a44bd1a9a56fce1ffca282:d1551a948c90602ed664298a6f5d0a95"
+  },
+  "MTVHits": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/MTVHits/hd2-dashdrm02/MTVHits.mpd",
+    "key": "7aaeb2c6ab094cc4af217074ba8af358:98242ca21c0d08beaa37a4832ddc49c4,69e770200f324c868a7206cd59b2ca38:83116595c7685c54ad92133d58977c90,6a6924dfa61f4d74a1b1b5f3b8a4efd0:9842b7f3a013b36795dceb19a8e0f8ce,345e724e19ec457e8d1014e2ea3e0869:6ca584d4da590ae3929310b7329938b9"
+  },
+  "MTVLiveHD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/MTVLiveHD/hd2-dashdrm02/MTVLiveHD.mpd",
+    "key": "aec44e8125c34f29a5db3d08780842fb:69a4b10cd123b403e05bdc09f2a65738,7356aeddfbe9470a8fced30402124423:bd1b194917425c02fda96dddd2a01569,6592c50a2a0446cd96bd327db85a438c:b91415eba551014f20e8f807a4793994,f5a481ef0093471aa52d1e14584843a9:e3445189bed3d06bb06b8a7f82aacb45"
+  },
+  "MTVMusic": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/MTVMusic/hd2-dashdrm02/MTVMusic.mpd",
+    "key": "03a1165068074ed2a9259e3845b91250:c168de9077d50fa7924aed3e1c731646,bd4782cca6644b789d48f1fe8d03e542:499398aba5b8ef9a181fbc2fca9a084a,7569f147d2d94b9f907f9a8bca441cfe:9c2ea7858831789dbd3d6e1f1f43fa97,cb7eb0ae5cc34bf7a7d927108eefc51d:7b66d5d8e1b8d4658dbbfa42e7cf97b1"
+  },
+  "MTVPolskaSD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/MTVPolskaSD/hd2-dashdrm02/MTVPolskaSD.mpd",
+    "key": "2c2cc2f51d394360b291e7cd1a54701c:528df4799d16eb03537265f22c1d33da,7c0ed32dbb1044cda3ca0c99780690fe:850652df397bb7f43e2572e5829d2a58,cecf2ae57dec41849851e36adf530f12:64dbde82b994e6bca58e5cb16e822e15,17c1193fe1534fc7ae854ae03352134f:6bcb91faf94a578d773f64d8c1ee26af"
+  },
+  "MiniMiniplusHD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/MiniMiniplusHD/hd2-dashdrm02/MiniMiniplusHD.mpd",
+    "key": "ef19d75c10254ea3991e6954a15f39cd:3bc4cbf0c14809b7bc3aef08ce11ef4e,1915ed10e72946e9a7d7dadc5b09ca88:e62b9a845fee6b5cbf379a7bd7e31b9f,03389d7a33504dc2b5c5f2055af0b8b9:ca353de1ad97de606b88383ed80f926d,1bb0031f46d948fb9a694cb18a2309da:6986f5ffc6a685149ba16a618cebf6c1"
+  },
+  "NatGeoWildHD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/NatGeoWildHD/hd2-dashdrm02/NatGeoWildHD.mpd",
+    "key": "b9fde44fd1234d8998850261cbe43551:1390dc94c46d1496b5cc1e6be2c4d920,2493077065564e7091ae71f7317b3f80:5fa61f4b6cc3c3504f39b0f8b1956e5d,e7a7d982a28349e19fd7af2bb487dfd3:46cad81649d90902c669891fb197d415,52028c0f44974f73b64793ba1968e085:ede021e96ec72df75be7f2b64543852b"
+  },
+  "NationalGeographicHD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/NationalGeographicHD/hd2-dashdrm02/NationalGeographicHD.mpd",
+    "key": "15a55c0f21ad4376ad3b90ece0ace158:a0015823bfd846ad44356df276d1da28,365a912d0bfd416b8db1f1e492ce71a4:2e8fade209d0cff6d37e32ce156456ee,a58f2f68e12d41a2a31416d76defedad:30716de3ad7f8ffa9d6bfbe2aa7cf622,3ea9cbded01d4655afca1aec80a8c48d:41e9a5b90b2bf9b0259d5b344ce3413a"
+  },
+  "NickJrSD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/NickJrSD/hd2-dashdrm02/NickJrSD.mpd",
+    "key": "c65a23f25b7b4716bb859295aec01fbe:bbb92567de3cc36505cfd17deaebbcc5,d5a6a257a7bc4c0b84e0feda98738cda:25d8adb7142cfcb367ce329c703dc0af,f0d6713ce5f740beb138c5e13e02a5d8:bd7c0ff1b2ffd7f9c55ca32966ec5baf,f729be3f0977448db946e4f0dca1e008:c177e944b0892a1a01e17a95758e9538"
+  },
+  "NickSD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/NickSD/hd2-dashdrm02/NickSD.mpd",
+    "key": "917c82c4d7954b48a8f3120203835e4f:9da668b769218c17a51aca532a462b3d,5c7226d2597a436b87fed625620a7d63:d660469f24f78a62005e504c6db3c313,d5833f89d5ed4d09bb7bf78c2b82f9d8:c420c38fe733991fa5a23802c4f97ff3,00ad241e7c324f4182900d31b4133f8f:8ce7f86647e094561d7d586708f44395"
+  },
+  "NickToons": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/NickToons/hd2-dashdrm02/NickToons.mpd",
+    "key": "afed689956104322be4db34fe556106f:c74db6e6be753b5a7706d10b6f3c7077,c0f3ad0efbc547a5b93ab1c241473cdb:6cbcd9aaea44f4d275f1d0865a15d824,cb5d903192ad49a8a66610d5d6235831:5e52e90028a24cb949748d4493d2cd5b,d52207f10edb4a85bf361ef59b7e97e4:4c1777bdee416c82da12ba35cc404c14"
+  },
+  "Novelas": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/Novelas/hd2-dashdrm02/Novelas.mpd",
+    "key": "eba6373004cd46609c71b9adc7d75542:d9dd841d6dab611ec48983cc70241f2f,2713cc5924d24bcb85a90b7d0d83e07a:013236a7091bf5678e2a62e2542152a9,0ba3f986281b4702a3066339d5409a7c:8c62fda60dd235593d515304db05af26,3681d1a2bdec4483a857260169363154:8327aebdf9553c661504fa01c930d4e4"
+  },
+  "NutaTV": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/NutaTV/hd2-dashdrm02/NutaTV.mpd",
+    "key": "6cc63e91510c4ea889c970864aef5eaf:cd3e6afcf46a335c9469dab88e853f3e,e38670aabaf54a18ba260b77b6522b32:733fe340e35aa25730fdce01169b7bd9,ae8a299b74cd49bea5ffa4a175314efd:82fc57bb891c01a62559827a981b966e,d1a3cf8315644b6fb76a1320f2bdc46b:fe4e56d3e484e0261b991afff9d5f0f3"
+  },
+  "ParamountHD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/ParamountHD/hd2-dashdrm02/ParamountHD.mpd",
+    "key": "dbf5440ad2a54323a75e40b3a3d7007c:9340391c526b06d944396f6e458fbd56,ad059e35fa9f4718922eae2d003ab65a:0a1b45436c212500e703d6da7307813b,903d6a2674bf413c904381317c695c94:9a4860fc93d721b44c2d36d427daab1b,c8d81cd168f04ad992434a062b1abc25:3f5860a8ab13ed936be337c51bbee854"
+  },
+  "PlaneteplusHD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/PlaneteplusHD/hd2-dashdrm02/PlaneteplusHD.mpd",
+    "key": "5569c3326d7f495ebe93fde74d683391:55605e0074b463c8128d76b62d6a707e,f0157fd73b3b4e99b8304d06b204ddaa:be7b67d9cb7d95bdf97ffc242fcc860b,622549494197499ba085826d985e0c39:858d7dfa4fe6b1fbffac9240926d77f5,4e445221e33740b085f66c52290b01bf:be62c396723fa0935480987c4ce16b3f"
+  },
+  "PolsatPPV3": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/PolsatPPV3/hd2-dashdrm02/PolsatPPV3.mpd",
+    "key": "5aa645a5ba3a404387fb98ed0c1d727d:334d420805f6608c82eccb499310bb7c,811d732531234ef7a0f3606fec9b8cfe:fb4a5e4675350b38501e63d9161837eb,93975f79b4c24f95a2d9f1681fdd9435:7691e37341e3cda9c4ba00776efadb77,1fa20578219c47bab13840664370d35f:69a63bfa53e481d60979d4301622b3c4"
+  },
+  "PolsatPPV4": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/PolsatPPV4/hd2-dashdrm02/PolsatPPV4.mpd",
+    "key": "707820592cb6423b9861415e8d55d66f:4e798d69bbc755b85a3109ef1f665b49,e10da094f8b54c5f91837685a7a2becf:0ceaad8fd1129cecc9156df05339e4df,be08aa350af74fc791fa78d4ed24be38:78b33e32b8583c9e3632b820d63bf78d,6396e5578e9844a3925bfb621f6ffa16:ef8c6f69b088e84da6ce52028c1729a2"
+  },
+  "PolsatPPV5": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/PolsatPPV5/hd2-dashdrm02/PolsatPPV5.mpd",
+    "key": "30c85b010f8e494b896813bb20dcd25f:12bb6f5c35f75725501712f526100df6,a5c0bb901c414ff6ba6016edbc8955e7:1afad33d759d246d60c3adf9834c195c,6bfe1abcafe447e2ad6881d373aff5aa:8e32088bdbf9bbc93010f6db0a3db740,99112d3bf8c949d7b054d8f87fc4895d:f6cf27ac1642fb175d988188f9307890"
+  },
+  "PolsatPPV6": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/PolsatPPV6/hd2-dashdrm02/PolsatPPV6.mpd",
+    "key": "b2ee5b48f1174d76af8edc833c82166c:89b15ee706138e739ea86d95711a55b2,5d6da556443645df8a07177f6b327299:e63816bd643e821c86d08bc034a89258,6eedbf60bdf842ffbe8ba5454010209b:1c02b9ce675dbcdcbbca7d9a594e72db,9c9cfde56307428ca1d43fb920d9d2b2:66bb54d45e501e12ee27e92df2affa02"
+  },
+  "PolsatPRE1": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/PolsatPRE1/hd2-dashdrm02/PolsatPRE1.mpd",
+    "key": "7d169583d69d4ff997465fcda11743a8:ac55341e5a29db0966c6ddab2966a581,1eeecb688be04a358b48d040e5ce3e59:986c128156ba5a01b36fdd7c10c34e0c,011527347192419d94d91ed9977dc31e:51620ff10d9582717beb8b79a6b5f860,1609061574ff4e0195ec3e98a6adc2de:a96022260ad6e857a731813a9b308dfe"
+  },
+  "PolsatPRE2": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/PolsatPRE2/hd2-dashdrm02/PolsatPRE2.mpd",
+    "key": "b39ab0bdbed04016a9c0ffa94d7a3c0c:3d58f385964282b5e330c53a91834d08,a6238a4a4a004a73aa89b313c1f54dfa:9be91513d9b3c60cd01226a682d753fc,66cc6b2429b14c1ebb1f25f8bb9793a9:0aa96204f5ef0e5f7667843b81f8bf62,1b335bf3fabe44ee902c0cca04044c6d:b04a1a13e48b55ce793bf90453baa79e"
+  },
+  "PowerTV": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/PowerTV/hd2-dashdrm02/PowerTV.mpd",
+    "key": "bb54117748d3423183bb0923cbcadcea:a5931979b431fede1e57adebdc46b081,b4e4b219731147ca9354fe7d1de46330:2422e45029d87b2dc5c62e94075a48de,875b5aecfa3144948920e453f31bfbbc:7f99a08c5cbac113cf8e9ee3b7e5279e,7e0f0739b6ec40e38bcae0095bc08c26:3f38c940619d0bf7a4418bc96ba09eed"
+  },
+  "SciFiSD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/SciFiSD/hd2-dashdrm02/SciFiSD.mpd",
+    "key": "839f3bad33394cd1963bdda7f7b89899:50bd74451fc43d4dd813a5f098d61320,9ae32fc8c9094731b36791d5e4f43c08:73219ef7c8a635bc6433fb568e0322b5,4af25d0527c340bfb09cf3c16743d109:1162089cc58f77716eca03bffe1a0664,a4ad56b76a9b45ffa65d3cd50e765af1:3e0050c88d97bc943a9b0f00dbf29aa5"
+  },
+  "TNTHD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/TNTHD/hd2-dashdrm02/TNTHD.mpd",
+    "key": "177d715d9ff44a51822047f6fb85c809:301ac6564ce118cc95780dc33c3a6f21,e50b81c6fa574b7bb6ffd7425af55c51:dd81ec7411825c1169ff1b00a8f71766,a25a67a66a944b38882cbc1fc2ce29be:1a9f3b50dfd9b100de631d88604f6af0,6ffdaf1ed8c649058253299a325b856f:62b23fc54c6e891748bb17b37db35af4"
+  },
+  "TVN24HD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/TVN24HD/hd2-dashdrm02/TVN24HD.mpd",
+    "key": "8160c35fb71c48b5862fc15d09d8f3b0:80472c2c95221be7b0c6c6d89b93b5c6,6fef8895478e4a5f8be4d3d93a57b5b1:ce455f7c7512a6026943e340a7fa6c03,530ebd6336224447b9c42900242f2d69:6c407f8c0541aada95610fc7e361c8ea,15cd0c8f610f4510a9122ddc1aae79d3:155a794bcd4e16034c15c143d10fdf8c"
+  },
+  "TVNBiznesiSwiatSD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/TVNBiznesiSwiatSD/hd2-dashdrm02/TVNBiznesiSwiatSD.mpd",
+    "key": "2ba528e21cec4b7ab6645e463fddc0b4:d7af93c0ce2e7bc540c4ed5cf9af9165,13b2ade24d1e46c5858da3a7e6386be4:633cc8beb145837835d2ad38f7102c85,5b2172505cf842aca42576d164297835:06e6b71290d88b03f9e53953ea4e4ab7,a7db3d95994344a48a59537b5b808033:f3fe99a92913737929abd0b2cfc4c10a"
+  },
+  "TVP3Warszawa": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/TVP3Warszawa/hd2-dashdrm02/TVP3Warszawa.mpd",
+    "key": "ac7e0885e302483d82f7747282d6ce0d:5d361569f0ea892335d3c1209b67a7b4,47b7658c31cf405e97ab88ec42e908bb:1149d19db8e6dd3a3c6003203935cd4b,ee7a25ae74934a0f93e76890c56feaf4:1611a39874b46117be497891061853a3,70342a92562642db9789f583bf1f1eda:774ba7162133a1573731bb4086ec9b94"
+  },
+  "TVPSeriale": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/TVPSeriale/hd2-dashdrm02/TVPSeriale.mpd",
+    "key": "9d879e4647f746a2afe8a1af04908b1a:d6f073215b8059806eba46c9c2f26517,cfd822cfcfec4965b9f9cbb6e6969307:073d5ebd49a578f1b0e179d0bd07e5dd,0216abe3bcad4daf86b04a76a2302f61:e4b6d3d1cba54b1d61496eb704ce6228,61f407a19b8b406b9cd98339f0d07e51:0b99dfb137d2cbea523c357bd32f98de"
+  },
+  "TeleTOONplusHD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/TeleTOONplusHD/hd2-dashdrm02/TeleTOONplusHD.mpd",
+    "key": "8adba7af6aef4a10b60ceb7e9f64fea6:af1c137c27dd756e9fa3bf6c4ba70c3f,e1ed6c1b5b8943d1b10fc93d06026b1b:dba300dbe078b8e8f09bd53dc04fdfcc,61295553b9e7488ca6be1a3b2f832b3d:6260d1ef97c26a79b3018546f0163d53,22916b66848a499d95680666be5995e7:84385b553518de0b6e2f2021bd25871e"
+  },
+  "VH1": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/VH1/hd2-dashdrm02/VH1.mpd",
+    "key": "50f65b5621b34e09b078da0a9b5a7bef:b3b018b7953e957fb40a2d880295fe49,2a2c05355d394035b03d8ae88dacfe73:d25163c570748f0a41c22db56fa12daa,4ded2d93d3d6456dad7f03da6dddd871:c6644d639449a95b940fdba063601d98,e652fc4c12a14f8c8d04ed41f307604f:3861ba07bd338c18a7ac4c812493450b"
+  },
+  "nsportplusHD": {
+    "group": "Canal+ Orange | Poland",
+    "logo": "https://pl.canalplus.com/-/media/ncplus/images/logo-nawigacja/canalplus-logo.png",
+    "url": "https://ec26-waw1.waw2.cache.orange.pl/canal/l/canal/live/store01/nsportplusHD/hd2-dashdrm02/nsportplusHD.mpd",
+    "key": "4cea0821d1824cafa0635743a6d97778:924faa02e646007d6f84af2939792d85,e5cd5fa487c941f08dc227b6b7d2ba34:86acbf7a6443072a3df2619ed38d5729,b7455fce1f794300b68c97b4c9088781:e19dfeeb5dc417f85b15669a6a50bf86,d8f713ce3f9443f7bdd07160d181d535:54ef8a5499686d0c88be6ef84fc4267e"
+  }
+}

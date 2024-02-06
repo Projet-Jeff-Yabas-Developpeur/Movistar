@@ -1,0 +1,6 @@
+https://nosedge-pce2.stream.nos.pt/nos_dash_cenc/ns_02_243924bfd56a682be235638b53961e09/rolling-buffer/media/EPGC417/EPGC417/transmux/CCURStream_5000k_HD1-1_415646225.cmfv
+https://nosedge-pce2.stream.nos.pt/nos_dash_cenc/ns_02_243924bfd56a682be235638b53961e09/rolling-buffer/media/EPGC417/EPGC417/transmux/CCURStream_5000k_HD1-1_415646226.cmfv
+https://nosedge-pce2.stream.nos.pt/nos_dash_cenc/ns_02_243924bfd56a682be235638b53961e09/rolling-buffer/media/EPGC417/EPGC417/transmux/CCURStream_5000k_HD1-1_415646227.cmfv
+https://nosedge-pce2.stream.nos.pt/nos_dash_cenc/ns_02_243924bfd56a682be235638b53961e09/rolling-buffer/media/EPGC417/EPGC417/transmux/CCURStream_5000k_HD1-1_415646228.cmfv
+https://nosedge-pce2.stream.nos.pt/nos_dash_cenc/ns_02_243924bfd56a682be235638b53961e09/rolling-buffer/media/EPGC417/EPGC417/transmux/CCURStream_5000k_HD1-1_415646229.cmfv
+https://nosedge-pce2.stream.nos.pt/nos_dash_cenc/ns_02_243924bfd56a682be235638b53961e09/rolling-buffer/media/EPGC417/EPGC417/transmux/CCURStream_5000k_HD1-1_415646230.cmfv

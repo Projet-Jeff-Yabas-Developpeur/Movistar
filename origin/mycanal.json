@@ -1,0 +1,2088 @@
+{
+    "CANAL_PLUS_FOOT": {
+        "url": "https://dsh-m009-live-aka-canalplus.akamaized.net/live/disk/canalplusfoot-hd/dash-fhddvr/canalplusfoot-hd.mpd",
+        "key": [
+            "1f33c57b266d45379094893075f16b05:537d89145c09b4cdb3d3e580ae185abd",
+            "ff03bf2effdd4c708bae59520fa798a1:113ab6d7390ced8992a10d4f8055e553"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/106915274?date=20220830162634",
+        "name": "Canal Plus Foot"
+    },
+    "CANAL_PLUS_SPORT_360": {
+        "url": "https://dsh-m009-live-aka-canalplus.akamaized.net/live/disk/canalplusfoot-hd/dash-fhddvr/canalplusfoot-hd.mpd",
+        "key": [
+            "1f33c57b266d45379094893075f16b05:537d89145c09b4cdb3d3e580ae185abd",
+            "ff03bf2effdd4c708bae59520fa798a1:113ab6d7390ced8992a10d4f8055e553"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/106915274?date=20220830162634",
+        "name": "Canal Plus Foot"
+    },
+    "TF1": {
+        "url": "https://dsh-m013-live-aka-canalplus.akamaized.net/live/disk/tf1-hd/dash-fhddvr/tf1-hd.mpd",
+        "key": [
+            "ec7440724b1347b294ab4a9df377d36c:aa20431fa65390b0d4274805a5afc5cb",
+            "59721bc5bea94483b51871db835d154c:e5fdcc97d2ab270863b738ef2224e44b",
+            "1e56c940462e4a9d886d81a9980e3378:8a696bb08d234e8de2f51816d9fba83a",
+            "1c4d0909445f4bd4961ba4174515a18d:09e5bec81ce26c6343613588e4f6c72b"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/66746746?date=20220324105202",
+        "name": "TF1"
+    },
+    "FRANCE_2": {
+        "url": "https://dsh-m009-live-aka-canalplus.akamaized.net/live/disk/france2-hd/dash-fhddvr/france2-hd.mpd",
+        "key": [
+            "d6648bfec6e142b5b73d47a32e0380f8:0bc20db8fdbe8dc1fb06b4ac085ce723",
+            "ca207594a7504b0e969b5cf8a747818f:1b4b311b9fb3f70094450adc39c75427",
+            "1f560c46c24a418faa463a2ff4001c0d:96bf4a3413254736e68b1b5c654094ca",
+            "4cbba2047af14be993f6e26555fa2201:71c01dec2a0dbcbcdfda427533e6d4bb"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/67032119?date=20220324105202",
+        "name": "FRANCE 2"
+    },
+    "FRANCE_3": {
+        "url": "https://dsh-m005-live-aka-canalplus.akamaized.net/live/disk/france3-hd/dash-fhddvr/france3-hd.mpd",
+        "key": [
+            "626a19119cbb4fe49c32cc7f52033f56:80b410a8215c646f79abde9b709b48d8",
+            "436eff5c8a0344ddb0ee0562bdf2d67a:9e6664092b9fd596c52741b6bd514992",
+            "73ec8a1282044f4481bef8a210e8f6e0:916c16056c5e47325bb7036063c8ee45",
+            "5a03d190c5ed4277acacf32044f52f37:0a07ec462e2a71b5ac5075806c0b2acf"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/67033022?date=20220324105202",
+        "name": "FRANCE 3"
+    },
+    "CANAL_PLUS": {
+        "url": "https://dsh-m011-live-aka-canalplus.akamaized.net/live/disk/canalplus-hd/dash-fhd/canalplus-hd.mpd",
+        "key": [
+            "1e29fd20c2bf49189ac45deb7f893d8e:0108a366810bce514d59ac5516212985",
+            "ae9172e5f6224f8aae81ade1d0db3370:c8c1d589226521298eff28f7ee62b4db",
+            "7fd57b8773a942e3a78f697e83ae62eb:666bc223a9bebb551c69930c9feee90d",
+            "ec2909443a624abd895890d730facbff:3bd31f9c0b3ba8b5bb99d713e7768b07"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/101630818?date=20220324105202",
+        "name": "CANAL+"
+    },
+    "FRANCE_5": {
+        "url": "https://dsh-m003-live-aka-canalplus.akamaized.net/live/disk/france5-hd/dash-fhddvr/france5-hd.mpd",
+        "key": [
+            "693fcd66d30f465bab9e4e53ef91ca87:03f7fef1a4452fefec2591fa60a2ee85",
+            "16458066cc4f48e7a23433e03e354be5:aa1c9f0e0eb1e6bf379ffcc513ebb892",
+            "d25458df194d4c2f8337d1c47844df59:60f2802637ea33dcee29af8d24c648d5",
+            "92cad885aa624583852f39bb62e28e06:06a29f2a238ce10e681fa970d077ab12"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/67033026?date=20220324105202",
+        "name": "FRANCE 5"
+    },
+    "M6": {
+        "url": "https://dsh-m013-live-aka-canalplus.akamaized.net/live/disk/m6-hd/dash-fhddvr/m6-hd.mpd",
+        "key": [
+            "fe81c00124bf4ba689282b94a029ed86:ec379132f498bb0a3bfae8d38772be78",
+            "b94131bfdd6d4b6485546ebff9441ff6:a9059e663a0f5b6e318b2a71163d22a3",
+            "a2ecfd88ac8348e8945806f233a6bc31:b18f87ee75247c6a53c4c1f7be833fde",
+            "f743eb6cb8594b5aac642e3b9f4627af:3aa527994c2fe0a9106151ecbd2be740"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/96947147?date=20220324105202",
+        "name": "M6"
+    },
+    "ARTE": {
+        "url": "https://dsh-m005-live-aka-canalplus.akamaized.net/live/disk/arte-hd/dash-fhddvr/arte-hd.mpd",
+        "key": [
+            "1e290c4e76fc439dbfc0cd86f94965a4:e903ce5ecc36bf8269dc47e602dd30b4",
+            "c08a602c00f543bf96d453a26c771bc0:6315071b817d05ae7374f6497cc01a80",
+            "9cd419e01ed94db09d30d68b61287966:6643a73164f910fa756f861410832cbe",
+            "d9bca12005174c98ba84ece2d6de6543:a8d9cce80a9a5ad4dc11858e23528e28"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/3932761?date=20220324105202",
+        "name": "ARTE"
+    },
+    "CANAL_PLUS_DECALE": {
+        "url": "https://dsh-m005-live-aka-canalplus.akamaized.net/live/disk/canalplusdecale-hd/dash-fhddvr/canalplusdecale-hd.mpd",
+        "key": [
+            "ad54220cc7db48bd9357296f91de2808:91a50d02da5627524f8042dc3c0fde33",
+            "2876b3348ace4202802a853bed79a999:6b88febbc83e522bc20cdf83e23747de",
+            "4f4670a496cd4b76849782cc677c6ba6:21a945256dc35e5a86588bf6ec0f0086",
+            "f39d25d7908c4d52b8e7d4ccc849d708:df165efc11bc9b33d99e7eb6e5963a76"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/98892831?date=20220324105202",
+        "name": "CANAL+DECALE"
+    },
+    "CANAL_PLUS_SPORT": {
+        "url": "https://dsh-m009-live-aka-canalplus.akamaized.net/live/disk/canalplussport-hd/dash-fhd/canalplussport-hd.mpd",
+        "key": [
+            "26eecdc7cad4448c84a0627d0a244647:232bbb160c70c2b16cd55069c98708c8",
+            "456cf7f88017496992adaf97ba5095c2:080b272fc25494905aac96b361e05335",
+            "8ee5cfc5482f4f7faf6e008c9f26e09e:d0b6af499215dd20d5255b047c74427d",
+            "085b766fd018449a8474fd1ead23111a:d0c810b972cb2cdf3fa784264a024194"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/101630480?date=20220324105202",
+        "name": "CANAL+SPORT"
+    },
+    "CANAL_PLUS_SERIES": {
+        "url": "https://dsh-m008-live-aka-canalplus.akamaized.net/live/disk/canalplusseries-hd/dash-fhddvr/canalplusseries-hd.mpd",
+        "key": [
+            "8341704429e445f6b4d054950d91ff2f:7f23fdfc579e17cacc993f958731c088",
+            "f6538038d14a4485a8988a63a2eda9a9:730cecd9e3741f270fbabe8e560f16af",
+            "ce52defae5224170ae48962c2bce85fb:e2ec99ffc8cb13303fd67b0590295df5",
+            "dda2f97693364855b7722ad7c1d95754:6c1b8ed5b6374408761775e79e617417"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/19231227?date=20220324105202",
+        "name": "CANAL+SERIES"
+    },
+    "CANAL_PLUS_CINEMA": {
+        "url": "https://dsh-m009-live-aka-canalplus.akamaized.net/live/disk/canalpluscinema-hd/dash-fhddvr/canalpluscinema-hd.mpd",
+        "key": [
+            "b6289f455ef74f63b058509ad1cb47eb:af91e1f934d9fa16bb0c78c2abb01bec",
+            "e2a19dc8c2554c5aaaad1019e5a17ad4:0765662c5545cd8170ee603c86f6365a",
+            "99da77c3421248968c9b42b243ab7871:7c5f3dfd6332de9a477b637593936c69",
+            "9608e4c3f9c5428b938a068794e5cc29:4b22fc27b2d6ecff327f6a91f51b0cc4"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/19230514?date=20220324105202",
+        "name": "CANAL+CINEMA"
+    },
+    "CANAL_PLUS_GRAND ECRAN": {
+        "url": "https://dsh-m009-live-aka-canalplus.akamaized.net/live/disk/canalplusgrandecran-hd/dash-fhddvr/canalplusgrandecran-hd.mpd",
+        "key": [
+            "2220779e92644359bbfea17716731074:49ad1c924a6264833dadd58b7e221729",
+            "402d8bbfb5e549aa9b65ee908c671813:7c91000e446f4099436b35e25d1b8e6d",
+            "afdc1d1fd7c14403b662e98819e1e73b:5a74533d32f47d1534d662a6d1504452",
+            "644dc33e67cf454ea16f8a4827c1f3c0:8ed9e9de53e125efc995fccad994fff4"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/104070787?date=20220324105202",
+        "name": "CANAL+GRAND ECRAN"
+    },
+    "CANAL_PLUS_DOCS": {
+        "url": "https://dsh-m009-live-aka-canalplus.akamaized.net/live/disk/canalplusdocs-hd/dash-fhddvr/canalplusdocs-hd.mpd",
+        "key": [
+            "4d6795fa87e24ae980be9ac29f1c9786:631b987ea6d43de8e156891ba498ad20",
+            "1fb1f4d39b3b4d6a87001d6e1ac2f8e0:b64c3d2304dfef8c6ee2585c3ab2731a",
+            "84dd5b48bc9e40e4ae768d1017ada91b:b8ff080399bc25709a698b982b087a40",
+            "c9268ed059604cab8cd66712087f32c9:e1c96db8613cb01097dedd83454a2658"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/101710530?date=20220324105202",
+        "name": "CANAL+DOCS"
+    },
+    "CANAL_PLUS_kids": {
+        "url": "https://dsh-m009-live-aka-canalplus.akamaized.net/live/disk/canalpluskids-hd/dash-fhddvr/canalpluskids-hd.mpd",
+        "key": [
+            "a4708dedca0a4b26ad6d245f22661c92:751bf00e03ee4efe462ec7aee53ab8e5",
+            "97b16ef709864f548c46344967130779:acafe631bf08d0254566bfe8a413a6a7",
+            "53152a55bf6a407193c736b9bc4a9d3f:c8403b938403d9b1004c88da7cab456a",
+            "ae1b2820218a4bddae096bc5b22ab40f:660cd8dd12873362dea8913a0bf47ed0"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/101710537?date=20220324105202",
+        "name": "CANAL+kids"
+    },
+    "CHAINE_EVENEMENT": {
+        "url": "https://dsh-m011-live-aka-canalplus.akamaized.net/live/disk/evenement-hd/dash-fhddvr/evenement-hd.mpd",
+        "key": [
+            "1e8b2af270df4ce0896b31c3fbc37dbf:98373607930dc9e6c6c89145b4c98217",
+            "5d337bcad60f47de8d319b0d6c2403c1:a4b9a7f9975e4f139c99f6f182575a4d",
+            "09132d76426f4c28aaee85a0cb90df1d:482fbc7bdc89a284833d776e907638d6",
+            "74dade8a9d26422da2bfc2c10fdc1c68:ad2abb119962ee72a920632dc67a281d"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/96261492?date=20220324105202",
+        "name": "CHAINE EVENEMENT"
+    },
+    "CINE_PLUS_PREMIER": {
+        "url": "https://dsh-m005-live-aka-canalplus.akamaized.net/live/disk/cinepluspremier-hd/dash-fhddvr/cinepluspremier-hd.mpd",
+        "key": [
+            "22c9fc16a9bd46d5b7b5748650f3de84:6d0b8e82f1852f8fba20bafb7686a9ed",
+            "090ed7d615b24ea4bf8beeba5ed1ec95:d6f85645ae3834bf8946063a957bc33e",
+            "067c4dcf52ab4ec089d24303e94c1dd9:4ce49052a8edef466a450166c4f49f78",
+            "10a4c1cfdaa346369bb093ccf73d3573:6667568230c985051584e891d547aa31"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/82655899?date=20220324105202",
+        "name": "CINE+ PREMIER"
+    },
+    "CINE_PLUS_FRISSON": {
+        "url": "https://dsh-m009-live-aka-canalplus.akamaized.net/live/disk/cineplusfrisson-hd/dash-fhddvr/cineplusfrisson-hd.mpd",
+        "key": [
+            "ff03a5d56d41402ea5324572d9f02afb:a84c17ab20f7462c5abbce0efece0ab6",
+            "a89fc313046a4e7c91340272fb690ffe:0018b0e532afcc3593c7fdfb1446db95",
+            "044043789b3a4334a129322ddbb631b9:3d6d0630eeffd9f3c1b447cba64f0fc2",
+            "f2ab2504fba24306a102d10b59352ab8:65fb54eefe3a157d6eae4a5b438f0317"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/82656113?date=20220324105202",
+        "name": "CINE+ FRISSON"
+    },
+    "CINE_PLUS_EMOTION": {
+        "url": "https://dsh-m004-live-aka-canalplus.akamaized.net/live/disk/cineplusemotion-hd/dash-fhddvr/cineplusemotion-hd.mpd",
+        "key": [
+            "4b0f7a0608ed41cea989652f1be74e84:2dd734430d86ec7b37c7bcaf554005bd",
+            "e4ad627b554d41828ece0d7c10501a42:b4763e2db09765f389d2440d0ea7f4d9",
+            "be046197ac6045b38e3481d798282742:b9b137b9b45a677b7df976a0ff4da543",
+            "15b7f1ef5b7946b7896a2989b778892c:063d10f8d38f75f98d09a90a04baff03"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/82656110?date=20220324105202",
+        "name": "CINE+ EMOTION"
+    },
+    "CINE_PLUS_FAMIZ": {
+        "url": "https://dsh-m005-live-aka-canalplus.akamaized.net/live/disk/cineplusfamiz-hd/dash-fhddvr/cineplusfamiz-hd.mpd",
+        "key": [
+            "47e086fa1c034669a94f538d38ac37db:c028d1b8340f7e15649bfa94dc4604ae",
+            "fa60b4be31254d37a3573ef8ae8dea7b:d52ee57d88bc56bd06cce099a40c80e1",
+            "1119fb1cb03743ee86eddb7ac11fc89c:146475bd0174c2ebc4876c7e51110fc9",
+            "f897ce4b0dcc4e6ba225110c1f668d12:cce7ad5a362edfc5893914b28cdcafaf"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/82656742?date=20220324105202",
+        "name": "CINE+ FAMIZ"
+    },
+    "CINE_PLUS_CLUB": {
+        "url": "https://dsh-m008-live-aka-canalplus.akamaized.net/live/disk/cineplusclub-hd/dash-fhddvr/cineplusclub-hd.mpd",
+        "key": [
+            "66bbe251d02b4884a00d624d0ab4c112:d79db289a320621d4eda655c9ce5df9a",
+            "84d29949256145d0ae0674bbacac2a40:b782cb7b2d8e0ce30a4fe59aa9311f56",
+            "f2d11c2348ec4e77b6b6b42779b918b8:c9cbe13332ade95d527101e9f6a5967f",
+            "5d4b8afad55a4e5ba4c6340d9dbf0696:291474905a2ca09cbf9c324e42e74a6d"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/82656740?date=20220324105202",
+        "name": "CINE+ CLUB"
+    },
+    "CINE_PLUS_CLASSIC": {
+        "url": "https://dsh-m008-live-aka-canalplus.akamaized.net/live/disk/cineplusclassic-hd/dash-fhddvr/cineplusclassic-hd.mpd",
+        "key": [
+            "8a7005c359954c3bb75365bf73f0ad08:2c190c06daaa1c0ab1675425e90a1c46",
+            "73ab2b75b13a49eaa40060dd78b52bba:0397a628db457546ce24df46a6f76d73",
+            "0897c3aa740544f2a2016eeb05cf57f8:4344fcd74c7f64e3ffec0beb55d2fa6e",
+            "3bc01659c76f4e278cfbe2e62b404c67:e5ac87b8db97e6a29c84e89035eb2de1"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/82656738?date=20220324105202",
+        "name": "CINE+ CLASSIC"
+    },
+    "OCS_MAX": {
+        "url": "https://dsh-m003-live-aka-canalplus.akamaized.net/live/disk/ocsmax-hd/dash-fhddvr/ocsmax-hd.mpd",
+        "key": [
+            "9cc20599ae3f4afe9d33b8f3a6b53b8c:88a3ed910d69dec59167d0e14dac2181",
+            "f2fb55baa7f3463b84c1e41e64cb02ad:30bbd6ff571f36c92bcd7848ec6c4fbf",
+            "3ecf97d1ae2c4931935760510cfb93dd:5a816d73f285899570dff0255d817ab8",
+            "8986c7025b1f4eceb46fa5c6f21036fb:23c1f0b95842fdc68258075239bdbf4c"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/103944108?date=20220324105202",
+        "name": "OCS MAX"
+    },
+    "OCS_CITY": {
+        "url": "https://dsh-m009-live-aka-canalplus.akamaized.net/live/disk/ocscity-hd/dash-fhddvr/ocscity-hd.mpd",
+        "key": [
+            "1ca1c0bc50f74a26a9b8e97e60a9207b:d3cd51ba2b4d687f155568c710cde429",
+            "173dcc6e846346adbd2cb39591bc425e:1b138d2a4531bc02a521c5dc553e9ec3",
+            "59b13cf10f384519aca0f9444b759357:9e58e8a6d8af06719a72a474a662e712",
+            "98ea9a9b1f2c425f9a1657f0f5c8b6c2:58cbd8849c4c4ae08ed514d57ad4bd9e"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/103944153?date=20220324105202",
+        "name": "OCS CITY"
+    },
+    "OCS_CHOC": {
+        "url": "https://dsh-m009-live-aka-canalplus.akamaized.net/live/disk/ocschoc-hd/dash-fhddvr/ocschoc-hd.mpd",
+        "key": [
+            "5af5222eb2564f1cb8b7d89d984403ec:02a9e75e9993d242c409c24bd64d2386",
+            "4bddba9db5bb4912bfe17ae0c2d6170c:54b3d23f433ad7badad8b9a517b606ce",
+            "51736796c8574d1fb8857c18d0f50859:323262343eb5dd7534fb895da340413c",
+            "ea71da39055644b9ade90644eae144e0:067bf4bfc5a271967d9ab0d2ddc9c773"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/103944118?date=20220324105202",
+        "name": "OCS CHOC"
+    },
+    "OCS_GEANTS": {
+        "url": "https://dsh-m003-live-aka-canalplus.akamaized.net/live/disk/ocsgeants-hd/dash-fhddvr/ocsgeants-hd.mpd",
+        "key": [
+            "fea8a73ef0b94b8c9afda0e4f0c9a909:930801bbbe45608cc986ad6166f9d20a",
+            "6be26d2f22344031996b2b8f773c497f:6c8b0c0fe4dcd878c9a441ec8d2f7237",
+            "59b7f3780aab4c0dbb4a2f58cfccabb0:9c8b3ce4076f1ba179669919cf2a1839",
+            "f26f61320b144b0a9da637028f7d6c46:ad4c31c9e57bc9ee4da0ffdbc0600c25"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/103944673?date=20220324105202",
+        "name": "OCS GEANTS"
+    },
+    "TCM_CINEMA": {
+        "url": "https://dsh-m005-live-aka-canalplus.akamaized.net/live/disk/tcm-hd/dash-fhddvr/tcm-hd.mpd",
+        "key": [
+            "6e0c22d8b46d4513a4b2d22abf52fd0e:1c6f4c4d1bebf0fe6ffafdc224d4e264",
+            "1c85e492d09344ce8597d889ac2fcf9d:27c4b9191a616ba61a555c41404119be",
+            "0fc7e3c207af4dadbbb7756b737e64a4:95982128cfd970c3ed5770ff7d9ae446",
+            "117f9939760c4f11a5a5b4d03d2af74d:f7c95a5012bbe42977e6e4d155071cfd"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/91743045?date=20220324105202",
+        "name": "TCM CINEMA"
+    },
+    "PARAMOUNT_CHANNEL": {
+        "url": "https://dsh-m003-live-aka-canalplus.akamaized.net/live/disk/paramountchannel-hd/dash-fhddvr/paramountchannel-hd.mpd",
+        "key": [
+            "91ab0bf52e5c4f0f8907033c334a53dc:59f350f3d951153d8e1012c1609dbd6d",
+            "ee61931798a84e75ba5fc551a22ea974:7d2d7077a48f28a886379ed08ca862b2",
+            "35d8f1a4946a460483a3eccfa6c0b733:097438992bd50001435c0bd17f1514b8",
+            "7401436b6411474b85c1dc7e947e0539:b728ff3b411fcf6878e7ec3015c0cc81"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/20482769?date=20220324105202",
+        "name": "PARAMOUNT CHANNEL"
+    },
+    "ACTION": {
+        "url": "https://dsh-m008-live-aka-canalplus.akamaized.net/live/disk/action-hd/dash-fhddvr/action-hd.mpd",
+        "key": [
+            "3e5995a9e5fa469ca89c3b07386371f9:3ee0b14798e054fe34c945062b9e3a15",
+            "49caa294290243c09f014bcc83accb48:356afe08fa0ed5986ed0b439eba7af19",
+            "0d54d0d49929406991ee42ba1ce87d4d:8fd7b1e192ebc1de364528b26002d89e",
+            "8d419aa320714162afcd24e1d0a6d4b5:ae7c7d83b5ef42f7180bce3215e261d9"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/20482797?date=20220324105202",
+        "name": "ACTION"
+    },
+    "POLAR_PLUS_": {
+        "url": "https://dsh-m008-live-aka-canalplus.akamaized.net/live/disk/polarplus-hd/dash-fhddvr/polarplus-hd.mpd",
+        "key": [
+            "86401029af1047ddb9b09628d6098ef1:99d34d5184e7fc83a2bc4eb7534d6e34",
+            "9659476538364da5b5bac07f791b2dfc:416b705a459a6b169c0c691e870afc85",
+            "dca68728aa7c4912bf4092eebd0a3b55:ce9957df0329db318a08d7f207b11819",
+            "df9b00e389aa4bdb82a9a1063821e1c1:8b664a1f1332ecaa9502df3056f7833c"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/61718410?date=20220324105202",
+        "name": "POLAR+"
+    },
+    "WARNER_TV": {
+        "url": "https://dsh-m005-live-aka-canalplus.akamaized.net/live/disk/warnertv-hd/dash-fhddvr/warnertv-hd.mpd",
+        "key": [
+            "9d09591dc63b4487bfee2c0fb3752037:08c43a54bb780b1b660828adea4587d6",
+            "9b6e00eabe934e8ebff25ce24a3b5062:3d63a8dbea96569767afa349bc031e6a",
+            "25b543df284e44298b718df1e6ee70d4:3b40fad45667b6bd25375c95e089ca2b",
+            "fce3216cbb3c4052986cafe607a8d13a:a9ab18ce1e9d780627bd756f65c85636"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/102124040?date=20220324105202",
+        "name": "WARNER TV"
+    },
+    "SERIE_CLUB": {
+        "url": "https://dsh-m008-live-aka-canalplus.akamaized.net/live/disk/serieclub-hd/dash-fhddvr/serieclub-hd.mpd",
+        "key": [
+            "d6f2c25032cd4809b40940aabd4e030f:c64bab8d97d9376fe2dc04f8be52cab3",
+            "5c06801d576f4726bfa64ed2b065caa8:b99f4eaf09d16293020d9e4bbee309a1",
+            "3bd290c2f46e49aebb9a63e8762c6aab:5ed11b5fb88115ad29fe375d6b01bfbd",
+            "28675a466ecd4699ae9d8894f7481e6d:ac7ebc12134a37bb48c38a3bb58bb2f9"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/19132964?date=20220324105202",
+        "name": "SERIE CLUB"
+    },
+    "TV_BREIZH": {
+        "url": "https://dsh-m005-live-aka-canalplus.akamaized.net/live/disk/tvbreizh-hd/dash-fhddvr/tvbreizh-hd.mpd",
+        "key": [
+            "71c2fe216e784d11acf74095d44129fd:7f30acb8fce06f7c8ff34808572549f4",
+            "a2dde6d5c1a4428b9eddcbaa207c7384:71c99cb0b0920faed77af6b17cfa6a3e",
+            "79a545b9f7874e71814c336581f32b01:20662cbef46fd3c424fc02d0e38cac8e",
+            "05f5bd1dcca945a999b199a442a4b57c:31d4ae4747ed04957c8298f9a2490d81"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/102469367?date=20220324105202",
+        "name": "TV BREIZH"
+    },
+    "RTL9": {
+        "url": "https://dsh-m005-live-aka-canalplus.akamaized.net/live/disk/rtl9-hd/dash-fhddvr/rtl9-hd.mpd",
+        "key": [
+            "ca8ff4b742be4ebb8dbff474eae9496a:60cd51d3bf41f0cea94dc0a7b2dd1516",
+            "31f99b536dfa477983f6258c06a91ce0:f2bcf4422398f3ac0c257e7cdf79bd9c",
+            "f37b0f59458041f8960ff4657c583ea1:a7d1c7bf45c85cb54cf4c8b5eb45ebbd",
+            "3bc783a39dfc4ca580573f79715a6db6:445e38a97a994708beda3471c74439e4"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/24419688?date=20220324105202",
+        "name": "RTL9"
+    },
+    "AB1": {
+        "url": "https://dsh-m003-live-aka-canalplus.akamaized.net/live/disk/ab1-hd/dash-fhddvr/ab1-hd.mpd",
+        "key": [
+            "c1d7c7aa570c41a591f0e65c091bd5d1:525bc1cf1fe046c2632f361ac1dfd502",
+            "2591ce56377e40a0aec54b5d382b79f8:6457fb3c43b004ed4445eb02699905f8",
+            "62c769e5c8ba43dca9a603480ada82a0:4f8e6f3898503f1695f4e0183ebb06cb",
+            "88414ba6481a46579e5abb2978d44eca:e0bd387e5f68e1a4e1bc8cff2919b2b4"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/25328982?date=20220324105202",
+        "name": "AB1"
+    },
+    "NOVELAS_TV": {
+        "url": "https://dsh-m004-live-aka-canalplus.akamaized.net/live/disk/novelastv-hd/dash-fhddvr/novelastv-hd.mpd",
+        "key": [
+            "10d7afa7f0f74b87b532cb49fcfdb14b:c388e3200a3a22240c20c381f776353f",
+            "a01a8306d3a345db85c28f4d5935f536:db2cbfdc9a052a41ec8a7c2c7ffce881",
+            "9c0254ee98a74f6ba68651d0389837f2:430ca5bffa1a82e292687f07f71e59f9",
+            "753e1c343d724fe9b0238030b57c3496:075ae41398fea1284fbceb9908ea7631"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/91743977?date=20220324105202",
+        "name": "NOVELAS TV"
+    },
+    "TF1_SERIES_FILMS": {
+        "url": "https://dsh-m013-live-aka-canalplus.akamaized.net/live/disk/tf1seriesfilms-hd/dash-fhddvr/tf1seriesfilms-hd.mpd",
+        "key": [
+            "41484f8444054272a9ef18c3d2d606ec:596bcb03e9a650829615881c5f5ea553",
+            "63309b355e8e4a909af61947b4c88615:2be624c94fd1a5a8a76161a2f7348021",
+            "12c42b7342844ce08a686b0b905095bb:d1b074223d1d539cdd57864fae054988",
+            "752255b7694d4c7f87246f5256f0345f:10856c4100b7eee02ee6cd8c92cf46a2"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/98141734?date=20220324105202",
+        "name": "TF1 SERIES FILMS"
+    },
+    "INFOSPORT_PLUS": {
+        "url": "https://dsh-m004-live-aka-canalplus.akamaized.net/live/disk/infosportplus-hd/dash-fhddvr/infosportplus-hd.mpd",
+        "key": [
+            "96e0a87536d64d0694ea61773a4e49db:ee4a84610377e44ddc6d6f02358eca3c",
+            "77ac4f29a7874045bcfac664300412e1:0d1fd7b97bade58fca235f49312fa74c",
+            "f79f643147ea453fbc09c9c9dbf05450:ac309ba1b38fd7bb0a6bcf6197ff6a9f",
+            "acd2f590d3304de6b2d2429f42d77500:80c5317e657aa62233fa2b0e2ed53c83"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/37032867?date=20220324105202",
+        "name": "INFOSPORT+"
+    },
+    "EUROSPORT_1": {
+        "url": "https://dsh-m005-live-aka-canalplus.akamaized.net/live/disk/eurosport1-hd/dash-fhddvr/eurosport1-hd.mpd",
+        "key": [
+            "c799ac983c974237b42f47a89c33cf2f:663085310cdc5781ccd23109a556b9ac",
+            "f6c9499db0c446448450750e8a30befe:f9f31b10fdb1832cf9712a2e0774dae0",
+            "4a5163d4bfb74e3cbfb30339ae1c3f0a:c43b2dc1cfba8ff64e11a64cbf704d36",
+            "d55ec479e29f4a49b16bd68f5079c649:2c9e106367e99042e6b118db7301eba3"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/103802809?date=20220324105202",
+        "name": "EUROSPORT 1"
+    },
+    "EUROSPORT_2": {
+        "url": "https://dsh-m007-live-aka-canalplus.akamaized.net/live/disk/eurosport2-hd/dash-fhddvr/eurosport2-hd.mpd",
+        "key": [
+            "bff7fe1e17bf441b8f9d1a992e1abc1c:132a173f682da9e5f25a95db15be8a98",
+            "7297d20a70cf43bfad885e7de1ce3a34:207b0e1d1e620ecf1d04827d8d3f800f",
+            "c82e79fa56804176861177df874f6063:605fff2c3e1b6dd764ac0e2c109d9414",
+            "0b9b7043f5264d73a3f8355c921d4d0f:4e6edc71ab32a4a621485e2803e97052"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/103804198?date=20220324105202",
+        "name": "EUROSPORT 2"
+    },
+    "BEIN_SPORTS_1": {
+        "url": "https://dsh-m009-live-aka-canalplus.akamaized.net/live/disk/beinsports1-hd/dash-fhddvr/beinsports1-hd.mpd",
+        "key": [
+            "a4dd5fa8c52b487d9f2ba74955ef63c2:63c691da72b78530a67ce8b5ea267208",
+            "e43a6afd903c45bdbd339c48351de976:03e12e9a1eb010b03d11deab89d4e2b2",
+            "fd5acbc8c87e4afca8bdeaf6f1539cf3:7724f4c695ea0f30f4af1a5ea77c5f9b",
+            "12e86339c7254a6b8cdb7333a78e96b9:791babfa17e59b741e2d359455b0abac"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/101630972?date=20220324105202",
+        "name": "BEIN SPORTS 1"
+    },
+    "BEIN_SPORTS_2": {
+        "url": "https://dsh-m007-live-aka-canalplus.akamaized.net/live/disk/beinsports2-hd/dash-fhddvr/beinsports2-hd.mpd",
+        "key": [
+            "6e359278d4ed42e68fb7e8a192f47149:f9f2629f2c9b7bd476e33fdae65bc1af",
+            "bb00acda6f7a4c6b8623117f4f622156:ce58217fbca5366e1652d5754f7c6f82",
+            "a6766da824c04a79b774d337c8348d81:e3a4177775742be068c20298ac250ad7",
+            "a1d81a291e8f42d282bc0344da3549b4:f64ea5595e56a5d2d2b59d04e78f93bd"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/101630974?date=20220324105202",
+        "name": "BEIN SPORTS 2"
+    },
+    "BEIN_SPORTS_3": {
+        "url": "https://dsh-m003-live-aka-canalplus.akamaized.net/live/disk/beinsports3-hd/dash-fhddvr/beinsports3-hd.mpd",
+        "key": [
+            "f005197bba45429d97b580fc68d4966d:138bd58fc48ed329aab63172df412f26",
+            "8cef96dd9dff4e189f311a7b0f85246d:04791fc9502f844f251c36972748e1b2",
+            "34ed83145ecb4db191c8da0a916a13d0:7df105bd633cf2bc701fdebe033c48fe",
+            "61cc2f09e3a6418197e4aa6af041a344:684b2c60d9ec600b21325744464b7e57"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/48981545?date=20220324105202",
+        "name": "BEIN SPORTS 3"
+    },
+    "GOLF_PLUS": {
+        "url": "https://dsh-m008-live-aka-canalplus.akamaized.net/live/disk/golfplus-hd/dash-fhddvr/golfplus-hd.mpd",
+        "key": [
+            "43ea977e096343a1b16c04828ec3b903:ace4f28b6c020468b8b4fad73f184ce9",
+            "84226e123d184eceb9975ced712be23c:7fc5be8e5c654f7ee9eb9686b59face5",
+            "ff6e4ccd20114f749541d1df3156c941:fe36684e617c35ab73e2713fb7f60c64",
+            "88f50daadfbb4b9a9983dc9af52c4319:9206bb5b5c4fe971b291a79bcf93993e"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/2953272?date=20220324105202",
+        "name": "GOLF+"
+    },
+    "AUTOMOTO_LA_CHAINE": {
+        "url": "https://dsh-m004-live-aka-canalplus.akamaized.net/live/disk/automoto-hd/dash-fhddvr/automoto-hd.mpd",
+        "key": [
+            "b8bf72ae01494454a938ebdcc18ed703:798479ad6b2ca2da8868bc85b71f4749",
+            "26529f75ba894f74aafe395042adfac4:3845e3aabc3fd6bbb2f937df1931dd85",
+            "db5dbdc51d764c3abb6cb2e07496fda5:60349f6d9c67d3c517a063158d73a7de",
+            "0d48b9a67bba4e69baf3fff56c163b53:d7eb824f88942bc428542d175368d335"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/79159708?date=20220324105202",
+        "name": "AUTOMOTO LA CHAINE"
+    },
+    "EQUIDIA": {
+        "url": "https://dsh-m007-live-aka-canalplus.akamaized.net/live/disk/equidia-hd/dash-fhddvr/equidia-hd.mpd",
+        "key": [
+            "82e730b2c73f4ece91b94eec358768c0:5d4afbb47e2655af6116f9feb5620d7b",
+            "102026d56ef5493ab9b5e373d3aecfc1:5e0935d978e1e92baa7eb861a36e4d63",
+            "ea99effb103244de8a1cea1749b2a5f7:a18ce22dbc89d0f3ef8907df61fe4d75",
+            "1249599a653044b0b82fd650860e432f:4296c3876a63f646f0e4ab9687f1233d"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/66127994?date=20220324105202",
+        "name": "EQUIDIA"
+    },
+    "L_EQUIPE": {
+        "url": "https://dsh-m007-live-aka-canalplus.akamaized.net/live/disk/lequipe-hd/dash-fhddvr/lequipe-hd.mpd",
+        "key": [
+            "2b3a797331514b2fa9b8caa23a237ba2:668bb76289cf22f0265428170d095111",
+            "9185133a21d541779575831b8c9049b4:e97119e99acd0c216424a1abd8d9868e",
+            "0ecc48f887c1456fa634faa4df45199c:1c32ac4b777af4bb7cbfb69b080e4e15",
+            "859b66c9e36a4c369f7303ffe06b1488:ac1979c2003454be7d931461e78f73fe"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/44863403?date=20220324105202",
+        "name": "L'EQUIPE"
+    },
+    "COMEDIE_PLUS": {
+        "url": "https://dsh-m007-live-aka-canalplus.akamaized.net/live/disk/comedieplus-hd/dash-fhddvr/comedieplus-hd.mpd",
+        "key": [
+            "68dbc76b855f4e9e8165f6aff2a5ae1b:40b5422471459473a3c0378cae407eb9",
+            "1bb70b762dfb4f97a9101800cca79d1b:cbee9e282af0424dd18885319251c458",
+            "c158d4199ea2465e8e1329969a2932cf:b453a23b98eff050cc2f0db174fb085c",
+            "8575f07cc2ea4216b8b627e5f5134eaf:c604b42f907445c1c1264a08d8076e88"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/21549672?date=20220324105202",
+        "name": "COMEDIE+"
+    },
+    "OLYMPIA_TV": {
+        "url": "https://dsh-m005-live-aka-canalplus.akamaized.net/live/disk/olympiatv-hd/dash-fhddvr/olympiatv-hd.mpd",
+        "key": [
+            "2743d3f902d54a5ca5ab30d766bb572d:3b417ea1f9e89fafd747232015579b36",
+            "9669556f3c5345038f440f7d56b1adda:0c09f0323082eb0d78f2f4648ee90b13",
+            "ae32732262f34173bf124e17d46c9f5e:8d69e707cc0621a0fc0529bbf23f607d",
+            "a8ee315282194b1ca23b8d76305f3313:7a108ae06218fd68f8d45355cb88bc2e"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/93985303?date=20220324105202",
+        "name": "OLYMPIA TV"
+    },
+    "PARIS_PREMIERE": {
+        "url": "https://dsh-m009-live-aka-canalplus.akamaized.net/live/disk/parispremiere-hd/dash-fhddvr/parispremiere-hd.mpd",
+        "key": [
+            "51321fc2791c428ab1d732866206ea9e:e3ee9dfac20108b90de3f23005944c18",
+            "c6377a151a6943ba94177e1594bc8bc2:0091f7d0df1076a96d989bf487999334",
+            "2047bb39dfa244dfb2d929196f9469f4:3e1401996e18b3667346b03847451b9e",
+            "ca5ab09b45594c49a0d4dd86c48e4c09:a85e64036dd7aef58e4889f0a9aed4d5"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/2953121?date=20220324105202",
+        "name": "PARIS PREMIERE"
+    },
+    "TEVA": {
+        "url": "https://dsh-m008-live-aka-canalplus.akamaized.net/live/disk/teva-hd/dash-fhddvr/teva-hd.mpd",
+        "key": [
+            "b4cdf5f389484816a43496f329a3e31a:015bbfb9e717aede18ad00ab4e82561d",
+            "cd88e91f03aa4e0098c3289825f11c21:59ceb291b1142ee1501f67733bf43a3b",
+            "717f140e7c9d40f38fa4645faa73892f:551911379005f24fd7581d829b5e275e",
+            "d372eb7c725649c7babd2df4d61faae3:531913af33e42a01d0e14e9225e0ff92"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/102174941?date=20220324105202",
+        "name": "TEVA"
+    },
+    "BET": {
+        "url": "https://dsh-m003-live-aka-canalplus.akamaized.net/live/disk/bet-hd/dash-fhddvr/bet-hd.mpd",
+        "key": [
+            "ced0240b887a457eb2fcc85c03acb875:22641f5a415e033653996c7066883fa6",
+            "a55d21ca398448678a0fa8a4c6e52e65:dbe67626a70325cea756f96a6ba1773a",
+            "e30e2b9f7a7f494fadf4d4d5d6c6978b:28d4c43994d50e728672e4b1ef4b3020",
+            "cc3aecacff4b4568a27c879d7450777a:dae2023626a71386e5dc96af91ab2ba0"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/42935195?date=20220324105202",
+        "name": "BET"
+    },
+    "C8": {
+        "url": "https://dsh-m002-live-aka-canalplus.akamaized.net/live/disk/c8-hd/dash-fhddvr/c8-hd.mpd",
+        "key": [
+            "929c4412d4bb4dd48733b05f97d655ec:81a0a25467b4d42707c46de1d709579f",
+            "193ef667001a485eb06f7cda6650ff6b:4f20e1e8108aa02f0be7b571fd6a8406",
+            "735270a4b9b942faba36a309546098b6:cf696078dbeeac3c23ecf838ae073a2a",
+            "906c793af7ea4a349ca044fdd0383b21:159dcb4aceb210f1264a55c53a1e0ab0"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/64698815?date=20220324105202",
+        "name": "C8"
+    },
+    "W9": {
+        "url": "https://dsh-m013-live-aka-canalplus.akamaized.net/live/disk/w9-hd/dash-fhddvr/w9-hd.mpd",
+        "key": [
+            "a97de40f286942338c32822ce2d9211f:e602b9485f716c3027467f1d53013d1e",
+            "bc8e9d7f7138493aac19aef7b75fd64f:bd1abf5c1be5f2bf97ca2f9f12a3e684",
+            "89a227ff12a54df0a3c344b033fb9c9c:ed33d7b40870eb7ac697cc6294d911d4",
+            "b022ec9aad8f432e89b6eb167d25459b:647b13bdb70d0614670f6e7216726d69"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/2953125?date=20220324105202",
+        "name": "W9"
+    },
+    "TMC": {
+        "url": "https://dsh-m013-live-aka-canalplus.akamaized.net/live/disk/tmc-hd/dash-fhddvr/tmc-hd.mpd",
+        "key": [
+            "1941e131531b47ce95bb1b5eada7f792:6f31d391b11552890dad8a3a98a50eaa",
+            "faf500abf6f94f5d97e9e08351c0b8ad:f0992cc8e619cb85b42c66844835cbf3",
+            "54bcf6608e184071bf3574770ea4aaea:e5df72555660e4cd8595faa43daeece7",
+            "aa44c3ca09ec4c78908c22d72fe72a93:8578b5f6f611691389d102fb638bdc67"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/66747568?date=20220324105202",
+        "name": "TMC"
+    },
+    "TFX": {
+        "url": "https://dsh-m013-live-aka-canalplus.akamaized.net/live/disk/tfx-hd/dash-fhddvr/tfx-hd.mpd",
+        "key": [
+            "c423459e4b7d40e5a2ebe36dec8621f6:90360a618719ee8cce0ed20f505b1dc9",
+            "63d9ecd27b4444efa270e0715f61fea6:7b112f54ec4c7c8cbec85fb25afcd6ce",
+            "ce992725a7e242fb80b65615d5dd3a30:2416b2aa39d5a12b60aab2baa28f1bfd",
+            "539da949c66d4ae8a3c61990e24d5aa7:90008a8846ca34e763bf0c8a1c4ba9b1"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/66747551?date=20220324105202",
+        "name": "TFX"
+    },
+    "NRJ_12": {
+        "url": "https://dsh-m008-live-aka-canalplus.akamaized.net/live/disk/nrj12-hd/dash-fhddvr/nrj12-hd.mpd",
+        "key": [
+            "faf39c0721314204bf4902fea99fbc5c:8718b9e63b575ebb87f3785206af058a",
+            "15e6d3f484fb4ce3abec63aaaf28e7f1:2fe7597262ef95cdf6cf50df9203f330",
+            "4473e42fd29a4dc5bdd5401fed1072e0:ac6d425d6306410c3a6bb91101557f0e",
+            "c002aba55ed6409788aec855c6e5af0d:d5feadbb359065b0f4883fff62ff2a2e"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/21549709?date=20220324105202",
+        "name": "NRJ 12"
+    },
+    "CSTAR": {
+        "url": "https://dsh-m002-live-aka-canalplus.akamaized.net/live/disk/cstar-hd/dash-fhddvr/cstar-hd.mpd",
+        "key": [
+            "dce38fb5974f4a89bcefc810f6631a04:ae7d6fd569bc56763745b55cbc73d93f",
+            "89d55ced6e4745f6868175c50930eecb:2455cc495a4e1280b412940940ffee13",
+            "b02d33b4c62e4f8b9c25930afa73b519:6f379faa6967a64d07ff630639c9ad43",
+            "6964f26d9d4b4cbeb559b11ff83e3b69:51a6e7d7ec384cc091eec99eaea9ce78"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/64699011?date=20220324105202",
+        "name": "CSTAR"
+    },
+    "6TER": {
+        "url": "https://dsh-m013-live-aka-canalplus.akamaized.net/live/disk/6ter-hd/dash-fhddvr/6ter-hd.mpd",
+        "key": [
+            "fde9dd0d7fdf4eeeb86c47e6deaeef2a:1372073e0ff82f19265967f17a355ab7",
+            "5d7c520809324a42bb1131e3c1843dfb:d9df5dbd48a073fbd235cb149f400a9f",
+            "6d67367c9f4e408a95a714598f3d8cf5:2e7f63315b23ace1ba4460ccfdb36a22",
+            "7793d59aed0442768409ce359e6edca2:31ef536441885988bdd601cab6f5341e"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/16598429?date=20220324105202",
+        "name": "6TER"
+    },
+    "RMC_STORY": {
+        "url": "https://dsh-m003-live-aka-canalplus.akamaized.net/live/disk/rmcstory-hd/dash-fhddvr/rmcstory-hd.mpd",
+        "key": [
+            "33aba10729f9446aa31cde1c10623d5a:edec62098caae06bf02af63e5fd1ca0d",
+            "7e271101219c48c180f52f2a8b392aa9:8700910f3d0bf6c72b670ff3689b29d5",
+            "c763d21c2d7f4e949d4718ccd15f108e:8d6704ff42e2e0f4846a569c0828aa71",
+            "83f5950447ac478998928f8776f37350:ba60e7ba8420a68bb6fb23d48e95bebd"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/76992469?date=20220324105202",
+        "name": "RMC STORY"
+    },
+    "CHERIE_25": {
+        "url": "https://dsh-m003-live-aka-canalplus.akamaized.net/live/disk/cherie25-hd/dash-fhddvr/cherie25-hd.mpd",
+        "key": [
+            "dd81f22068b84ce09e9181812c29a2da:13e7b92daf0f08c44ffc653cc23999e2",
+            "26f05568ca674941bda2e0d8403d15de:fac5c3dab439bf5275e16197750e16b3",
+            "8112203078af490c85e624c339edee91:e9a6ef19a9bb49b2056266b2481e5906",
+            "cf456a9597304b4b9a51d4046b3cfd6f:5360173b4d7f13bccafbe2f637365218"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/2953383?date=20220324105202",
+        "name": "CHERIE 25"
+    },
+    "TV5_MONDE": {
+        "url": "https://dsh-m003-live-aka-canalplus.akamaized.net/live/disk/tv5monde-hd/dash-fhddvr/tv5monde-hd.mpd",
+        "key": [
+            "bfbab3bb70f345ada54b4f9fbb91b4d7:db9538590fb6cd45ed2dabe0e0fa99d2",
+            "c96123b4f21a4500835e29b302005d80:77b5d92244b200880b2870a652039fff",
+            "585545701a8c4d10a6080f1ee775aa8b:ee9057a18d960f01b270d9bb4fb98392",
+            "891c6267decd45d79dcc2a64dd1c7c4c:5871142ed71dfe5a795d94d40bb65b54"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/14279265?date=20220324105202",
+        "name": "TV5 MONDE"
+    },
+    "PLANETE_PLUS_MYCANAL": {
+        "url": "https://dsh-m007-live-aka-canalplus.akamaized.net/live/disk/planeteplus-hd/dash-fhddvr/planeteplus-hd.mpd",
+        "key": [
+            "57ff508b6cdc4a6496a8e397a7860656:064421caa5528c9222b1012cbc6ef926",
+            "57c63f4433d7411bb537d42ce83353d4:6c3cea98966397046a252648fe362bd1",
+            "bb131669a14a4a0abe2b1739fcc68557:d1bf58a5c5a63aabf7369342f00b0604",
+            "a0dbb0c21fc24ca7aac0435f2fd10580:610b72821c861e8e3c014a4102dbaf59"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/4492627?date=20220324105202",
+        "name": "PLANETE+"
+    },
+    "PLANETE_PLUS_CRIME": {
+        "url": "https://dsh-m008-live-aka-canalplus.akamaized.net/live/disk/planetepluscrime-hd/dash-fhddvr/planetepluscrime-hd.mpd",
+        "key": [
+            "db417b358d1e4fd7bb3bc10bbf900430:692ab543b9551f3b1513d6c4279293ff",
+            "f267302bef9e45a9a8a083f18ce7e4ed:133fab0ca38b9ecb17368ee04b98ed33",
+            "b312574bbd2d4b109b3d36e30ef95960:a8b27b889026f24cee495a1d25e52662",
+            "16045a57c4c54a01b0c83191bb2cd1fd:91ce8ab5575015650e5d2df794025ff8"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/104031302?date=20220324105202",
+        "name": "PLANETE+CRIME"
+    },
+    "PLANETE_AVENTURE_MYCANAL": {
+        "url": "https://dsh-m007-live-aka-canalplus.akamaized.net/live/disk/planeteplusaventure-hd/dash-fhddvr/planeteplusaventure-hd.mpd",
+        "key": [
+            "61ed078e10a0407d9694637db0b8eea4:b76875d9e5c7147e89f973edf5de2bd4",
+            "a3794cd898ad44a58b52ea6f171f3d5d:c07cc6c7b0c8d037cfe8824e335d46c7",
+            "28dd3ec8844a42149a5cedf83339f021:6b85fbed763df014d79169f2c30a164b",
+            "740f0e90cb5b4460864a07d421a168d5:44ff66164fffdd4d6acb3b4fc2faacdf"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/104031295?date=20220324105202",
+        "name": "PLANETE+AVENTURE"
+    },
+    "MUSEUM": {
+        "url": "https://dsh-m005-live-aka-canalplus.akamaized.net/live/disk/museum-hd/dash-fhddvr/museum-hd.mpd",
+        "key": [
+            "173d6f713e514fb29b3ffee986221a29:744f5bc1a3b0b18b1f2477a8d51b264c",
+            "838648d1d5984386947029b4c71f6466:80db844120973facb1b7818e937ee96b",
+            "bc837b1e541d47deb370c0dc21195198:414172d2a3f18e2428248f0de9f9a842",
+            "3021bfcae770476d95eb6a93d53fd3ad:19ca1a5a444ffd452dcbb4902f59e694"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/95900535?date=20220324105202",
+        "name": "MUSEUM"
+    },
+    "NATIONAL_GEO": {
+        "url": "https://dsh-m005-live-aka-canalplus.akamaized.net/live/disk/nationalgeographic-hd/dash-fhddvr/nationalgeographic-hd.mpd",
+        "key": [
+            "618391c096264d67a2acf4fef8dabff8:e9f87d7b3ee5aaa6edaf9eed36e1892a",
+            "761555e5a6364a1ca1bbeb73584a4448:460750c0e7bfdf81e269fbf14ab9f45e",
+            "defcaf1ddab84205bef0f1dac592a5d0:edf4208082a274a2d1496fbeee2d7757",
+            "a659033b7e464c19bf4ae2fe72dbe342:a815b20c51a295560aaf86abde8c1664"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/46035114?date=20220324105202",
+        "name": "NATIONAL GEO"
+    },
+    "NATIONAL_GEOGRAPHIC_WILD": {
+        "url": "https://dsh-m003-live-aka-canalplus.akamaized.net/live/disk/natgeowild-hd/dash-fhddvr/natgeowild-hd.mpd",
+        "key": [
+            "e504691ab199463aa31a055a014bceb3:4dc730f97463e3085409cd1cc48784db",
+            "8f17861aa721421f99a83f486f4dd91f:432cc82fe1d1e54abbaf56bf10b80277",
+            "cee261b275574493a10989b07af7f60d:00e6f0de6e6f52ea622d2f39a7784308",
+            "6b475b01d9c340c687b39bc293a5bdb1:99bf431fe1179e91c4b16a956216ee5d"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/83324409?date=20220324105202",
+        "name": "NATIONAL GEOGRAPHIC  WILD"
+    },
+    "USHUAIA_TV": {
+        "url": "https://dsh-m005-live-aka-canalplus.akamaized.net/live/disk/ushuaiatv-hd/dash-fhddvr/ushuaiatv-hd.mpd",
+        "key": [
+            "48b29d9ed20f4c7299c88f237df376a2:2b2bad82ba3f0d7713c1e489b6e13a0d",
+            "aa6ce369fb244aa782ec842f848855d6:0ea92e9b1bc3b9390e39e21099c2ccc0",
+            "46482c4036b541f9b59ffae105f5e328:63613755c4e3b107022da0e8b52b7b99",
+            "0ec70fe78bb5451ebf5ae03266aab6ca:eb2fa2492d5b5ab6d9bfc3dd25a6831b"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/102448242?date=20220324105202",
+        "name": "USHUAIA TV"
+    },
+    "HISTOIRE_TV": {
+        "url": "https://dsh-m005-live-aka-canalplus.akamaized.net/live/disk/histoire-hd/dash-fhddvr/histoire-hd.mpd",
+        "key": [
+            "03ec0fcdde064a8ebd69e2430e1462b4:85301de95b696a44d718d99785536ac0",
+            "579474db09c64589a8d7ff25075c9b60:dac891cbf82a63cbb591f3206ba5033e",
+            "62dd1e68cd534233ae9311419f9f0dba:ed452b4a3141a5cea316831b7baa0bf7",
+            "27a3edb7c0684229a9e717db3dd996db:5cee9fc43d0e5def2dfd6daa6c337e50"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/102469595?date=20220324105202",
+        "name": "HISTOIRE TV"
+    },
+    "TOUTE_L_HISTOIRE": {
+        "url": "https://dsh-m003-live-aka-canalplus.akamaized.net/live/disk/toutelhistoire-hd/dash-fhddvr/toutelhistoire-hd.mpd",
+        "key": [
+            "57698b052bf6454386455bccd915f7ae:c8548fb9fe1c6070f6b13c482e8d6084",
+            "84336ba35486433da89904420cf3aa0f:7c5508b2090149c76617ffc40d3777f7",
+            "f1be9eac69b9443291f2991dd913d9ad:fd6aefcd23d1cc3ce0b69daa263d2bd0",
+            "0e84352cafc944c3bc0bf22f6ab2a367:2a42db804b5b9da03e7cf25239aff543"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/25328988?date=20220324105202",
+        "name": "TOUTE L'HISTOIRE"
+    },
+    "SCIENCE_ET_VIE_TV": {
+        "url": "https://dsh-m003-live-aka-canalplus.akamaized.net/live/disk/scienceetvietv-hd/dash-fhddvr/scienceetvietv-hd.mpd",
+        "key": [
+            "2bd2d891019e451282928345ea5a8f23:e4eef24326933990c50dd4794db447d5",
+            "8a855808bec04795ac73063a8aca0d70:8354820d76a05c8a321b8324754e6341",
+            "71b48607c05d4c25b0de242627114dc5:563f9d1131374b12a4b405aa20de641d",
+            "5c462add445a4b4ba7d87d0c9b14d6f2:b1dcdfe7086620d89ae7a48be8c99fbe"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/102626729?date=20220324105202",
+        "name": "SCIENCE ET VIE TV"
+    },
+    "SEASONS": {
+        "url": "https://dsh-m007-live-aka-canalplus.akamaized.net/live/disk/seasons-hd/dash-fhddvr/seasons-hd.mpd",
+        "key": [
+            "2f77089445a247fb9243fced0d1340b5:d724dc9bcc4763e40193204d5cc87bdc",
+            "e9f1e3dd76f44823a34f08974f493b8a:f8f8622e39785330935ec6c027a0615c",
+            "157c192b8e4b445c80157d448badee35:69e3987f4fb8694aabfa400bcc3348bb",
+            "a7c4be6e805b4e7cbfe7a79887d44b1a:eb33fc630ee640ea6985fbe4356853bd"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/45662567?date=20220324105202",
+        "name": "SEASONS"
+    },
+    "CHASSE_ET_PECHE": {
+        "url": "https://dsh-m005-live-aka-canalplus.akamaized.net/live/disk/chasseetpeche-hd/dash-fhddvr/chasseetpeche-hd.mpd",
+        "key": [
+            "ac3af677565f4f3f80b774673094c874:5810bc01907da524d98838c85f25da04",
+            "0165f5ab6d8f46b9a022aa751cdca172:68a402e45a2f9c63ea9b988da9f5a71e",
+            "e2543e8d45294491b061ae9f8f7b1be1:1c7e3c6c341d5986096d412b52690831",
+            "9e6087b4083746b8bfcbad079f3f56f1:e0fa3ba8adb9e2c2416de71a66c815c6"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/44978855?date=20220324105202",
+        "name": "CHASSE ET PECHE"
+    },
+    "ANIMAUX": {
+        "url": "https://dsh-m003-live-aka-canalplus.akamaized.net/live/disk/animaux-hd/dash-fhddvr/animaux-hd.mpd",
+        "key": [
+            "b57d7b3b56784b3ca299552a932f40ae:1cf4545d8ebdbbef789ce26983405bce",
+            "89270796af444ca4aa9f942200865b16:823d8fda7c7a878f77cafd62e1389421",
+            "c73277d24a614539b63df6b510f8e978:1f6298db66384801d8823337c282c4a1",
+            "58f2070aae3b4f34b2da3514bdea5b93:c735aacee3363b1f8b7467db999640f5"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/54239442?date=20220324105202",
+        "name": "ANIMAUX"
+    },
+    "RMC_DECOUVERTE": {
+        "url": "https://dsh-m007-live-aka-canalplus.akamaized.net/live/disk/rmcdecouverte-hd/dash-fhddvr/rmcdecouverte-hd.mpd",
+        "key": [
+            "c7b15f69ee3c4413b89d83cda645ed37:bda422628b684f8b290f5ae32aac8b03",
+            "c3ac1f70151e44ee87277f0063c4b229:31c42c5c90311366cd683249dac47e0b",
+            "5de0c4a7fbda49c5842ad4fd2905552c:ae02d99b4d35ad68c7f456fadc743094",
+            "6526e1905f9c4931bec91f04c636f6c9:f3e15eb40c90affe1e86c7c556118de6"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/64959411?date=20220324105202",
+        "name": "RMC DECOUVERTE"
+    },
+    "PIWI_PLUS": {
+        "url": "https://dsh-m007-live-aka-canalplus.akamaized.net/live/disk/piwiplus-hd/dash-fhddvr/piwiplus-hd.mpd",
+        "key": [
+            "7fae8b5ec8df4757b4a1da8e427c04d4:3e07f12bfd324cb7cea22e797756e449",
+            "a5b7120fbbb34bb6a8f693e81c4c48c3:fd69483a44f3273e4472a840d40e1b2d",
+            "aa8d717211ea42bb9d773fef018ed93d:23615eb3886b3e2eb24030a195833504",
+            "e6bbff9cd90943f6a045e85d363e7fe4:6b032727acc2e82f1883dcc6007e3364"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/21549720?date=20220324105202",
+        "name": "PIWI+"
+    },
+    "DISNEY_JUNIOR": {
+        "url": "https://dsh-m004-live-aka-canalplus.akamaized.net/live/disk/disneyjunior-hd/dash-fhddvr/disneyjunior-hd.mpd",
+        "key": [
+            "5ca1041aa39d43f59512807ab4287bf5:39f5c1d713e9972385f8c90c4bcaa201",
+            "73690239ebd64b65b9a8192d69a41835:ccfae5ccb4181c6c5ebfd329abcf0db2",
+            "064d84141c4a47de8e209a8e56266c23:a79b85512f44cf2531623f6e89aa81e8",
+            "44756f76061949fd8bebff0e1b34137e:09b79650da78365118130ec954448866"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/17406096?date=20220324105202",
+        "name": "DISNEY JUNIOR"
+    },
+    "NICKELODEON_JUNIOR": {
+        "url": "https://dsh-m007-live-aka-canalplus.akamaized.net/live/disk/nickelodeonjunior-hd/dash-fhddvr/nickelodeonjunior-hd.mpd",
+        "key": [
+            "707dadd6e4c34190a8b647be1cbbb935:84dfb532ebbee918f56b29c31fb5cca5",
+            "1048cabab2b240f18e7cc8a233283095:0ad9b32cd18d9b6cb9a9a98e45aba31b",
+            "f1d9a1d329664ab9a22e56da53dda613:06d0db4fa51f5714983b27b3968fc791",
+            "df97a5409c374c4ca9720d4f3967bd75:80cd3806cfa5921881c8668cc063dfdb"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/25328968?date=20220324105202",
+        "name": "NICKELODEON JUNIOR"
+    },
+    "TIJI": {
+        "url": "https://dsh-m006-live-aka-canalplus.akamaized.net/live/disk/tiji-hd/dash-fhddvr/tiji-hd.mpd",
+        "key": [
+            "5391e35270d542ad9edfe3a430714100:bd504496ed8d410409f2db092a11d3ee",
+            "5895814f6b874827ababb9b6f0fa7318:6b06f9c377c4323fed15ae8e670b02af",
+            "6332a4dfb46b4eb7b161fab718c119bd:5821fcd5b071f6dcc3ace2deef696703",
+            "64c6e9879d514561b605c4e3a6b3a8e0:ed29df4ef5ddc03590db9261476f468c"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/41072706?date=20220324105202",
+        "name": "TIJI"
+    },
+    "BOOMERANG": {
+        "url": "https://dsh-m003-live-aka-canalplus.akamaized.net/live/disk/boomerang-hd/dash-fhddvr/boomerang-hd.mpd",
+        "key": [
+            "fb396c6be8ba4509be4e61b46b3b2438:48f56521bcd60118d7802b0efa0158e2",
+            "86b258d036794519af6d10cd910cf79c:9f8c5184079e16cfe5a5ad7d194aab6f",
+            "983cdf6c664446ac91335de85da1fcd5:40e31a4bf0838035e664d602620a60b5",
+            "bfc14d9b82ed453ca51d3163d91b8875:76231cb6670e151fc803e7ab585f5ddc"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/21549668?date=20220324105202",
+        "name": "BOOMERANG"
+    },
+    "TELETOON_PLUS": {
+        "url": "https://dsh-m003-live-aka-canalplus.akamaized.net/live/disk/teletoonplus-hd/dash-fhddvr/teletoonplus-hd.mpd",
+        "key": [
+            "74016c4ded4c48cea63bd9186031de6c:a424ea5206a195d8344914b174e09a41",
+            "5a20d25a44164ed1ba8880247936bec0:d954e6c5de21f46a27abc732358dc9e3",
+            "a3ce9361f246400db6d05087ce777304:0cd18d602fdf1fb7e6bceff75fbbc0e3",
+            "eeb59d6083ee407f95f3aaf92a55e150:34ae1eb2c9859fe4f4452e9261235724"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/21549725?date=20220324105202",
+        "name": "TELETOON+"
+    },
+    "TELETOON_PLUS_1": {
+        "url": "https://dsh-m007-live-aka-canalplus.akamaized.net/live/disk/teletoonplus1-hd/dash-fhddvr/teletoonplus1-hd.mpd",
+        "key": [
+            "08ac66ca0ec44f08a7bb1e103ef168ac:d0d152ef10df66efc7e1eef2e95b2d65",
+            "a41223d36703423993ca87e677f6b192:ebfcf8b3080ab31b1be74da38b65f28f",
+            "aef5c5685f604e048690e3e719450236:1de9d0e47af5af3976826a22b2246e9c",
+            "5173e036b3664433b6b81154c110096b:caedd70f5f3cb0052664204fbabb5976"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/21549726?date=20220324105202",
+        "name": "TELETOON+1"
+    },
+    "DISNEY_CHANNEL": {
+        "url": "https://dsh-m004-live-aka-canalplus.akamaized.net/live/disk/disneychannel-hd/dash-fhddvr/disneychannel-hd.mpd",
+        "key": [
+            "fbc02cf67426424791e9dfaefd991626:8813985af9b36db5b8f30d56c0dbe342",
+            "3d4bddbbbbac4fedbf8d742ed50791dd:99f29489fbf18d4b22310b9ee42b55ec",
+            "1c46c15d93e147b883c58b05909511e5:0a2b8071cc2b9aa33f0bf5d6d2fcc7d2",
+            "e6bcba1f2cf24f83aeeb28a25dead5de:c687286eb671c28c992bbb553fc61996"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/56284097?date=20220324105202",
+        "name": "DISNEY CHANNEL"
+    },
+    "DISNEY_CHANNEL_PLUS_1": {
+        "url": "https://dsh-m007-live-aka-canalplus.akamaized.net/live/disk/disneychannelplus1-hd/dash-fhddvr/disneychannelplus1-hd.mpd",
+        "key": [
+            "233e48e6d87845d089722aac087b101c:a167027db6e5302c0e4fc65ef613f382",
+            "05ef6325f005472ebb10a647ab740fe5:e4038f77066db56e5b1d54e2f6f60f65",
+            "6cb7a2e5a3a64142987207da9c74e79c:117301029ee69f5520d374aef35d454c",
+            "c01e4a57433d4716ab339a45952bdfd0:44e2a32e1ca6d5672d5165f4f733f967"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/56359864?date=20220324105202",
+        "name": "DISNEY CHANNEL+1"
+    },
+    "CARTOON_NETWORK": {
+        "url": "https://dsh-m003-live-aka-canalplus.akamaized.net/live/disk/cartoonnetwork-hd/dash-fhddvr/cartoonnetwork-hd.mpd",
+        "key": [
+            "5ae500d533df4047befe95c1c508efa7:43bb55e255d17cde737f2de0d34b4d2e",
+            "8ace519ba8204e739827cb84333e3a31:1465c4f4040b06c29147f085edddf50e",
+            "e5e2a2095d6249c2b8732a07f9835934:c16542cc848d5e496953cece9bd5ef20",
+            "5888e301c9914f44b4a052382aacea2a:704578fa6dbb574a5c46cc1e8a00ff0a"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/8421133?date=20220324105202",
+        "name": "CARTOON NETWORK"
+    },
+    "NICKELODEON": {
+        "url": "https://dsh-m007-live-aka-canalplus.akamaized.net/live/disk/nickelodeon-hd/dash-fhddvr/nickelodeon-hd.mpd",
+        "key": [
+            "d14303e533c54be684d4829b028bdf48:4c4e7a0aab98b2836e43d3d0269d4dc0",
+            "ceeb3f079cf6430884a3fc1d626de067:0d94f99fc223704fb476f139a23ff978",
+            "2ed64e19109a438f91ca143f2cf28012:375d52236dbce5ab08298054e13faf7b",
+            "71a055599b68489898ceba9648820502:bf95633499ec92a94b5866e0a576c334"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/25328966?date=20220324105202",
+        "name": "NICKELODEON"
+    },
+    "CANAL_J": {
+        "url": "https://dsh-m008-live-aka-canalplus.akamaized.net/live/disk/canalj-hd/dash-fhddvr/canalj-hd.mpd",
+        "key": [
+            "f907b6b1b1c44ca1a8297bd8c91997b7:0f7bc579bcd4e447e28d5442bc67284f",
+            "80ac319f2cdc495fb55243af534a655d:64e57039fba815ea9294ea578c7ec4a1",
+            "564d9319bb854c2792da00875f8c8f09:80e5d31f6a470680f111a385c3052ebf",
+            "d7e5d79465544f11b3f7d8ffe77459a3:3f1809df92e488552e48fc8f0d47d593"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/91743730?date=20220324105202",
+        "name": "CANAL J"
+    },
+    "BOING": {
+        "url": "https://dsh-m007-live-aka-canalplus.akamaized.net/live/disk/boing-hd/dash-fhddvr/boing-hd.mpd",
+        "key": [
+            "5f79b0e1e83d4efe84d1d8915276a5c1:c951e947f2f8b4c903f8fa3cbd77c787",
+            "d5d5d89cc759496dbf6d207de16c036f:eb2cd4f9c0e3c00fbf2eba064a58f393",
+            "25c02806d09541cd9769859fab501577:dc8d8a3a8d9713ba012ac2cd1ad9c60f",
+            "f6ecc7fe1d434ca683982da0d8ea4dd8:49c4587ba6c452f7cc6dc5e5120ad9aa"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/36010660?date=20220324105202",
+        "name": "BOING"
+    },
+    "NICKELODEON_TEEN": {
+        "url": "https://dsh-m003-live-aka-canalplus.akamaized.net/live/disk/nickelodeon4teen-hd/dash-fhddvr/nickelodeon4teen-hd.mpd",
+        "key": [
+            "5fca15deb9af445a9b9f46122d0e0e72:593d7679a73252dcd692b4594ecf62d9",
+            "ff21da23b02b4a9faac255d87ff6b567:1770979958749acd0aa54554494e02f6",
+            "b214400af6f94096805eb93785e6e570:10403893e06376eb80191447dd135b3d",
+            "77768bd265b441f1b2a761a112df19f0:e6ef23c65772e768941fd1837110794d"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/61398469?date=20220324105202",
+        "name": "NICKELODEON TEEN"
+    },
+    "FRANCE_4": {
+        "url": "https://dsh-m003-live-aka-canalplus.akamaized.net/live/disk/france4-hd/dash-fhddvr/france4-hd.mpd",
+        "key": [
+            "02b3c6586c644433a4442a5623bd9ed5:111df5cfa532aa1d865f003360ba69e4",
+            "1b8cf7f5de814761b0a05874726f6846:aadb7fe2e378e0d33cff97ec4e500f5a",
+            "fc27522a8520456f9e86d048b863f603:0349d64c5cd05b30fbeabf58d0910ffb",
+            "f440d111a91c47ed93973aed0c580dea:17320326b071f7f8fc8e3c6314f05be9"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/67033024?date=20220324105202",
+        "name": "FRANCE 4"
+    },
+    "GULLI": {
+        "url": "https://dsh-m005-live-aka-canalplus.akamaized.net/live/disk/gulli-hd/dash-fhddvr/gulli-hd.mpd",
+        "key": [
+            "1d9b7cc8746040498a9d94c962974b24:0ff4b9048ac14e305fd9c856e48ec9bf",
+            "43c3bd90645441fc97e804fb47d3d736:d99aa24c5982884ff9a1fb84921a1090",
+            "8d4e56773dba40008ca3e8a382d9cb30:3614aa238f4ad7dfcf8ffcdef7223774",
+            "a8627ba7cd65499ab98cdd205ab7030c:9c5e214b68a406f638b93389fcc21307"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/61929315?date=20220324105202",
+        "name": "GULLI"
+    },
+    "CLIQUE_TV": {
+        "url": "https://dsh-m004-live-aka-canalplus.akamaized.net/live/disk/cliquetv-hd/dash-fhddvr/cliquetv-hd.mpd",
+        "key": [
+            "92663717ea5e4dd6bf64a8d3a767c756:bd3051b1d021f7264b2918a68076cc29",
+            "8916ec1509d549f0903cb2234dd92624:d9fbca87c5dd4ddd79768e110aa14e90",
+            "473a07af0ead4d55830f22b0c914b2e3:5d0b52bd0c0e1324f4d65e9482660c11",
+            "436809a1c2044aa1a12527a70aa5c6a1:6dfe26119727464764ed6cc5b9bb152d"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/78246693?date=20220324105202",
+        "name": "CLIQUE TV"
+    },
+    "MTV": {
+        "url": "https://dsh-m003-live-aka-canalplus.akamaized.net/live/disk/mtv-hd/dash-fhddvr/mtv-hd.mpd",
+        "key": [
+            "7f4503a2dbb346689c4e72226fbc59a0:084795ff5d0b80e675f774cf16dba763",
+            "0121073179684005a9f5953b7cac3d39:2530ebc7ec8805d9282068fa120acbc9",
+            "bcb4dbe96323475d94455ac15e25e541:b8ee49b859b3b26650ab45856bad641e",
+            "690d45f8c87b400bb1ab0944249533a4:6a6f9544bb6576594273580e6be7a43d"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/20482724?date=20220324105202",
+        "name": "MTV"
+    },
+    "MCM": {
+        "url": "https://dsh-m006-live-aka-canalplus.akamaized.net/live/disk/mcm-hd/dash-fhddvr/mcm-hd.mpd",
+        "key": [
+            "c91905c42565476e935046e509710bf8:a66bfc4231cab3b396e6b1955aadbbf4",
+            "a2a0427c1f7a4f19b53fd48a3188bcfd:4b312df18a9d9da8717e7bf247972b75",
+            "f89aeb394b3d4a1ab94260745f281a5c:89f2825b733f3a6d4e1c471dd08bbe11",
+            "9e7eee3f3e5f4f359a4c3082ca4edaa3:ca75e2a5dee53b1b229e18987cf408a9"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/62364389?date=20220324105202",
+        "name": "MCM"
+    },
+    "COMEDY_CENTRAL": {
+        "url": "https://dsh-m004-live-aka-canalplus.akamaized.net/live/disk/comedycentral-hd/dash-fhddvr/comedycentral-hd.mpd",
+        "key": [
+            "a24ffa510e7942ba93015efa90c1fcb8:1186de16ff3f44511bfb7357e8dd2aa7",
+            "a724b0d5b2714237ae0af0c8296f670f:e12e3952b9f68f2b29c99a534d368dd5",
+            "0018c8eafbc94481a09f2aef03377488:243f796a7434bba418c39ac299eeb6ff",
+            "9035e6192c9d4bd8a611bd0b9b47dca7:fe645faf955b158364f03483ba75e4c4"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/92490208?date=20220324105202",
+        "name": "COMEDY CENTRAL"
+    },
+    "TOONAMI": {
+        "url": "https://dsh-m007-live-aka-canalplus.akamaized.net/live/disk/toonami-hd/dash-fhddvr/toonami-hd.mpd",
+        "key": [
+            "3d0369d668c243d09325777b87d9bcbd:7ca3bc017743549b0a5885a0c2d153cc",
+            "0a34f83e425444cba282209d320f0705:d83f5447581bfd52e594f9df5ce3988b",
+            "1615337513ff4f319985c223a5edb7e4:3a462793d84365ec9710ecbf140c6519",
+            "2e9fd64cae8f43ec9857e640c283125b:6bdbeeab88f68240c2d4fc05448a0c1f"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/96775003?date=20220324105202",
+        "name": "TOONAMI"
+    },
+    "J_ONE": {
+        "url": "https://dsh-m005-live-aka-canalplus.akamaized.net/live/disk/jone-hd/dash-fhddvr/jone-hd.mpd",
+        "key": [
+            "cdeebbb3495e4fe6b64389faab1aba1b:7d5a0010b5095e52c98f2e82b0493195",
+            "ed11a89fbaca49afba0779c94aee9c09:46716f0d879e7cb3bfa981177c2b60a1",
+            "1f600b7639314cd6a48ea7fd64cab1af:27a6182acf749304cdb5d7a26801012f",
+            "74a6565d3f8c4082be0116a5e87c52cd:3ff2cf9cc3c03c32a29ec24a99206f33"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/3040425?date=20220324105202",
+        "name": "J-ONE"
+    },
+    "MANGAS": {
+        "url": "https://dsh-m004-live-aka-canalplus.akamaized.net/live/disk/mangas-hd/dash-fhddvr/mangas-hd.mpd",
+        "key": [
+            "ea894a9c7580423e91e21603c2b1bc4a:c48032c9a666de0d41ab04dbcc7d7b7e",
+            "ffe67afd2ed74018a5e248eccdfa9763:5ed039856a14ecd3d56f7c09017b7a61",
+            "bd291c0fe80b4039b09c7ed7eb442397:209caefaaf28fea62e1420da74f6eb08",
+            "c598c286996f416fbc8bf6f6c316569d:bdb83e53ea59be3db9d446ca4a73c141"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/25328984?date=20220324105202",
+        "name": "MANGAS"
+    },
+    "GAME_ONE": {
+        "url": "https://dsh-m009-live-aka-canalplus.akamaized.net/live/disk/gameone-hd/dash-fhddvr/gameone-hd.mpd",
+        "key": [
+            "b35b492066804392b0e04a20755a2eb9:69e44587c0893e53fd196ee5bbe12cb7",
+            "417325a7a08e46039b90ed946f48c049:5f0b407ab57e986c7f380ecdfae0a276",
+            "e2182bab907544eeacf0640ae23378d1:7980841bce639b55cd8df72369386dc7",
+            "df4f21e0b22b48b889417b07c5f508a5:3576daae2db883b1e803ee53dcb1067c"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/25328967?date=20220324105202",
+        "name": "GAME ONE"
+    },
+    "MGG_TV": {
+        "url": "https://dsh-m004-live-aka-canalplus.akamaized.net/live/disk/mggtv-hd/dash-fhddvr/mggtv-hd.mpd",
+        "key": [
+            "f423e1926e924f40ab9d52e3ed53878b:a1a233cd7a454c63f49648fcff687cdd",
+            "ee538ff688b5465ca186441a949ceb78:9211808a7b84d566ca3b357fa5d7cac1",
+            "4578ecb093e846bbb682dc90e8e7c13f:4db0579eee2829747967cf074691a449",
+            "5083b7fe05f9409da5857988334e242b:9812421ff036eceab24ce614f4913549"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/104138401?date=20220324105202",
+        "name": "MGG TV"
+    },
+    "LA_CHAINE_METEO": {
+        "url": "https://dsh-m008-live-aka-canalplus.akamaized.net/live/disk/lachainemeteo-hd/dash-fhddvr/lachainemeteo-hd.mpd",
+        "key": [
+            "ce536d29e65744529f5b6a38a4094699:b3477791211cc175be82bc9eb36c7804",
+            "62113e61c4f344d7a16cb2eccc920acd:4690d038b5eb1fbac30052da56eb4806",
+            "73f912842c484794b9ed05ced2b25526:f5abcbf6e528b5103a8cdaccdbde9f0e",
+            "883d62d239b84e92801d3995268a97b8:b2536fa10c0b1440266c7cb3a829830f"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/21549692?date=20220324105202",
+        "name": "LA CHAINE METEO"
+    },
+    "BFM_TV": {
+        "url": "https://dsh-m009-live-aka-canalplus.akamaized.net/live/disk/bfmtv-hd/dash-fhddvr/bfmtv-hd.mpd",
+        "key": [
+            "a0479f95519c4c768ac49e0c4165c4f5:d1cf76088a9a5b311cb17a97e623a375",
+            "f43d647224124a53b104cec742ec075c:6d12e0597eb2b2d97ca9b49a56fa81d6",
+            "b50cabc8aeef4744b6b95396b3a048de:1cd8a220b561a1247750b6af31bc923b",
+            "0d2103b008a746c6bb4efe04f0974747:4c2b22d41173903cac47009ad27feac4"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/34766177?date=20220324105202",
+        "name": "BFM TV"
+    },
+    "LCI": {
+        "url": "https://dsh-m008-live-aka-canalplus.akamaized.net/live/disk/lci-hd/dash-fhddvr/lci-hd.mpd",
+        "key": [
+            "5e80a79bd91f4d41b5291e01b612a672:3e6872fcca2fe2c08edf238c849cc678",
+            "6ddb850af38b434791f4a4480b6a45ab:d412772ddb425e81a6163877e18f7cfe",
+            "afae159862d246de8fdec6f69c24cdac:34c4919574fdd75164209c7637e624d1",
+            "8c179e9a51924f1d9808a8f7578db14a:06438845d0f0f3ced387e9f620528a5d"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/66747521?date=20220324105202",
+        "name": "LCI"
+    },
+    "FRANCEINFO:": {
+        "url": "https://dsh-m006-live-aka-canalplus.akamaized.net/live/disk/franceinfo-hd/dash-fhd/franceinfo-hd.mpd",
+        "key": [
+            "d6be9487c73d48529dc8af66f3532c15:06e7cc7c51c1b6e47020888668112401",
+            "3714aee7e6464656ab65721912f6258d:06504a9f2366806630e9169835043ff4",
+            "a767470abb584cdfa7e94e82035e5c59:150356c1cfe83d5f87d4ce45b76983bb",
+            "661fd28264114cc3bfbe9a612fe2b14c:20f6f0f24e750c8c8ee29598ac7ab58d"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/41072782?date=20220324105202",
+        "name": "FRANCEINFO:"
+    },
+    "LCP": {
+        "url": "https://dsh-m003-live-aka-canalplus.akamaized.net/live/disk/lcp-hd/dash-fhddvr/lcp-hd.mpd",
+        "key": [
+            "88f506d300de494d9b183d8fa9134eeb:e3a84cbac396a51fa348cada4ac1d8ff",
+            "91b193608acc4ddcbf420d0131dd81df:31cda0a83b3ff9e921c300a17013d459",
+            "b03744a2ccdd4eb39de3541c517587db:4f08a92c03fff0854351b8606dfcb80a",
+            "137a7d1627864ce89bf792b233b6ed69:dee4c308c5952a40f7bcf1bc492e8834"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/94033640?date=20220324105202",
+        "name": "LCP"
+    },
+    "FRANCE_24": {
+        "url": "https://dsh-m007-live-aka-canalplus.akamaized.net/live/disk/france24-sd/dash-fhd/france24-sd.mpd",
+        "key": [
+            "30589d437af840b99c387844057cfc78:1f2d7094857338ef4b6e427c30d0e2c3",
+            "47d5898d41294baba40ebe157dd9bedd:abf1d274e85fa0c9651b909b4aeb3a34",
+            "ae02eeb3d09646ea88ed9434d93f5b47:30ca241008615786d59c1b44fcc894bd",
+            "7511fc876ed541b7ab5b3f5c601ba485:4cd44a5108fca22d32ff5aa757851b53"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/18810794?date=20220324105202",
+        "name": "FRANCE 24"
+    },
+    "EURONEWS": {
+        "url": "https://dsh-m008-live-aka-canalplus.akamaized.net/live/disk/euronews-sd/dash-fhd/euronews-sd.mpd",
+        "key": [
+            "01b499152c95478aa19874e75f45091a:bda782f0d081f2272a7b4da2f25436b9",
+            "717e6065f41443e094d51820fdaeb0b3:4e1a22e9b80d32fc40d40cf3461155f3",
+            "2f600c5b94884bd382351a207b9513db:e6cc31f7239cd379b963e004078f1289",
+            "4f05436c19104a28aa12c71d8552b348:959b008f46bcc2ced7e48b6d898f4584"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/36581437?date=20220324105202",
+        "name": "EURONEWS"
+    },
+    "CNN_INT": {
+        "url": "https://dsh-m005-live-aka-canalplus.akamaized.net/live/disk/cnn-sd/dash-fhd/cnn-sd.mpd",
+        "key": [
+            "00e99409038841b49f2f5399a2133918:f12a4a7edb7dd5fb3496ba99b525d8f4",
+            "4b5d6f56f0e648a98ab4646cddd75732:6ded561a34f1c271a7edf6e2d99df1fe",
+            "b15064318c334dde88136a2b37f53f8b:f8834bc5f6513f9b260162814465d16f",
+            "6b46aaf97b9e4f8781eeefbaaaddf7f2:5a3be5a7cd2b2b55087cc86aa4df8ede"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/13455768?date=20220324105202",
+        "name": "CNN INT."
+    },
+    "BBC_WORLD_NEWS": {
+        "url": "https://dsh-m005-live-aka-canalplus.akamaized.net/live/disk/bbcworldnews-hd/dash-fhd/bbcworldnews-hd.mpd",
+        "key": [
+            "497a3f0aeb1143be83203c781157bfd1:80a2ce1f69ea077ccaec022a4d1b4a77",
+            "0971b1a4131844f08856a37d6f139f0b:14bd3327e021e9f3e1e444a8e3f5fda9",
+            "505ce16711c3456493322e3380adeceb:ae4fd713ddb7fef59eda0deb71e8938c",
+            "b61647526fae49db9e42a7dd93b2cde0:c6606fa1829890a2ba76f257b535cc71"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/27443835?date=20220324105202",
+        "name": "BBC WORLD NEWS"
+    },
+    "BFM_BUSINESS": {
+        "url": "https://dsh-m007-live-aka-canalplus.akamaized.net/live/disk/bfmbusiness-hd/dash-fhddvr/bfmbusiness-hd.mpd",
+        "key": [
+            "5fe375cbe2b44502ada75750e72091d0:8668237b1385fd270b4ffa3f257c3b59",
+            "93c1f41080e846208e05cd284359b753:71debe9e78b379b1c1739569cd46f594",
+            "c4b19360e048420aab1223cd73c28d50:83b79fd0e2454dacd0137912ceeedeec",
+            "542a0d12ef3c453397d865a2f78ab174:f823d6367420aa86c07c151e951af32b"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/54239635?date=20220324105202",
+        "name": "BFM BUSINESS"
+    },
+    "BLOOMBERG_TV": {
+        "url": "https://dsh-m005-live-aka-canalplus.akamaized.net/live/disk/bloomberg-hd/dash-fhddvr/bloomberg-hd.mpd",
+        "key": [
+            "15432e83cbfd493e8c6ca4882e1572bf:fbe43c01dd9b8f38e1392ab22403f95d",
+            "f8db6fbf783d4272b90599f237e5a624:c6290b7064bab0f7378bb5b2393077cb",
+            "75f8fa97c1f8423aa5c9a54b599b37f1:5e47f76e3c6eab82783fc7f92fe75f6e",
+            "37ffef0331774e388c398d5ce4f4df80:8e4fc62103c9f03d83809cdecd17f744"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/103929325?date=20220324105202",
+        "name": "BLOOMBERG TV"
+    },
+    "CNBC": {
+        "url": "https://dsh-m007-live-aka-canalplus.akamaized.net/live/disk/cnbc-hd/dash-fhddvr/cnbc-hd.mpd",
+        "key": [
+            "8d8ce06f969f4108af19dbd8024d519e:cc894db6b957ef2680a17711648c3e1b",
+            "c95f91c74b9d4be68a4df494055e598d:319dcb5d29268df5728b33172e297c96",
+            "e2f7af9890ac492f82165b6698335b9b:431cd4dbf240660626d0c1ca4bee528f",
+            "c8c7b06d9c674aecbda6296bfb4c0cc7:0a5a2ca322a09acde9a2795fa5946a85"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/2953491?date=20220324105202",
+        "name": "CNBC"
+    },
+    "I24_NEWS": {
+        "url": "https://dsh-m008-live-aka-canalplus.akamaized.net/live/disk/i24news-sd/dash-fhddvr/i24news-sd.mpd",
+        "key": [
+            "753ed5df42e74742a90e8e90543d395d:0545dad03aa6d402760dc23cf0fa5b01",
+            "f716fd7a82824402a8da58c47fc3806a:7c0b2663f1cdb9d5e9c79938ba72e719",
+            "0c4481d4c78d4d5f8716b6ac8d07e897:e3a9f1ede57d424ac058814ca460a508",
+            "742618297c1449d9b6270fe589a2bbf5:c8a379f006414144349ffdf9bcc50b50"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/61717621?date=20220324105202",
+        "name": "I24 NEWS"
+    },
+    "AL_JAZEERA_ENG": {
+        "url": "https://dsh-m011-live-aka-canalplus.akamaized.net/live/disk/aljazeeraeng-hd/dash-fhddvr/aljazeeraeng-hd.mpd",
+        "key": [
+            "8e58c66d324e4afa824b092d0a1c87cb:7797099d7d1326bf83c6f466cf382f28",
+            "ec57ae2d1cf8413c8d10a9321435304e:7204c53fdd14088b017b0ca5771b4108",
+            "d02a5066db334ae4b69c46cc3b8f6b31:9596b1f093da58b408a717b6981d51fe",
+            "ffdb1973a77b4170ab6ba2777d350e0f:19c7b0cbd099f7beba2dd9cc8e454d78"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/41072787?date=20220324105202",
+        "name": "AL JAZEERA ENG"
+    },
+    "CSTAR_HITS_FRANCE": {
+        "url": "https://dsh-m007-live-aka-canalplus.akamaized.net/live/disk/cstarhitsfrance-hd/dash-fhddvr/cstarhitsfrance-hd.mpd",
+        "key": [
+            "b5747fceee37404284cfe4081d96b625:67c7eb5d6479fbedd7e52a46670a413c",
+            "60989c0bd8294022826ce461ecd4f44a:fb522385d68b868a4ef20b93e0aca341",
+            "705ac8862dad4bdf823c2628625c6db3:267ad02bd63faf542e458d062eadf045",
+            "c7df07ad45574841a629d8265816b664:4138f8c449d9999e307b9ac7b8263414"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/67620113?date=20220324105202",
+        "name": "CSTAR HITS FRANCE"
+    },
+    "M6_MUSIC": {
+        "url": "https://dsh-m008-live-aka-canalplus.akamaized.net/live/disk/m6music-hd/dash-fhddvr/m6music-hd.mpd",
+        "key": [
+            "4cc9c15d96d24ae8867beddea79472e6:f2206d5ed087b364def140eca1afcccb",
+            "5640034368854071beecadb17045291f:39a305933646bbaea94c0a937ce7b8db",
+            "798822e04cbd43c2931d133e46be0a4d:bed399a910866268be578fe7b5765092",
+            "e468b1ccbf1f43338e9c586beca0d873:f2beebec59878049f0dd4c6ad0aa0a62"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/2953225?date=20220324105202",
+        "name": "M6 MUSIC"
+    },
+    "MTV_HITS": {
+        "url": "https://dsh-m007-live-aka-canalplus.akamaized.net/live/disk/mtvhits-hd/dash-fhddvr/mtvhits-hd.mpd",
+        "key": [
+            "528d68e06f194087a7cc818f9262cf8e:2902788ad7d9f76c18d563d110dfed43",
+            "cc12a73c9cec447cbc76cda9b0903cc9:03f7d943326e8c6ecf551bc02d0ff4fc",
+            "caa9d27d877a4ad2879141f40b54d0bd:4d8592237e56fe41767250460c9bc8ae",
+            "9a327d29da394f4eb3a57b61eed8e74d:81e9f2ad1226db227a3e4022436c48fc"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/63798060?date=20220324105202",
+        "name": "MTV HITS"
+    },
+    "NRJ_HITS": {
+        "url": "https://dsh-m004-live-aka-canalplus.akamaized.net/live/disk/nrjhits-hd/dash-fhd/nrjhits-hd.mpd",
+        "key": [
+            "fa35482856864c3992a7cc6faf35aab6:cfae1d2c8d5fb7f89a7cde194f5057a5",
+            "04cf88b1eb53432cbe2d2c2b1c976a34:bf6ae165045976a098ca870f83463bc5",
+            "b724c03d3b2741dbb9addc0516e6781e:d1a5c6ab83e35765b091133a27a2be2c",
+            "7e2150147fed49a1bf6604969cf3447d:878de248763e2242671fad9a2647f7c2"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/21549710?date=20220324105202",
+        "name": "NRJ HITS"
+    },
+    "TRACE_URBAN": {
+        "url": "https://dsh-m008-live-aka-canalplus.akamaized.net/live/disk/traceurban-hd/dash-fhddvr/traceurban-hd.mpd",
+        "key": [
+            "03c3626f2e7d4ebe9aa31c83d88b3d9d:73fd22220389eb4187a706271e64f2ba",
+            "6f50826526af4a80a6ac5e3e443e3a37:77c915428e9a82c00dd5528eaad3c9cf",
+            "2e565d71494b41f3bfcce817979b48f3:271a51452e23082b1e2966f8b50bf10c",
+            "ded2fd2712fc42128e017b0e8dfb9c40:efe8d59b48e29eace615e523ba32c377"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/21549729?date=20220324105202",
+        "name": "TRACE URBAN"
+    },
+    "RFM_TV": {
+        "url": "https://dsh-m008-live-aka-canalplus.akamaized.net/live/disk/rfmtv-hd/dash-fhddvr/rfmtv-hd.mpd",
+        "key": [
+            "60dae67ef9044bc5856f72a4faa8cc7f:f5487928dce3dd0864e2cf7b0928a5a0",
+            "7ad791e81d7246e685ef5aa0220dd90d:a2945cfbc05d89b4cbe3ffa515b537f8",
+            "77d84e2949fa4a449c0415e0f2896dff:ce4bea11a5c170a261c3860ed9d3efb2",
+            "e97cfdf048cb40b59e8bded6514dfcca:f10106e1e872179adc9541f938852847"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/72998764?date=20220324105202",
+        "name": "RFM TV"
+    },
+    "MELODY": {
+        "url": "https://dsh-m004-live-aka-canalplus.akamaized.net/live/disk/telemelody-hd/dash-fhddvr/telemelody-hd.mpd",
+        "key": [
+            "5ba554d7ee5049c0837da5ee4fbbde35:35296a246cfd5c4a930be72fe9c00b5d",
+            "db98e546d09549889d8ca7224b9fdde4:6fc2aa8cf785d1cd2dc554619adf2ec3",
+            "705632a54fda46efb8eb0c06d0500a20:68902dca6a3f766597c09f0054781050",
+            "d62d9671b5de4d9ebb854dd6f327c28a:a9e3afe544026d2539d97b58af80d9cd"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/21549724?date=20220324105202",
+        "name": "MELODY"
+    },
+    "MEZZO": {
+        "url": "https://dsh-m009-live-aka-canalplus.akamaized.net/live/disk/mezzo-hd/dash-fhddvr/mezzo-hd.mpd",
+        "key": [
+            "078416fc14454cdba0f5a6eb367ff370:c3894863b5ffbf001f3d0c6ee7f221f5",
+            "25e3caff98f8496687786e8b3b65ad50:1043d4dd7e0fa5db77a7b40b039441ad",
+            "df56b55bf5f440808baabe5dc961de47:d95c7890582a87c696a3dab6c9a9ad88",
+            "677ca9a19a684e6a857e4392133f20c1:88d7a82e4e540733915e44c334970b18"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/24668497?date=20220324105202",
+        "name": "MEZZO"
+    },
+    "MEZZO_LIVE": {
+        "url": "https://dsh-m004-live-aka-canalplus.akamaized.net/live/disk/mezzolive-hd/dash-fhddvr/mezzolive-hd.mpd",
+        "key": [
+            "8bb4526c50504ffbb90ae568c11dfa77:4527d4ea0b60f36dc5f55df815dcd74c",
+            "cd33eb7605d141b8bf69ee8f10479554:6292933fd129902fac4d8b85581e579d",
+            "30eed6a6ce6b4556b485c47eb94c2975:509f7b02e69a1d5f8fc51298507094b4",
+            "58d8a66be82c4727b921455ebcc2e6ef:8cd6ba8a9d5e781c46a224823b956453"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/24954133?date=20220324105202",
+        "name": "MEZZO LIVE"
+    },
+    "CLASSICA": {
+        "url": "https://dsh-m007-live-aka-canalplus.akamaized.net/live/disk/classica-hd/dash-fhddvr/classica-hd.mpd",
+        "key": [
+            "c55a127e01e3483f8f92bee9ebd57129:45840fbab29281904c372822475bf72f",
+            "332f882bbf9b463c87588cfc81212a20:c42b4e78c20c1665896b36c83ff2f76a",
+            "59728bc57edd40ec81dc44930d666f42:e6dcbb2025e5b9128f072420af7e33f7",
+            "e7fe56dddaf24141affe50c0d63f7ee1:a7f8bc69c426f824edb214775adb66b5"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/89522799?date=20220324105202",
+        "name": "CLASSICA"
+    },
+    "DJAZZ": {
+        "url": "https://dsh-m007-live-aka-canalplus.akamaized.net/live/disk/djazztv-hd/dash-fhddvr/djazztv-hd.mpd",
+        "key": [
+            "c9abfb4c6a3f4d669268e0c36ad7105d:b6895daba523f391948324e752e3bacd",
+            "ac85a68e9eee4c3b80e536520a280f0a:81ebc2741636136c1d3c3017b091379b",
+            "353c73c87dc143a4b668140d6415a983:52532dabcb8beb7e250b7b81e9985273",
+            "e79eca4e5b3c4be28ace5285f4779b15:cba138a858eeec9a2ac3b8c7ef87a1b5"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/44990270?date=20220324105202",
+        "name": "DJAZZ"
+    },
+    "ASTROCENTER_TV": {
+        "url": "https://dsh-m009-live-aka-canalplus.akamaized.net/live/disk/astrocentertv-hd/dash-fhd/astrocentertv-hd.mpd",
+        "key": [
+            "807daaf7ecd744d38d214f789e85685b:8dc26ac8651a66946dea801347f46b3b",
+            "f936b6e252e24e0d9b27469ac68afa02:fa38bd8f43a25d82e42b40b444457491",
+            "7dd0a5ca9e404e368e782f74f767b09a:eba1eb374e6fb155311fc27b328e6051",
+            "f86a456a5fe347bb8c212a18b165bf76:2473c1d010da3881078152c52294fce3"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/64176102?date=20220324105202",
+        "name": "ASTROCENTER TV"
+    },
+    "FOOT_PLUS_24_24": {
+        "url": "https://dsh-m004-live-aka-canalplus.akamaized.net/live/disk/footplus2424-hd/dash-fhddvr/footplus2424-hd.mpd",
+        "key": [
+            "ab298e53a7df40febfb66f9fe27ff261:c4681ac5e8abda8f51e3f753a463d330",
+            "1ce4ba4b9a034c7f99ce55d84f7536f7:5302324f64cf44db43e1a58faf9ef749",
+            "9564fd9ece624be1959db7af98e0a53d:0a69eb606e64c45b4d1a2b9b8dd82ae6",
+            "ca7535a4f0c041a89870c39806832162:1de1395965ea095d2307245d049c5c6c"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/21549681?date=20220324105202",
+        "name": "FOOT+ 24/24"
+    },
+    "MULTISPORTS_1": {
+        "url": "https://dsh-m005-live-aka-canalplus.akamaized.net/live/disk/multisports1-hd/dash-fhddvr/multisports1-hd.mpd",
+        "key": [
+            "590d93f2e2d146a889c49ac0ef094cb9:241f064ffcb455f8a62d39a15ca18011",
+            "d4e8b8b438de40048d5243271c16e0ca:d5aacc72e9b7639454a0e4012898b20b",
+            "dd08230d33a34f7e8c0c9d68f7fda4ae:e7aad3a9dc159b78acf8bf530c725e4d",
+            "ae6354088f3d4e049f9214557adab5ca:4b468184e5e02ad9f6af0599904f7d02"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/98927958?date=20220324105202",
+        "name": "MULTISPORTS 1"
+    },
+    "MULTISPORTS_2": {
+        "url": "https://dsh-m004-live-aka-canalplus.akamaized.net/live/disk/multisports2-hd/dash-fhddvr/multisports2-hd.mpd",
+        "key": [
+            "358ff065ef11423aa1f3c5d6a711deab:34d6ee9ba60002a68d19a4cdc9ca8cef",
+            "e818b2a1ac5e4bccbef9ecbd21cd0eab:6be8d8d34b009522cf5bf28587af9007",
+            "4d77da463f2b4bf8ba0d5be8fb06a28d:e4c065a535cbe333e1ac57b3383b02c0",
+            "820273e5a7fb4701b7a14004d78f3bf7:373c494fe8acfa26b7f5c75a7c890ce0"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/98927966?date=20220324105202",
+        "name": "MULTISPORTS 2"
+    },
+    "MULTISPORTS_3": {
+        "url": "https://dsh-m008-live-aka-canalplus.akamaized.net/live/disk/multisports3-hd/dash-fhddvr/multisports3-hd.mpd",
+        "key": [
+            "35d61e47623944589ddfcd90c9b10bc4:637b7dedc27fe2f3ab043dfae2825ee3",
+            "937d3d9c9fb74f43a26f31b61bda3e17:938f5fe01b2830dc63ed07e7d39f0f6d",
+            "44e1b4ff4f7f4bb8a48b01a9303988ff:23c08a367ad899a58d9c99c6cac61e9e",
+            "d099ac53bc9c466baffb36294681d8ca:b9b48f13fda97dcd03ad5325e7679aa8"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/98927975?date=20220324105202",
+        "name": "MULTISPORTS 3"
+    },
+    "MULTISPORTS_4": {
+        "url": "https://dsh-m004-live-aka-canalplus.akamaized.net/live/disk/multisports4-hd/dash-fhddvr/multisports4-hd.mpd",
+        "key": [
+            "0e9c1d560a04496faf312238433767f4:05488a8017c33a6518bbc5e67f64131a",
+            "85a37fab106b4220ae650a593cf84dcf:c282e684dbd89d459dcc3beecb433878",
+            "014e529f54964b2aad35020de579dc0d:f6e2636b8a52890db431677ca7dd408e",
+            "365e4ec0abcb4f5aac7a16180d686fbf:6e2dcb13d300b532f6c1ded366df08ed"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/98954258?date=20220324105202",
+        "name": "MULTISPORTS 4"
+    },
+    "MULTISPORTS_5": {
+        "url": "https://dsh-m005-live-aka-canalplus.akamaized.net/live/disk/multisports5-hd/dash-fhddvr/multisports5-hd.mpd",
+        "key": [
+            "000d2235843e4f8891aa25eea53a69ae:e2b50fcd485446aca588f30c9023adaa",
+            "125c572f2e7d449fae3b313ff03318e5:168f79861d2faf338ce9f74a278c5def",
+            "aba1c1f462734a4f8b07e8563d6f9341:b9a283e9399efae231b54edadf8b37f3",
+            "bdc2b216d1a5459ab8ac0aaeea1a361b:1ef214aced5e4342a39cb24d72e88835"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/98954398?date=20220324105202",
+        "name": "MULTISPORTS 5"
+    },
+    "MULTISPORTS_6": {
+        "url": "https://dsh-m004-live-aka-canalplus.akamaized.net/live/disk/multisports6-hd/dash-fhddvr/multisports6-hd.mpd",
+        "key": [
+            "028fac22f42f4742ae2af45ec12fe675:890c1c2ed5d994b593bd266c38cc468f",
+            "0b4fecdd9db54a4e98c3b65f590730e2:b02e9f7b4e755b815cfa9c40dc040ab8",
+            "e5e885d762354dbdbbfaaf12152be3ee:146c346b0bc27fd080b7eac172532fd1",
+            "9d8b277530b144649e36f7d31e6811a4:103c37aa91f5e030602f97f7e0c51ea8"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/98954405?date=20220324105202",
+        "name": "MULTISPORTS 6"
+    },
+    "EUROSPORT_360_1": {
+        "url": "https://dsh-m006-live-aka-canalplus.akamaized.net/live/disk/eurosport3601-hd/dash-fhddvr/eurosport3601-hd.mpd",
+        "key": [
+            "c97da184748d4af9b1c7f5a72c26f065:de3e1263bbaed71181b85ed699894f72",
+            "a339d7c93ca94a47b2366f2d2e698262:67757f2fb18fe73afe875f5b234716e0",
+            "e96a380f3aea4906b67b1121fe7264b8:e043df044f58962b27287c32cea09a37",
+            "c26b91df08b042019f40a8f5d43d2694:4509fd68c01e4b2ab80f21fd22d15776"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/103979669?date=20220324105202",
+        "name": "EUROSPORT 360 1"
+    },
+    "EUROSPORT_360_2": {
+        "url": "https://dsh-m006-live-aka-canalplus.akamaized.net/live/disk/eurosport3602-hd/dash-fhddvr/eurosport3602-hd.mpd",
+        "key": [
+            "c94486505d724b10b528a92d4538bee0:cf6fb83b6800274ee18817ec86a6724b",
+            "987b493d34734171b44cf8ef6be47260:7dac916f7390de8e7305a0b8030f6e58",
+            "079c4788543e40a081b5f53b24f01e12:0362731da765b011c054304eb5e018ad",
+            "4c51199d193c40888d4c4b6a42db6c9e:5a332456dbceafc23bc60c4a983e985a"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/103979677?date=20220324105202",
+        "name": "EUROSPORT 360 2"
+    },
+    "EUROSPORT_360_3": {
+        "url": "https://dsh-m006-live-aka-canalplus.akamaized.net/live/disk/eurosport3603-hd/dash-fhddvr/eurosport3603-hd.mpd",
+        "key": [
+            "25478724787c4d7792f2c35ae0d5ff02:668c4fc7fd7a64d5d95a2115307a20aa",
+            "131eeafb21bf4bfc88feac6e8655998c:cd2e2348d61ac80c475bb2bebad6935c",
+            "cbd33bfe78ea46d288d88f5cb2767082:3ea5b3707ae97061eec1666590e53e9d",
+            "de09f3b69d3a48568e24fd1a4d743c6b:abec68d3bf42652b944e6a3441e1ee35"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/103979686?date=20220324105202",
+        "name": "EUROSPORT 360 3"
+    },
+    "EUROSPORT_360_4": {
+        "url": "https://dsh-m006-live-aka-canalplus.akamaized.net/live/disk/eurosport3604-hd/dash-fhddvr/eurosport3604-hd.mpd",
+        "key": [
+            "bd80a8f380934dde9cefabb7f3c5f539:ff589d9de81d1a24258eb0b193417ec9",
+            "ca2b994a63a741a9bfeaa6fc873718fe:211cfa397d096bf7ce3bc90dd71d4073",
+            "29c33c967d2a4e4f9f8b9754f6d96732:80a2f9ef02015a3a21f2ec7ca4b74f72",
+            "d7b9a2f1f64f4cf896d7256fbbce3ba0:95c658dfab7ffc4a5f541d8e07fd264b"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/103979695?date=20220324105202",
+        "name": "EUROSPORT 360 4"
+    },
+    "EUROSPORT_360_5": {
+        "url": "https://dsh-m006-live-aka-canalplus.akamaized.net/live/disk/eurosport3605-hd/dash-fhddvr/eurosport3605-hd.mpd",
+        "key": [
+            "bb882ea7cc224f52b6d68e92ac527ca5:0df9f192e38d45e01196d6cc8a8a5955",
+            "5fc84264efdd4443b5cf6bd54b0e509e:9978ac4bfdbf04e77f59ba86366f7126",
+            "77262fe255f7439cb9f7f6dce5da675b:98debcf5a28a6ce80d150832ef6b1793",
+            "5a425ce1786145e28fa433fa06734f18:c972d8133593e713306c47a5ed23a8c2"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/103980290?date=20220324105202",
+        "name": "EUROSPORT 360 5"
+    },
+    "EUROSPORT_360_6": {
+        "url": "https://dsh-m006-live-aka-canalplus.akamaized.net/live/disk/eurosport3606-hd/dash-fhddvr/eurosport3606-hd.mpd",
+        "key": [
+            "a182bdbd28604fa69ae3104f033dc029:6a274760695caa4117747eba9d1d866b",
+            "f9bcdf9adb244de99d385de35009ea30:80b4fa79068a5f0467c21518ef823a57",
+            "cb512ad58bab47c58d2a03fa070fa420:738f0e16de3fb6a3e7838d1b1ac2ee84",
+            "0f7c16b730fd443b814432bbb24df69e:ee8f51aa3c74c49a6863ea3b0e10c8ca"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/103980301?date=20220324105202",
+        "name": "EUROSPORT 360 6"
+    },
+    "EUROSPORT_360_7": {
+        "url": "https://dsh-m006-live-aka-canalplus.akamaized.net/live/disk/eurosport3607-hd/dash-fhddvr/eurosport3607-hd.mpd",
+        "key": [
+            "eb17676fcbea4ef2801c05962bdf47b2:d0bd2b7cc270d708b2400c146535044f",
+            "c8413edb27034c3a8c6c5e0ee1ce9358:6a8be30440f3f817f05018f0930f35f6",
+            "6269a0966bd24f23865a5a8497389940:b13bb4e1f6482e9ac48aa1a8ace9708b",
+            "308e39ece4c44da0aadcb6bf2953a361:33fb0692a963893de8ae57979be681b1"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/103980309?date=20220324105202",
+        "name": "EUROSPORT 360 7"
+    },
+    "EUROSPORT_360_8": {
+        "url": "https://dsh-m006-live-aka-canalplus.akamaized.net/live/disk/eurosport3608-hd/dash-fhddvr/eurosport3608-hd.mpd",
+        "key": [
+            "2dbba649374c40f394f206af161ea71f:8fa70c70fadddf3c6ac16ef8e73e34e8",
+            "ddb4ca21175840edb372d34c30aa25af:46fb36e32403dde3e4727dba52743e24",
+            "b79253b1b43d47e19922ba6d78e6827f:e553bffe982e1dcd52235124ba92acfe",
+            "018ce6f8cc454ca3ae66ec4da7060563:aa8c7dd83f52cc01e6144be38229c548"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/103980316?date=20220324105202",
+        "name": "EUROSPORT 360 8"
+    },
+    "BEIN_SPORTS_MAX_4": {
+        "url": "https://dsh-m004-live-aka-canalplus.akamaized.net/live/disk/beinsportsmax4-hd/dash-fhddvr/beinsportsmax4-hd.mpd",
+        "key": [
+            "c008940105cc43e0ad17234f0e423ad0:833654ac9b68b5c051aabede0482875b",
+            "7916a4cca2944447b7e509e60a64be44:17c6162b6530b0b5f0993aad4a21990e",
+            "b6ae2a0f29e143369c746dce27f75f78:96b5f12ad6a2a21c3e5220ea623aa16f",
+            "fd265203178b4c3cb674b327d9e490c1:87b86f948dee0c7b5123f615b67d8454"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/48981655?date=20220324105202",
+        "name": "BEIN SPORTS MAX 4"
+    },
+    "BEIN_SPORTS_MAX_5": {
+        "url": "https://dsh-m008-live-aka-canalplus.akamaized.net/live/disk/beinsportsmax5-hd/dash-fhddvr/beinsportsmax5-hd.mpd",
+        "key": [
+            "a95f3eedda0840f499ba29d31da437fe:6fbf46c2a053cb16f5da27de5b0b23cf",
+            "6c2d2a193d144e33b93b68a6fd3f6dd7:c04684276cf1fe9ef32133052323aee3",
+            "59cba28640d048da92dc4575ef0d1489:3eae11bde346598e97bacc0eb684f6ca",
+            "b1502a69338148289cef13e4295b4d89:2e34cf55a09eb21d5b8a8953c0b06597"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/48981657?date=20220324105202",
+        "name": "BEIN SPORTS MAX 5"
+    },
+    "BEIN_SPORTS_MAX_6": {
+        "url": "https://dsh-m008-live-aka-canalplus.akamaized.net/live/disk/beinsportsmax6-hd/dash-fhddvr/beinsportsmax6-hd.mpd",
+        "key": [
+            "c08f61b51d004738bdc8ff9d8e667304:e4660be425d6628e1a6e2903bc40486b",
+            "4db257420e8941a68e6a8e4ca0bbcd04:f0d49f0a2d185ce4c07b6d8cd2cda6dd",
+            "631ca55273644989a917155560485b07:9d139b86dc9bee66bf3eb8d8aaf4e87c",
+            "3971ecc150fe471489b666d5265561ce:96d218a0e9221b55e6df26d819d00c73"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/48981659?date=20220324105202",
+        "name": "BEIN SPORTS MAX 6"
+    },
+    "BEIN_SPORTS_MAX_7": {
+        "url": "https://dsh-m005-live-aka-canalplus.akamaized.net/live/disk/beinsportsmax7-hd/dash-fhddvr/beinsportsmax7-hd.mpd",
+        "key": [
+            "ff6dcda335984f45a7acf7383f0f8377:e454f392086503c7d188e0c5676a720b",
+            "aa47ebbfbc5249aebcaa605e6572b3c4:ad6b799efec00399e62711c6e4959a77",
+            "bf6792c3ade34d6f883d5ff66714111c:6d9ffe8ccd50b2180eb75ed3f0ee0955",
+            "f8198a90816e4c60aac906c84493940a:783b851f8e4a992dcc51e9ceb687fd2c"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/48981661?date=20220324105202",
+        "name": "BEIN SPORTS MAX 7"
+    },
+    "BEIN_SPORTS_MAX_8": {
+        "url": "https://dsh-m004-live-aka-canalplus.akamaized.net/live/disk/beinsportsmax8-hd/dash-fhddvr/beinsportsmax8-hd.mpd",
+        "key": [
+            "5037399bfe2f4700ad86be3e398e008c:8ae18bce5d022e21d1fd5cd3443af4b4",
+            "0d33600b8a114eeaa8ff6f5846908cb7:adf635333b7ff2fcb8aa78c1e16e0726",
+            "a6adabee08694f0599c684539db634a3:52c4b1120261d44968fe74f5db326473",
+            "1ba98b0ec3364c8ca164fa9a08c5d7aa:273d1cd7dffefdeeaba6d61600364f1c"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/48981667?date=20220324105202",
+        "name": "BEIN SPORTS MAX 8"
+    },
+    "BEIN_SPORTS_MAX_9": {
+        "url": "https://dsh-m008-live-aka-canalplus.akamaized.net/live/disk/beinsportsmax9-hd/dash-fhddvr/beinsportsmax9-hd.mpd",
+        "key": [
+            "db9822d2d18241e09f33da9853b35597:e98267c671ba856eb0fc864657112999",
+            "399bcf9038c54fba8123401a08c3d3b7:81cfc6f61e4b3c15e1e1046dc95dd661",
+            "8ade2d2f5e0e4cb18368f1a2812d3962:fdd4ab41b326c9c0ea8c743b400bb76d",
+            "fe8b79385d624e2ba7554630a1b520cd:9bb268fa179f174556d3ac727130e87c"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/48981669?date=20220324105202",
+        "name": "BEIN SPORTS MAX 9"
+    },
+    "BEIN_SPORTS_MAX_10": {
+        "url": "https://dsh-m005-live-aka-canalplus.akamaized.net/live/disk/beinsportsmax10-hd/dash-fhddvr/beinsportsmax10-hd.mpd",
+        "key": [
+            "ba7eae5c113943018a3a4b5efb52bc0a:959706333d8325edc5d83877e38f43e5",
+            "53b6ee0f95ac495abd27d65420701a25:a2ccfa030d388ef25ce955957f6d2dba",
+            "84da2a82caf44f5986a80bf483330558:d114af4ce54dd192edd95b7f2a072707",
+            "f8305120f16c4f8bb83547a336b194df:ee01c62d102c3008fe041846c142900f"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/48981671?date=20220324105202",
+        "name": "BEIN SPORTS MAX 10"
+    },
+    "CANAL_PLUS_PREMIER_LEAGUE": {
+        "url": "https://dsh-m006-live-aka-canalplus.akamaized.net/live/disk/canalpluspremierleague-hd/dash-fhddvr/canalpluspremierleague-hd.mpd",
+        "key": [
+            "1523f0db88774d858a5467e0816e2ecd:54ed7fc70881560c6c156d552d449b96",
+            "73d7081ebe994070be9b1c4cccccc1bf:0463f7424bfce1efd7bc6d38a75d7f4a",
+            "cf14484a4856464bbfb38384ae7f1cf2:a3e0b26f439ccbc11b68bc8c3c3140cf",
+            "39e39fb2cf8344d0815babaf98da1249:498fc9881e6b558c5251500c86d66f8a"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/93739265?date=20220324105202",
+        "name": "CANAL+PREMIER LEAGUE"
+    },
+    "CANAL_PLUS_TOP14": {
+        "url": "https://dsh-m006-live-aka-canalplus.akamaized.net/live/disk/canalplustop14-hd/dash-fhddvr/canalplustop14-hd.mpd",
+        "key": [
+            "c7a8693380bf4421a287ec36ffd8f4ed:2bdbcfb6f8e10df4373f9e937210333d",
+            "e564e914c6304e88ab8ccb7ccc00dbb2:c9a52ef51348769841da850ee92a62f8",
+            "74841dc1861d412abdfee9e003d27fd6:59164f0a3e1482964e92dd31e5f86aef",
+            "8142951453774bc5a42bd342b16cd722:80fc909c9e1405a2b9d1d14368f7de5f"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/93843469?date=20220324105202",
+        "name": "CANAL+TOP14"
+    },
+    "CANAL_PLUS_MOTOGP": {
+        "url": "https://dsh-m006-live-aka-canalplus.akamaized.net/live/disk/canalplusmotogp-hd/dash-fhddvr/canalplusmotogp-hd.mpd",
+        "key": [
+            "1b4f2f896fb949238dc61e4c4cbecca0:50b72a9f48157a1651478528afa13830",
+            "56f9e274ba0343b59c7097876a508934:ecd2666b64ec176cd05ec11e2b254849",
+            "0dac55962e0244b7a65408cf8e5c3c1a:0c23a04956129cd5a897148aedd3ec3a",
+            "575d194987b04b41919d674e43cfa59b:01ed8f02f4502f8ecf5d9be2cebd41b0"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/99587476?date=20220324105202",
+        "name": "CANAL+MOTOGP"
+    },
+    "CANAL_PLUS_FORMULA1": {
+        "url": "https://dsh-m006-live-aka-canalplus.akamaized.net/live/disk/canalplusf1-hd/dash-fhddvr/canalplusf1-hd.mpd",
+        "key": [
+            "f370399659f54954a80a0e53c7a87b40:c94fd8c303dbc9f6415ac2744ed92113",
+            "93c2893555a240598a4a0ae40eb407d5:ac7000a06c8c7ec0b33881d7051adc56",
+            "2b3eca9093e84eb3941aec39612dc814:97e2d3e0037b0394b3d52ad2393038d1",
+            "482032e4d54c48698814d1995a3f452c:692ff1301d75d6c6f756fc31197fff9a"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/94543777?date=20220324105202",
+        "name": "CANAL+FORMULA1"
+    },
+    "F3_ALPES": {
+        "url": "https://dsh-m011-live-aka-canalplus.akamaized.net/live/disk/f3alpes-hd/dash-fhddvr/f3alpes-hd.mpd",
+        "key": [
+            "b7b3ac6e22a8450c8efbd1bedb372611:7ec818a32489c274260d56538d7a1c02",
+            "44fb62a680b648e2931aca722829ca3a:718ddb05c12805c7756bc09201df60a5",
+            "883a74de03cf4013a240c29cd96b519d:4942dea6dc25ee84f20c724b20335674",
+            "d311b20426cf40ef83648e01b33500a1:7dec26ff5fc2e538d7698c87b2ea86e5"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/79263744?date=20220324105202",
+        "name": "F3 ALPES"
+    },
+    "F3_ALSACE": {
+        "url": "https://dsh-m011-live-aka-canalplus.akamaized.net/live/disk/f3alsace-hd/dash-fhddvr/f3alsace-hd.mpd",
+        "key": [
+            "27f6ba75d9284fe3853033e3d5ef6656:cf228ab908e2cf4fbdfb232e0bf500ea",
+            "5ec0b7fe17c542e98105338f4d1eba88:f44251d112683aec70c28aeca9e60e71",
+            "e2e0e4c0a4c74ef5b8363eb1ce1fcb0e:5573fb02c78001e86f0fb34e2acf6836",
+            "293ac3196c284198883cbf3b5fc6aba2:b6ee23806967dd4c1b1e73a63e7cc630"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/79263809?date=20220324105202",
+        "name": "F3 ALSACE"
+    },
+    "F3_AQUITAINE": {
+        "url": "https://dsh-m011-live-aka-canalplus.akamaized.net/live/disk/f3aquitaine-hd/dash-fhddvr/f3aquitaine-hd.mpd",
+        "key": [
+            "fc1af878e992447fb30feadeba7031b8:ccec0a66b539879170573f92f6dc0fb9",
+            "a876dbff12764e098ff8de6a62daaa8f:f66b48726f082b68b34b342ef0e3b141",
+            "2a58815729274c1eaea05009273e2b05:5b6696504fd81f77fe36397dc16aada6",
+            "439eb2ec49e8405689a68071529c0592:3c686a38ae4c4ceed8be02fb5e38b4dd"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/79263728?date=20220324105202",
+        "name": "F3 AQUITAINE"
+    },
+    "F3_AUVERGNE": {
+        "url": "https://dsh-m011-live-aka-canalplus.akamaized.net/live/disk/f3auvergne-hd/dash-fhddvr/f3auvergne-hd.mpd",
+        "key": [
+            "4746eef7b3dd41809559a1967079892d:4d3c976a86e9e3251ad3ada0c6117d8a",
+            "62b866a09a7f4e0f92560ad2c412cbb6:65610dbc8b2987faa6df48fe17315fe9",
+            "1ef8741dcbc64996a1d3738f36f9e716:3496fd5d4252104ad7dfb3e84f90be62",
+            "3be6a03297e34c59a33d72bdcc84564d:c80e46cc5e5eb55eed9781b8c5f1bad2"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/79263736?date=20220324105202",
+        "name": "F3 AUVERGNE"
+    },
+    "F3_BNORMANDIE": {
+        "url": "https://dsh-m011-live-aka-canalplus.akamaized.net/live/disk/f3bnormandie-hd/dash-fhddvr/f3bnormandie-hd.mpd",
+        "key": [
+            "560b186c0ac444089464bf1aacf2808c:fc95cd8fb08e6fe1475cd530e2af9a1b",
+            "f0daf2a881084395b79b5b48a98416b6:4b74d64490b727b7d7aeb68883c5f7ef",
+            "ede6c2b628214c828bbfacdef322a4dc:c6f824e4fa4618b5fd49266e7798e632",
+            "05be43db23224fcc8fcf2540db584ba9:2b10488764653c0ef7c26bcf3983825c"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/79263732?date=20220324105202",
+        "name": "F3 BNORMANDIE"
+    },
+    "F3_BOURGOGNE": {
+        "url": "https://dsh-m011-live-aka-canalplus.akamaized.net/live/disk/f3bourgogne-hd/dash-fhddvr/f3bourgogne-hd.mpd",
+        "key": [
+            "b60e845ca1604f6b88f1c11c2a951998:4beb528de28da5a2b3c9860ec826abf4",
+            "8ebae2a551fe4fc9ba93b601f0af53fc:bc08949155106bd69aea50716461f050",
+            "50278e788e754d3dbbf4461dea17a9a9:ea715229dfde802f69d145cdc0f3d2f0",
+            "4624c5289e224e5996fbefe4133060da:b5e3b9b0dca36f895d0facf972956a67"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/79263740?date=20220324105202",
+        "name": "F3 BOURGOGNE"
+    },
+    "F3_BRETAGNE": {
+        "url": "https://dsh-m011-live-aka-canalplus.akamaized.net/live/disk/f3bretagne-hd/dash-fhddvr/f3bretagne-hd.mpd",
+        "key": [
+            "490a6d034cb3456c93417d455bfb6d52:80ef4811815751cb5a8eed00444ab1c9",
+            "960e31208f68406cb790dcf76c8c3917:7c8f6302d8d710faf0a6e557668e9891",
+            "8106860fb09a42f0abdd4f17b4771e4a:5a2175980018610cec1d7982930f9687",
+            "757c738809034c64904c26877d7fc45b:9bcf03f161d1e376f1b9ef2bb065dc90"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/79263797?date=20220324105202",
+        "name": "F3 BRETAGNE"
+    },
+    "F3_CENTRE": {
+        "url": "https://dsh-m011-live-aka-canalplus.akamaized.net/live/disk/f3centre-hd/dash-fhddvr/f3centre-hd.mpd",
+        "key": [
+            "1da516d4eca34227b2b031063d5b38a5:0d42d9be1a5327037c06b5e56829cb5e",
+            "8da95a8cfb68435f97e4ac21f5e098ef:f0e5084ffd5532bc0b32c31dce0884dc",
+            "47d308582c424c88963c9c47a917b434:93e6ef6e11997206f9105d7b1e23670a",
+            "05651260b0a247b997f6b831e91f9fcc:abb38e708ca8360fdb0facb354ca3a61"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/79263781?date=20220324105202",
+        "name": "F3 CENTRE"
+    },
+    "F3_CHAMP_ARDENNE": {
+        "url": "https://dsh-m011-live-aka-canalplus.akamaized.net/live/disk/f3champardenne-hd/dash-fhddvr/f3champardenne-hd.mpd",
+        "key": [
+            "38226b23d1354ebfae1a5be234a03264:8e12628d1111df8bd6489d7850db6c63",
+            "cc8034b6619e457f9a93044211ee3b07:76406039973e70852d6b67bbbb444ec2",
+            "cd0a82aa402c47e892b1a30d89586e12:c3807d864e08f17b0e0ebd2b1ed780e6",
+            "b36a4a5157ee48d887b9229fc847b3f1:6b6890f92472204e66b2b5dd1c5d21b2"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/79263793?date=20220324105202",
+        "name": "F3 CHAMP ARDENNE"
+    },
+    "F3_CORSEVIASTELLA": {
+        "url": "https://dsh-m011-live-aka-canalplus.akamaized.net/live/disk/f3corseviastella-hd/dash-fhddvr/f3corseviastella-hd.mpd",
+        "key": [
+            "540992f2528d4f1b860252d15e1161bc:a044fbe78a9d38423774490c65319cc5",
+            "d38ae8a476144f5fafc062245a81107b:c785fcae00a51c247f45a61d2018cc3d",
+            "43bffeee68fb4aae9deb9544fcaefdd0:c49bf55e3ca7a2a7646112beb4ae926b",
+            "9b64b37747ed46dfb4addf03cf6f52c3:7e836979e42b3bb17ff4eb1b37b4ffdf"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/79263817?date=20220324105202",
+        "name": "F3 CORSEVIASTELLA"
+    },
+    "F3_COTE_D_AZUR": {
+        "url": "https://dsh-m011-live-aka-canalplus.akamaized.net/live/disk/f3cotedazur-hd/dash-fhddvr/f3cotedazur-hd.mpd",
+        "key": [
+            "54a20dc6db2d4f1c92033b7da82c4998:f8e5e72d30157775af2bfd5a935254a9",
+            "ce1349e162874b89b0ca649746fb6240:d84da3dc35a9669f37105d7d231a13bf",
+            "25b9b2878a994e1fb5e5af681bb9c558:2742c95b24bca01f132ed93a9bbec605",
+            "063aff2015334a58ad2c518c379c4582:835987d5f492cedc68e8a17ea25b9320"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/79263777?date=20220324105202",
+        "name": "F3 COTE D'AZUR"
+    },
+    "F3_FRANCHE_COMTE": {
+        "url": "https://dsh-m011-live-aka-canalplus.akamaized.net/live/disk/f3franchecomte-hd/dash-fhddvr/f3franchecomte-hd.mpd",
+        "key": [
+            "f17fb13d6c6a49d08ed7918340fca725:5d48cf832aa1daa07592fd11be2a8a3a",
+            "cd175f58ef75431c9cd9bcb1b5bae68a:c3f9c9fbbb33176f2a505eb1ccde2870",
+            "35c90515ede74487af7b7e14d8681969:276191222a0478bab56a41cf438a8615",
+            "8210b0a1d5fc45f980ee3532980e1cf5:6afe21f0e521e994addf6a9eccde1199"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/79263724?date=20220324105202",
+        "name": "F3 FRANCHE COMTE"
+    },
+    "F3_HNORMANDIE": {
+        "url": "https://dsh-m011-live-aka-canalplus.akamaized.net/live/disk/f3hnormandie-hd/dash-fhddvr/f3hnormandie-hd.mpd",
+        "key": [
+            "908a8b0eaf4945f8a75478062b6e6b50:4539c73c1ce2f38d01a9a99904046b88",
+            "db1cf9716de2414d8f959e256c141dd7:39157671755f011856ca436577ff02b5",
+            "6115396131a24bc9b1381ac4a58146fb:cec9476f5ff499e3d0be06362d7f0867",
+            "6fc7e2b4df8447978deb5e3b08026375:d7c22c71ac4ec085751b4e5c87e8a62d"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/79263805?date=20220324105202",
+        "name": "F3 HNORMANDIE"
+    },
+    "F3_LANGUEDOCROU": {
+        "url": "https://dsh-m011-live-aka-canalplus.akamaized.net/live/disk/f3languedocrou-hd/dash-fhddvr/f3languedocrou-hd.mpd",
+        "key": [
+            "73f72244afc8482ca6b6ec031e85d315:bad79bc0a77130906866793fd88d229f",
+            "9593009548f34973beb4ad3fa044992a:84c3c5592aae7d6d802bf472680678b1",
+            "75e6c36eaecf4b3d9bcc85229da34aae:57d30f3406f6fa5eb9d40d0b9f524a64",
+            "c4f6115d13a346468e40ebd17c7a1765:8da1313ab6ec98ab1d5e26a8ce8f1970"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/79263765?date=20220324105202",
+        "name": "F3 LANGUEDOCROU"
+    },
+    "F3_LIMOUSIN": {
+        "url": "https://dsh-m011-live-aka-canalplus.akamaized.net/live/disk/f3limousin-hd/dash-fhddvr/f3limousin-hd.mpd",
+        "key": [
+            "362c2cc938ab49f9aeadc3fbe369b34d:5dd55afb6a4b67fed1b2a9ee690a04ab",
+            "c38fb637c77944b6a2b5db1a1781fe51:3f53491d07bbce9c98e49f1fe647a513",
+            "376500b4df2942e1b041727d4bae98c0:9e1799a2930b6df7131761ad9baf6a8e",
+            "322d92276a434edc939989b5b1846022:47c4a403eb0e9cc6377e8ae1bd1487ff"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/79263752?date=20220324105202",
+        "name": "F3 LIMOUSIN"
+    },
+    "F3_LORRAINE": {
+        "url": "https://dsh-m011-live-aka-canalplus.akamaized.net/live/disk/f3lorraine-hd/dash-fhddvr/f3lorraine-hd.mpd",
+        "key": [
+            "2dd9381f255a4ab284a0b67dd87517d4:4e9f02b74fd6280c2eadc5947d98d91f",
+            "953f930ecc144d05a1cbdd791a85266f:9b1ad1c7a89cb05009fd20e980661b5a",
+            "269fa6ca1f354ac1ab06b5bbbba6fe51:4ebd4f1fb1fc6040d2662c2fc35ab1a8",
+            "3c19c7602feb415cb0c1bd7868791ee1:041962b326f896a1a7c00b0e67f05235"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/79263769?date=20220324105202",
+        "name": "F3 LORRAINE"
+    },
+    "F3_MIDI_PYRENEES": {
+        "url": "https://dsh-m011-live-aka-canalplus.akamaized.net/live/disk/f3midipyrenees-hd/dash-fhddvr/f3midipyrenees-hd.mpd",
+        "key": [
+            "3ffdffa62bd44ed7bc73377395d3301e:8ae1ed8f056dcbad21aa6d552f4205b9",
+            "9ba2d9b85e64474f870f5bba863d68f8:43100cd5f5159e711cb0b4ad81f0f985",
+            "240d4f5684ac4ad48ab551a9b3f70e23:86fff06030e8ce844f3b9d8165da7a77",
+            "20b2ee0b53d540e09900b9c4a078dabd:42ccf8b19231aa37dbf6f31d5fac42a1"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/79263813?date=20220324105202",
+        "name": "F3 MIDI PYRENEES"
+    },
+    "F3_NORD_PDC": {
+        "url": "https://dsh-m011-live-aka-canalplus.akamaized.net/live/disk/f3nordpdc-hd/dash-fhddvr/f3nordpdc-hd.mpd",
+        "key": [
+            "7ab8ce4bc50a4e17b57a3d0c091c3ed8:88e45dab35a745408ac86e5db1f67d56",
+            "4b90e1a74b45408fb474a917e3ff7bbe:2960287e5f0882abcf0665a6012ea326",
+            "bae62c2bd396434dbc0d9f519bdc4eb1:f34958c7e7437b83b4d60fed250ce797",
+            "56109296ef00437b92a211f6d7707818:522debe5c19a334756c37ce36c300a73"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/79263748?date=20220324105202",
+        "name": "F3 NORD PDC"
+    },
+    "F3_PARIS_IDF": {
+        "url": "https://dsh-m011-live-aka-canalplus.akamaized.net/live/disk/f3parisidf-hd/dash-fhddvr/f3parisidf-hd.mpd",
+        "key": [
+            "f51895a009cc4ad98cc6dac91317f115:c11ebc864231c05ece03fe4d06030e34",
+            "87d8f6296e4f47efbab2579051a9a83b:1fcd3dc644525ca17663a76f027ae950",
+            "f93753094b5547f4b073a7a03f1225e4:7a13d42232b99a3b1cfc8b8a21edeb09",
+            "6e530e6e80954d6480026569dc426380:23bed7b5130ff807a1a3a7f8bd3eaa5d"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/79263785?date=20220324105202",
+        "name": "F3 PARIS IDF"
+    },
+    "F3_PAYS DE_LA_LOIRE": {
+        "url": "https://dsh-m011-live-aka-canalplus.akamaized.net/live/disk/f3paysdelaloire-hd/dash-fhddvr/f3paysdelaloire-hd.mpd",
+        "key": [
+            "4dc9291418a94a7e92d39b8eae3d00ff:9993d1de499da65751460918274aec78",
+            "857bd39e6c654fa68e76790e3e8d9cc6:359d75e985b92ff4bdf98a0e1d5afa6d",
+            "6cdb015f943b4636a1f4096802dbef08:9f7f26f87281ac3a2dfd5101f73cab61",
+            "ee8c06c210bc4f73834eafa070915b81:096b0e27dc366ab5ce3976aee342a3e5"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/79263773?date=20220324105202",
+        "name": "F3 PAYS DE LA LOIRE"
+    },
+    "F3_PICARDIE": {
+        "url": "https://dsh-m011-live-aka-canalplus.akamaized.net/live/disk/f3picardie-hd/dash-fhddvr/f3picardie-hd.mpd",
+        "key": [
+            "3de6da4d28774b0dbba17ea8dbe30fa7:db9075d03e0c90b2870cf823d768ef0c",
+            "7f9061be9a6048a48458e1e9b9576894:b285c7dcc1e2bdcc10c60007478af599",
+            "231f49d3eda547d9aedf3bf63e3cd7e8:862036f04f14971b8867bec0fa988d67",
+            "a712780de0954a25b130ba6b9c51885e:581307d02a3245953cc65f1f2b72d121"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/79263720?date=20220324105202",
+        "name": "F3 PICARDIE"
+    },
+    "F3_POITOUCHAR": {
+        "url": "https://dsh-m011-live-aka-canalplus.akamaized.net/live/disk/f3poitouchar-hd/dash-fhddvr/f3poitouchar-hd.mpd",
+        "key": [
+            "ddc3208de4d04e838d988294a33bf93b:cee7d49d7dbc202d9c0779d2daa2f61b",
+            "64d95b900f064d7380c7ac0d3c0fd528:ed29b93212d321a9e5772a1d9bd575ad",
+            "e5a8c3d178cc493f851ae674f81e41a6:06a23a38271774376bb812b9b0b5e122",
+            "408381ce4ab14ca59d46e0384a8919f3:29a090e9102efdbd914dc57459db9e43"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/79263789?date=20220324105202",
+        "name": "F3 POITOUCHAR"
+    },
+    "F3_PROV_ALPES": {
+        "url": "https://dsh-m011-live-aka-canalplus.akamaized.net/live/disk/f3provalpes-hd/dash-fhddvr/f3provalpes-hd.mpd",
+        "key": [
+            "e20531b85ecb42448aac62fa631b8b18:97f419074044c2120c1cd64c8dfe215c",
+            "296f46bc8d2941f485af6d6e4f10d50d:cd159de83c532e32f44ca9bd791b5af8",
+            "05222483fa104a4bb469749b93026c3e:f0cadb4d9de5856d3e59b28c01c0e71e",
+            "c1daba143e7f40d5af63256ed026d2fe:c6468cea0d0011d24cb29d6c227cc901"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/79263761?date=20220324105202",
+        "name": "F3 PROV ALPES"
+    },
+    "F3_RHONE_ALPES": {
+        "url": "https://dsh-m011-live-aka-canalplus.akamaized.net/live/disk/f3rhonealpes-hd/dash-fhddvr/f3rhonealpes-hd.mpd",
+        "key": [
+            "4dd4818eb4f447b5bd4cff7f72a95a0f:587afc7f3b50c29d1aaf6456842c05e5",
+            "ad68b384905142cebecb56755ce64290:3b3650a25b42fb2f7e75db89d94fa137",
+            "ba5443195a484ccda378264585f6b5ff:1ce28981cae34203b868b26049481be7",
+            "a1dcd106bb4f46d3a8044730fd7d48d9:7f8b2f8611bf21e7403dbc1c66544bcf"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/79263756?date=20220324105202",
+        "name": "F3 RHONE ALPES"
+    },
+    "F3_NOUVELLE_AQUITAINE": {
+        "url": "https://dsh-m011-live-aka-canalplus.akamaized.net/live/disk/f3nouvelleaquitaine-hd/dash-fhddvr/f3nouvelleaquitaine-hd.mpd",
+        "key": [
+            "715c1f2756494e5bb240d7092e3fd677:7f70a725999093adbd236626185da52a",
+            "3e44ea0a9a4d473888286aead4453506:5b3a6978a0b865ea6f4e9ff7b698c705",
+            "ab16abaf34374e95a33a4232e7fe9ada:807bf333692e5f87e825ccb1135d2302",
+            "6f322a4eb7e44c8982cc00e7eb65ac28:87e21b0d1ff9393ee2fed7d547b70d5f"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/103926911?date=20220324105202",
+        "name": "F3 NOUVELLE AQUITAINE"
+    },
+    "FRANCE_24_ENG": {
+        "url": "https://dsh-m007-live-aka-canalplus.akamaized.net/live/disk/france24eng-hd/dash-fhddvr/france24eng-hd.mpd",
+        "key": [
+            "bd3ae7e99bcf4a25b420e7e56d32a3ab:b6c6ab9385057d15cec54e3b35c14e6a",
+            "4c64cc7322e346288c1ebf8c7f5330cb:0f3c2e3f20e5ec909abdb150653e2e16",
+            "79d72d0442d34cdaa098bc0068bfbde3:6a4a2c5d66895a543621f21a4e6b1e74",
+            "8a1c69e3c72a4127b1f97a8f3438c9ca:7d7d0919cc2f9dcf910b69d781c0bf7c"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/18810797?date=20220324105202",
+        "name": "FRANCE 24 ENG"
+    },
+    "ARTE_ALLEMAND": {
+        "url": "https://dsh-m007-live-aka-canalplus.akamaized.net/live/disk/arteallemand-hd/dash-fhddvr/arteallemand-hd.mpd",
+        "key": [
+            "d814b8f824384767a03e851990358fa6:961be30bd4c0bc48182b95d8b2fe88c6",
+            "2a569a311b0e4ea1be83524fec5f18c7:64e5b08b0a78c072bbadba7c5fb8194a",
+            "abd9fc1db60f47678029e4fed9ff44fb:65dd82495783b0a5b1ef12f7fea58716",
+            "1731d1cce88844818168065c48e8248a:02cb31507ea945daac0ca4308874e4e0"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/103088212?date=20220324105202",
+        "name": "ARTE ALLEMAND"
+    },
+    "EURONEWS_ALL": {
+        "url": "https://dsh-m007-live-aka-canalplus.akamaized.net/live/disk/euronewsall-hd/dash-fhddvr/euronewsall-hd.mpd",
+        "key": [
+            "6b040c432570465e8c0121a6f97585bf:4670ffed19958db9542c167137b82cbd",
+            "7cd9641fa6fc496c85a15903642f0fb0:87de4a4323a16d6b3f9f52e21d78a8cd",
+            "ff6dec6ed0694d51a933fb8c6cd23f13:c8fdca1bcc7a4b45ad207e845e573d60",
+            "8095e7dca2be44f8bb8d5f5716fccd57:d0fbb957e7942f0644362a3d88a3beae"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/61718413?date=20220324105202",
+        "name": "EURONEWS ALL"
+    },
+    "ARIRANG_TV": {
+        "url": "https://dsh-m007-live-aka-canalplus.akamaized.net/live/disk/arirang-hd/dash-fhddvr/arirang-hd.mpd",
+        "key": [
+            "45611cf829b2433b9b5aeac047643001:787b309bc4bc6d6608cee432d8db0b1d",
+            "8b8b3929d060447f99a76861c3d409a5:c46b1a1b27251fb6fd591db340a1780c",
+            "799f40240d354f429cb0d965674888c1:cbed229d309a3d3af44298bf4781fe5d",
+            "494a2322645242bca5c898cb01dce9ee:bcb01ef5d14cd32449359627524f73bf"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/103093516?date=20220324105202",
+        "name": "ARIRANG TV"
+    },
+    "NHK_WORLD_JAPAN": {
+        "url": "https://dsh-m007-live-aka-canalplus.akamaized.net/live/disk/nhkworldjapan-hd/dash-fhddvr/nhkworldjapan-hd.mpd",
+        "key": [
+            "1cccdfaab7ba4d74bf98dd4198f2bd8d:959e994b1b154ce21b077b25ded76705",
+            "6a52687c325e49a08059daf1c11f9502:085a5b89bc88c7a7d287fa09ab6ee0df",
+            "14e1316056c14952849de1932159ef0c:bff531e6ac49955b38583f5c95a65052",
+            "2a9b1c695904441b86e1d48064769de3:e90140d7cda628aaba7233685759a987"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/69345620?date=20220324105202",
+        "name": "NHK WORLD-JAPAN"
+    },
+    "MOSAIQUE": {
+        "url": "https://dsh-m004-live-aka-canalplus.akamaized.net/live/disk/f1-mosaique-hd/dash-fhd/f1-mosaique-hd.mpd",
+        "key": [
+            "149d64e8820c4f88a5750d07395f2289:3e86f9ee6ebf33e52d5765a7d4772cf7",
+            "8205cf8ad4354c9cbaa1bc0f6f14bdfa:9f422c40cedf4b1f6bcc6be7590bcec5",
+            "9b922b902a574ea6a5c6f264025fa02b:7b2dc405896668944d43e91f3650021f",
+            "9d1b006c98fb484c8d34a07587b15e69:a5714d6018661109eb3950f8bbddea3f"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FB/PNG/150X112/CHN43FB_970.PNG?date=20220324105202",
+        "name": "MOSAIQUE"
+    },
+    "GP": {
+        "url": "https://dsh-m001-live-aka-canalplus.akamaized.net/live/disk/f1-gp-hd/dash-fhd/f1-gp-hd.mpd",
+        "key": [
+            "f17c766f657447bbbc6f00cd5e830ec1:191a19ce500010f24e52a31bbe203b35",
+            "e500b2bc8aec48c085fb21dde1620645:89569ee92b2c9ab29c9a59908e671e8f",
+            "16d147dbcab64536a377f4ed75f06e90:51107d42fea5ed460f8b9e9e0337bae8",
+            "20c1dd45f0ae4b0fbf53e476c035863d:bbe8b10d1035640c8ce6ca1b2ffc1344"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FB/PNG/150X112/CHN43FB_971.PNG?date=20220324105202",
+        "name": "GP"
+    },
+    "ONBOARD": {
+        "url": "https://dsh-m004-live-aka-canalplus.akamaized.net/live/disk/f1-onboard-hd/dash-fhd/f1-onboard-hd.mpd",
+        "key": [
+            "66415ace9dc04391837b316bba6803bb:da3c01a89e56b25024f522fc877213ef",
+            "21430d93355f4c84869a7753001c7c0b:ec3dd6aec1edf9d1bf81bf15a80f5c57",
+            "dbdb1cc7869347bbaa0ea4ddd2027123:8dd2688787ad2f69223aca71f3d08fb6",
+            "1e60f7bf52e0423192cc405cbec2c4e4:24ce45ba038524f686c1fffc97d9e18f"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FB/PNG/150X112/CHN43FB_972.PNG?date=20220324105202",
+        "name": "ONBOARD"
+    },
+    "TRACKING": {
+        "url": "https://dsh-m001-live-aka-canalplus.akamaized.net/live/disk/f1-tracking-hd/dash-fhd/f1-tracking-hd.mpd",
+        "key": [
+            "852aa11ac0ed4d719d3e59e6de79b807:2cbaa8b7fdea74a0c8925cd2ab94e034",
+            "5e5b13aef68947e991529c4c41322b0f:005e91e95aeb32169693a71d7c295839",
+            "831575aae6d54e349f7a733be7e66dc9:ecaf0c5485fe11128d73063b2207a4c5",
+            "b78376b963e34384a755aea56182cb00:e4a7b6bd918ca80d7028c684d2f19313"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FB/PNG/150X112/CHN43FB_974.PNG?date=20220324105202",
+        "name": "TRACKING"
+    },
+    "CHRONOS": {
+        "url": "https://dsh-m001-live-aka-canalplus.akamaized.net/live/disk/f1-chronos-hd/dash-fhd/f1-chronos-hd.mpd",
+        "key": [
+            "0c51fc63edf84d949af4488613e910f6:43f25ed13b3bbafef1b39b4b7d703509",
+            "1629b895886d4326802f178222618e49:d74603d9388b1080d991c203b08e879e",
+            "e1191c56bb6d4e0c9f40eb787f8e9dfd:e813e7da7962c11ceab9c6e0e89ca914",
+            "3f99bcd99142485dba54b999078b1e04:bd347f8a1bb32205618e002e2e651fdd"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FB/PNG/150X112/CHN43FB_975.PNG?date=20220324105202",
+        "name": "CHRONOS"
+    },
+    "STANDS": {
+        "url": "https://dsh-m001-live-aka-canalplus.akamaized.net/live/disk/f1-stands-hd/dash-fhd/f1-stands-hd.mpd",
+        "key": [
+            "656167d2a3c24acfb48ed6acd27b4f1b:d9fc2ae9b48aa9a5e081328354fef8f9",
+            "46e39caa022d46dea29436d40c6903ac:71fe346cd4869a068da90e2ea69f4e0e",
+            "d3088b5cd9684be79fde9e41dc718d96:d5f10b0da648c2e1c98e78bc81315f6e",
+            "2a20ff9d4a1c4743b3320cb786d840d0:02f98fa5e8d02c45f16472ee9cf1c1c1"
+        ],
+        "logo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FB/PNG/150X112/CHN43FB_973.PNG?date=20220324105202",
+        "name": "STANDS"
+    }
+}

@@ -1,0 +1,9 @@
+{
+	"Starz_HD": {
+		"id": "533",
+		"name": "Starz HD",
+		"logo": "http://services.timewarnercable.com/imageserver/guide/34941",
+		"url": "https://edge-novi.spectrum.net/LIVE/1106/dash/cenc/STRZE_HD/manifest.mpd?adId=64c9272f-e3ea-4c03-bd18-8b979e7021ed",
+		"key": ["3ab1e126d62e4669b843070ebdd9ae02:6b6c3e008d218c0c2a1037de1587e708"]
+	}
+}

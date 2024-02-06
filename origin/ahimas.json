@@ -1,0 +1,17 @@
+{
+    "SOMOS_AHIMAS": {
+        "url": "https://clm.ahimas.openstream.es/LB-Opensport/smil:104_HD.smil/manifest.mpd",
+        "key": "359da8cede5649c4afa63693e4f51156:567c90de06c0a825085a43431dc7ba39",
+        "name": "Somos"
+    },
+    "ODISEA_AHIMAS":{
+        "url": "https://clm.ahimas.openstream.es/LB-Opensport/smil:83_HD.smil/manifest.mpd",
+        "key": "a46b5d4768cb44149eae352b3851e1be:8f4445c96d71894bc507660d38bbc723",
+        "name": "Odisea"
+    },
+    "BETIS_TV_AHIMAS": {
+        "url":"https://clm.ahimas.openstream.es/LB-Opensport/smil:52_HD.smil/manifest.mpd",
+        "key": "f79fb516f2224072a6932aeef61eef00:96ae6fb8635e23c7e32d72d18e6f86df",
+        "name": "Betis TV"
+    }
+}

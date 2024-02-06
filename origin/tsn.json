@@ -1,0 +1,50 @@
+{
+   "TSN_1": {
+		"name": "TSN 1",
+		"url": "https://pe-ak-lp04a-9c9media.akamaized.net/live/TSN/p/dash/20000001/9d50f71ec5db29e6/manifest.mpd",
+		"key": [
+		"83fecf7976054f428d3205c3b639efc7:e42dfce12d4968ac5c08fef076a3464e",
+		"5febd0f50d3b3d6f8817b52f94437780:87767410a7cef027b5524a964d91193c"
+		]
+	},
+   "TSN_2": {
+                "name": "TSN 2",
+                "url": "https://pe-ak-lp04a-9c9media.akamaized.net/live/TSN2/p/dash/20000001/c3e23fb53bc40cb2/manifest.mpd",
+                "key": [
+                "bab932a40f53a7162b71d9af6c0d4371:6b0e11ce67211ee3328730b1c7dc4fa5",
+                "a8820bf5f91c2f61b2eb73a2e32d823f:b7dd720ce098a3e9e3336dd5202ecc3e"
+                ]
+        },
+   "TSN_3": {
+                "name": "TSN 3",
+                "url": "https://pe-ak-lp04a-9c9media.akamaized.net/live/TSN3/p/dash/20000001/8668457937758888/manifest.mpd",
+                "key": [
+                "b18d04ffc041a89ed26088be10f46068:e2a3d1f5fa43ac5f3b9060443a363dd1",
+                "796da30798a7ae8c8c2f4bc19d2a2fb0:cad987d7deea5e5deffc35b6497d643b"
+                ]
+        },
+   "TSN_4": {
+                "name": "TSN 4",
+                "url": "https://pe-ak-lp04a-9c9media.akamaized.net/live/TSN4/p/dash/20000001/8caedc40dcc49339/manifest.mpd",
+                "key": [
+                "ab91218626c2ecbcc163479158665f27:aaba5df969a618bc403dc95e393c327b",
+                "14f238018f99d86b709a04010e2a1349:718757914b02cbc26a53610e9c1b6341"
+                ]
+        },
+   "TSN_5": {
+                "name": "TSN 5",
+                "url": "https://pe-ak-lp04a-9c9media.akamaized.net/live/TSN5/p/dash/20000001/087b8043dce361c0/manifest.mpd",
+                "key": [
+                "19dadce5b27b686eff91a45f599a4a71:b9f590050a2d8cc7d783e33cf43ee5c5",
+                "98d845b101fe5a82a7de0e5080c88a08:16a1e7f9d6f67a7d2b17815b4630279d"
+                ]
+        },
+   "CP24": {
+                "name": "CP24",
+                "url": "https://pe-ak-lp02a-9c9media.akamaized.net/live/CP24/p/dash/20000001/a0da30888996c775/manifest.mpd",
+                "key": [
+                "5e40b0d8a61cf47d6074c7aa323d2ecc:b5840cfa5e225eea978d6ae1f0c819ec",
+                "e31504bf916cfa1f50fef62936526c6f:f80033e5006ecb26af4f61d98893401e"
+                ]
+        }    
+}

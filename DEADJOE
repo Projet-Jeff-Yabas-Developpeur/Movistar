@@ -1,0 +1,25 @@
+
+*** These modified files were found in JOE when it aborted on Sat Sep  3 21:29:54 2022
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+40000
+
+*** File '(Unnamed)'
+includes/molotov.php
+origin/molotov.json
+origin/molotov.json
+includes/molotov.php
+includes/molotov.php
+includes/molotov.php
+includes/molotov.php
+includes/molotov.php
+includes/molotov.php
+includes/molotov.php
+includes/molotov.php
+
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc

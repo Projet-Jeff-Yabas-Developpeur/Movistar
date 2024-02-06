@@ -1,0 +1,64 @@
+{
+"Cricket_2_STARZ": 
+{
+   "name": "cricket 2",
+   "url":"https://criclive2.starzplayarabia.com/out/v1/1b232653e5254150a60a577cc8db682f/index.mpd",
+   "key":"cf671610fa53cc56b07b1d235169fc81:50ac62719a1205fd08c01e368e27e3d4"
+  },
+  "AD_SPORTS_2_STARZ": {
+     "url":"https://adsp2.starzplayarabia.com/out/v1/6a5b2f1fea49459599ac1e58568c7e4a/index.mpd",
+     "key":"1ae76d26b3d348e3eb071c3342e940f8:cc9f0c73ad0dde1aa0953b17c0ba6b6f",
+     "name":"Ad Sports 2"
+  },
+  "AD_SPORTS_3_STARZ": {
+     "url":"https://adsp3.starzplayarabia.com/out/v1/f25cf019fb70483790c22debd336c4ee/index.mpd",
+     "key":"43012929e1a8eae4d8a52ac50fbeec00:51a42f2903730c4fb5aa8b6609563d6e",
+     "name":"Ad Sports 3"
+  },
+  "SSC": {
+     "url":"https://shls-ssc-equestrian-prod-dub.shahid.net/out/v1/b166d0c5338f4bcc9cd0edf2e4ef7267/index.mpd",
+     "key":"cb167e617b1449349b30884a847581b6:d3d305adefabfedb23ec8a3353af9eb8",
+     "name":"SSC"
+  },
+  "Ad_Sports_P1":
+{
+   "name": "AD P1",
+   "url":"https://sps1.starzplayarabia.com/out/v1/56ab94af34b141cdbdf068d1b47953e5/index.mpd",
+   "key":"b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42"
+  },
+   "Starzplay_Sports_3_STARZ": {
+     "url":"https://sps3.starzplayarabia.com/out/v1/9cd38f01f3b9464e9eb065370b7d28f7/index.mpd",
+     "key":"117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13",
+     "name":"Starzplay sports 3"
+  },
+   "UFC_STARZ": {
+     "url":"https://d3b8aod9j68ifb.cloudfront.net/out/v1/1e6665bc29794f56a6d98b924a856d34/index.mpd",
+     "key":"c34f23244ba7129e1c3efb77cbbd4a49:56bc55a5a246973781ab59107edb39e0",
+     "name":"UFC"
+  },
+   "STAR_PLUS_STARZ": {
+     "url":"https://splus.starzplayarabia.com/out/v1/b27a0253519b474986c6bed0e12189cf/index.mpd",
+     "key":"1a647dc8d89f46cb0f31a760df0f6040:80ded76b2704d2ee95d6245adf25d131",
+     "name":"Star Plus"
+  },
+   "STAR_Jalsha_STARZ": {
+     "url":"https://sjalsha.starzplayarabia.com/out/v1/70687bfbc3d949daa47639c1b2fde302/index.mpd",
+     "key":"12b5d0d17593ca89648558fe72bb6e13:b8b760bda3043b5137c178b0c1e0c2b4",
+     "name":"Star Jalsha Movies"
+  },
+   "Asianet_STARZ": {
+     "url":"https://sasianet.starzplayarabia.com/out/v1/0cea8d8c1cfc4f6da99359910557c972/index.mpd",
+     "key":"f7af1708279bb539a397078631e48a3f:ede33eac258c6eb67b0192817b5f2ed8",
+     "name":"Asianet"
+  },
+   "STAR_Vijay_STARZ": {
+     "url":"https://svijay.starzplayarabia.com/out/v1/98a5c8fa0f694af9b9fb5b9ed7dd40d0/index.mpd",
+     "key":"d8bd66acbc368db31e301086b9ab14e0:e47a55052ce4c3b30303ee9d873c6472",
+     "name":"Star Vijay"
+  },
+   "Cricket_Max_STARZ": {
+     "url":"https://cricmax.starzplayarabia.com/out/v1/6a04831479eb46efaaf840eb558371ef/index.mpd",
+     "key":"b6045efd2889ce05f4800e2f7ac0d3ee:abf072f537b8f4872be45f971ba24503",
+     "name":"Cric Max"
+  }
+}

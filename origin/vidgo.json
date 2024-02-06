@@ -1,0 +1,847 @@
+{
+    "YSZlLW5ldHdvcmtfTVBMQVlfZFRGaGh4ZDJLWA==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(51529-AETVHD)\/manifest.mpd",
+        "key": "18465e0aaad943a38ed5fb8b49ec3602:71607a5c116a651e02bbaa0b75f667e0",
+        "name": "a&e-network"
+    },
+    "YS13ZWFsdGgtb2YtZW50ZXJ0YWlubWVudF9NUExBWV9UN005TTdDNUhD": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(44895-AWE)\/manifest.mpd",
+        "key": "6ab66a1bf5e44e2f8b063a32a7c8df0c:ae0c1d0383a7c413346752fab2130d2b",
+        "name": "a-wealth-of-entertainment"
+    },
+    "YWJjLWVhc3RfTVBMQVlfSW8yTnRlZXJxMQ==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(114193-ABCNE)\/manifest.mpd",
+        "key": "48390748c5514df2ae8eba4289dd4429:38ef6d26c91fa95f8999449189816d74",
+        "name": "abc-east"
+    },
+    "YWJjLW5lX01QTEFZX2JLQWVLQ2RxOUo=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(114193-ABCNE)\/manifest.mpd",
+        "key": "48390748c5514df2ae8eba4289dd4429:38ef6d26c91fa95f8999449189816d74",
+        "name": "abc-ne"
+    },
+    "YWJjLW5ld3MtbGlmZV9NUExBWV8yN0RVczNCT01a": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(113380-ABCNL)\/manifest.mpd",
+        "key": "9f69991a3cda4202be51c03d36fbced0:75dec236cd36673b94466ceadb2090ab",
+        "name": "abc-news-life"
+    },
+    "YWJjLXdhYmNfTVBMQVlfbGJ4VmRFSWMxQQ==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(20453-WABCDT)\/manifest.mpd",
+        "key": "60b304b224764556994aa080c1b5e33b:c7d3b508469fdedccbf1cb98ac8ed31a",
+        "name": "abc-wabc"
+    },
+    "YWJjLXdyaWNfTVBMQVlfUkp2OHZVQlM4cA==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/\/Content\/DASH_WV\/Live\/channel(20458-WRICDT)\/manifest.mpd",
+        "key": "b76856d9ac5b4a0bba4546b290864caa:407cf44fa7384144a71feb0685430ec8",
+        "name": "abc-wric"
+    },
+    "YWJjLXdzYmR0X01QTEFZX3Y5eWI1UDNDU3U=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(19586-WSBDT)\/manifest.mpd",
+        "key": "f2681ad3ef5d45c7871d67d400d61832:5cb439ade461c3d54609229f07c67298",
+        "name": "abc-wsbdt"
+    },
+    "YWNjLW5ldHdvcmtfTVBMQVlfWU5wRm5DRFFybw==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(111871-ACC)\/manifest.mpd",
+        "key": "c92fb55f18a14be9b1d5d7b830c5ca51:a612a904f22ed5515cfdcb8d036e1840",
+        "name": "acc-network"
+    },
+    "YWUtbmV0d29ya19NUExBWV9nWHVLeXZORUgy": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(51529-AETVHD)\/manifest.mpd",
+        "key": "18465e0aaad943a38ed5fb8b49ec3602:71607a5c116a651e02bbaa0b75f667e0",
+        "name": "ae-network"
+    },
+    "YW1lcmljYW4taGVyb2VzLWNoYW5uZWxfTVBMQVlfRDVudXhJQVdiNQ==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(78808-AHCHD)\/manifest.mpd",
+        "key": "f2cc16acc2ac4a9cae6150cb21113e77:ca3c3e175bc904b98b1b6e779e6246ba",
+        "name": "american-heroes-channel"
+    },
+    "YW5pbWFsLXBsYW5ldF9NUExBWV96SVBHVU52RmNM": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(57394-APLHD)\/manifest.mpd",
+        "key": "9aab01a68c53448885eb6652e3095b2f:dee263c4cd6b82a3d1cfbde366d79efa",
+        "name": "animal-planet"
+    },
+    "YW50ZW5hLTMtaW50ZXJuYWNpb25hbF9NUExBWV9CQVRmajNlN25v": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(90898-ATRES)\/manifest.mpd",
+        "key": "995c9825558e42c28bd27568f53656af:99ff3dac14e293e78bba626df60d8a7e",
+        "name": "antena-3-internacional"
+    },
+    "YXNwaXJlX01QTEFZX1hNaGpGWUNoOGI=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(97409-ASPREHD)\/manifest.mpd",
+        "key": "1ac69dfaa6a5432493122c00806d4b27:328f3a3f5e9584dcde16ec3f62372f31",
+        "name": "aspire"
+    },
+    "YXRyZXNjaW5lX01QTEFZX1pONTF0ajJhenY=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(82808-A3CINE)\/manifest.mpd",
+        "key": "5cf3d67481404be8862308b492cf6c79:5fd0faf99035f73192fa5cb690e044ca",
+        "name": "atrescine"
+    },
+    "YXRyZXNlcmllc19NUExBWV81ZERtd0tZOVE4": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(83230-ANT3IHD)\/manifest.mpd",
+        "key": "b5c3749c131f4fc88fd7bba7202e9e5a:24d9108dee9a91124513dab86fa96f08",
+        "name": "atreseries"
+    },
+    "YXdlX01QTEFZX0Fla0JTQ3FJMVI=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(44895-AWE)\/manifest.mpd",
+        "key": "6ab66a1bf5e44e2f8b063a32a7c8df0c:ae0c1d0383a7c413346752fab2130d2b",
+        "name": "awe"
+    },
+    "YXp0ZWNhLWFtZXJpY2EtbmV0d29ya19NUExBWV9QSXJtMWE1YzVN": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(81509-AZTECHD)\/manifest.mpd",
+        "key": "14b9b0c5e7f04f19a23936a021bc98f8:353bc3ca48a04efd7a67fdf68b7df785",
+        "name": "azteca-america-network"
+    },
+    "YmFieS10di11c19NUExBWV9kMmJNNllDVHdo": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(70337-BABYUS)\/manifest.mpd",
+        "key": "4cf51d01e8be44bea4bf40eab2aa4738:10f454d6288e61355dcc2d0818366f61",
+        "name": "baby-tv-us"
+    },
+    "YmFuZGFtYXhfTVBMQVlfWFpGald1RXo5ZQ==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(109098-BANDAHD)\/manifest.mpd",
+        "key": "591060e2bae54d11ac6ea0ee14d023dd:693ca5dbbe8f9abb6fb7bf182ab646e6",
+        "name": "bandamax"
+    },
+    "YmVpbi1uLWVzX01QTEFZXzVOcG42WlJOQ1M=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(76943-BEINSES)\/manifest.mpd",
+        "key": "5be664270f12446c9142cc21923d3f70:2c38ee83b6e465139d7a2e1f72ce2e7e",
+        "name": "bein-n-es"
+    },
+    "YmVpbi1zcG9ydHNfTVBMQVlfd1VYRGx0VXlHUg==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(76950-BEIN1HD)\/manifest.mpd",
+        "key": "511532f9e0a64ba998714bd8c075ca14:2c7310bd460c1bf2e2205261ff6ff5b1",
+        "name": "bein-sports"
+    },
+    "YmV0X01QTEFZX0xCbGd2c1FtQkI=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(63236-BETHD)\/manifest.mpd",
+        "key": "acd48b130166451aaea8bce6441380d5:f9b2319fb22d54df49acaed5d50af90a",
+        "name": "bet"
+    },
+    "YmlnLXRlbi1uZXR3b3JrX01QTEFZX2JKekpnTU8zZ0s=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(58321-BIG10HD)\/manifest.mpd",
+        "key": "353bd01775164dbdbf9e056219a99836:95d193715b886b5c1f5cddbf08c4bfd0",
+        "name": "big-ten-network"
+    },
+    "YmlnLXRlbi1uZXR3b3JrLW92ZXJmbG93LTJfTVBMQVlfcENvQUkzalZLUA==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(109872-BTN2OF)\/manifest.mpd",
+        "key": "fcd8b8aeb34c4a80bdc08090972e4807:52e75df28207e8bc9a7273a5fddbc582",
+        "name": "big-ten-network-overflow-2"
+    },
+    "YmlnLXRlbi1uZXR3b3JrLW92ZXJmbG93LTNfTVBMQVlfd0YxY2JLSmlyTQ==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(109873-BTN3OF)\/manifest.mpd",
+        "key": "f4d234fae4f94b04a55330d9a2bbab02:82ecbe053002513a716d830c38005c7c",
+        "name": "big-ten-network-overflow-3"
+    },
+    "YmlnLXRlbi1uZXR3b3JrLW92ZXJmbG93LTRfTVBMQVlfeHVFNGQzNnB0cA==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(109874-BTN4OF)\/manifest.mpd",
+        "key": "57efe62799c94c7ca79cf6f2e2359247:c325feef997b07e75f889dd96bbeac86",
+        "name": "big-ten-network-overflow-4"
+    },
+    "Ynl1LXR2X01QTEFZX1Bkb1prYWZwNXg=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(21855-BYUTV)\/manifest.mpd",
+        "key": "8a9136aa183a45f0bfec554a8b052ead:2e131091a737d9a62170d31592fe3ee1",
+        "name": "byu-tv"
+    },
+    "Ynl1dHZfTVBMQVlfbndqdGVsV09wZw==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(21855-BYUTV)\/manifest.mpd",
+        "key": "8a9136aa183a45f0bfec554a8b052ead:2e131091a737d9a62170d31592fe3ee1",
+        "name": "byutv"
+    },
+    "Y2FuYWwtcmNuLXRlbGVub3ZlbGFzX01QTEFZX2FXWnFhV3FtZ08=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(65127-RCNTEL)\/manifest.mpd",
+        "key": "7b2dc777f659464aaab4b738198964bb:c2ab03fa97fbbcb1e40a29628d209521",
+        "name": "canal-rcn-telenovelas"
+    },
+    "Y2FuYWwtc3VyX01QTEFZXzBtek1jUVNFVGU=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(97477-CNSURHD)\/manifest.mpd",
+        "key": "2eed3d429fa74522a6d3c6bbf61b2e81:4b4e688973b3ba1aefef8824fc55f051",
+        "name": "canal-sur"
+    },
+    "Y2VudHJvYW1lcmljYS10dl9NUExBWV9zVnViVVhKdjFX": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(44448-CENTROA)\/manifest.mpd",
+        "key": "90745d6b60a149208bb618e288572c7e:bc1951577da0dc791f4d3e7febd9ab2a",
+        "name": "centroamerica-tv"
+    },
+    "Y2hlZGRhcl9NUExBWV80Vm1TOGJxSU1z": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(109332-CHDDRHD)\/manifest.mpd",
+        "key": "3dc0dc90e65242bd9132a80821d8cc3b:d55699949c5774fead9c2f9243d13170",
+        "name": "cheddar"
+    },
+    "Y2luZWxhdGluby11c2FfTVBMQVlfa25weHZnVEZCcQ==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(62401-CINLUS)\/manifest.mpd",
+        "key": "4047f30d8c4c495381f6f52caab9a77b:47dd711d2c95c8d67ba5446f6b9e9138",
+        "name": "cinelatino-usa"
+    },
+    "Y2xhc3NpYy1yZXJ1bnMtdHZfTVBMQVlfbDM3dlJCTkhDbw==": {
+        "url": "",
+        "key": "",
+        "name": "classic-reruns-tv"
+    },
+    "Y210LW11c2ljX01QTEFZX1pLcnJPcEI5WDQ=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(18717-CMTPURE)\/manifest.mpd",
+        "key": "c8638687e7fd4078af9b5ab28b3878f2:99dbf5813a3e481c48e6b6635b852d95",
+        "name": "cmt-music"
+    },
+    "Y29tZWR5LWNlbnRyYWxfTVBMQVlfVFUwR3BicHFGTw==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(62420-CCHD)\/manifest.mpd",
+        "key": "47a6502703b340f0b57a274881e362e6:775019ccbac8e3daf3eeda5b0b05065a",
+        "name": "comedy-central"
+    },
+    "Y29va2luZy1jaGFubmVsX01QTEFZX3JCd3FYbUlHVng=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(71348-COOKCHD)\/manifest.mpd",
+        "key": "324236374a224e278a34bb03703f456a:08d06bc1e698f35ac9af354c778ff62b",
+        "name": "cooking-channel"
+    },
+    "Y291bnRyeS1tdXNpYy10ZWxldmlzaW9uX01QTEFZX3hnNlQ4djFLV0k=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(59440-CMTVHD)\/manifest.mpd",
+        "key": "14416fe931794c6ab69ea0cc481b2b7f:739cc76c476510f667f56ea0666ea5ac",
+        "name": "country-music-television"
+    },
+    "Y3VyaW9zaXR5LWNoYW5uZWxfTVBMQVlfV2NBRUpZOXRPTw==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(110951-CSTREAM)\/manifest.mpd",
+        "key": "e691a0f182d444b18fd1e5416d44971b:38dda4a96b0ab4ff0763c096eb997a02",
+        "name": "curiosity-channel"
+    },
+    "Y3VyaW9zaXR5c3RyZWFtX01QTEFZX3FUOWF2VnNFU3k=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(110951-CSTREAM)\/manifest.mpd",
+        "key": "e691a0f182d444b18fd1e5416d44971b:38dda4a96b0ab4ff0763c096eb997a02",
+        "name": "curiositystream"
+    },
+    "ZGUtcGVsaWN1bGEtY2xhc2ljb19NUExBWV9zVDNLU0RINWVJ": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(33628-DEPELC)\/manifest.mpd",
+        "key": "b3dff7d5f1714b0196aef1ed4fdd2eb9:a4dd243dfc3bda476329ef7a7c460658",
+        "name": "de-pelicula-clasico"
+    },
+    "ZGUtcGVsaWN1bGEtcGx1c19NUExBWV8zUFlYZG9oNFZR": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(74016-DEPELPL)\/manifest.mpd",
+        "key": "424f890b6f174eee8d1fb3a9a7fcd5c8:9e71fdca1f342d4d14ad65192a62bfe2",
+        "name": "de-pelicula-plus"
+    },
+    "ZGVzdGluYXRpb24tYW1lcmljYV9NUExBWV9TSjlwN0N0TWtB": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(60468-DESTHD)\/manifest.mpd",
+        "key": "45db427619f54f20ba5aae220ff48029:6e07deae367597b906a90535bbdabf72",
+        "name": "destination-america"
+    },
+    "ZGlzY292ZXJ5LWNoYW5uZWxfTVBMQVlfbVFzM21rSWxzNw==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(56905-DSCHD)\/manifest.mpd",
+        "key": "aac4f8c95f6a4e85966eab234361e6da:f1b4557ce08af62b412e8c7aa3d1c745",
+        "name": "discovery-channel"
+    },
+    "ZGlzY292ZXJ5LWVuLWVzcGFub2xfTVBMQVlfWDFGb05jY0dJRA==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(19247-DSCE)\/manifest.mpd",
+        "key": "d2633eb1de9c3d4c24509a5c5033853b:803532687b890e6868eefd996d7849bc",
+        "name": "discovery-en-espanol"
+    },
+    "ZGlzY292ZXJ5LWZhbWlsaWFfTVBMQVlfeXBHc3lNdTNwbA==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(99630-DFAMHD)\/manifest.mpd",
+        "key": "c4b6c4cd23044ce897178ed5f47bd8f2:9010b53f9253224c9523169b3b845c92",
+        "name": "discovery-familia"
+    },
+    "ZGlzY292ZXJ5LWZhbWlseS1jaGFubmVsX01QTEFZX0VnVzllRWREb0E=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(67749-DFCHD)\/manifest.mpd",
+        "key": "6fc9754a442b469ba64b5bd391e9e511:49a9836c1fd0962d522566722e7e744b",
+        "name": "discovery-family-channel"
+    },
+    "ZGlzbmV5LWNoYW5uZWxfTVBMQVlfQmVUVHdBSzlyWg==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(59684-DISNHD)\/manifest.mpd",
+        "key": "1ba150639e7c42da8558d6f955286913:fa50b86dcad520b9d849c8426f479e0e",
+        "name": "disney-channel"
+    },
+    "ZGlzbmV5LWp1bmlvci11c19NUExBWV9nSHRKNTRKbUNx": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(74885-DJCHHD)\/manifest.mpd",
+        "key": "233849b70b0e439aa5ffb4df4996a04d:5e7b09cac8b4c33fbca8785b4772b7fb",
+        "name": "disney-junior-us"
+    },
+    "ZGlzbmV5LXhkX01QTEFZX24xU0Fmdm03S1E=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(60006-DXDHD)\/manifest.mpd",
+        "key": "555a1954717145f4ae4354ff7b0c414a:81cbfc0287c71dae67b0eaf22afaea3a",
+        "name": "disney-xd"
+    },
+    "ZG9taW5pY2FuYV9NUExBWV9DQW5hRUlaQ0JM": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(49022-DOMIN)\/manifest.mpd",
+        "key": "4b7383dad7fa4188b081f7a06d1d89a5:fd4b6d7afaa9f902bc48bb6b176755d6",
+        "name": "dominicana"
+    },
+    "ZXNwbl9NUExBWV9oVXlOSU9FUHk4": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(32645-ESPNHD)\/manifest.mpd",
+        "key": "8a35d980082243c88111f4510e994f4b:5beee69143a7447059cd4e5a38c54f64",
+        "name": "espn"
+    },
+    "ZXNwbi0yX01QTEFZX2xEQmZMNEFFbWY=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(45507-ESPN2HD)\/manifest.mpd",
+        "key": "c9a3d57f54494d53885f0b07ce2c462c:42e9087d8bbe7c1bd8dbcb19adcd8fa4",
+        "name": "espn-2"
+    },
+    "ZXNwbi1kZXBvcnRlc19NUExBWV9sTEZSNDM4T2JL": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(71914-ESPNDHD)\/manifest.mpd",
+        "key": "2d846f13c5bd43f3a456d9e958447f17:47e59e0ccb28b0ffa7ce830fd2519539",
+        "name": "espn-deportes"
+    },
+    "ZXNwbi1uZXdzX01QTEFZX0Z4TkpQbDRxN2E=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(59976-ESPNWHD)\/manifest.mpd",
+        "key": "43ec0f80f52d4a7ab0b4026052da13ad:abc51f2b207ae66b4ec7e11211bfc64b",
+        "name": "espn-news"
+    },
+    "ZXNwbjJfTVBMQVlfU3U4N1ppQklDTg==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(45507-ESPN2HD)\/manifest.mpd",
+        "key": "c9a3d57f54494d53885f0b07ce2c462c:42e9087d8bbe7c1bd8dbcb19adcd8fa4",
+        "name": "espn2"
+    },
+    "ZXNwbmV3c19NUExBWV9FZUVpU0R0ZjNF": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(59976-ESPNWHD)\/manifest.mpd",
+        "key": "43ec0f80f52d4a7ab0b4026052da13ad:abc51f2b207ae66b4ec7e11211bfc64b",
+        "name": "espnews"
+    },
+    "ZXNwbmhkX01QTEFZX1F4ZmRWdmFQMlU=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(32645-ESPNHD)\/manifest.mpd",
+        "key": "8a35d980082243c88111f4510e994f4b:5beee69143a7447059cd4e5a38c54f64",
+        "name": "espnhd"
+    },
+    "ZXNwbnVfTVBMQVlfVHNBbDJHVnBoNA==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(45654-ESPNU)\/manifest.mpd",
+        "key": "8b722cf6acaf48c2aa63349a8c3125f8:a9d5cc1ba9dbcb0749b6f74039b9f771",
+        "name": "espnu"
+    },
+    "ZXN0cmVsbGEtZ2FtZXNfTVBMQVlfb1g0V3cyRVNhOQ==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(121009-VIZESGM)\/manifest.mpd",
+        "key": "3619322a7e1746b39c8b510414bb1212:f4cce0109df9ad6fe557cf13709e977e",
+        "name": "estrella-games"
+    },
+    "ZXN0cmVsbGEtbmV3c19NUExBWV9VblFESkltYmJ4": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(121010-VIZESNE)\/manifest.mpd",
+        "key": "ec923309eeaa44b3a9aedf819ef2ea7f:d0e37605ac5860212b42459dc8a0cb4c",
+        "name": "estrella-news"
+    },
+    "ZXN0cmVsbGEtdHZfTVBMQVlfN1hTRFl3a3pOMg==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(121008-VIZESTA)\/manifest.mpd",
+        "key": "3619322a7e1746b39c8b510414bb1212:f4cce0109df9ad6fe557cf13709e977e",
+        "name": "estrella-tv"
+    },
+    "ZXN0dWRpbzVfTVBMQVlfVVRtcFcxUDNQSg==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(88506-ESTUD5)\/manifest.mpd",
+        "key": "86784a45ea914d30991c7514d3523588:c1549263151560e9dff86ce3aaa78037",
+        "name": "estudio5"
+    },
+    "ZmFtaWx5LWVudGVydGFpbm1lbnQtdGVsZXZpc2lvbl9NUExBWV9iYnExbFl3aDBk": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(73413-FETV)\/manifest.mpd",
+        "key": "cd93b1ac47dd481d81de821d20c04941:14c6897e5129cc584f7c988865397998",
+        "name": "family-entertainment-television"
+    },
+    "Zm9vZC1uZXR3b3JrX01QTEFZX1RLRHZid2hnYlA=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(50747-FOODHD)\/manifest.mpd",
+        "key": "f25b9de1cead45a3b7826831e01ddf44:f46bbc15a8b3c4f24a6798e3689056b4",
+        "name": "food-network"
+    },
+    "Zm9yby10dl9NUExBWV9OaGlNd0tRT2xQ": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(89078-FORUSHD)\/manifest.mpd",
+        "key": "5ced4eaff27d47adb1c5dd4b8cfb1f99:32e01d1249fc8c13e9767668d289ce17",
+        "name": "foro-tv"
+    },
+    "Zm94LWJ1c2luZXNzX01QTEFZX0hrNlIyVHZLMjA=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(58718-FBNHD)\/manifest.mpd",
+        "key": "17b5a7acc6bd49c29b383a4ac7cbab2b:4cbb29efe07752eeb3a43e2766298f14",
+        "name": "fox-business"
+    },
+    "Zm94LWRlcG9ydGVzX01QTEFZX3hjY2dLaEJiQnU=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(72189-FXDEPHD)\/manifest.mpd",
+        "key": "411a4423a6da462988884c13be14c336:2188c18bdeb20d713619da0dec98d5c9",
+        "name": "fox-deportes"
+    },
+    "Zm94LWxpZmUtbGF0aW4tYW1lcmljYV9NUExBWV9yMlRPNUcyc3Ni": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(73812-FOXLUS)\/manifest.mpd",
+        "key": "b739ff3f7db24f18b2501a50340e7f4d:78c3ee1cb26e4b4fb206b27d5ba40e9f",
+        "name": "fox-life-latin-america"
+    },
+    "Zm94LW5ld3MtY2hhbm5lbF9NUExBWV9UOE1nTG5BTGtm": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(60179-FNCHD)\/manifest.mpd",
+        "key": "2aaec821662c4029a196499d2482d3be:7610e9ae86d43c9717f4ec43e8297c4d",
+        "name": "fox-news-channel"
+    },
+    "Zm94LXNwb3J0cy0xX01QTEFZX2F5SXQyaDVRVm8=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(82547-FS1HD)\/manifest.mpd",
+        "key": "322e03cb37854abdb33fc10ce83a6084:685d1f88bb343563748303a5a49bada5",
+        "name": "fox-sports-1"
+    },
+    "Zm94LXNwb3J0cy0yX01QTEFZX0hOZHJlSENSbUE=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(59305-FS2HD)\/manifest.mpd",
+        "key": "2766b1113295427281480525ac114a19:efda9393456729320ec9719428e41b18",
+        "name": "fox-sports-2"
+    },
+    "Zm94LXdueXdfTVBMQVlfN284VW84RklMWA==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(20360-WNYWDT)\/manifest.mpd",
+        "key": "52774110e2c3413db6646fead4cd7693:3f4db7a45442dbe4a82de478bbad12df",
+        "name": "fox-wnyw"
+    },
+    "Zm94LXdybGhfTVBMQVlfQ0M5M1luS2RRcA==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(34674-WRLHDT)\/manifest.mpd",
+        "key": "1f976fa033f9409fb0c108e33da7ad5a:7fccabde632c2a7fe1c43e125327ca83",
+        "name": "fox-wrlh"
+    },
+    "ZnJlZWZvcm1fTVBMQVlfdkZlUzByaDBwQQ==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(59615-FREFMHD)\/manifest.mpd",
+        "key": "2be86a764af843f4a3622cc52e740810:fb6c56503a6ac3d90eaeebe2290689b6",
+        "name": "freeform"
+    },
+    "ZnhfTVBMQVlfVjlhY0NHOEh5dw==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(58574-FXHD)\/manifest.mpd",
+        "key": "6e6ddcc1bfa946ec899ee15e4db03a6c:6e07f0c47e62fd40a23093f1ba224fcf",
+        "name": "fx"
+    },
+    "ZngtbW92aWUtY2hhbm5lbF9NUExBWV9xQ2JMSkkxRTly": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(70253-FXMHD)\/manifest.mpd",
+        "key": "dd93bdf654584e8a8f0d582cac01360e:ae53ad068dd99c7a82252103d9b017a2",
+        "name": "fx-movie-channel"
+    },
+    "Znh4X01QTEFZXzlDdnNCZ1IyRno=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(66379-FXXHD)\/manifest.mpd",
+        "key": "8ef36763999c406fb14403109698ca2c:8ccb23127b0cec322f944f0e9ba8d580",
+        "name": "fxx"
+    },
+    "ZnlpLWNoYW5uZWxfTVBMQVlfZDFrSG9vRGJCMg==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(58988-FYIHD)\/manifest.mpd",
+        "key": "fce13c0a73914cbcae9ab782f5dd17e8:452de1aa348ac770addddb028c7fb758",
+        "name": "fyi-channel"
+    },
+    "Z2FsYXZpc2lvbl9NUExBWV9lbE45Smx1eUI4": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(68367-GALAHD)\/manifest.mpd",
+        "key": "402e15991b794d00af1178af669fd26c:47b5bae8d6e91b6294c312c9c6ff5754",
+        "name": "galavision"
+    },
+    "Z2FtZS1zaG93LW5ldHdvcmtfTVBMQVlfRzFXWUxtcmpSOQ==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(14909-GSN)\/manifest.mpd",
+        "key": "43c27ac120bc445f8d1720ed15b29bce:fbcd113a08125fdc1d3ff24bde7e06cb",
+        "name": "game-show-network"
+    },
+    "Z2V0LXR2X01QTEFZX2UzallmNEhVekY=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(82563-GETTV)\/manifest.mpd",
+        "key": "41e06e1104054452a6318d4cce520d9e:a86903d3018e15909df50d3c0ef74a43",
+        "name": "get-tv"
+    },
+    "aGFsbG1hcmstY2hhbm5lbF9NUExBWV9ETVZiSUNHNVc3": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(66268-HALLHD)\/manifest.mpd",
+        "key": "c188a87aff99423c8786ceb5e55f0976:36754995b0364438596440f5db461ed4",
+        "name": "hallmark-channel"
+    },
+    "aGFsbG1hcmstZHJhbWFfTVBMQVlfeGRDZUUxQ0VONg==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(105723-HALLDR)\/manifest.mpd",
+        "key": "960442b78d6645bba9b2c8472e38d7e4:2b7354bf5d8462e568e97a02ca2d5985",
+        "name": "hallmark-drama"
+    },
+    "aGFsbG1hcmstbW92aWVzLSYtbXlzdGVyaWVzX01QTEFZX0lzc2dlTEV1V1k=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(46710-HMMHD)\/manifest.mpd",
+        "key": "64f290cd109f4f6694e137a5cbf12ca7:65614d03446c73d87955493e41cf011f",
+        "name": "hallmark-movies-&-mysteries"
+    },
+    "aGlzdG9yeV9NUExBWV8xZndiZk1Ob29o": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(57708-HSTRYHD)\/manifest.mpd",
+        "key": "b76d5507a4b44398a4b0e651f7cf2fdf:515e348c7ac853fe4156c900fa22c8a4",
+        "name": "history"
+    },
+    "aGlzdG9yeS1jaGFubmVsLWVuLWVzcGFub2xfTVBMQVlfZlNFU2xneG5EYg==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(105678-HISTEHD)\/manifest.mpd",
+        "key": "5365bcaf95f146fba344050d3a64b1c9:2590c819d35a3e45a26cbbbaf30842f4",
+        "name": "history-channel-en-espanol"
+    },
+    "aGlzdG9yeS1jaGFubmVsLWVuLWVzcGE\/P29sX01QTEFZX25USm9EbTdaeEM=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(105678-HISTEHD)\/manifest.mpd",
+        "key": "5365bcaf95f146fba344050d3a64b1c9:2590c819d35a3e45a26cbbbaf30842f4",
+        "name": "history-channel-en-espa??ol"
+    },
+    "aG9nYXItZGUtaGd0dl9NUExBWV9wMFFhQ0Z5cFBq": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(114881-HOGARHD)\/manifest.mpd",
+        "key": "b366afa2cb5649ada02375b76e2aa061:d6788ce84e46cfe38dd57327be76e247",
+        "name": "hogar-de-hgtv"
+    },
+    "aG9sYS10dl9NUExBWV9jdDk0TFZGU0xy": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(90018-HOLAHD)\/manifest.mpd",
+        "key": "0396e39243b74ca089586a99afa7211d:406acea09c8a97246df7882c3fde9697",
+        "name": "hola-tv"
+    },
+    "aG9tZS0mLWdhcmRlbi10ZWxldmlzaW9uX01QTEFZX3gweEk3aDRDbko=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(49788-HGTVD)\/manifest.mpd",
+        "key": "973f17a9e9344f7c89fc37ef2b9481bf:4271fb4a96342ef375f38f37d8009fc5",
+        "name": "home-&-garden-television"
+    },
+    "aG9tZS1zaG9wcGluZy1uZXR3b3JrX01QTEFZX1BLVW5uWXlWN1I=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(62077-HSNHD)\/manifest.mpd",
+        "key": "b98b6514d5024dd3bfb2ec4a9c84d040:f357fd934378d601690c09fd308cc269",
+        "name": "home-shopping-network"
+    },
+    "aTI0LW5ld3NfTVBMQVlfSGJFZzZHbjZDVA==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(102309-I24NEHD)\/manifest.mpd",
+        "key": "eba54c9f0f9d4384bb8564db6243117a:b2d9468f2a8b01fd198379c9f7ae32c3",
+        "name": "i24-news"
+    },
+    "aW1wYWN0LW5ldHdvcmtfTVBMQVlfWjNVeHV3SmJCRw==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(101664-IMPCNHD)\/manifest.mpd",
+        "key": "AAAAQnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACIIARIQx3plDbbkSdm1bNDcl51cZCIMMTAxNjY0LUlNUENO",
+        "name": "impact-network"
+    },
+    "aW5zcF9NUExBWV9IZjVYRU1WZ2xh": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(82773-INSPHD)\/manifest.mpd",
+        "key": "210aa28f7f7b4fb09498c42673d747eb:1ba9a7a917f0f39f85a7f8ed3e6cdb79",
+        "name": "insp"
+    },
+    "aW52ZXN0aWdhdGlvbi1kaXNjb3ZlcnlfTVBMQVlfN2hISVJWUFJKNw==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(65342-IDHD)\/manifest.mpd",
+        "key": "b48c758fbc674356b06e88c29fc28527:f682a6b19735afa8754ec63442338ba3",
+        "name": "investigation-discovery"
+    },
+    "a2lkcy1jZW50cmFsX01QTEFZX3JweXg1VE5pZU0=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(102442-KIDSCHD)\/manifest.mpd",
+        "key": "c96d7db4076640fcb59d62efb0632caf:d5e351fa20145f21339ae058f860fbac",
+        "name": "kids-central"
+    },
+    "a2lkcy1zdHJlZXRfTVBMQVlfSHJrU3d1Tkx3WQ==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(102442-KIDSCHD)\/manifest.mpd",
+        "key": "c96d7db4076640fcb59d62efb0632caf:d5e351fa20145f21339ae058f860fbac",
+        "name": "kids-street"
+    },
+    "bGF3LSYtY3JpbWUtc3RyZWFtX01QTEFZX0xPb1BacFV4c1Y=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(109553-LCSTR)\/manifest.mpd",
+        "key": "e2a95b7677e9477fa1d5b2303d3b2f1d:838887fa9e1ef24f749bdc0c80f2932b",
+        "name": "law-&-crime-stream"
+    },
+    "bGlmZXRpbWVfTVBMQVlfek9HdzN3MjUySQ==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(60150-LIFEHD)\/manifest.mpd",
+        "key": "c0e5762ca46147ba9635dd74a1dec797:186c9de3e9d10fffd615e5d1769c1406",
+        "name": "lifetime"
+    },
+    "bGlmZXRpbWUtbW92aWVzX01QTEFZX3RxelZZRzlWWkg=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(55887-LIFEMVH)\/manifest.mpd",
+        "key": "326878771246438db13b3ed6522578b6:4e444a7d4e60cf3d2d2af894ed2e75ca",
+        "name": "lifetime-movies"
+    },
+    "bG9uZ2hvcm4tbmV0d29ya19NUExBWV96SmZnRER0RDhN": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(72861-LNGHRNH)\/manifest.mpd",
+        "key": "b1c49185bbd04609a21c76eaf9262a80:59e912709127012cdc085fa10dfd8d0a",
+        "name": "longhorn-network"
+    },
+    "bWFnbm9saWEtbmV0d29ya19NUExBWV9VUEVVWlJQM054": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(18544-DIY)\/manifest.mpd",
+        "key": "fc2a7c3aed03425c820ab6c9a4c59bdd:35216d139b6a4bb8cd7a737c29fdea61",
+        "name": "magnolia-network"
+    },
+    "bWF2dHZfTVBMQVlfa2swZklKODlLNg==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(45169-MAVTV)\/manifest.mpd",
+        "key": "ad85ba336a974fe9935a32abdae83131:e927f453e68d9e817f58e90a225eef55",
+        "name": "mavtv"
+    },
+    "bWxiLW5ldHdvcmtfTVBMQVlfeUZWMk1iY01UTw==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(62081-MLBHD)\/manifest.mpd",
+        "key": "7cfd797ce8484c9a990726274a37e9d9:5126b7414c7007c2a2781e04d9715047",
+        "name": "mlb-network"
+    },
+    "bW90b3J0cmVuZF9NUExBWV9oUnhaZ3I5RmRZ": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(31046-MTHD)\/manifest.mpd",
+        "key": "8b040d98055b41118c0a6e51509ed23b:f5c4d959e89e291104b44e7678d03e6e",
+        "name": "motortrend"
+    },
+    "bXR2LS0tbXVzaWMtdGVsZXZpc2lvbl9NUExBWV9hOVZVVHk3eUF4": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(60964-MTVHD)\/manifest.mpd",
+        "key": "cf52ec2c86f2406b993f6bf69976327b:cd59e7fb6d681914583590631541a461",
+        "name": "mtv---music-television"
+    },
+    "bXR2LWNsYXNzaWNfTVBMQVlfWWY3VHl6RlRzaA==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(92240-MTVCLHD)\/manifest.mpd",
+        "key": "678960522ff54af283a20640cb5e73db:ce5bf737da496cd094c12cb084f18156",
+        "name": "mtv-classic"
+    },
+    "bXR2Mi0tLW11c2ljLXRlbGV2aXNpb25fTVBMQVlfc0hqYzdoY2xlZw==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(75077-MTV2HD)\/manifest.mpd",
+        "key": "30eec2f40aff41a6b038a21e6482d729:b2dd0c3ebe0056feb5248ca0e1fc4c0c",
+        "name": "mtv2---music-television"
+    },
+    "bXluZXR3b3JrdHYtd3dvcl9NUExBWV9Kc3dCbURLWFpz": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(26566-WWORDT)\/manifest.mpd",
+        "key": "f1bbd42cc0ce487eb4d72cda5dc4252d:467505413d9e403a6c15f0d35abc1622",
+        "name": "mynetworktv-wwor"
+    },
+    "bmF0LWdlby1tdW5kb19NUExBWV81VHJ0YXp4cTRv": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(72449-NGMUNDO)\/manifest.mpd",
+        "key": "45bb236770d94dc29f97d7bccb9d9db2:acf76813579acbea64cd6241c32bc530",
+        "name": "nat-geo-mundo"
+    },
+    "bmF0aW9uYWwtZ2VvZ3JhcGhpY19NUExBWV9Ram8yOTc1bXpY": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(49438-NGCHD)\/manifest.mpd",
+        "key": "d33a8a22d9054298974e670fb76c4ab1:272fc703fafb3917b21384cd7b57543d",
+        "name": "national-geographic"
+    },
+    "bmF0aW9uYWwtZ2VvZ3JhcGhpYy13aWxkX01QTEFZX2tRNG4weHRxdno=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(67331-NGWIHD)\/manifest.mpd",
+        "key": "5c30ff42df1140e69e35aa558f723851:64e42fbf2e8a55d47276c1158f93468d",
+        "name": "national-geographic-wild"
+    },
+    "bmV3cy1uYXRpb25fTVBMQVlfZDBGa2xzbFlORw==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(91096-WGNA)\/manifest.mpd",
+        "key": "07fc451fb32147b58089867312586843:68e612013e339640522a77e4e8b0b0fc",
+        "name": "news-nation"
+    },
+    "bmV3c21heF9NUExBWV9qbExrSkxMazFX": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(97163-NEWSMXH)\/manifest.mpd",
+        "key": "e275a00b9c224457ade0c82d3f39bf66:af3c0a12d971b4cd41955787a7ec60e7",
+        "name": "newsmax"
+    },
+    "bmZsLW5ldHdvcmtfTVBMQVlfUTRoaUdhQU1GUQ==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(102795-NFLCETH)\/manifest.mpd",
+        "key": "cbe163a47e284e9f966fcd1c01b8741f:ad9574c295e9130c4be61fb663e2d037",
+        "name": "nfl-network"
+    },
+    "bmZsLXJlZC16b25lX01QTEFZX3d3bXJRVVhNU0s=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(89604-NFLRZNH)\/manifest.mpd",
+        "key": "bc92809ada7e477c9b613707b36ed8c2:13b73c479193c311203e1800ea4114dd",
+        "name": "nfl-red-zone"
+    },
+    "bmljay1qcl9NUExBWV9qRUR6bDVZb1Rq": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(82649-NICJRHD)\/manifest.mpd",
+        "key": "0f2351b3b6b84da697ea56a792c75dd9:b3ef02f6e061a04e117125b31bbd52d9",
+        "name": "nick-jr"
+    },
+    "bmlja2Vsb2Rlb25fTVBMQVlfY2lza2dlazBaUg==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(59432-NIKHD)\/manifest.mpd",
+        "key": "58cd61556fb94a54923ed4a16c7d25ab:34bf372cb93afb8f5a02909cbbccda64",
+        "name": "nickelodeon"
+    },
+    "bmlja3Rvb25zLW5ldHdvcmtfTVBMQVlfdWVaTFY0MENNQw==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(82654-NIKTNHD)\/manifest.mpd",
+        "key": "d073c388faf4461e8d4cc1d8e844d341:50d4a367da9e6ea149b3ff293f872bd5",
+        "name": "nicktoons-network"
+    },
+    "bnRuMjQtbnVlc3RyYS10ZWxlLW5vdGljaWFzLTI0X01QTEFZX01XWGl3WEFRbEk=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(61988-NTN24)\/manifest.mpd",
+        "key": "ec0e4259c6e84d57a6197897520d144d:d8a4fe51af2ed3c10628d47331ad49a6",
+        "name": "ntn24-nuestra-tele-noticias-24"
+    },
+    "b25lLWFtZXJpY2EtbmV3cy1uZXR3b3JrX01QTEFZX3kxV0RrbTVmTEQ=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(82542-OAN)\/manifest.mpd",
+        "key": "ed7766fc11f240c9be8f56fe7b9c3599:88dd49b26e4d491cd5d071e5c5e2f297",
+        "name": "one-america-news-network"
+    },
+    "b3ByYWgtd2luZnJleS1uZXR3b3JrX01QTEFZX1dDQmFLUHA4REY=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(70388-OWNHD)\/manifest.mpd",
+        "key": "e7fa44dda2a648249d00b3c1d0b7d3b4:6ceb1209b489f528c3a9b764fa2dc64e",
+        "name": "oprah-winfrey-network"
+    },
+    "cGFjLTEyLWFyaXpvbmFfTVBMQVlfSG40M2FaejhVWA==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(76376-P12AZHD)\/manifest.mpd",
+        "key": "23e47fbcc5d44b371bb7e8b7509e51e8:7e1884fa759b015a742c75a690884d96",
+        "name": "pac-12-arizona"
+    },
+    "cGFjLTEyLWJheS1hcmVhX01QTEFZX1FFNlJONnZQdVg=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(76377-P12BAHD)\/manifest.mpd",
+        "key": "05d8b246f286494bb9087dded16bfa62:4329c55ed7e07e5c11d242c48a318c33",
+        "name": "pac-12-bay-area"
+    },
+    "cGFjLTEyLWxvcy1hbmdlbGVzX01QTEFZX3V0NGg2RWZ0ZGE=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(76381-P12LAHD)\/manifest.mpd",
+        "key": "59df112d908e489fa1af3aa0178f4310:5be07592c5918809345aad1e18ec7f91",
+        "name": "pac-12-los-angeles"
+    },
+    "cGFjLTEyLW1vdW50YWluX01QTEFZX0lQdmhPZWxiYU8=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(76380-P12MTHD)\/manifest.mpd",
+        "key": "9068305213d448cd8d2db53840e0d08c:e612373f71339a01874729acd79df3a2",
+        "name": "pac-12-mountain"
+    },
+    "cGFjLTEyLW5ldHdvcmtfTVBMQVlfOVJpdDZuZ3NzcQ==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(76382-PAC12HD)\/manifest.mpd",
+        "key": "5b00bf50fdc84e84c4586b7c3d5c60b1:cfcdaf6d51c5e8fabb26b9a1a3bb17e4",
+        "name": "pac-12-network"
+    },
+    "cGFjLTEyLW9yZWdvbl9NUExBWV9waXJ4empkVnRJ": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(76378-P12ORHD)\/manifest.mpd",
+        "key": "6d6780072de74e1e9ea53a3555433846:b5fbc6fc3cb9f4dd681bb9b53055902a",
+        "name": "pac-12-oregon"
+    },
+    "cGFjLTEyLXdhc2hpbmd0b25fTVBMQVlfcFFkZUt0QWhRdg==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(76379-P12WAHD)\/manifest.mpd",
+        "key": "37cc85f1f7bc40d699abf4e0261fbfcc:5d8644d130319446598b9c4d7cea6b01",
+        "name": "pac-12-washington"
+    },
+    "cGFyYW1vdW50LW5ldHdvcmtfTVBMQVlfb2hFUk53QXVQbA==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(59186-PARHD)\/manifest.mpd",
+        "key": "3e7e067f72c74906bfcc590ae947f4e9:085b7fb0622143f241182e4239d7dd71",
+        "name": "paramount-network"
+    },
+    "cGFzaW9uZXNfTVBMQVlfSERORVdkM25PeA==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(71621-PASNLA)\/manifest.mpd",
+        "key": "84a74f53fee7438998c67fbdd46bbc10:95dce6c796bd93d3a4c4d6745ee7b463",
+        "name": "pasiones"
+    },
+    "cHJpbW8tdHZfTVBMQVlfa0RKTktNQW5xaQ==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(101879-PRIMO)\/manifest.mpd",
+        "key": "b5a2773fed254e34b0f6102e10555f2a:de9f2fcfefb3dcb5f81c423e67232297",
+        "name": "primo-tv"
+    },
+    "cXZjX01QTEFZX1FvVUpudzNBeHI=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(60222-QVCHD)\/manifest.mpd",
+        "key": "7225ed180135487f86ecdd40c22b68c8:4c94e33691c087c8a173e921da108e41",
+        "name": "qvc"
+    },
+    "cmNuLW51ZXN0cmEtdGVsZV9NUExBWV9VMzIxYlhySmto": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(33431-NUESTRT)\/manifest.mpd",
+        "key": "ccd7ff407cf94094b58e51ac73be705b:c7b042fc7a444ac8a858a7bb171a9d77",
+        "name": "rcn-nuestra-tele"
+    },
+    "c2NpZW5jZS1jaGFubmVsX01QTEFZXzU4SVNMNllldzk=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(57390-SCIHD)\/manifest.mpd",
+        "key": "9f8566ad54094560813d71f06a029636:5d4aa79ab4e7c96446fce70487b3b452",
+        "name": "science-channel"
+    },
+    "c2VjLW5ldHdvcmtfTVBMQVlfaVY1dk9FaUp3dA==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(89714-SECH)\/manifest.mpd",
+        "key": "96016e336c664704b38529079a20b540:155c38294c075973ca316b153ac89d6c",
+        "name": "sec-network"
+    },
+    "c29ueS1jaW5lX01QTEFZX2czMTkzTlJiUms=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(76408-CINSONY)\/manifest.mpd",
+        "key": "e3b4e318ead043f79a1d3931afdfb2d8:4b2b0369238bf83cc4783514f672683a",
+        "name": "sony-cine"
+    },
+    "c29ueS1tb3ZpZV9NUExBWV9ZdnFWOTdLV3VW": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(69130-SONYHD)\/manifest.mpd",
+        "key": "70035d944199433a8dd905e91c493d24:5eea6f7eb9a4a3b23ca6a8a301084994",
+        "name": "sony-movie"
+    },
+    "c29ueS1tb3ZpZXNfTVBMQVlfSUxuNGdqTFU4YQ==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(69130-SONYHD)\/manifest.mpd",
+        "key": "70035d944199433a8dd905e91c493d24:5eea6f7eb9a4a3b23ca6a8a301084994",
+        "name": "sony-movies"
+    },
+    "c3RhZGl1bV9NUExBWV9semtFcmZWR2Nz": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(104950-STADIUM)\/manifest.mpd",
+        "key": "04beafab1d9e4012b443b747093d0584:b5a6296d3366a34c36bfafa74ed82f24",
+        "name": "stadium"
+    },
+    "c3RhZGl1bS0xX01QTEFZXzAxbndOWDhjbUg=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(96469-STAD1)\/manifest.mpd",
+        "key": "a66dd22e5ebb43bc8feeab09178c75c4:e577ab0380afc8d82033c30881fb88d8",
+        "name": "stadium-1"
+    },
+    "c3RhZGl1bS0yX01QTEFZX3FZWmhBR3RHbXI=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(96550-STAD2)\/manifest.mpd",
+        "key": "b9d0e15706964c899b200fa0581e76e8:62439574f3da2e5a070177092628748e",
+        "name": "stadium-2"
+    },
+    "c3RhZGl1bS0zX01QTEFZX3FkOWtiZDJ4M3k=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(96551-STAD3)\/manifest.mpd",
+        "key": "9bb17547d3e94ea4a35b50527bc9f09e:0469d383b26262321d310067b4937674",
+        "name": "stadium-3"
+    },
+    "dGVlbi1uaWNrX01QTEFZX1R5V1FzOFdHWDM=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(97047-TNCKHD)\/manifest.mpd",
+        "key": "fa9f6092ff7b416c80b4be75bbd0bfed:7a8bcd117e402dd08a643a14f006c0c7",
+        "name": "teen-nick"
+    },
+    "dGVsZWZlLWludGVybmF0aW9uYWxfTVBMQVlfQkcwN2l5c3R1UQ==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(108573-TEFEIHD)\/manifest.mpd",
+        "key": "eecf71767e424ba387d6f562959411e6:fd752eefbd4ba871ea81dd0e226f7ffb",
+        "name": "telefe-international"
+    },
+    "dGVsZWZvcm11bGFfTVBMQVlfVXNpcXZtejc2Yg==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(87167-TFORMHD)\/manifest.mpd",
+        "key": "7a5a190bcf3a47d2b002f45f0d9bdb41:6975a9d5b1aef33d6ea94d0c12a64fd3",
+        "name": "teleformula"
+    },
+    "dGVsZWhpdF9NUExBWV9Zc1FiWXBDZmxn": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(34393-THITUS)\/manifest.mpd",
+        "key": "eee3a67a487d41e899a072935370fd4a:3ab2f4b7c50c98c47cc18417025a4639",
+        "name": "telehit"
+    },
+    "dGVsZWhpdC1tdXNpY2FfTVBMQVlfR3NJUW8ySFZXSQ==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(34394-THMUS)\/manifest.mpd",
+        "key": "2d6125f404904216bdf09a67cb44ab33:d519ccfb27f8e0132aa957c9109ac303",
+        "name": "telehit-musica"
+    },
+    "dGhlLWNvd2JveS1jaGFubmVsX01QTEFZX0lvUGRYeHlaNkU=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/\/Content\/DASH_WV\/Live\/channel(80597-COWBOYH)\/manifest.mpd",
+        "key": "76b54e9d55bf443fa793b07d2c6574bb:71afb6df67a7449039b55403fdbeec4d",
+        "name": "the-cowboy-channel"
+    },
+    "dGhlLWxlYXJuaW5nLWNoYW5uZWxfTVBMQVlfRlpDdU8zMjY5Zg==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(57391-TLCHD)\/manifest.mpd",
+        "key": "27e897cda8c942efa2faf83d8ff35994:5986661cc4cb4df8310769b001818",
+        "name": "the-learning-channel"
+    },
+    "dGhlLXRyYXZlbC1jaGFubmVsX01QTEFZX2syN3lCb1YwSk0=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(59303-TRAVHD)\/manifest.mpd",
+        "key": "aca68d9e1baa49d2ba5767ee39b1cc42:0bad09398d747530be5337558a5f01b2",
+        "name": "the-travel-channel"
+    },
+    "dHIzcy1zZF9NUExBWV9VSUZsZzdxVEQ5": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(18715-TR3S)\/manifest.mpd",
+        "key": "fbf4d07695dd4947a61fb406a2d59eb7:2ad3331413704e4dc163d424af460a7f",
+        "name": "tr3s-sd"
+    },
+    "dHVkbl9NUExBWV9sN3BHSEo2ZFp2": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(77033-TUDNUH)\/manifest.mpd",
+        "key": "f4e55fb5570e4d3cb2a0a5f416f724cc:4a0855e2faf54910e3bb0eed58111ec8",
+        "name": "tudn"
+    },
+    "dHVkbi11c2FfTVBMQVlfV2lTcU9MeklSUw==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(77033-TUDNUH)\/manifest.mpd",
+        "key": "f4e55fb5570e4d3cb2a0a5f416f724cc:4a0855e2faf54910e3bb0eed58111ec8",
+        "name": "tudn-usa"
+    },
+    "dHYtbGFuZF9NUExBWV9aZjdBRDJlWFRy": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(73541-TVLNDHD)\/manifest.mpd",
+        "key": "43a42f0138b94d0296829a90da17e258:7d723f781574aaf3f2a525b545902790",
+        "name": "tv-land"
+    },
+    "dHYtb25lX01QTEFZX3ZRZm1HU1hFUHY=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(35513-TVONE)\/manifest.mpd",
+        "key": "69f7c929b318460eaf9a58f5cd5410f8:c4758bd2a0cd4007c638a46f4c6ab3e6",
+        "name": "tv-one"
+    },
+    "dHljLXNwb3J0c19NUExBWV9wREQzT29jeGdN": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(90677-TYCHD)\/manifest.mpd",
+        "key": "32ecd40f464948beb68a0f27762aed74:46bc69f590b5bbb7362af25e2224ba51",
+        "name": "tyc-sports"
+    },
+    "dW5pbWFzX01QTEFZX0JwbWJxb2txYmU=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(73882-UNIMHD)\/manifest.mpd",
+        "key": "8524d0dad2884a69b8c9b0bf12221eda:8aadddd3b8a538644cd4c728ce63a4b9",
+        "name": "unimas"
+    },
+    "dW5pdmlzaW9uX01QTEFZX1JqMG1PNnRRblU=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(11118-UNI)\/manifest.mpd",
+        "key": "8524d0dad2884a69b8c9b0bf12221eda:8aadddd3b8a538644cd4c728ce63a4b9",
+        "name": "univision"
+    },
+    "dW5pdmlzaW9uLXRsLW5vdmVsYXNfTVBMQVlfVE5vTnpzOTI4Zg==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(74550-UNITLNO)\/manifest.mpd",
+        "key": "85362b18a6a246318513f8c3c868d13c:4baece21aca794b455ea8833081f11f3",
+        "name": "univision-tl-novelas"
+    },
+    "dXB0dl9NUExBWV9vaW91Q0JyNG44": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(66143-UPHD)\/manifest.mpd",
+        "key": "fd9d3bed758d45f9ab24134483f7b28e:c9f90cada87f8744094c5b0e3098cedc",
+        "name": "uptv"
+    },
+    "di1tZV9NUExBWV93RmlkYk4xSGRi": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(55250-VME)\/manifest.mpd",
+        "key": "375448f1c577443da63d9869ebb88b05:042af65d587dcdb335df728c5a9c36fe",
+        "name": "v-me"
+    },
+    "dmgxX01QTEFZX0FmVHV0VFhmQmQ=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(60046-VH1HD)\/manifest.mpd",
+        "key": "663aed90bc1845dc8839322d74050d92:d65bb73705b02b7a35a9a64ce7847c9d",
+        "name": "vh1"
+    },
+    "dmljZWxhbmRfTVBMQVlfeDBrMHFGcUdwUw==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(65732-VICEHD)\/manifest.mpd",
+        "key": "b0f8250f43d348d4805db3ee91477367:01b41d9712812c6db6f5ff015fe0cdf0",
+        "name": "viceland"
+    },
+    "dmlkZW8tcm9sYV9NUExBWV9GejhlaGZ6YVBh": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(88813-VROLAHD)\/manifest.mpd",
+        "key": "028f5f7a11be41b3a5d0daf7a5c3ee62:f384bd4c889db9db03e0600e0217447e",
+        "name": "video-rola"
+    },
+    "dm1lLWtpZHNfTVBMQVlfNDZXblNvbDhhTQ==": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(70830-VMEKIDS)\/manifest.mpd",
+        "key": "4cf4cfda3c084504be741040fe545a07:0a3c4fc4a835df6cb02a11f46eea9bd4",
+        "name": "vme-kids"
+    },
+    "d2FwYS1hbWVyaWNhX01QTEFZX05JaVhLQUl4UjY=": {
+        "url": "https:\/\/d3dlr3vjm7o0xw.cloudfront.net\/Content\/DASH_WV\/Live\/channel(44322-WAPAUS)\/manifest.mpd",
+        "key": "6299f32b4e5a44f98c9cfe0b8f4b1973:a04f6ba5ace665c55c175dd0852b3677",
+        "name": "wapa-america"
+    }
+}

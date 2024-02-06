@@ -1,0 +1,162 @@
+<?php
+   include '../includes/functions.php';
+   $server = "http://{$_SERVER['HTTP_HOST']}{$_SERVER['PHP_SELF']}";
+
+   $path_server = str_replace ('dashboard.php' , 'api.php' , $server);
+   $rr = json_decode(file_get_contents('http://127.0.0.1:57127/index.php'), true);
+   $ids = [];
+   $monitor =json_decode(file_get_contents('/home/wvtohls/monitor.db'), True);
+   foreach ($rr['channels'] as $key => $r) 
+      $ids[] = $key;
+
+?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Mycanal Streamer</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.10.21/css/dataTables.bootstrap.min.css">
+  <link rel="stylesheet" href="jquery.toast.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <script src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js"></script>
+  <script src="https://cdn.datatables.net/1.10.21/js/dataTables.bootstrap.min.js"></script>
+  <script src="jquery.toast.min.js"></script>
+</head>
+<body>   
+<div class="container">
+  <h2><a href="dashboard.php">TV Streamer</a></h2>
+  <hr/>
+  <p>Canales ONLINE: <?= count($ids) ?></p>
+  <p>
+    <a href="#" onclick="refresh();">[ Reload ]</a>
+  	&nbsp;&nbsp;|&nbsp;&nbsp;
+  	<a href="<?= 'http://' . $_SERVER['SERVER_ADDR'] . ':57127/playlist.m3u' ?>" target="_blank">[ Get channels ONLINE M3U playlist ]</a>
+	  &nbsp;&nbsp;|&nbsp;&nbsp;
+  	<a href="<?= 'http://' . $_SERVER['SERVER_ADDR'] . ':57127/playlist.php' ?>" target="_blank">[ Get channels ONLINE RAW playlist ]</a>
+	&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="#" onclick="showOnlyON();">[ Show Active Channels ]</a>
+	&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="#" onclick="showOnlyOFF();">[  Show Inactive Channels ]</a>
+	&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="#" onclick="showALL();">[ Show All ]</a>
+  </p>
+  <br/><br/>
+  <table id="channels" class="table">
+    <thead>
+		<tr>
+			<th>ID</th>
+			<th>Service</th>
+			<th>Name</th>
+			<th>Status</th>
+			<th>Action</th>
+		</tr>
+    </thead>
+    <tbody>
+	<?php
+	foreach ($monitor as $grupo=>$idents)
+	{
+           $jsonserv =json_decode(file_get_contents('/home/wvtohls/origin/'.$grupo.'.json'), True);
+           foreach($jsonserv as $ident=>$infocan)
+	{
+
+		$status = "OFF";
+		if (in_array($ident,$ids))
+		   $status = "ON";
+
+		if (trim($ident) == "")
+			continue;
+
+		if (trim($grupo) == "")
+		   $grupo = "Unassigned";
+	?>
+      <tr class="<?= $status ?> <?= $grupo ?>">
+        <td><?= $infocan['name'] ?></td>
+		<td><?= ucwords(strtolower($grupo)) ?></td>
+		<td><?= ucwords(strtolower($infocan['name'])) ?></td>
+		<td><?= ($status == "ON") ? '<span class="label label-success">Online</span>' : '<span class="label label-warning">Offline</span>' ?></td>
+        <td>
+			<?php
+			if ($status == "OFF"){	?>
+			<a href="#" onclick="DoAction('<?= $path_server."?id=".$ident."&service=".$grupo."&action=START" ?>');" title="Click here to start the channel">Start</a>
+			<?php } else { ?>
+			<a href="#" onclick="DoAction('<?= $path_server."?id=".$ident."&service=".$grupo."&action=STOP" ?>');" title="Click here to shutdown the channel">Shutdown</a>
+			&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a target="_blank" href="<?= 'http://' . $_SERVER['SERVER_ADDR'] . ':49214/' . $ident . '/hls/playlist.m3u8' ?>" title="Click here to open the channel M3U link">M3U link</a>
+			<?php } ?>
+		</td>
+      </tr>
+	<?php
+	}}
+	?>
+    </tbody>
+  </table>
+</div>
+
+<script>
+	var table;
+
+	$(document).ready(function() {
+		table = $('#channels').DataTable({ stateSave: true });
+		table.order( [ 1, 'asc' ], [ 2, 'asc' ] ).draw();
+	} );
+
+	function showOnlyON()
+	{
+		table.search( "Online" ).draw();
+		return false;
+	}
+
+	function showOnlyOFF()
+	{
+		table.search( "Offline" ).draw();
+		return false;
+	}
+
+	function showALL()
+	{
+		table.search( "" ).draw();
+		return false;
+	}
+
+	function refresh()
+	{
+		location.reload();
+		return false;
+	}
+
+	function DoAction(url)
+	{
+		var xmlHttp = new XMLHttpRequest();
+		xmlHttp.open( "GET", url, false );
+		xmlHttp.send( null );
+		var response =  JSON.parse(xmlHttp.responseText);
+		if (response.status == true)
+		{
+			$.toast({
+				heading: 'Information',
+				text: 'The requested action is being executed, please wait around 30-60 secs.',
+				icon: 'success',
+				loader: true,
+				loaderBg: '#9EC600'
+			});
+			refresh();
+		}
+		else
+		{
+			$.toast({
+				heading: 'Error',
+				text: 'Oops!, something goes wrong when trying to do the requested action.',
+				icon: 'error',
+				loader: true,
+				loaderBg: '#9EC600'
+			});
+		}
+	}
+
+</script>
+
+</body>
+</html>

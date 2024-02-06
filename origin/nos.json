@@ -1,0 +1,124 @@
+{
+"RTP_1_NOS": {
+    "logo": "https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/RTP1.png",
+    "url": "https://nosedge-imo2.stream.nos.pt/noscenc/rolling-buffer/media/EPGC5/transmux/Manifest.mpd?ccur_pg=50FPS&ccur_svc_type=live&c=91.205.230.151&s=61887ef2a39eef71b88db83a&u=574081ad5954202bf00fc1b8&client_id=243924bfd56a682be235638b53961e09",
+    "key": "00000000000000000000000000000005:c0e5e934a9b11ad18802526d9a907253",
+    "name":"RTP 1"
+  },
+  "RTP_2_NOS": {
+    "logo": "https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/RTP2.png",
+    "url": "https://ashur.cdn.clw.nos.pt/nos_dash_cenc/rolling-buffer/media/EPGC3/EPGC3/transmux/Manifest.mpd?c=77.77.222.130&s=395b2130-5d4e-4445-a539-24bf83d940ef&u=59873a51cf027050ac5498a9&client_id=243924bfd56a682be235638b53961e09",
+    "key": "0cca5f6b8a234cfbacfb9722e2c64bb9:047c2fda9eca0549f0b50dcb3a483569",
+    "name":"RTP 2",
+    "audioDelay":2
+  },
+  "RTP_3_NOS": {
+    "logo": "https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/RTP3.png",
+    "url": "https://ashur.cdn.clw.nos.pt/nos_dash_cenc/rolling-buffer/media/EPGC64/EPGC64/transmux/Manifest.mpd?c=77.77.222.130&s=395b2130-5d4e-4445-a539-24bf83d940ef&u=59873a51cf027050ac5498a9&client_id=243924bfd56a682be235638b53961e09",
+    "key": "6ba3a1a6a1bd4e8f8578d1270d624906:e01332a356774531b8b1c3b7bb9dc183",
+    "name":"RTP 3"
+  },
+  "FUEL_TV_NOS": {
+    "logo": "https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/FUELHD.png",
+    "url": "https://ashur.cdn.clw.nos.pt/nos_dash_cenc/rolling-buffer/media/EPGC72/EPGC72/transmux/Manifest.mpd?c=77.77.222.130&s=395b2130-5d4e-4445-a539-24bf83d940ef&u=59873a51cf027050ac5498a9&client_id=243924bfd56a682be235638b53961e09",
+    "key": "f5c8f52114904c2eadbe52661c9408d3:a5c9773a37be9bafdc39cd3f9db17530",
+    "name":"Fuel TV"
+  },
+  "MOTORVISION_TV_NOS": {
+    "logo": "https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/MOTORVISIONHD.png",
+    "url": "https://ashur.cdn.clw.nos.pt/nos_dash_cenc/rolling-buffer/media/EPGC354/EPGC354/transmux/Manifest.mpd?c=77.77.222.130&s=395b2130-5d4e-4445-a539-24bf83d940ef&u=59873a51cf027050ac5498a9&client_id=243924bfd56a682be235638b53961e09",
+    "key": "2968b5182c5a45eca319216ee1db0dbb:efe1e4f19c6d4034f231c754e0f31a70",
+    "name":"Motorvision TV"
+  },
+  "NOS_STUDIOS": {
+    "logo": "https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/NOSSTUDIOSHD.png",
+    "url": "https://ashur.cdn.clw.nos.pt/nos_dash_cenc/rolling-buffer/media/EPGC547/EPGC547/transmux/Manifest.mpd?c=77.77.222.130&s=395b2130-5d4e-4445-a539-24bf83d940ef&u=59873a51cf027050ac5498a9&client_id=243924bfd56a682be235638b53961e09",
+    "key": "3b46dfa9674c4f7fb08486e3fa001bce:8fdc6cd73f8f2e5bfcde093c11179d3c",
+    "name":"Nos Studios"
+  },
+  "CMTV_NOS": {
+    "logo": "https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/CMTVHD.png",
+    "url": "https://ashur.cdn.clw.nos.pt/nos_dash_cenc/rolling-buffer/media/EPGC381/EPGC381/transmux/Manifest.mpd?c=77.77.222.130&s=395b2130-5d4e-4445-a539-24bf83d940ef&u=59873a51cf027050ac5498a9&client_id=243924bfd56a682be235638b53961e09",
+    "key": "13d1b5ab0850427bb1146fa30c09546d:9295fd8e5962c1fe857f4874630644b5",
+    "name":"CM TV"
+  },
+  "EUROSPORT_2_NOS": {
+    "logo": "https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/EUROS2.png",
+    "url": "https://ashur.cdn.clw.nos.pt/nos_dash_cenc/rolling-buffer/media/EPGC128/EPGC128/transmux/Manifest.mpd?c=77.77.222.130&s=395b2130-5d4e-4445-a539-24bf83d940ef&u=59873a51cf027050ac5498a9&client_id=243924bfd56a682be235638b53961e09",
+    "key": "05042acf4719450c9e693743c7c089df:242ef4fd674baf3659a850830e4fbe32",
+    "name":"Eurosport 2"
+  },
+  "SPORTING_TV_NOS": {
+    "logo": "https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPORTINGTVHD.png",
+    "url": "https://ashur.cdn.clw.nos.pt/nos_dash_cenc/rolling-buffer/media/EPGC352/EPGC352/transmux/Manifest.mpd?c=77.77.222.130&s=395b2130-5d4e-4445-a539-24bf83d940ef&u=59873a51cf027050ac5498a9&client_id=243924bfd56a682be235638b53961e09",
+    "key": "4711d4e66b59453097b75ffd7549c94c:6917f2803f62b2d53db94354071bab54",
+    "name":"Sporting TV"
+  },
+  "EUROSPORT_1_HD_NOS": {
+    "logo": "https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/EurosportHD.png",
+    "url": "https://ashur.cdn.clw.nos.pt/nos_dash_cenc/rolling-buffer/media/EPGC145/EPGC145/transmux/Manifest.mpd?c=77.77.222.130&s=395b2130-5d4e-4445-a539-24bf83d940ef&u=59873a51cf027050ac5498a9&client_id=243924bfd56a682be235638b53961e09",
+    "key": "ffe2437e4ee74d708cd0965d4ed06e85:e1efa32ece133bb97641a963c83df584",
+    "name":"Eurosport 1"
+  },
+  "RTP_MEMORIA_NOS": {
+    "logo": "https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/RTPM.png",
+    "url": "https://ashur.cdn.clw.nos.pt/nos_dash_cenc/rolling-buffer/media/EPGC80/EPGC80/transmux/Manifest.mpd?c=77.77.222.130&s=395b2130-5d4e-4445-a539-24bf83d940ef&u=59873a51cf027050ac5498a9&client_id=243924bfd56a682be235638b53961e09",
+    "key": "7bfeedc022c547298c865c9643ea0b90:e30ed1b064e08e8fa5bc9722961f9b05",
+    "name":"RTP Memoria"
+  },
+  "CANAL_11_NOS": {
+    "logo": "https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/CANAL11HD.png",
+    "url": "https://ashur.cdn.clw.nos.pt/nos_dash_cenc/rolling-buffer/media/EPGC565/EPGC565/transmux/Manifest.mpd?c=77.77.222.130&s=636c1139-3fc2-4ea7-9ece-f991836fd289&u=585b86c127f55538ec4440b2&client_id=243924bfd56a682be235638b53961e09",
+    "key": "74b3d936a85a4a758a77a01082a6e3a0:dea7fbd847a57edac4439359a5b83c06",
+    "name":"CANAL 11"
+  },
+  "PORTO_CANAL_NOS": {
+    "logo": "https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/PORTOHD.png",
+    "url": "https://ashur.cdn.clw.nos.pt/nos_dash_cenc/rolling-buffer/media/EPGC105/EPGC105/transmux/Manifest.mpd?c=77.77.222.130&s=395b2130-5d4e-4445-a539-24bf83d940ef&u=59873a51cf027050ac5498a9&client_id=243924bfd56a682be235638b53961e09",
+    "key": "ec5cdfb14d614f07805b8ba04e192015:bfe4c14a8c7b9c4ef0befa6134584792",
+    "name":"Porto Canal"
+  },
+  "SPORT_TV_MAIS_NOS": {
+    "logo": "https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTVMAIS.png",
+    "url": "https://nosedge-pce2.stream.nos.pt/nos_dash_cenc/rolling-buffer/media/EPGC417/EPGC417/transmux/Manifest.mpd?&c=95.20.191.160&s=6ed0da97-bb01-456b-b63a-396ba4a863f8&u=574080be5954202bf00ac135&client_id=243924bfd56a682be235638b53961e09",
+    "key": "140df3c5614c4ae0bf269e14c8ef1c58:a6873e3de0594b1a253cc2a60890bbec",
+    "name":"Sport TV +"
+  },
+   "RTP_AZORES_NOS": {
+    "logo": "https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/RTPACO.png",
+    "url": "https://ashur.cdn.clw.nos.pt/nos_dash_cenc/rolling-buffer/media/EPGC106/EPGC106/transmux/Manifest.mpd?c=77.77.222.130&s=395b2130-5d4e-4445-a539-24bf83d940ef&u=59873a51cf027050ac5498a9&client_id=243924bfd56a682be235638b53961e09",
+    "key": "21bed995e406439a8918f1fb4cb7ba12:4f82d297e937570a94c07bbd33b4df9a",
+    "name":"RTP Azores"
+  },
+  "RTP_MADEIRA_NOS": {
+    "logo": "https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/RTPMAD.png",
+    "url": "https://ashur.cdn.clw.nos.pt/nos_dash_cenc/rolling-buffer/media/EPGC107/EPGC107/transmux/Manifest.mpd?c=77.77.222.130&s=395b2130-5d4e-4445-a539-24bf83d940ef&u=59873a51cf027050ac5498a9&client_id=243924bfd56a682be235638b53961e09",
+    "key": "7250e7604219495a9d6d848796333021:0eb9a6a7b4c49568545da7baa3b197f7",
+    "name":"RTP Madeira",
+    "audioDelay":2
+  },
+  "SIC_NOS":{
+     "logo":"https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SIC.png",
+     "url":"https://ashur.cdn.clw.nos.pt/nos_dash_cenc/rolling-buffer/media/EPGC7/EPGC7/transmux/Manifest.mpd?c=77.77.222.130&s=395b2130-5d4e-4445-a539-24bf83d940ef&u=59873a51cf027050ac5498a9&client_id=243924bfd56a682be235638b53961e09",
+     "key":"26e171a79f8244128b44e00be286ff1a:42c6aa982b6dc3f8e2b17ccd1cf161de",
+     "name":"SIC"
+  },
+  "TVI_NOS": {
+    "logo": "https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/TVI.png",
+    "url": "https://ashur.cdn.clw.nos.pt/nos_dash_cenc/rolling-buffer/media/EPGC8/EPGC8/transmux/Manifest.mpd?c=77.77.222.130&s=395b2130-5d4e-4445-a539-24bf83d940ef&u=59873a51cf027050ac5498a9&client_id=243924bfd56a682be235638b53961e09",
+    "key": "257ef393c8f5419887bfa5ad9d438306:a1a892a2e1b4f3680f8c6f40f87c4651",
+    "name":"TVI HD"
+  },
+  "SIC_NOTICIAS_NOS":{
+     "logo":"https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SICNHD.png",
+     "url":"https://ashur.cdn.clw.nos.pt/nos_dash_cenc/rolling-buffer/media/EPGC9/EPGC9/transmux/Manifest.mpd?c=77.77.222.130&s=395b2130-5d4e-4445-a539-24bf83d940ef&u=59873a51cf027050ac5498a9&client_id=243924bfd56a682be235638b53961e09",
+     "key":"7c4a3df2c80a4991956144608a3799c8:be980efd77732f3a4dd54ead0c1baa70",
+     "name":"SIC NOTICIAS"
+  },
+  "CNN_PORTUGAL_NOS": {
+    "logo": "https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/cnnportugalhd.png",
+    "url": "https://ashur.cdn.clw.nos.pt/nos_dash_cenc/rolling-buffer/media/EPGC160/EPGC160/transmux/Manifest.mpd?c=77.77.222.130&s=395b2130-5d4e-4445-a539-24bf83d940ef&u=59873a51cf027050ac5498a9&client_id=243924bfd56a682be235638b53961e09",
+    "key": "7bb94e30cf8c40d1b64fe85ddaaa4855:a7cb559f77affddbc51c28eb4a1f9d88",
+    "name":"CNN Portugal"
+  }
+}

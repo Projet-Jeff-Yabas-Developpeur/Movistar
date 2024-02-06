@@ -1,0 +1,17 @@
+{
+"AMC": {
+        "logo": "https://edge.myriad-gn-xcr.xcr.comcast.net/select/logo?entityId=8803648918101843117&width=125&height=87&extent=true",
+        "url": "https://ccr.linear-tve-pil-red.top.comcast.net/AMCHD_HD_TVE_16414_0_8974454971835216163.mpd?trred=false",
+        "key": "e3a15e309fdef5a408854d836cb72c05:8d155f45b9df7a2cdbb9c30c16a94363"
+    },
+    "AXS": {
+        "logo": "https://edge.myriad-gn-xcr.xcr.comcast.net/select/logo?entityId=6624191576746438117&width=125&height=87",
+        "url": "http://ec2-54-167-175-109.compute-1.amazonaws.com:80/index.php/https://cdn-ec-bad-373.linear-tve-abrn-pil.top.comcast.net/AXSTV_HD_TVE_11413_0_8815205235891585163.mpd?trred=false",
+        "key": "2b871ebb95bdfa0f4e316a31bee144c2:5af2dd5235110c02acbfe2c74d93f45c",
+        "name":"AXS"
+    }
+}   
+    
+    
+
+

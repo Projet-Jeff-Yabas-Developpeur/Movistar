@@ -1,0 +1,405 @@
+<?php
+require_once(dirname(__FILE__) . '/FFMPEGhandler.php');
+
+class FfmpegHlsConversor extends FFMPEGhandler
+{
+    protected function receiveMessage($timeoutuSecs)
+    {
+        $line = null;
+        if ($this->isRunning()) {
+
+            $w = null;
+            $r = array($this->pipes[1]);
+            $e = null;
+            if (0 <= $timeoutuSecs) {
+                $status = stream_select($r, $e, $e, 0, $timeoutuSecs);
+                if ($status) {
+
+                    $line = fgets($this->pipes[1]);
+                } else
+                    $line = null;
+            } else
+                $line = fgets($this->pipes[1]);
+        }
+        return $line;
+    }
+
+    public function receiveResponse($timeoutuSecs)
+    {
+        $message = $this->receiveMessage($timeoutuSecs);
+        if ($message and $this->ipcMessenger->acceptMessage($message)) {
+            $this->lastRequestResponsed = true;
+            switch ($this->ipcMessenger->getType()) {
+                case $this->ipcMessenger::ISSUE:
+                    $params = $this->ipcMessenger->getAdditionalInfo();
+                    $reason = $this->ipcMessenger->getMessage();
+                    if (0 == strcmp('NO_ORIG_TS', $params['code'])) {
+                        echo 'Abortando, razon: ' . $reason . PHP_EOL;
+                        ob_flush();
+                        flush();
+                        $this->stopJob();
+
+                    }
+                    break;
+                case $this->ipcMessenger::ACK:
+                    $message = $this->ipcMessenger->getMessage();
+                    break;
+            }
+        } else {
+            $this->lastRequestResponsed = false;
+            $message = null;
+        }
+        return $message;
+    }
+
+    protected function sendMessage($message, $timeoutuSecs)
+    {
+        $writtenBytes = 0;
+        if ($this->isRunning()) {
+            $r = null;
+            $w = array($this->pipes[0]);
+            $e = null;
+            $status = stream_select($r, $w, $e, 0, $timeoutuSecs);
+            if ($status) {
+                $writtenBytes = fwrite($w[0], $message);
+            }
+            $this->lastRequestResponsed = false;
+        }
+        return $writtenBytes;
+    }
+
+    public function sendStatusRequest()
+    {
+        $message = $this->ipcMessenger->generateMessage($this->ipcMessenger::STATUS_REQUEST);
+
+        $numBytesSent = $this->sendMessage($message, 0);
+        return $numBytesSent;
+    }
+
+    public function sendRestartCommand()
+    {
+        $res = -1;
+        $message = 'FAIL';
+        $inputArgs = '-re -start_at_zero -nofix_dts -copyts -vsync 0 -avoid_negative_ts make_zero -max_interleave_delta 0 -probesize 15000000 -analyzeduration 15000000';
+        $rOutput = $this->outputDir . '/playlist.m3u8';
+        $outputArgs = '-c copy -individual_header_trailer 0  -segment_format mpegts -hls_time 2 -hls_list_size 5  -sc_threshold 0 -hls_flags delete_segments ' . $rOutput . ' 2>&1';
+        $additionalInfo = array(
+            'source' => $this->source,
+            'output' => $rOutput,
+            'log_file' => $this->logFile
+        );
+
+        $message = $this->ipcMessenger->generateMessage($this->ipcMessenger::START_COMMAND, 'ffmpeg ', $inputArgs . ' -i - ' . $outputArgs, $additionalInfo);
+
+        if (is_resource($this->processRecurse)) {
+            $result = $this->sendMessage($message, 0);
+
+            $message = $this->receiveMessage(7777777);
+            if ($message and $this->ipcMessenger->acceptMessage($message)) {
+                switch ($this->ipcMessenger->getType()) {
+                    case ipcMessage::ACK:
+
+                        $additionalInfo = $this->ipcMessenger->getAdditionalInfo();
+                        if (array_key_exists('FFMPEG_PID', $additionalInfo)) {
+                            $this->ffmpegPid = $additionalInfo['FFMPEG_PID'];
+                            $res = 0;
+                        }
+                }
+            }
+        }
+        return [$res, $message];
+    }
+
+    public function stopJob()
+    {
+        if (isset($this->processRecurse) and is_resource($this->processRecurse)) {
+            $proc_info = proc_get_status($this->processRecurse);
+            if ($proc_info['running']) {
+                $w = array($this->pipes[0]);
+                $r = array($this->pipes[1]);
+                $e = null;
+                $message = $this->ipcMessenger->generateMessage($this->ipcMessenger::STOP_COMMAND);
+                $status = stream_select($e, $w, $e, 10);
+                if ($status) {
+                    fwrite($this->pipes[0], $message);
+                    $responded = false;
+                    do {
+                        $respuesta = $this->receiveMessage(-1);
+                        $this->ipcMessenger->acceptMessage($respuesta);
+                        $additionalInfo = $this->ipcMessenger->getAdditionalInfo();
+                        if (array_key_exists('CONVERSION_STOPPED', $additionalInfo) and
+                            $additionalInfo['CONVERSION_STOPPED'])
+                            $responded = true;
+                    } while (!$responded);
+                    fclose($this->pipes[0]);
+                    fclose($this->pipes[1]);
+                    proc_close($this->processRecurse);
+                }
+            }
+        }
+    }
+
+    /**
+     * @param $params ArrayObject con los parametros de salida para Ffmpeg:
+     * segmentTime: duracion de cada segmento que generará Ffmpeg en la lista Hls
+     * listSize: numero de segmentos que maximo que contendrá la lista hls generada por Ffmpeg
+     * @return array donde el primer valor es -1 si hubo algun error al instanciar Ffmpeg y 0 en caso contrario
+     * y un mensaje como segundo valor con detalles sobre el resultado.
+     */
+    public function startFfmpegInstance($params)
+    {
+        $res = -1;
+        $message = 'FAIL';
+        $rOutput = $this->outputDir . '/playlist.m3u8';
+        // $rFFMpeg . ' -y -nostdin -hide_banner -err_detect ignore_err -nofix_dts -start_at_zero -copyts -vsync 0 -correct_ts_overflow 0 -avoid_negative_ts disabled -max_interleave_delta 0 -re -probesize 15000000 -analyzeduration 15000000 -f concat -safe 0 -i \'' . $rPlaylist . '\' -vcodec copy -scodec copy -acodec copy -individual_header_trailer 0 -metadata service_provider="cimbor" -f segment -segment_format mpegts -segment_time ' . $segmentTime . ' -segment_list_size ' . $numSegments . ' -segment_format_options mpegts_flags=+initial_discontinuity:mpegts_copyts=1 -segment_list_type m3u8 -segment_list_flags +live+delete -segment_list \'' . $rOutput . '\' \'' . $rFormat . '\' > ' . $log . ' 2>&1
+
+        if (array_key_exists('segmentTime', $params) and array_key_exists('listSize', $params)) {
+            $inputArgs = '-re -probesize 15000000 -timeout 77777777 -analyzeduration 9000000 -protocol_whitelist file,pipe,http,https,tcp,tls,udp,crypto';
+            $outputArgs = '-c copy -f hls -hls_time ' . $params['segmentTime'] . ' -hls_list_size ' . $params['listSize'] . ' -hls_segment_type mpegts -hls_flags delete_segments ' . $rOutput . ' 2>&1';
+            $additionalInfo = array(
+                'source' => $this->source,
+                'output' => $rOutput,
+                'log_file' => $this->logFile,
+                'input_args' => $inputArgs,
+                'output_args' => $outputArgs
+            );
+
+            $descriptors = [
+                0 => ['pipe', 'r'],
+                1 => ['pipe', 'w']
+            ];
+
+            $command = 'php ' . __DIR__ . '/videoServer.php';
+
+            $process = proc_open($command, $descriptors, $pipes);
+            if (is_resource($process)) {
+                $this->processRecurse = $process;
+                $this->pipes = $pipes;
+                stream_set_blocking($pipes[0], 1);
+                stream_set_blocking($pipes[1], 1);
+                $send = $this->ipcMessenger->generateMessage(ipcMessage::START_COMMAND, $this->executablePath, $additionalInfo);
+                fwrite($pipes[0], $send);
+                $message = $this->receiveMessage(7777777);
+                $ok = $this->ipcMessenger->acceptMessage($message);
+                if ($message and $ok) {
+                    switch ($this->ipcMessenger->getType()) {
+                        case ipcMessage::ACK:
+
+                            $additionalInfo = $this->ipcMessenger->getAdditionalInfo();
+                            if (array_key_exists('FFMPEG_PID', $additionalInfo)) {
+                                $this->ffmpegPid = $additionalInfo['FFMPEG_PID'];
+                                $proc_info = proc_get_status($process);
+                                $this->subProcessPid = $proc_info['pid'];
+                                $res = 0;
+                            }
+                    }
+                }
+            } else
+                $message = 'ERRORS FOUND IN PARAMETERS, CHECK THAT segmentTime AND listSize ARE SET';
+        }
+        return [$res, $message];
+    }
+
+
+    public function feedFfmpeg()
+    {
+        $ok = false;
+        $segments_list = glob($this->source . '/*.ts');
+        usort($segments_list, function ($a, $b) {
+            preg_match('@.+/(\d{1,})\.ts@', $a, $match_a);
+            preg_match('@.+/(\d{1,})\.ts@', $b, $match_b);
+            $aValue = intval($match_a[1]);
+            $bValue = intval($match_b[1]);
+            return ($aValue - $bValue);
+        });
+        foreach ($segments_list as $segment) {
+            $segmentSize = filesize($segment);
+            $f = fopen($segment, 'r');
+            $data = fread($f, $segmentSize);
+            $bytesWritten = socket_write($this->inputSocket, $data, $segmentSize);
+            unlink($segment);
+            if ($bytesWritten == $segmentSize)
+                $ok = true;
+        }
+
+
+        return $ok;
+    }
+
+    /**
+     * @param $params ArrayObject con los parametros de salida para Ffmpeg:
+     * segmentTime: duracion de cada segmento que generará Ffmpeg en la lista Hls
+     * listSize: numero de segmentos que maximo que contendrá la lista hls generada por Ffmpeg
+     * @return array donde el primer valor es -1 si hubo algun error al instanciar Ffmpeg y 0 en caso contrario
+     * y un mensaje como segundo valor con detalles sobre el resultado.
+     */
+    public function startFfmpegInstance3($params)
+    {
+        $message = 'FAIL';
+        $rOutput = $this->outputDir . '/playlist.m3u8';
+        $running = false;
+        $pid = 0;
+        // $rFFMpeg . ' -y -nostdin -hide_banner -err_detect ignore_err -nofix_dts -start_at_zero -copyts -vsync 0 -correct_ts_overflow 0 -avoid_negative_ts disabled -max_interleave_delta 0 -re -probesize 15000000 -analyzeduration 15000000 -f concat -safe 0 -i \'' . $rPlaylist . '\' -vcodec copy -scodec copy -acodec copy -individual_header_trailer 0 -metadata service_provider="cimbor" -f segment -segment_format mpegts -segment_time ' . $segmentTime . ' -segment_list_size ' . $numSegments . ' -segment_format_options mpegts_flags=+initial_discontinuity:mpegts_copyts=1 -segment_list_type m3u8 -segment_list_flags +live+delete -segment_list \'' . $rOutput . '\' \'' . $rFormat . '\' > ' . $log . ' 2>&1
+
+        if (array_key_exists('segmentTime', $params) and array_key_exists('listSize', $params)
+            and array_key_exists('channel', $params)
+        ) {
+            $inputArgs = '-re -y -probesize 15000000 -analyzeduration 9000000 -protocol_whitelist file,unix,pipe,http,https,tcp,tls,udp,crypto -nostdin -listen 1';
+            #  $inputArgs='-re -stream_loop -1 -probesize 15000000 -analyzeduration 15000000 ';
+            $outputArgs = '-c copy -f hls -hls_time ' . $params['segmentTime'] . ' -hls_list_size ' . $params['listSize'] . ' -hls_segment_type mpegts -hls_flags delete_segments ' . $rOutput . ' > ' . $this->logFile . ' 2>&1 & echo $!';
+
+            // Create the socket
+            $this->socketPath = $this->source . '/' . $params['channel'] . '.socket';
+            if (file_exists($this->socketPath))
+                unlink($this->socketPath);
+            $socketPath = 'unix:' . $this->socketPath;
+
+            $ffmpeg_command = $this->executablePath . ' ' . $inputArgs . ' -i ' . $socketPath . ' ' . $outputArgs;
+
+
+            $pid = exec($ffmpeg_command, $scriptOut, $code);
+            while (!file_exists($this->socketPath)) {
+                #s  echo 'DEBUG: ESPERANDO AL SOCKET ' . $this->source . '/' . $params['channel'] . '.socket' . PHP_EOL;
+                ob_flush();
+                flush();
+                usleep(300000);
+            }
+            $running = posix_kill($pid, 0);
+            if ($running) {
+
+                $this->ffmpegPid = $pid;
+                $this->output = $rOutput;
+                $socket = socket_create(AF_UNIX, SOCK_STREAM, 0);
+
+                if (socket_connect($socket, $this->source . '/' . $params['channel'] . '.socket')) {
+                    $this->inputSocket = $socket;
+                    $message = 'OK, PID ' . $pid;
+                } else
+                    $message = 'ERROR,SOCKET BIND FAILED';
+
+                #   $playlistFile=$this->input.'/playlist.txt';
+                #  echo 'se llama '.$playlistFile;
+                # $lines='ffconcat version 1.0'.PHP_EOL;
+                #$mode=0666;
+
+                # foreach(range(1,150) as $id)
+                #{
+                #    $lines=$lines."file 'tcp://127.0.0.1:60000'".PHP_EOL."file 'playlist.txt'".PHP_EOL;
+                #}
+                #file_put_contents($playlistFile,$lines);
+
+            } else
+                $message = 'COULD NOT LAUNCH FFMPEG PROCESS, CHECK THE COMMAND LINE, CURRENT: ' . $ffmpeg_command;
+        } else
+            $message = 'ERRORS FOUND IN PARAMETERS, CHECK THAT segmentTime AND listSize ARE SET';
+
+
+        return $message;
+    }
+
+    /**
+     * @param $params ArrayObject con los parametros de salida para Ffmpeg:
+     * segmentTime: duracion de cada segmento que generará Ffmpeg en la lista Hls
+     * listSize: numero de segmentos que maximo que contendrá la lista hls generada por Ffmpeg
+     * @return array donde el primer valor es -1 si hubo algun error al instanciar Ffmpeg y 0 en caso contrario
+     * y un mensaje como segundo valor con detalles sobre el resultado.
+     */
+    public function startFfmpegInstance2($params)
+    {
+        $message = 'FAIL';
+        $rOutput = $this->outputDir . '/playlist.m3u8';
+        $outputArgs = '-c:v copy -c:a copy -f hls -hls_time ' . $params['segmentTime'] . ' -hls_list_size ' . $params['listSize'] . ' -hls_segment_type mpegts -hls_flags delete_segments ' . $rOutput . ' > ' . $this->logFile . ' 2>&1 & echo $!';
+        $pid = 0;
+        // $rFFMpeg . ' -y -nostdin -hide_banner -err_detect ignore_err -nofix_dts -start_at_zero -copyts -vsync 0 -correct_ts_overflow 0 -avoid_negative_ts disabled -max_interleave_delta 0 -re -probesize 15000000 -analyzeduration 15000000 -f concat -safe 0 -i \'' . $rPlaylist . '\' -vcodec copy -scodec copy -acodec copy -individual_header_trailer 0 -metadata service_provider="cimbor" -f segment -segment_format mpegts -segment_time ' . $segmentTime . ' -segment_list_size ' . $numSegments . ' -segment_format_options mpegts_flags=+initial_discontinuity:mpegts_copyts=1 -segment_list_type m3u8 -segment_list_flags +live+delete -segment_list \'' . $rOutput . '\' \'' . $rFormat . '\' > ' . $log . ' 2>&1
+
+
+        if (array_key_exists('segmentTime', $params) and array_key_exists('listSize', $params)) {
+            if($this->isRunning()){
+                posix_kill($this->ffmpegPid,SIGTERM);
+            }
+            if (is_dir($this->source)) {
+                $inputArgs = '-re -y -nostdin -probesize 15000000 -analyzeduration 9000000 -protocol_whitelist file,pipe,http,https,tcp,tls,udp,crypto ';
+                $socketOptions = ' -recv_buffer_size 4000000 ?listen=1';
+                $listening = 0;
+                $port = 60000;
+                $netstatCommand = 'netstat --numeric-hosts --numeric-ports --tcp';
+
+                while (!$listening and $port < 65535) {
+                    $host = '127.0.0.1';
+                    $proto = 'tcp://';
+                    $address = $proto . $host . ':' . $port;
+                    exec($netstatCommand, $scriptOut, $code);
+                    // Se comprueba que no esta ese socket ya en uso
+                    $found = false;
+                    $numOutputLines = count($scriptOut);
+                    $i = 0;
+                    while (!$found and ++$i < $numOutputLines) {
+                        $found = strpos($scriptOut[$i], $host . ':' . $port);
+                    }
+                    /*if ($found)
+                        echo 'andando el socket ' . $address . PHP_EOL;
+                    else
+                        echo 'libre el socket ' . $address . PHP_EOL;*/
+
+                    // Vamos a probar a ejecutarlo en el socket
+                    if (!$found) {
+                        $ffmpeg_command = $this->executablePath . ' ' . $inputArgs . ' -i  "' . $address . $socketOptions . '" ' . $outputArgs;
+
+                        $pid = exec($ffmpeg_command, $scriptOut, $code);
+                        ob_flush();
+                        flush();
+                        usleep(2500000);
+                        $listening = posix_kill($pid, 0);
+                    }
+                    if (!$listening)
+                        $port++;
+                }
+
+                if ($listening) {
+                   // echo 'andando con el comando: ' . $ffmpeg_command . PHP_EOL;
+                    $this->inputAddress = $address;
+                  //  echo 'creando el socket en ' . $host . ':' . $port . PHP_EOL;
+                    $socket = socket_create(AF_INET, SOCK_STREAM, getprotobyname('tcp'));
+                    $result = @socket_connect($socket, $host, $port);
+                    if ($result)
+                        echo 'conectado' . PHP_EOL;
+                    else
+                        echo 'algo falla al conectar con el socket' . PHP_EOL;
+
+                    $this->ffmpegPid = $pid;
+                    $this->inputSocket = $socket;
+                    $this->output = $rOutput;
+                    $message = 'OK, PID ' . $this->ffmpegPid;
+                }
+            }
+            else
+            {
+                $inputArgs = '-re -y -reconnect 1 -timeout 10000000 -reconnect_streamed 1 -reconnect_delay_max 2 -nostdin -probesize 15000000 -analyzeduration 9000000 -user_agent "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"';
+                $ffmpeg_command = $this->executablePath . ' ' . $inputArgs . ' -i  "' . $this->source . '" ' . $outputArgs;
+                $pid = exec($ffmpeg_command, $scriptOut, $code);
+                echo 'DEBUG: ESPERANDO A FFMPEG, EJECUTADO CON: ' . $ffmpeg_command . PHP_EOL;
+                ob_flush();
+                flush();
+                usleep(2000000);
+                $listening = posix_kill($pid, 0);
+                if ($listening) {
+                    echo 'andando con el comando: ' . $ffmpeg_command . PHP_EOL;
+                    $this->inputAddress = null;
+
+                    $this->ffmpegPid = $pid;
+                    $this->inputSocket = null;
+                    $this->output = $rOutput;
+                    $message = 'OK, PID ' . $this->ffmpegPid;
+                }
+                else
+                    echo 'fallo al querer iniciar ffmpeg';
+            }
+
+        } else
+            $message = 'ERRORS FOUND IN PARAMETERS, CHECK THAT segmentTime AND listSize ARE SET';
+
+
+        return $message;
+    }
+
+}

@@ -1,0 +1,1832 @@
+{
+     "13C_MOVISTARCL": {
+        "url": "http://b45107.7.cdn.telefonica.com/45107/_-_psi_-_/sdash/LIVE$13CHD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/26/7265849_80A656F053F25772.png",
+        "key": "ea2c59f0681f4293aca97348687cd8d5:f377709ac4b062f314faef2fa13b3421",
+        "name": "13C CL"
+    },
+    "QTNTZXJpZXM=_MPLAYCOL": {
+        "url": "https://b43501-p1-h74.4.cdn.telefonica.com/_43501/_-_DW2pp8kKyskVW0URjFgSh--gfC6UYMLq9UOTRvY35pw_-_/sdash/LIVE$AtresSeriesHD/index.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/26/7265849_80A656F053F25772.png",
+        "key": "b6d6c336cdd74c5d86fa15c0ec6d20ce:f9515f37b8255a78ebda2b0b1ca9c285",
+        "name": "A3Series COL"
+    },
+    "QUU=_MPLAYCOL": {
+        "url": "https://b41842-p1-hbc.4.cdn.telefonica.com/_41842/_-_DW2pp8kKyskVW0URjFgSh--gfC6UYMLq9UOTRvY35pw_-_/sdash/LIVE$AEHD/index.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6402265_9A16CAF7C07017A3.png",
+        "key": "d83ac599860449249ced0bddf418308a:4da0ea732ba39c76b90ce0c40e069343",
+        "name": "AE COL"
+    },
+    "QU1D_MPLAYCOL": {
+        "url": "https://b43051-p7-hbc.4.cdn.telefonica.com/_43051/_-_Ir5Yg6EoIU9IsoW22I_rN2dA9Hk16xUxw5XPTnvsJlf8b4ManQD6f7ry-FWda6fa_-_/sdash/LIVE$AMCColIPTV/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6402133_B265ACD58D743792.png",
+        "key": "46f672c57f854107b869ff177dccbfbd:02f7469fe05adcf7ae0865f6c9e6996f",
+        "name": "AMC COL"
+    },
+    "QVhO_MPLAYCOL": {
+        "url": "https://b41844-p7-hc4.4.cdn.telefonica.com/_41844/_-_Ir5Yg6EoIU9IsoW22I_rN2dA9Hk16xUxw5XPTnvsJlf8b4ManQD6f7ry-FWda6fa_-_/sdash/LIVE$AXNHD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6402156_509AFA5B12D1E5F9.png",
+        "key": "030901df3454408dbf50495d9fcb5bf6:f5df1170d39d89c33f22532a6c437933",
+        "name": "AXN COL"
+    },
+    "QW5pbWFsIFBsYW5ldA==_MPLAYCOL": {
+        "url": "https://b41843-p1-h63.4.cdn.telefonica.com/_41843/_-_DW2pp8kKyskVW0URjFgSh--gfC6UYMLq9UOTRvY35pw_-_/sdash/LIVE$AnimalPlanetHD/index.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6404328_6EA16AC5A8C8CA82.png",
+        "key": "0310ccb7fa2a4af1b70d315a38a9427a:89c73cf0dd9a0019b654d8a8e7607005",
+        "name": "Animal Planet COL"
+    },
+    "QkJDIFdvcmxkIE5ld3M=_MPLAYCOL": {
+        "url": "https://b43893.cdn.telefonica.com/43893/_-_KJrG8PDpw7xO5IJHh78fZGmV2O6FhwU2YG7yqVJIegw_-_/sdash/LIVE$BBCWorld/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6402267_10F67C8B002B5AFD.png",
+        "key": "479db44c46b54914a9c105a2d49b113c:2e457827a669111ed7a02ae41ec0f48a",
+        "name": "BBC World News COL"
+    },
+    "Qm9vbWVyYW5n_MPLAYCOL": {
+        "url": "https://b41845.cdn.telefonica.com/41845/_-_tgQRoOUsne2NfOucmtgAML7iBpGA3WvHhH8hZ919Kf4_-_/sdash/LIVE$Boomerang/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6404290_FE34DF1C0A7F8F58.png",
+        "key": "059d0d38fbe5457b835ea13bfb54604b:a60a8c41c0edb106ab73fb3deeb0f8fb",
+        "name": "Boomerang COL"
+    },
+    "Q05OIEVzcA==_MPLAYCOL": {
+        "url": "https://b41849-p7-h97.4.cdn.telefonica.com/_41849/_-_Ir5Yg6EoIU9IsoW22I_rN2dA9Hk16xUxw5XPTnvsJlf8b4ManQD6f7ry-FWda6fa_-_/sdash/LIVE$CNNEspanol/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-StandardDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6402293_ED7DBFA4CA85ED1C.png",
+        "key": "75ec4d117dac411db4e7f95de3f077d3:c0b6a08927f63b923f9adc8cb9f3ab30",
+        "name": "CNN Esp COL"
+    },
+    "Q2FibGVub3RpY2lhcw==_MPLAYCOL": {
+        "url": "https://b41846-p7-hd3.4.cdn.telefonica.com/_41846/_-_Ir5Yg6EoIU9IsoW22I_rN2dA9Hk16xUxw5XPTnvsJlf8b4ManQD6f7ry-FWda6fa_-_/sdash/LIVE$CNOTICIAS/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/73/6737704_F4283DDC62A7CE71.png",
+        "key": "0c0cf93eb631433ab7652e79b309e3d8:3e67a2178c43ac86b6dcadcbaac033f8",
+        "name": "Cablenoticias COL"
+    },
+    "Q2FuYWwgVU5P_MPLAYCOL": {
+        "url": "https://b42941-p1-h1f.4.cdn.telefonica.com/_42941/_-_DW2pp8kKyskVW0URjFgSh--gfC6UYMLq9UOTRvY35pw_-_/sdash/LIVE$Canal1HD/index.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/73/6735848_E3E120BD5125A1BB.png",
+        "key": "8acdcc7d542c43378bf9240414589478:eb298a9622e8887eb85f7d4a913de326",
+        "name": "Canal UNO COL"
+    },
+    "Q2FyYWNvbA==_MPLAYCOL": {
+        "url": "https://b42944-p7-h07.4.cdn.telefonica.com/_42944/_-_Ir5Yg6EoIU9IsoW22I_rN2dA9Hk16xUxw5XPTnvsJlf8b4ManQD6f7ry-FWda6fa_-_/sdash/LIVE$CaracolHD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777673_523AE0ED0219820E.png",
+        "key": "d5fc56ec2ba34176a5ff9c17ef6dd344:f6e85e0a5964eeedf617664118e2d6bb",
+        "name": "Caracol COL"
+    },
+    "Q2FydG9uIE5ldHdvcms=_MPLAYCOL": {
+        "url": "https://b41847-p7-h57.4.cdn.telefonica.com/_41847/_-_Ir5Yg6EoIU9IsoW22I_rN2dA9Hk16xUxw5XPTnvsJlf8b4ManQD6f7ry-FWda6fa_-_/sdash/LIVE$CartoonNetworkHD/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DPMuE_6s-Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6404291_317D0944FCAE9FC2.png",
+        "key": "0edadcc0e54e4b78a5572db82539e760:aac138c148232529921b2aab4369345a",
+        "name": "Carton Network COL"
+    },
+    "Q2FydG9vbml0bw==_MPLAYCOL": {
+        "url": "https://b41845-p2-hf8.4.cdn.telefonica.com/_41845/_-_1n5QJ85wiSvGA4qR-FMlGjt73IKrJV0f3KMZ3tiUApzp5bf8GUO_50zUg9M1l_Og_-_/sdash/LIVE$CARTOONITO/index.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc&tcdn-bitrate-filter=LiveL-M",
+        "logo": "http://media.gvp.telefonica.com/storagearea10/IMAGES/00/10/11/10113697_F122B11142813549.png",
+        "key": "059d0d38fbe5457b835ea13bfb54604b:a60a8c41c0edb106ab73fb3deeb0f8fb",
+        "name": "Cartoonito COL"
+    },
+    "Q2luZWNhbmFs_MPLAYCOL": {
+        "url": "https://b42459.4.cdn.telefonica.com/-42459/_-_3-nQRZEwBRrnqUoo5S8vCsB3w-D4FxXmUfjfeHSY3rA_-_/live/disk1/Cinecanal/CINECANAL_CN_DASH_SD/Cinecanal.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/38/6381761_1B6CA9B0AAD15C8F.png",
+        "key": "0b2599c7397943109c8bc91ac629fbcc:e10af348ab1ea04deea094e6459d8879",
+        "name": "Cinecanal COL"
+    },
+    "Q2luZW1heA==_MPLAYCOL": {
+        "url": "https://b42603.cdn.telefonica.com/42603/_-_3-nQRZEwBRrnqUoo5S8vCsB3w-D4FxXmUfjfeHSY3rA_-_/live/disk1/Cinemax/CINEMAX_CN_DASH_SD/Cinemax.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6400603_DE0CBB7B732B556A.png",
+        "key": "38b3ff1e459a45f6bf2ce7e22fad810d:6f0ca1f31095258d828607f7941c8309",
+        "name": "Cinemax COL"
+    },
+    "Q29tZWR5X0NlbnRyYWw=_MPLAYCOL": {
+        "url": "https://b43054.4.cdn.telefonica.com/43054/_-_DW2pp8kKyskVW0URjFgSh--gfC6UYMLq9UOTRvY35pw_-_/sdash/LIVE$TBSVeryFunnyHD/index.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6402245_C6769A3F09CF8D21.png",
+        "key": "9989db2f24634f40a490dfcd47b4d7e4:156f7385bb3eb13f2f9dacaa8e413cc4",
+        "name": "Comedy_Central COL"
+    },
+    "RGlzY292ZXJ5IENoYW5uZWw=_MPLAYCOL": {
+        "url": "https://b41851-p1-had.4.cdn.telefonica.com/_41851/_-_DW2pp8kKyskVW0URjFgSh--gfC6UYMLq9UOTRvY35pw_-_/sdash/LIVE$DiscoveryHD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6404318_A08760A31E4E9381.png",
+        "key": "4a6b8a3fb08c4c968a41d50f0204189b:d03b0097717b658850b691f6fc2fa922",
+        "name": "Discovery Channel COL"
+    },
+    "RGlzY292ZXJ5IEludmVzdGlnYXRpb24=_MPLAYCOL": {
+        "url": "https://b41879-p3-ha8.4.cdn.telefonica.com/_41879/_-_KJrG8PDpw7xO5IJHh78fZGmV2O6FhwU2YG7yqVJIegw_-_/sdash/LIVE$Invest.DiscoveryHD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7522972_D23BD84A0800ADB3.png",
+        "key": "14e6f2f58df1437284e74c0d683fbe3a:96d763c810cff69cf071a36101e0949f",
+        "name": "Discovery Investigation COL"
+    },
+    "RGlzY292ZXJ5IEtpZHM=_MPLAYCOL": {
+        "url": "https://b41853.4.cdn.telefonica.com/-41853/_-_Ir5Yg6EoIU9IsoW22I_rN2dA9Hk16xUxw5XPTnvsJlf8b4ManQD6f7ry-FWda6fa_-_/sdash/LIVE$DiscoveryKidsHD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6404287_505AB80A6A512184.png",
+        "key": "10a69d2ab5b04c6c8e61655d23238d69:13df0db92691a0a7985143092c2e8ba6",
+        "name": "Discovery Kids COL"
+    },
+    "RGlzY292ZXJ5IFNjaWVuY2U=_MPLAYCOL": {
+        "url": "https://b42500-p5-h29.4.cdn.telefonica.com/_42500/_-_7jERXzItlYlt-Y2ENwzWvwAWUzVFjV7HGqGgvgRcfivDcS6kyMpcCMl370mPXt9J_-_/live/disk1/DiscoveryScience/DISCOVERYSCIENCE_CN_DASH_HD/DiscoveryScience.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/61/8615292_8817353627981150.png",
+        "key": "0feb6846049243d9a647b5fe41ca767e:1b9b3c92969173ad31b80666e8e2d614",
+        "name": "Discovery Science COL"
+    },
+    "RGlzY292ZXJ5IFdvcmxk_MPLAYCOL": {
+        "url": "https://b42512-p7-h9a.4.cdn.telefonica.com/_42512/_-_Ir5Yg6EoIU9IsoW22I_rN2dA9Hk16xUxw5XPTnvsJlf8b4ManQD6f7ry-FWda6fa_-_/live/disk1/DiscoveryWorld/DISCOVERYWORLD_CN_DASH_SD/DiscoveryWorld.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116424_08201B8544EA5CC4.png",
+        "key": "2a0a249587c647b3ba076771cbcd1571:7367f0054c4dbad88c57a2b82a7ed527",
+        "name": "Discovery World COL"
+    },
+    "RGlzY292ZXJ5X0NoYW5uZWw=_MPLAYCOL": {
+        "url": "https://b41851-p1-had.4.cdn.telefonica.com/_41851/_-_DW2pp8kKyskVW0URjFgSh--gfC6UYMLq9UOTRvY35pw_-_/sdash/LIVE$DiscoveryHD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6404318_A08760A31E4E9381.png",
+        "key": "4a6b8a3fb08c4c968a41d50f0204189b:d03b0097717b658850b691f6fc2fa922",
+        "name": "Discovery Channel COL"
+    },
+    "RGlzY292ZXJ5X0ludmVzdGlnYXRpb24=_MPLAYCOL": {
+        "url": "https://b41879-p3-ha8.4.cdn.telefonica.com/_41879/_-_KJrG8PDpw7xO5IJHh78fZGmV2O6FhwU2YG7yqVJIegw_-_/sdash/LIVE$Invest.DiscoveryHD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7522972_D23BD84A0800ADB3.png",
+        "key": "14e6f2f58df1437284e74c0d683fbe3a:96d763c810cff69cf071a36101e0949f",
+        "name": "Discovery_Investigation COL"
+    },
+    "RGlzY292ZXJ5X0tpZHM=_MPLAYCOL": {
+        "url": "https://b41853.4.cdn.telefonica.com/-41853/_-_Ir5Yg6EoIU9IsoW22I_rN2dA9Hk16xUxw5XPTnvsJlf8b4ManQD6f7ry-FWda6fa_-_/sdash/LIVE$DiscoveryKidsHD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6404287_505AB80A6A512184.png",
+        "key": "10a69d2ab5b04c6c8e61655d23238d69:13df0db92691a0a7985143092c2e8ba6",
+        "name": "Discovery Kids COL"
+    },
+    "RGlzY292ZXJ5X1NjaWVuY2U=_MPLAYCOL": {
+        "url": "https://b42500-p5-h29.4.cdn.telefonica.com/_42500/_-_7jERXzItlYlt-Y2ENwzWvwAWUzVFjV7HGqGgvgRcfivDcS6kyMpcCMl370mPXt9J_-_/live/disk1/DiscoveryScience/DISCOVERYSCIENCE_CN_DASH_HD/DiscoveryScience.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/61/8615292_8817353627981150.png",
+        "key": "0feb6846049243d9a647b5fe41ca767e:1b9b3c92969173ad31b80666e8e2d614",
+        "name": "Discovery Science COL"
+    },
+    "RGlzY292ZXJ5X1RoZWF0ZXI=_MPLAYCOL": {
+        "url": "https://b42556-p7-h5b.4.cdn.telefonica.com/_42556/_-_Ir5Yg6EoIU9IsoW22I_rN2dA9Hk16xUxw5XPTnvsJlf8b4ManQD6f7ry-FWda6fa_-_/sdash/LIVE$Theater/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116418_973D80529B29DB21.png",
+        "key": "edc30d4e6f7f45439b3a5cf92aed4ccb:6b44fbc0e2352cb7aa8919b4e311aa83",
+        "name": "Discovery Theater COL"
+    },
+    "RGlzY292ZXJ5X1R1cmJv_MPLAYCOL": {
+        "url": "https://b41854.cdn.telefonica.com/41854/_-_KJrG8PDpw7xO5IJHh78fZGmV2O6FhwU2YG7yqVJIegw_-_/sdash/LIVE$DiscoveryTurbo/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-StandardDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116423_01D7E1AB09137043.png",
+        "key": "70a7a80694094375b97dcf85bf0bf11c:4e553c3b1da2206cfb4cdc6f526eb398",
+        "name": "Discovery Turbo COL"
+    },
+    "RGlzbmV5X0pS_MPLAYCOL": {
+        "url": "https://b42521.4.cdn.telefonica.com/-42521/_-_3-nQRZEwBRrnqUoo5S8vCsB3w-D4FxXmUfjfeHSY3rA_-_/live/disk1/DisneyJr/DISNEYJR_CN_DASH_SD/DisneyJr.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6404285_B2AAA26F953BA65C.png",
+        "key": "62402dcbf6404230a7fe8b1deaca65c0:b68a63828684672080cd372ad9963ee5",
+        "name": "Disney JR COL"
+    },
+    "RQ==_MPLAYCOL": {
+        "url": "https://b41858-p7-hfc.4.cdn.telefonica.com/_41858/_-_Ir5Yg6EoIU9IsoW22I_rN2dA9Hk16xUxw5XPTnvsJlf8b4ManQD6f7ry-FWda6fa_-_/sdash/LIVE$EHD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6402311_E32FDB9336BD052C.png",
+        "key": "ce10a544cc424d0a845b09df327f5ed1:8f20d7c40bba4015b0aee4958f00eb49",
+        "name": "E COL"
+    },
+    "RWwgR291cm1ldA==_MPLAYCOL": {
+        "url": "https://b43066-p7-hbb.4.cdn.telefonica.com/_43066/_-_Ir5Yg6EoIU9IsoW22I_rN2dA9Hk16xUxw5XPTnvsJlf8b4ManQD6f7ry-FWda6fa_-_/sdash/LIVE$ElGourmetHD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/31/6310593_B6C889B3D6BEB5F2.png",
+        "key": "6a48083c0e374e85af7d6d76e8a2803d:f71cddc6ed008113bbe738754f0b5e4c",
+        "name": "El Gourmet COL"
+    },
+    "RWwgdGllbXBv_MPLAYCOL": {
+        "url": "https://b41863-p7-hb3.4.cdn.telefonica.com/_41863/_-_Ir5Yg6EoIU9IsoW22I_rN2dA9Hk16xUxw5XPTnvsJlf8b4ManQD6f7ry-FWda6fa_-_/sdash/LIVE$ELTIEMPO/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-StandardDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777669_C679F246B55CB21E.png",
+        "key": "ea3f411681a34e5da9a374c8e6d9284f:fa8fc9aa68a193a3efdf708182b36d32",
+        "name": "El tiempo COL"
+    },
+    "RWx0aWVtcG8=_MPLAYCOL": {
+        "url": "https://b41863-p7-hb3.4.cdn.telefonica.com/_41863/_-_Ir5Yg6EoIU9IsoW22I_rN2dA9Hk16xUxw5XPTnvsJlf8b4ManQD6f7ry-FWda6fa_-_/sdash/LIVE$ELTIEMPO/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-StandardDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777669_C679F246B55CB21E.png",
+        "key": "ea3f411681a34e5da9a374c8e6d9284f:fa8fc9aa68a193a3efdf708182b36d32",
+        "name": "Eltiempo COL"
+    },
+    "RXNwbg==_MPLAYCOL": {
+        "url": "https://b43063-p7-h5c.4.cdn.telefonica.com/_43063/_-_JTG7Pt6Uu7Cr1xiOw683apRUCBhdJ7JtwzJb8Q_lRijtWODSLhrWpQerEJUwuytJ_-_/sdash/LIVE$ESPNHD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/38/6383309_6BDEDCF4D8E84A20.png",
+        "key": "2ed8ff9da3404a2c894f6c8c19ee259f:03217391b5fa991d37ba790523d766e7",
+        "name": "Espn COL"
+    },
+    "RXNwbl8y_MPLAYCOL": {
+        "url": "https://b43063-p7-h5c.4.cdn.telefonica.com/_43063/_-_Ir5Yg6EoIU9IsoW22I_rN2dA9Hk16xUxw5XPTnvsJlf8b4ManQD6f7ry-FWda6fa_-_/sdash/LIVE$ESPN2/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/38/6383310_007CE9E18A928D1C.png",
+        "key": "ae879942113b42cba682cc3e94428537:de84dead3738d7d26b26664ffba4094c",
+        "name": "Espn_2 COL"
+    },
+    "RXNwbl8z_MPLAYCOL": {
+        "url": "https://b43063-p7-h5c.4.cdn.telefonica.com/_43063/_-_Ir5Yg6EoIU9IsoW22I_rN2dA9Hk16xUxw5XPTnvsJlf8b4ManQD6f7ry-FWda6fa_-_/sdash/LIVE$ESPN3HD/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DPMuE_6s-Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/38/6383311_78D38321059792D4.png",
+        "key": "2364aabecf56451b91d69238cf0bfa57:0928ed0ab2af290139bc1e50c478731c",
+        "name": "Espn_3 COL"
+    },
+    "RXNwbl80_MPLAYCOL": {
+        "url": "https://b43063-p7-h5c.4.cdn.telefonica.com/_43063/_-_1n5QJ85wiSvGA4qR-FMlGjt73IKrJV0f3KMZ3tiUApzp5bf8GUO_50zUg9M1l_Og_-_/sdash/LIVE$ESPN4/index.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc&tcdn-bitrate-filter=LiveL-M",
+        "logo": "http://media.gvp.telefonica.com/storagearea10/IMAGES/00/10/11/10113696_046392A4A17B42D1.png",
+        "key": "eca5c989060a4eaf944cb58ce8fb7fd4:9d3c3a547b9b036a3dcdec87beef8710",
+        "name": "Espn_4 COL"
+    },
+    "RXNwbl9FeHRyYQ==_MPLAYCOL": {
+        "url": "https://b43063-p7-h5c.4.cdn.telefonica.com/_43063/_-_Ir5Yg6EoIU9IsoW22I_rN2dA9Hk16xUxw5XPTnvsJlf8b4ManQD6f7ry-FWda6fa_-_/sdash/LIVE$ESPNEXTRA/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/96/6968339_D2605B6C9B3501F7.png",
+        "key": "2c20684cdc854e51a45d46a6404bb5e9:e180d4071d266edef2fec2b70a1a6c0a",
+        "name": "Espn_Extra COL"
+    },
+    "Rlg=_MPLAYCOL": {
+        "url": "https://b41874-p7-h54.4.cdn.telefonica.com/_41874/_-_Ir5Yg6EoIU9IsoW22I_rN2dA9Hk16xUxw5XPTnvsJlf8b4ManQD6f7ry-FWda6fa_-_/sdash/LIVE$FXColIPTV/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116447_ADADB5E7F9638850.png",
+        "key": "6d2b9f38c02248cca43029b624d9811c:f5fbb2bf69145a225ec18e54cf841127",
+        "name": "FX COL"
+    },
+    "RlhN_MPLAYCOL": {
+        "url": "https://b41875.cdn.telefonica.com/41875/_-_KJrG8PDpw7xO5IJHh78fZGmV2O6FhwU2YG7yqVJIegw_-_/sdash/LIVE$FXMovies/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6400730_1C0C709E8AAB7B6E.png",
+        "key": "11d4f71300344d279a8fc72458510b9f:758afaf6a2dc4028fb1c9c3b015ef1ba",
+        "name": "FXM COL"
+    },
+    "Rm9vZF9OZXR3b3Jr_MPLAYCOL": {
+        "url": "https://b42557-p7-hb4.4.cdn.telefonica.com/_42557/_-_Ir5Yg6EoIU9IsoW22I_rN2dA9Hk16xUxw5XPTnvsJlf8b4ManQD6f7ry-FWda6fa_-_/sdash/LIVE$FoodNetworkHD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/22/4222613_8046E28EEC62E89A.png",
+        "key": "1a995a72f0e148d683137d07957b4c36:fe12b45c5f15898ccfb620e978d1ea7d",
+        "name": "Food_Network COL"
+    },
+    "Rm94U3BvcnRzXzJIRA==_MPLAYCOL": {
+        "url": "https://b43063-p7-h5c.4.cdn.telefonica.com/_43063/_-_JTG7Pt6Uu7Cr1xiOw683apRUCBhdJ7JtwzJb8Q_lRijtWODSLhrWpQerEJUwuytJ_-_/sdash/LIVE$FoxSports2HD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6400460_CFCF7C91055A9854.png",
+        "key": "f02d62d3acd048e6ad8873fb693bab8a:b594e9ca8db4502b87f6fd1892ffa917",
+        "name": "FoxSports_2HD COL"
+    },
+    "Rm94U3BvcnRzXzNIRA==_MPLAYCOL": {
+        "url": "https://b43063-p7-h5c.4.cdn.telefonica.com/_43063/_-_DW2pp8kKyskVW0URjFgSh--gfC6UYMLq9UOTRvY35pw_-_/sdash/LIVE$FoxSports3HD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6400461_87A7107EB8B5D8EB.png",
+        "key": "a4475526f4ef4b578ddfa95379525312:4264eae31420d0e2c289f4e6bc6538d7",
+        "name": "FoxSports_3HD COL"
+    },
+    "R2xpdHo=_MPLAYCOL": {
+        "url": "https://b43063-p7-h5c.4.cdn.telefonica.com/_43063/_-_Ir5Yg6EoIU9IsoW22I_rN2dA9Hk16xUxw5XPTnvsJlf8b4ManQD6f7ry-FWda6fa_-_/sdash/LIVE$Glitz/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-StandardDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726439_069897AA3D19F2C2.png",
+        "key": "adc79ceabfe447e7a081b2e1bb47ab52:804d53e47bd1344e8cbffc15c9d3fe70",
+        "name": "Glitz COL"
+    },
+    "SDI=_MPLAYCOL": {
+        "url": "https://b41876-p7-h35.4.cdn.telefonica.com/_41876/_-_Ir5Yg6EoIU9IsoW22I_rN2dA9Hk16xUxw5XPTnvsJlf8b4ManQD6f7ry-FWda6fa_-_/sdash/LIVE$H2HD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6404398_DED5C40E0E4DDC1C.png",
+        "key": "f21841a7c4304b35a3861585cd8702c0:d623c67567d3c29447ef7e6f8e4fc59a",
+        "name": "H2 COL"
+    },
+    "SEJP_MPLAYCOL": {
+        "url": "https://b41999.cdn.telefonica.com/41999/_-_KJrG8PDpw7xO5IJHh78fZG-pBdP61mLOB2JkTKHZdlY_-_/sdash/LIVE$HBOHD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/16/3163537_068A70F63E96FC68.png",
+        "key": "248df13e3d42486e83344dd51c4cfef2:86d41a4bee3b80760386df56b01b5cf8",
+        "name": "HBO COL"
+    },
+    "SEJPIDI=_MPLAYCOL": {
+        "url": "https://b42002.cdn.telefonica.com/42002/_-_KJrG8PDpw7xO5IJHh78fZG-pBdP61mLOB2JkTKHZdlY_-_/sdash/LIVE$HBO2HD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116449_FA01B469D0D9F34E.png",
+        "key": "375c2eb42fda488b9e5df895cf852320:14c605a07f4ad2d2b992a701d5375a4e",
+        "name": "HBO 2 COL"
+    },
+    "SEJPIEZhbWlseQ==_MPLAYCOL": {
+        "url": "https://b42003.cdn.telefonica.com/42003/_-_KJrG8PDpw7xO5IJHh78fZG-pBdP61mLOB2JkTKHZdlY_-_/sdash/LIVE$HBOFamilyHD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116450_EA39EAF03513E09A.png",
+        "key": "817c652de1ac4ca689ad70b1bfa4c9f2:b99e01fc0940833f944c4e27351f4da5",
+        "name": "HBO Family COL"
+    },
+    "SEJPIFBMVVM=_MPLAYCOL": {
+        "url": "https://b42678.cdn.telefonica.com/42678/_-_7jERXzItlYlt-Y2ENwzWvwAWUzVFjV7HGqGgvgRcfivDcS6kyMpcCMl370mPXt9J_-_/live/disk1/HBOPlusEste/HBOPLUSESTE_CN_DASH_SD/HBOPlusEste.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/94/4943016_C28D52297B7C2060.PNG",
+        "key": "6e282e1cee2a45f79ac288e1892d327a:8dc9b79618137cab7b44d3fd767efac8",
+        "name": "HBO PLUS COL"
+    },
+    "SEJPMg==_MPLAYCOL": {
+        "url": "https://b42002.cdn.telefonica.com/42002/_-_KJrG8PDpw7xO5IJHh78fZG-pBdP61mLOB2JkTKHZdlY_-_/sdash/LIVE$HBO2HD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116449_FA01B469D0D9F34E.png",
+        "key": "375c2eb42fda488b9e5df895cf852320:14c605a07f4ad2d2b992a701d5375a4e",
+        "name": "HBO2 COL"
+    },
+    "SEJPX0ZhbWlseQ==_MPLAYCOL": {
+        "url": "https://b42003.cdn.telefonica.com/42003/_-_KJrG8PDpw7xO5IJHh78fZG-pBdP61mLOB2JkTKHZdlY_-_/sdash/LIVE$HBOFamilyHD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116450_EA39EAF03513E09A.png",
+        "key": "817c652de1ac4ca689ad70b1bfa4c9f2:b99e01fc0940833f944c4e27351f4da5",
+        "name": "HBO_Family COL"
+    },
+    "SEJPX1BMVVM=_MPLAYCOL": {
+        "url": "https://b42678.cdn.telefonica.com/42678/_-_7jERXzItlYlt-Y2ENwzWvwAWUzVFjV7HGqGgvgRcfivDcS6kyMpcCMl370mPXt9J_-_/live/disk1/HBOPlusEste/HBOPLUSESTE_CN_DASH_SD/HBOPlusEste.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/94/4943016_C28D52297B7C2060.png",
+        "key": "6e282e1cee2a45f79ac288e1892d327a:8dc9b79618137cab7b44d3fd767efac8",
+        "name": "HBO_PLUS COL"
+    },
+    "SEdUVg==_MPLAYCOL": {
+        "url": "https://b42555.cdn.telefonica.com/42555/_-_KJrG8PDpw7xO5IJHh78fZGmV2O6FhwU2YG7yqVJIegw_-_/sdash/LIVE$HomeGarden/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/98/4982782_2C3F0CE8D1052BD8.png",
+        "key": "efc5348a1e9040ed918193a6ed6dbcf3:af7da13e1bfb387f8e6cfb155a557ffa",
+        "name": "HGTV COL"
+    },
+    "SEg=_MPLAYCOL": {
+        "url": "https://b41852-p7-h8f.4.cdn.telefonica.com/_41852/_-_Ir5Yg6EoIU9IsoW22I_rN2dA9Hk16xUxw5XPTnvsJlf8b4ManQD6f7ry-FWda6fa_-_/sdash/LIVE$HomeHealthHD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6404402_8442216F89CD2A8E.png",
+        "key": "a44d2f2944ec46328306e42aa40167e9:516fbf23caed14be05b7797405ef37ec",
+        "name": "HH COL"
+    },
+    "SFRW_MPLAYCOL": {
+        "url": "https://b41878.cdn.telefonica.com/41878/_-_KJrG8PDpw7xO5IJHh78fZGmV2O6FhwU2YG7yqVJIegw_-_/sdash/LIVE$HTV/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-StandardDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6402303_A33849F933ADA8BD.png",
+        "key": "3ef6aa6ec1ce4da28d1803bb298cf40f:00bbf9c34a973c0b86881f7c384d2b5d",
+        "name": "HTV COL"
+    },
+    "SGlzdG9yeQ==_MPLAYCOL": {
+        "url": "https://b42582-p7-h17.4.cdn.telefonica.com/_42582/_-_3-nQRZEwBRrnqUoo5S8vCsB3w-D4FxXmUfjfeHSY3rA_-_/live/disk1/History/HISTORY_CN_DASH_SD/History.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6404397_1A9658271F203F00.png",
+        "key": "1151f9f4fde04fa7bde51d250aa1b8f5:175bb1a75e556768be8ccff4b512c8f9",
+        "name": "History COL"
+    },
+    "SG9sYXR2_MPLAYCOL": {
+        "url": "https://b42938-p7-h1c.4.cdn.telefonica.com/_42938/_-_Ir5Yg6EoIU9IsoW22I_rN2dA9Hk16xUxw5XPTnvsJlf8b4ManQD6f7ry-FWda6fa_-_/sdash/LIVE$HOLATVHD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6402338_F2F85E917E131706.png",
+        "key": "b2e80c93208e40c2b422c996247aa354:c53f55935852caad09586baf722f7273",
+        "name": "Holatv COL"
+    },
+    "TVRW_MPLAYCOL": {
+        "url": "https://b41881-p1-h6f.4.cdn.telefonica.com/_41881/_-_DW2pp8kKyskVW0URjFgSh--gfC6UYMLq9UOTRvY35pw_-_/sdash/LIVE$MTVHD/index.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/16/3163549_67C6B5E33A474731.png",
+        "key": "11f070c85f2946e7a72844d26772925c:acf752bbca9dc832ab202e8c2f1f9195",
+        "name": "MTV COL"
+    },
+    "TVRWIDAwUw==_MPLAYCOL": {
+        "url": "https://b42559-p1-h55.4.cdn.telefonica.com/_42559/_-_DW2pp8kKyskVW0URjFgSh--gfC6UYMLq9UOTRvY35pw_-_/sdash/LIVE$VH1HD/index.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/21/9218484_E02799F256E47A34.png",
+        "key": "fbd4168d68fc4ac2b26c863acc4e0ad0:3495c3af976be753cf3fbb2458f44dea",
+        "name": "MTV 00S COL"
+    },
+    "TVRWIExpdmU=_MPLAYCOL": {
+        "url": "https://b42558-p7-he0.4.cdn.telefonica.com/_42558/_-_Ir5Yg6EoIU9IsoW22I_rN2dA9Hk16xUxw5XPTnvsJlf8b4ManQD6f7ry-FWda6fa_-_/sdash/LIVE$MTVLiveHD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/34/7348600_06B7162A91CD321A.png",
+        "key": "07ee946ff1b0424e8de0129c3d97a3e6:9fc234e89893611e3940d7c41ba4ce29",
+        "name": "MTV Live COL"
+    },
+    "TVRWXzAwUw==_MPLAYCOL": {
+        "url": "https://b42559-p1-h55.4.cdn.telefonica.com/_42559/_-_DW2pp8kKyskVW0URjFgSh--gfC6UYMLq9UOTRvY35pw_-_/sdash/LIVE$VH1HD/index.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/21/9218484_E02799F256E47A34.png",
+        "key": "fbd4168d68fc4ac2b26c863acc4e0ad0:3495c3af976be753cf3fbb2458f44dea",
+        "name": "MTV_00S COL"
+    },
+    "TVRWX0xpdmU=_MPLAYCOL": {
+        "url": "https://b42558-p7-he0.4.cdn.telefonica.com/_42558/_-_Ir5Yg6EoIU9IsoW22I_rN2dA9Hk16xUxw5XPTnvsJlf8b4ManQD6f7ry-FWda6fa_-_/sdash/LIVE$MTVLiveHD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/34/7348600_06B7162A91CD321A.png",
+        "key": "07ee946ff1b0424e8de0129c3d97a3e6:9fc234e89893611e3940d7c41ba4ce29",
+        "name": "MTV_Live COL"
+    },
+    "TmF0Z2Vv_MPLAYCOL": {
+        "url": "https://b41884-p7-h2b.4.cdn.telefonica.com/_41884/_-_Ir5Yg6EoIU9IsoW22I_rN2dA9Hk16xUxw5XPTnvsJlf8b4ManQD6f7ry-FWda6fa_-_/sdash/LIVE$NatGeoColombia/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6404323_63237090D01F24CE.png",
+        "key": "37980197d55e415b80286a57fb434222:1d27b725900594ab74e7a9f19e47d775",
+        "name": "Natgeo COL"
+    },
+    "TmF0Z2VvIEtpZHM=_MPLAYCOL": {
+        "url": "https://b41882-p1-hcf.4.cdn.telefonica.com/_41882/_-_DW2pp8kKyskVW0URjFgSh--gfC6UYMLq9UOTRvY35pw_-_/sdash/LIVE$NatGeoKids/index.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6404288_11772D1F744E5833.png",
+        "key": "211bcd89cce34037bb52f5c4933cb9d8:ba8a6bf60c65440b099cc5767269a00b",
+        "name": "Natgeo Kids COL"
+    },
+    "TmF0Z2VvIFdpbGQ=_MPLAYCOL": {
+        "url": "https://b41883-p7-h23.4.cdn.telefonica.com/_41883/_-_Ir5Yg6EoIU9IsoW22I_rN2dA9Hk16xUxw5XPTnvsJlf8b4ManQD6f7ry-FWda6fa_-_/sdash/LIVE$NatGeoWildHD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6404324_F6CD400060224996.png",
+        "key": "752a71138cee410595daa711fe3dd03b:0d1faf7c07d87aba32d555dd506f4964",
+        "name": "Natgeo Wild COL"
+    },
+    "Tmljaw==_MPLAYCOL": {
+        "url": "https://b41885.4.cdn.telefonica.com/41885/_-_DW2pp8kKyskVW0URjFgSh--gfC6UYMLq9UOTRvY35pw_-_/sdash/LIVE$NickJr/index.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6404292_3B9E6CB449FA9F91.png",
+        "key": "aa22f3cbba0d4f4898f7339ff04a3051:d5ddb0ffba81d3a9edb79d95da29bc21",
+        "name": "Nick COL"
+    },
+    "UGFyYW1vdW50_MPLAYCOL": {
+        "url": "https://b41887.cdn.telefonica.com/41887/_-_KJrG8PDpw7xO5IJHh78fZGmV2O6FhwU2YG7yqVJIegw_-_/sdash/LIVE$ParamountHD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/02/7028250_D8AB1C22244B1BCD.png",
+        "key": "d412a082bc884c2b8af65a8a2f7441ef:d4a958ca6794885822eabe18ac92fd6b",
+        "name": "Paramount COL"
+    },
+    "UGFzaW9uZXM=_MPLAYCOL": {
+        "url": "https://b43896-p1-h15.4.cdn.telefonica.com/_43896/_-_DW2pp8kKyskVW0URjFgSh--gfC6UYMLq9UOTRvY35pw_-_/sdash/LIVE$Pasiones/index.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/69/6693699_03BC91674A4C6D72.png",
+        "key": "17bd5623533d4fca8782c4239e5f7e0d:63527a4290928f01b5f79761133427b3",
+        "name": "Pasiones COL"
+    },
+    "U29ueQ==_MPLAYCOL": {
+        "url": "https://b41888-p7-had.4.cdn.telefonica.com/_41888/_-_Ir5Yg6EoIU9IsoW22I_rN2dA9Hk16xUxw5XPTnvsJlf8b4ManQD6f7ry-FWda6fa_-_/sdash/LIVE$SonyHD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/05/38/5388559_C4C605DD343130B2.png",
+        "key": "4439405ed8a044bda44de22b58f516d8:00d9d5084c98b49fdfca27206aeb5bef",
+        "name": "Sony COL"
+    },
+    "U3BhY2U=_MPLAYCOL": {
+        "url": "https://b41889.cdn.telefonica.com/41889/_-_KJrG8PDpw7xO5IJHh78fZGmV2O6FhwU2YG7yqVJIegw_-_/sdash/LIVE$SpaceHD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/19/3190492_9E4E9614C21AA2AF.png",
+        "key": "671d66ed0e55404fb42a436634bccbbb:1e42c0166000d0ac8799d6772d7abd8c",
+        "name": "Space COL"
+    },
+    "U3Rhcl9DaGFubmVs_MPLAYCOL": {
+        "url": "https://b41865-p7-h41.4.cdn.telefonica.com/_41865/_-_Ir5Yg6EoIU9IsoW22I_rN2dA9Hk16xUxw5XPTnvsJlf8b4ManQD6f7ry-FWda6fa_-_/sdash/LIVE$STARChannel/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/37/8376102_566FA4AE85E9DCC8.png",
+        "key": "7ed814eba9d3419ba54a0a6dd16c2dc3:e0fcd866671ed55ae99445d4a3c0c4f7",
+        "name": "Star_Channel COL"
+    },
+    "U3R1ZGlvX1VuaXZlcnNhbA==_MPLAYCOL": {
+        "url": "https://b41853.4.cdn.telefonica.com/41853/_-_DW2pp8kKyskVW0URjFgSh--gfC6UYMLq9UOTRvY35pw_-_/sdash/LIVE$DiscoveryKidsHD/index.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6400877_2A9597A863DAD7FE.png",
+        "key": "beb5906e74fa4b9fb7528b009138889b:35c4349c9afb742fac18b259f3ea6027",
+        "name": "Studio_Universal COL"
+    },
+    "VEJT_MPLAYCOL": {
+        "url": "https://b43054-p7-h75.4.cdn.telefonica.com/_43054/_-_Ir5Yg6EoIU9IsoW22I_rN2dA9Hk16xUxw5XPTnvsJlf8b4ManQD6f7ry-FWda6fa_-_/sdash/LIVE$TBSVeryFunnyHD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6402241_B526D1E51A3EBFCD.png",
+        "key": "f7922080fb704ddb94b7fae399b3e635:a139297f8b9bb82398350acdff3ac85b",
+        "name": "TBS COL"
+    },
+    "VExD_MPLAYCOL": {
+        "url": "https://b41892-p3-h5a.4.cdn.telefonica.com/_41892/_-_KJrG8PDpw7xO5IJHh78fZGmV2O6FhwU2YG7yqVJIegw_-_/sdash/LIVE$TLC/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116395_40D20FD85676D010.png",
+        "key": "03b9b8f63dc14f259802d57dda266ee3:f679a8e652a4303885e3e229bbb884fc",
+        "name": "TLC COL"
+    },
+    "VE5U_MPLAYCOL": {
+        "url": "https://b42021-p7-hea.4.cdn.telefonica.com/_42021/_-_3-nQRZEwBRrnqUoo5S8vCsB3w-D4FxXmUfjfeHSY3rA_-_/live/disk1/TNT/TNT_CN_DASH_SD/TNT.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/38/6381762_3BCDE7B21593DCAF.png",
+        "key": "67afe5a5527c488b8204ccac68d0c14f:7abfe4c3b9a891b2dc3cc7501adb692c",
+        "name": "TNT COL"
+    },
+    "VE5UX1Nlcmllcw==_MPLAYCOL": {
+        "url": "https://b41891-p7-he3.4.cdn.telefonica.com/_41891/_-_Ir5Yg6EoIU9IsoW22I_rN2dA9Hk16xUxw5XPTnvsJlf8b4ManQD6f7ry-FWda6fa_-_/sdash/LIVE$TNTSeriesHD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6402153_5D2A8E4CA7E0087D.png",
+        "key": "c3a912f9eff546439372bd0854505edb:c839b691a950aa7266720979103bbdd6",
+        "name": "TNT_Series COL"
+    },
+    "VGVsZVZpZA==_MPLAYCOL": {
+        "url": "https://b45057-p2-h46.4.cdn.telefonica.com/_45057/_-_1n5QJ85wiSvGA4qR-FMlGjt73IKrJV0f3KMZ3tiUApzp5bf8GUO_50zUg9M1l_Og_-_/sdash/LIVE$TELEVID/index.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc&tcdn-bitrate-filter=LiveL-M",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/14/10147584_06F8EEFC2A375EE8.png",
+        "key": "460e05d10a884d14930353f223d9320e:70100291e46d5e45f1f9e230ae641270",
+        "name": "TeleVid COL"
+    },
+    "VG9vbmNhc3Q=_MPLAYCOL": {
+        "url": "https://b42615-p5-h22.4.cdn.telefonica.com/_42615/_-_7jERXzItlYlt-Y2ENwzWvwAWUzVFjV7HGqGgvgRcfivDcS6kyMpcCMl370mPXt9J_-_/live/disk1/Tooncast/TOONCAST_CN_DASH_SD/Tooncast.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6404296_E5D89B4533D93187.png",
+        "key": "ee53a8e0b7d940b1ad801b80ff0459ac:fbb6a5a96fdcc55bc5492ef9e93a7d7a",
+        "name": "Tooncast COL"
+    },
+    "V2FybmVy_MPLAYCOL": {
+        "url": "https://b42588-p7-h40.4.cdn.telefonica.com/_42588/_-_3-nQRZEwBRrnqUoo5S8vCsB3w-D4FxXmUfjfeHSY3rA_-_/live/disk1/WarnerChannel/WARNERCH_CN_DASH_SD/WarnerChannel.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6402025_7930297E846EF33B.png",
+        "key": "605f5fbdcf514e6fa5245b4164bc9782:a3823b53b6e26b6a91280a3dc418dbc4",
+        "name": "Warner COL"
+    },
+    "V2lubWFz_MPLAYCOL": {
+        "url": "https://b41882.4.cdn.telefonica.com/41882/_-_psi_-_/sdash/LIVE$WinSportsPHD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/50/6502117_A3D837B2E9C01F60.png",
+        "key": "8e7d19d34b3c438dab7051a22e1d7638:3520968c436972dd43b85c69067d3985",
+        "name": "Winmas COL"
+    },
+    "V2luc3BvcnQ=_MPLAYCOL": {
+        "url": "https://b41882.4.cdn.telefonica.com/41882/_-_KJrG8PDpw7xO5IJHh78fZGmV2O6FhwU2YG7yqVJIegw_-_/sdash/LIVE$WinSportsHD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/50/6502117_A3D837B2E9C01F60.png",
+        "key": "ebc8d3eac1ad4bec888d23d2ff0fd4e9:c3081d09a352327ebecce2030cac680d",
+        "name": "Winsport COL"
+    },
+    "TEFUSU5BIEhE_MPLAYPE": {
+        "url": "http://b41840.2.cdn.telefonica.com/41840/_-_psi_-_/live/disk1/Latina/LATINA_CN_DASH_HD/Latina.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527492_FDEFEA55854A1D7B.png",
+        "key": "43e4edb60c634d70bbfc790223e69ab6:8be49264d95dec8d25c0eae16465a561",
+        "name": "LATINA HD PE"
+    },
+    "TSBERVBPUlRFUyBIRA==_MPLAYPE": {
+        "url": "http://b41841.2.cdn.telefonica.com/41841/_-_psi_-_/live/disk1/MovistarDeportes/MOVDEPORTES_SP_DASH_HD/MovistarDeportes.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/05/54/5548027_FF47FA505B778EA9.png",
+        "key": "b9c0e8202df14854be10f15a73e00447:59c3a94ed2b6706437a9dcbbae2f7805",
+        "name": "M DEPORTES HD PE"
+    },
+    "QU1FUklDQSBURUxFVklTSU9OIEhE_MPLAYPE": {
+        "url": "http://b41837.2.cdn.telefonica.com/41837/_-_psi_-_/live/disk1/AmericaTV/AMERICATV_CN_DASH_HD/AmericaTV.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/60/7603588_DDA3D54A42268071.png",
+        "key": "d3020edab28e4223ae375ba377481411:7b3b214d19fc42fd2331d91f4a1e8b8a",
+        "name": "AMERICA TELEVISION HD PE"
+    },
+    "UEFOQU1FUklDQU5BIFRFTEVWSVNJT04gSEQ=_MPLAYPE": {
+        "url": "http://b41835.2.cdn.telefonica.com/41835/_-_psi_-_/live/disk1/Panamericana/PANAMERICANA_CN_DASH_HD/Panamericana.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/84/7847902_7F82E3F48B905CB7.png",
+        "key": "9c350d05b5a5434daa3697701f7f38c8:7a55c280b6fce0a7b609cc5c8d7ee646",
+        "name": "PANAMERICANA TELEVISION HD PE"
+    },
+    "TSBQTFVTIEhE_MPLAYPE": {
+        "url": "http://b41831.2.cdn.telefonica.com/41831/_-_psi_-_/live/disk1/MovistarPlus/MOVISTARPLUS_CN_DASH_HD/MovistarPlus.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/05/61/5611942_D6D227104CABDAC0.png",
+        "key": "2a6acbd54d7e4eaca86b0951e3fa2ea7:c1221a5416a89c8375da2f87e812bc56",
+        "name": "M PLUS HD PE"
+    },
+    "VFYgUEVSVSBIRA==_MPLAYPE": {
+        "url": "http://b42028.2.cdn.telefonica.com/42028/_-_psi_-_/live/disk1/TVPeruHD/TVPERUHD_CN_DASH_HD/TVPeruHD.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/29/9299317_44EA9B72B7AD871D.png",
+        "key": "-",
+        "name": "TV PERU HD PE"
+    },
+    "Q0FOQUwgTiBIRA==_MPLAYPE": {
+        "url": "http://b41834.2.cdn.telefonica.com/41834/_-_psi_-_/live/disk1/CanalNHD/CANAL_N_CN_DASH_HD/CanalNHD.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/01/9011681_A247F551B1E0C588.png",
+        "key": "bc07918457ee4183ae3ff66ee80692d4:7066039601db01f2f091a0a0bdf4820f",
+        "name": "CANAL N HD PE"
+    },
+    "QVRWIEhE_MPLAYPE": {
+        "url": "http://b41836.2.cdn.telefonica.com/41836/_-_psi_-_/live/disk1/ATV/ATV_CN_DASH_HD/ATV.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/05/83/5836664_0D3599B222212959.png",
+        "key": "0e1956b52201401eb33ace33be02787f:b87a7d84431b93fd5499bd351fe07e7a",
+        "name": "ATV HD PE"
+    },
+    "UlBQIEhE_MPLAYPE": {
+        "url": "http://b41832.2.cdn.telefonica.com/41832/_-_psi_-_/live/disk1/RPP/RPP_CN_DASH_HD/RPP.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/84/7847943_805AC3336E6752E2.png",
+        "key": "289e0aacbcd045ba98f3abe7f45a9730:14720936e06a16cb950a5722d5b76351",
+        "name": "RPP HD PE"
+    },
+    "R09MUEVSVSBIRA==_MPLAYPE": {
+        "url": "http://b41838.2.cdn.telefonica.com/41838/_-_psi_-_/live/disk1/GolPeruHD/GOLPERU_SP_DASH_HD/GolPeruHD.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/29/9295809_F4CE9F9CE71F37DA.png",
+        "key": "bd480cd484b348d3822aac09567c5260:540275466a500cfa6c1a26060b67b6ad",
+        "name": "GOLPERU HD PE"
+    },
+    "VE5UIEhEIE9UVA==_MPLAYPE": {
+        "url": "http://b42021.2.cdn.telefonica.com/42021/_-_psi_-_/live/disk1/TNT/TNT_CN_DASH_HD/TNT.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515391_CB25EB7CDA76FB24.png",
+        "key": "67afe5a5527c488b8204ccac68d0c14f:7abfe4c3b9a891b2dc3cc7501adb692c",
+        "name": "TNT HD OTT PE"
+    },
+    "V0lMTEFY_MPLAYPE": {
+        "url": "http://b42633.2.cdn.telefonica.com/42633/_-_psi_-_/live/disk1/Willax/WILLAX_CN_DASH_HD/Willax.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/05/58/5583781_6F057E8BEF6A8477.png",
+        "key": "d2af2bde9198494db5f8279fe9b0d881:4e1f38b2d9dd7accd6e0e647b4cc4412",
+        "name": "WILLAX PE"
+    },
+    "VE5UIFNFUklFUyBIRA==_MPLAYPE": {
+        "url": "http://b42303.2.cdn.telefonica.com/42303/_-_psi_-_/live/disk1/TNTSeries/TNTSERIES_CN_DASH_HD/TNTSeries.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/05/54/5548035_F810B8B42FB5F2F3.png",
+        "key": "a7d55d79fe88410380a3ff9855f4b392:d4904c0fdc742e2e9a443348a6704036",
+        "name": "TNT SERIES HD PE"
+    },
+    "RlggSEQ=_MPLAYPE": {
+        "url": "http://b42030.2.cdn.telefonica.com/42030/_-_psi_-_/live/disk1/FxHD/FX_HD_CN_DASH_HD/FxHD.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/05/57/5579391_D61F46B5793B1160.png",
+        "key": "f12303b775b545cf9adbe7c9883fe100:15da46170c47989db51374ca89d14427",
+        "name": "FX HD PE"
+    },
+    "U1RBUiBMaWZl_MPLAYPE": {
+        "url": "http://b42432.2.cdn.telefonica.com/42432/_-_psi_-_/live/disk1/FoxLife/FOXLIFE_CN_DASH_HD/FoxLife.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/29/9299321_4626FCE438DC36C6.png",
+        "key": "550f4e8969b54873b325deb1c3f55638:70ce78dfacd018ee94d4fbd348e14c3f",
+        "name": "STAR Life PE"
+    },
+    "SUQgSEQgLSBJTlZFU1RJR0FUSU9OIERJU0NPVkVSWSBIRA==_MPLAYPE": {
+        "url": "http://b42509.2.cdn.telefonica.com/42509/_-_psi_-_/live/disk1/InvestigationDiscovery/INVESTIGATIONDISCOVERY_CN_DASH_HD/InvestigationDiscovery.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/29/9299310_3DB8B608D6E65506.png",
+        "key": "233cd646989b457e8c6857bad23c3b6a:df5cef2482eca6f08e2a11b859ba9a72",
+        "name": "ID HD - INVESTIGATION DISCOVERY HD PE"
+    },
+    "Q09NRURZIENFTlRSQUwgSEQ=_MPLAYPE": {
+        "url": "http://b42468.2.cdn.telefonica.com/42468/_-_psi_-_/live/disk1/ComedyCentral/COMEDYCENTRAL_CN_DASH_HD/ComedyCentral.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/05/54/5548053_7F964FCD2BA0AADA.png",
+        "key": "6bd93289eb9d4bfa93f88d014fb95ce4:39462040a2fa828fd5f60a4adf2f0050",
+        "name": "COMEDY CENTRAL HD PE"
+    },
+    "VENN_MPLAYPE": {
+        "url": "http://b42462.2.cdn.telefonica.com/42462/_-_psi_-_/live/disk1/TCM/TCM_CN_DASH_HD/TCM.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/31/6310573_FDBA1F86CF41A989.png",
+        "key": "f2a76519d6394922b3f8f307ce5223cf:666538fd2b798188559501c4e0d5fcb7",
+        "name": "TCM PE"
+    },
+    "U1BBQ0UgUkVHSU9OQUwgRFRIIExJVkU=_MPLAYPE": {
+        "url": "http://b42020.2.cdn.telefonica.com/42020/_-_psi_-_/live/disk1/SpaceHD/SPACE_HD_CN_DASH_HD/SpaceHD.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/28/9282351_11067ECC616AC152.png",
+        "key": "88a4c9d720584efa91e42fbace03a3a9:1df77c95d2d8d7d61cbf45cbb9cb4d24",
+        "name": "SPACE REGIONAL DTH LIVE PE"
+    },
+    "UEFSQU1PVU5UIEhE_MPLAYPE": {
+        "url": "http://b42435.2.cdn.telefonica.com/42435/_-_psi_-_/live/disk1/Paramount/PARAMOUNT_CN_DASH_HD/Paramount.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/84/6840721_AEB0D89DD5B9FA4C.png",
+        "key": "0a1becef933d4fc6a4cb1a2311c688ff:edc638b5456e432d7988b4acffd18a23",
+        "name": "PARAMOUNT HD PE"
+    },
+    "RlhNIFJFR0lPTkFMIE9UVA==_MPLAYPE": {
+        "url": "http://b42471.2.cdn.telefonica.com/42471/_-_psi_-_/live/disk1/FXMovies/FXMOVIES_CN_DASH_HD/FXMovies.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/05/54/5548044_91641E648BB1E2DD.png",
+        "key": "16094f6f9eb04b8a824cb42f5b46cf0c:acd6353475a21101f5898f33620d5e6e",
+        "name": "FXM REGIONAL OTT PE"
+    },
+    "RElTQ09WRVJZIEhEIFRIRUFURVI=_MPLAYPE": {
+        "url": "http://b42573.2.cdn.telefonica.com/42573/_-_psi_-_/live/disk1/DiscoveryTheater/DISCOVERYTHEATER_CN_DASH_HD/DiscoveryTheater.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/05/61/5611957_7426AAB01D50900A.png",
+        "key": "-",
+        "name": "DISCOVERY HD THEATER PE"
+    },
+    "RElTQ09WRVJZIEhE_MPLAYPE": {
+        "url": "http://b42485.2.cdn.telefonica.com/42485/_-_psi_-_/live/disk1/DiscoveryChannel/DISCOVERYCH_CN_DASH_HD/DiscoveryChannel.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/05/88/5884788_5E4F832CDD00A8D3.png",
+        "key": "4ee116e58ce346d895839eb46f151439:d0ba1e00d76fa425765eed9e2ce68b1d",
+        "name": "DISCOVERY HD PE"
+    },
+    "TkFUIEdFTyBXSUxEIEhE_MPLAYPE": {
+        "url": "http://b42491.2.cdn.telefonica.com/42491/_-_psi_-_/live/disk1/NatGeoWild/NATGEOWILD_CN_DASH_HD/NatGeoWild.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/28/9282736_F7BACD933718768F.png",
+        "key": "e1f3c94049a44f0eaf1a7d65f4e49c96:dc53f168da6c6900d68042f4d91db435",
+        "name": "NAT GEO WILD HD PE"
+    },
+    "RElTQ09WRVJZIFNDSUVOQ0U=_MPLAYPE": {
+        "url": "http://b42500.2.cdn.telefonica.com/42500/_-_psi_-_/live/disk1/DiscoveryScience/DISCOVERYSCIENCE_CN_DASH_HD/DiscoveryScience.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/29/9295804_85A890EA9D412EFF.png",
+        "key": "-",
+        "name": "DISCOVERY SCIENCE PE"
+    },
+    "RElTQ09WRVJZIFRVUkJP_MPLAYPE": {
+        "url": "http://b42564.2.cdn.telefonica.com/42564/_-_psi_-_/live/disk1/DiscoveryTurbo/DISCOVERYTURBO_CN_DASH_HD/DiscoveryTurbo.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/29/9295805_6ECC900C8D27AAC4.png",
+        "key": "1d33f61c1654494e9cf6aa28217f0949:f22ef6012573a0a2db42854bd79495e3",
+        "name": "DISCOVERY TURBO PE"
+    },
+    "VExD_MPLAYPE": {
+        "url": "http://b42567.2.cdn.telefonica.com/42567/_-_psi_-_/live/disk1/TLC/TLC_CN_DASH_HD/TLC.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/05/54/5548073_AA09961CAD028403.png",
+        "key": "79a5ec2e689446b4ae6c1ad7c1bfae6f:c4dac276f3de4ea89c4384f16d8ca564",
+        "name": "TLC PE"
+    },
+    "SE9NRSAmIEhFQUxUSCBIRA==_MPLAYPE": {
+        "url": "http://b42465.2.cdn.telefonica.com/42465/_-_psi_-_/live/disk1/HomeHealth/HOMEHEALTH_CN_DASH_HD/HomeHealth.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/05/68/5686001_2E5838F0B8785872.png",
+        "key": "9ac0c0fce8dc40f28801a0e54dc89c76:f1790c69606b0c8cb4ebf0f3f525717e",
+        "name": "HOME & HEALTH HD PE"
+    },
+    "Q2FydG9vbiBOZXR3b3JrIEhE_MPLAYPE": {
+        "url": "http://b42420.2.cdn.telefonica.com/42420/_-_psi_-_/live/disk1/CartoonNetwork/CARTOONNETWORK_CN_DASH_HD/CartoonNetwork.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/29/9295801_C2EBD4C15FD630F6.png",
+        "key": "86240d72918a454bba5285ad94b60c1e:16793f31a7ea8bc7ba33e4ba305b8621",
+        "name": "Cartoon Network HD PE"
+    },
+    "RElTQ09WRVJZIEtJRFMgSEQ=_MPLAYPE": {
+        "url": "http://b41552.2.cdn.telefonica.com/41552/_-_psi_-_/live/disk1/DiscoveryKids/DISCOVERY_KIDS_CN_DASH_HD/DiscoveryKids.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523293_350A81601DFB7D0D.png",
+        "key": "841c6dee66e349ca9527c8a1768c6890:26379fe30bcd234c50dcd8ad9d3a5ec1",
+        "name": "DISCOVERY KIDS HD PE"
+    },
+    "Q0FSVE9PTklUTw==_MPLAYPE": {
+        "url": "http://b42576.2.cdn.telefonica.com/42576/_-_psi_-_/live/disk1/CARTOONITO/CARTOONITO_CN_DASH_HD/CARTOONITO.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/29/9295800_F1897198E233C4C5.png",
+        "key": "80b29198f1db4ccea2c69fc1e2ff18be:d4c0e430f3e6325fa957a49ac6bee53b",
+        "name": "CARTOONITO PE"
+    },
+    "TklDSyBIRA==_MPLAYPE": {
+        "url": "http://b42591.2.cdn.telefonica.com/42591/_-_psi_-_/live/disk1/Nick/NICK_CN_DASH_HD/Nick.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/28/9282737_D07D90446DABAF1C.png",
+        "key": "8ceba77f0f114a0797f110dd585f14c8:e9552de37e9ec5149abde2127490c3b1",
+        "name": "NICK HD PE"
+    },
+    "RElTTkVZIENIQU5ORUwgSEQ=_MPLAYPE": {
+        "url": "http://b42033.2.cdn.telefonica.com/42033/_-_psi_-_/live/disk1/Disney/DISNEY_CN_DASH_HD/Disney.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/05/54/5548156_FEF2796298DC9CF8.png",
+        "key": "a956315243314712b5b225d074c66c34:16576a82330807d5a721dc62a4a24bdf",
+        "name": "DISNEY CHANNEL HD PE"
+    },
+    "QU5JTUFMIFBMQU5FVCBIRA==_MPLAYPE": {
+        "url": "http://b42417.2.cdn.telefonica.com/42417/_-_psi_-_/live/disk1/AnimalPlanet/ANIMALPLANET_CN_DASH_HD/AnimalPlanet.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523540_26F81A3F46EA5552.png",
+        "key": "e57d5a79abb84c9bbe30233d09f7bfa5:4e58ee33a249a1efb7ab01184166c6d8",
+        "name": "ANIMAL PLANET HD PE"
+    },
+    "RElTTkVZIEpVTklPUg==_MPLAYPE": {
+        "url": "http://b42521.2.cdn.telefonica.com/42521/_-_psi_-_/live/disk1/DisneyJr/DISNEYJR_CN_DASH_HD/DisneyJr.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/29/9295806_CF1EAFAE2B909390.png",
+        "key": "62402dcbf6404230a7fe8b1deaca65c0:b68a63828684672080cd372ad9963ee5",
+        "name": "DISNEY JUNIOR PE"
+    },
+    "TkFUIEdFTyBLSURT_MPLAYPE": {
+        "url": "http://b42474.2.cdn.telefonica.com/42474/_-_psi_-_/live/disk1/NatGeoKids/NATGEOKIDS_CN_DASH_HD/NatGeoKids.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/05/58/5583864_290FFA1C2F2E2E3B.png",
+        "key": "523e5032b0fe45839af76d2fc2fcdc85:5114b4564086319737cd165d84a39afa",
+        "name": "NAT GEO KIDS PE"
+    },
+    "Q05OIEVTUEHDkU9M_MPLAYPE": {
+        "url": "http://b42042.2.cdn.telefonica.com/42042/_-_psi_-_/live/disk1/CNNEspanol/CNNESPANOL_CN_DASH_HD/CNNEspanol.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/05/54/5548093_BAA986F9CD877A90.png",
+        "key": "e5a25d165d4249a29a9ed3f3d7ae8404:8d78f456f72e5849e4d9d95ef05f05fe",
+        "name": "CNN ESPA\u00d1OL PE"
+    },
+    "Q05OIElOVEVSTkFDSU9OQUw=_MPLAYPE": {
+        "url": "http://b42515.2.cdn.telefonica.com/42515/_-_psi_-_/live/disk1/CNNInternacional/CNNINTERNACIONAL_CN_DASH_HD/CNNInternacional.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/05/57/5579423_28BEA40E29E6134E.png",
+        "key": "a777502dbede4fac90080a78f7d48046:7a516b4bcd8b2c2eaaa6418f75055f7c",
+        "name": "CNN INTERNACIONAL PE"
+    },
+    "TVRWIEhE_MPLAYPE": {
+        "url": "http://b42570.2.cdn.telefonica.com/42570/_-_psi_-_/live/disk1/MTV/MTV_CN_DASH_HD/MTV.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551565_C12AECCD0D7A425E.png",
+        "key": "a421fc3b88d14f0481b66a4eba6b209f:ad4aa38cb39c103d998bec285151e609",
+        "name": "MTV HD PE"
+    },
+    "U1RBUiBDSEFOTkVM_MPLAYPE": {
+        "url": "http://b42423.2.cdn.telefonica.com/42423/_-_psi_-_/live/disk1/FoxPe/FOXPERU_CN_DASH_HD/FoxPe.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/28/9282335_5AB88C4406531D59.png",
+        "key": "af13b61d411e4cffacd8daa752fe46af:82c4c7638f84d1702ce67460196ec74a",
+        "name": "STAR CHANNEL PE"
+    },
+    "TElGRVRJTUU=_MPLAYPE": {
+        "url": "http://b42585.2.cdn.telefonica.com/42585/_-_psi_-_/live/disk1/Lifetime/LIFETIME_CN_DASH_HD/Lifetime.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/28/9282726_554290E50803BB8D.png",
+        "key": "5b23a31222d14adb9414287f24a42b80:4d0609ed4fde2b7d7993f04619ade370",
+        "name": "LIFETIME PE"
+    },
+    "U1RVRElPIFVOSVZFUlNBTA==_MPLAYPE": {
+        "url": "http://b42735.2.cdn.telefonica.com/42735/_-_psi_-_/live/disk1/StudioUniversal/STUDIOUNIVERSAL_CN_DASH_SD/StudioUniversal.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/28/9282361_D439E9B3DEB775B1.png",
+        "key": "beb5906e74fa4b9fb7528b009138889b:35c4349c9afb742fac18b259f3ea6027",
+        "name": "STUDIO UNIVERSAL PE"
+    },
+    "RSEgRU5URVJUQUlOTUVOVA==_MPLAYPE": {
+        "url": "http://b42600.2.cdn.telefonica.com/42600/_-_psi_-_/live/disk1/EEntertainmet/E_ENTERTAINMENT_CN_DASH_HD/EEntertainmet.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/28/9282621_E075B1264543F8B5.png",
+        "key": "b5693d1ac1cb4e55a1d29d3d3b493c88:ad3da9804c0d99f265b5cfb1e05d10e5",
+        "name": "E! ENTERTAINMENT PE"
+    },
+    "TklDSyBKUiBPVFQ=_MPLAYPE": {
+        "url": "http://b42302.2.cdn.telefonica.com/42302/_-_psi_-_/live/disk1/NickJr/NICKJR_CN_DASH_HD/NickJr.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523299_3D2D15D8014926D6.png",
+        "key": "-",
+        "name": "NICK JR OTT PE"
+    },
+    "VEVMRU1VTkRP_MPLAYPE": {
+        "url": "http://b42738.2.cdn.telefonica.com/42738/_-_psi_-_/live/disk1/Telemundo/TELEMUNDO_CN_DASH_HD/Telemundo.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523670_1160A8714A70955D.png",
+        "key": "e786eec5c3f94af888b8a82f99d00e8b:c7064fbb74c6bda1f2e5ef4f1721520a",
+        "name": "TELEMUNDO PE"
+    },
+    "U09OWSBIRA==_MPLAYPE": {
+        "url": "http://b42579.2.cdn.telefonica.com/42579/_-_psi_-_/live/disk1/Sony/SONY_CN_DASH_HD/Sony.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519094_D25BA55CD778E9BC.png",
+        "key": "3aa5607e7b744e1ea937ffd249477b5f:a477698304049fcaba5e1268590168ba",
+        "name": "SONY HD PE"
+    },
+    "V0FSTkVSIENIQU5ORUwgSEQ=_MPLAYPE": {
+        "url": "http://b42588.2.cdn.telefonica.com/42588/_-_psi_-_/live/disk1/WarnerChannel/WARNERCH_CN_DASH_HD/WarnerChannel.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515477_3BB7C82967F46BD5.png",
+        "key": "605f5fbdcf514e6fa5245b4164bc9782:a3823b53b6e26b6a91280a3dc418dbc4",
+        "name": "WARNER CHANNEL HD PE"
+    },
+    "QVhOIEhE_MPLAYPE": {
+        "url": "http://b42593.2.cdn.telefonica.com/42593/_-_psi_-_/live/disk1/AXN/AXN_CN_DASH_HD/AXN.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/28/9282339_62F36BD270D1F031.png",
+        "key": "fc25e423d50640eebd8b09014d0bf516:40532ddda975647617d74c67747e0c59",
+        "name": "AXN HD PE"
+    },
+    "VU5JVkVSU0FMIENIQU5ORUwgSEQ=_MPLAYPE": {
+        "url": "http://b42899.2.cdn.telefonica.com/42899/_-_psi_-_/live/disk1/UniversalChannel/UNIVERSALCHANNEL_CN_DASH_HD/UniversalChannel.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/05/68/5680711_760A198532D62013.png",
+        "key": "1e232e85fa1a4f46967b600270c6f7f4:c57394bec8051584bce0d00a633d7b8c",
+        "name": "UNIVERSAL CHANNEL HD PE"
+    },
+    "QSZFIEhE_MPLAYPE": {
+        "url": "http://b42597.2.cdn.telefonica.com/42597/_-_psi_-_/live/disk1/AE/AE_CN_DASH_HD/AE.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519097_DE3A1635092C0904.png",
+        "key": "09c26c355fde4598b8ef5660a00c67bb:c9bad0626e71721685f2ce9e8c797e16",
+        "name": "A&E HD PE"
+    },
+    "U1RVRElPIFVOSVZFUlNBTCBIRA==_MPLAYPE": {
+        "url": "http://b42735.2.cdn.telefonica.com/42735/_-_psi_-_/live/disk1/StudioUniversal/STUDIOUNIVERSAL_CN_DASH_HD/StudioUniversal.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/28/9282361_D439E9B3DEB775B1.png",
+        "key": "beb5906e74fa4b9fb7528b009138889b:35c4349c9afb742fac18b259f3ea6027",
+        "name": "STUDIO UNIVERSAL HD PE"
+    },
+    "Q0lORUNBTkFMIEhE_MPLAYPE": {
+        "url": "http://b42459.2.cdn.telefonica.com/42459/_-_psi_-_/live/disk1/Cinecanal/CINECANAL_CN_DASH_HD/Cinecanal.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/05/61/5618153_B908FCA8BCCB8A8C.png",
+        "key": "0b2599c7397943109c8bc91ac629fbcc:e10af348ab1ea04deea094e6459d8879",
+        "name": "CINECANAL HD PE"
+    },
+    "Q0lORU1BWCBIRA==_MPLAYPE": {
+        "url": "http://b42603.2.cdn.telefonica.com/42603/_-_psi_-_/live/disk1/Cinemax/CINEMAX_CN_DASH_HD/Cinemax.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/05/57/5579396_57A455617C6AC4F4.png",
+        "key": "38b3ff1e459a45f6bf2ce7e22fad810d:6f0ca1f31095258d828607f7941c8309",
+        "name": "CINEMAX HD PE"
+    },
+    "SElTVE9SWSBDSEFOTkVMIEhE_MPLAYPE": {
+        "url": "http://b42582.2.cdn.telefonica.com/42582/_-_psi_-_/live/disk1/History/HISTORY_CN_DASH_HD/History.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/29/9299309_FBF9E7418D3D858D.png",
+        "key": "1151f9f4fde04fa7bde51d250aa1b8f5:175bb1a75e556768be8ccff4b512c8f9",
+        "name": "HISTORY CHANNEL HD PE"
+    },
+    "TkFUIEdFTyBIRA==_MPLAYPE": {
+        "url": "http://b41555.2.cdn.telefonica.com/41555/_-_psi_-_/live/disk1/NatGeoHD/NATIONAL_GEOGRAPHIC_CN_DASH_HD/NatGeoHD.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/05/58/5583844_B70127DA08DB0392.png",
+        "key": "a87f1a6f2ac540c8a839e9a1d9a8fcf8:19d61f2bc4a034a23744284253d56617",
+        "name": "NAT GEO HD PE"
+    },
+    "SElTVE9SWSAyIEhE_MPLAYPE": {
+        "url": "http://b42671.2.cdn.telefonica.com/42671/_-_psi_-_/live/disk1/History2/HISTORY2_CN_DASH_HD/History2.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/05/57/5579436_6E772AF6116EAC56.png",
+        "key": "e24b34e9abd743dfab79bc00af5e2405:9ef4f8f2698a2e68d5bb5d5243c8ea11",
+        "name": "HISTORY 2 HD PE"
+    },
+    "VFJVIFRWIEhE_MPLAYPE": {
+        "url": "http://b42902.2.cdn.telefonica.com/42902/_-_psi_-_/live/disk1/trutv/TRUTV_CN_DASH_HD/trutv.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/05/68/5686010_5315EFC7BD3D51D0.png",
+        "key": "-",
+        "name": "TRU TV HD PE"
+    },
+    "VFYgUEVSVSA3LjM=_MPLAYPE": {
+        "url": "http://b42028.2.cdn.telefonica.com/42028/_-_psi_-_/live/disk1/TVPeruHD/TVPERUHD_CN_DASH_HD/TVPeruHD.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527623_1EA0CA88BC53B77E.png",
+        "key": "-",
+        "name": "TV PERU 7.3 PE"
+    },
+    "Q0FOQUwgSg==_MPLAYPE": {
+        "url": "http://b42666.2.cdn.telefonica.com/42666/_-_psi_-_/live/disk1/CanalJ/CANALJ_CN_DASH_HD/CanalJ.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/05/54/5548059_21637929BBB2E42B.png",
+        "key": "1431411911d4413d8d685e30d795ea57:a2b0daf5a327cabd7a348200a558e563",
+        "name": "CANAL J PE"
+    },
+    "VEJTIFZFUlkgRlVOTlkgSEQ=_MPLAYPE": {
+        "url": "http://b41794.2.cdn.telefonica.com/41794/_-_psi_-_/live/disk1/TBSVeryFunny/TBSVERYFUNNY_CN_DASH_HD/TBSVeryFunny.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6518953_3E6DEA309E2566B2.png",
+        "key": "-",
+        "name": "TBS VERY FUNNY HD PE"
+    },
+    "S0FOQUwgRCBEUkFNQQ==_MPLAYPE": {
+        "url": "http://b42726.2.cdn.telefonica.com/42726/_-_psi_-_/live/disk1/KanalDrama/KDRAMA_CN_DASH_HD/KanalDrama.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/05/61/5617794_E700CDC8FD8EB018.png",
+        "key": "-",
+        "name": "KANAL D DRAMA PE"
+    },
+    "RElTQ09WRVJZIEhPTUUgJiBHQVJERU4=_MPLAYPE": {
+        "url": "http://b42497.2.cdn.telefonica.com/42497/_-_psi_-_/live/disk1/HomeGarden/DISCOVERYHOMEGARDEN_CN_DASH_HD/HomeGarden.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/29/9295803_BA98F8DF1545724E.png",
+        "key": "1e0aed2858f045a191b39a6ce7833f19:9342af3b40c5ab5c8295cd59ce870ca1",
+        "name": "DISCOVERY HOME & GARDEN PE"
+    },
+    "Rk9PRCBORVRXT1JL_MPLAYPE": {
+        "url": "http://b42668.2.cdn.telefonica.com/42668/_-_psi_-_/live/disk1/FoodNetworks/FOODNETWORKS_CN_DASH_HD/FoodNetworks.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/29/9295808_D77022FA069CB54D.png",
+        "key": "3039997eafdd4a7e83273ae934459c0b:249d5e716a5e8a07eb204925320b7bdb",
+        "name": "FOOD NETWORK PE"
+    },
+    "VVNNUCBUVg==_MPLAYPE": {
+        "url": "http://b43932.2.cdn.telefonica.com/43932/_-_psi_-_/live/disk1/USMPTV/USMPTV_CN_DASH_HD/USMPTV.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/26/7269600_72EE309DF28FB4D3.png",
+        "key": "a1d6069ecfd143278a300be13cfd3957:1a45fc4ee9c78b5ba453a1d09ca99236",
+        "name": "USMP TV PE"
+    },
+    "SEJPIDIgSEQ=_MPLAYPE": {
+        "url": "http://b42675.cdn.telefonica.com/42675/_-_psi_-_/live/disk1/HBO2/HBO2_CN_DASH_HD/HBO2.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6404166_44AAB142C8AA2E73.png",
+        "key": "55facfce09a5424eb3c081b30d40929a:4bb7ce3f3d7c5ceb63846404b3e8dd26",
+        "name": "HBO 2 HD PE"
+    },
+    "SEJPIEZBTUlMWSBIRA==_MPLAYPE": {
+        "url": "http://b42624.cdn.telefonica.com/42624/_-_psi_-_/live/disk1/HBOFamily/HBOFAMILY_CN_DASH_HD/HBOFamily.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/55/8553111_DD5F4931A18250EE.png",
+        "key": "e1dfdc26533142e3bb842767407e9e7d:5ad402e3dbc6b1c0f9d466dea3042970",
+        "name": "HBO FAMILY HD PE"
+    },
+    "SEJPX0hE_MPLAYPE": {
+        "url": "http://b42711.cdn.telefonica.com/42711/_-_psi_-_/live/disk1/HBO/HBO_CN_DASH_HD/HBO.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6404165_72D0392FCC660718.png",
+        "key": "5e7de29ad1b1478d89fe8fdba4443b4a:94bda4643a5485e89e23dad4a4c500cb",
+        "name": "HBO_HD PE"
+    },
+    "SEJPX1BMVVNfRVNURV9IRA==_MPLAYPE": {
+        "url": "http://b42678.cdn.telefonica.com/42678/_-_psi_-_/live/disk1/HBOPlusEste/HBOPLUSESTE_CN_DASH_HD/HBOPlusEste.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6404168_D505AFC331359E2E.png",
+        "key": "6e282e1cee2a45f79ac288e1892d327a:8dc9b79618137cab7b44d3fd767efac8",
+        "name": "HBO_PLUS_ESTE_HD PE"
+    },
+    "SEJPX1NJR05BVFVSRV9IRA==_MPLAYPE": {
+        "url": "http://b42627.cdn.telefonica.com/42627/_-_psi_-_/live/disk1/HBOSignature/HBOSIGNATURE_CN_DASH_HD/HBOSignature.mpd",
+        "logo": "http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6404169_BB5D60FF3E9FC774.png",
+        "key": "0f7f2ddeef904faba291c9cdfc1260d4:b5bdd040056a96eed28b73e050d8a16b",
+        "name": "HBO_SIGNATURE_HD PE"
+    },
+"QSZFIEhE_MPLAYEC": {
+        "url": "http:\/\/b42597.2.cdn.telefonica.com\/42597\/_-_psi_-_\/live\/disk1\/AE\/DASH\/AE.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402265_9A16CAF7C07017A3.png",
+        "key": "09c26c355fde4598b8ef5660a00c67bb:c9bad0626e71721685f2ce9e8c797e16",
+        "name": "A&E HD EC"
+    },
+    "QU5JTUFMIFBMQU5FVCBIRA==_MPLAYEC": {
+        "url": "http:\/\/b42417.2.cdn.telefonica.com\/42417\/_-_psi_-_\/live\/disk1\/AnimalPlanet\/DASH\/AnimalPlanet.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404328_6EA16AC5A8C8CA82.png",
+        "key": "e57d5a79abb84c9bbe30233d09f7bfa5:4e58ee33a249a1efb7ab01184166c6d8",
+        "name": "ANIMAL PLANET HD EC"
+    },
+    "QVhOIEhE_MPLAYEC": {
+        "url": "http:\/\/b42594.2.cdn.telefonica.com\/42594\/_-_psi_-_\/live\/disk1\/AXN\/DASH\/AXN.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402156_509AFA5B12D1E5F9.png",
+        "key": "fc25e423d50640eebd8b09014d0bf516:40532ddda975647617d74c67747e0c59",
+        "name": "AXN HD EC"
+    },
+    "Q0FSVE9PTiBORVRXT1JLIEhE_MPLAYEC": {
+        "url": "http:\/\/b42420.2.cdn.telefonica.com\/42420\/_-_psi_-_\/live\/disk1\/CartoonNetwork\/DASH\/CartoonNetwork.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404291_317D0944FCAE9FC2.png",
+        "key": "86240d72918a454bba5285ad94b60c1e:16793f31a7ea8bc7ba33e4ba305b8621",
+        "name": "CARTOON NETWORK HD EC"
+    },
+    "Q0FSVE9PTklUTw==_MPLAYEC": {
+        "url": "http:\/\/b42576.2.cdn.telefonica.com\/42576\/_-_psi_-_\/live\/disk1\/CARTOONITO\/DASH\/CARTOONITO.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea10\/IMAGES\/00\/10\/11\/10113697_F122B11142813549.png",
+        "key": "80b29198f1db4ccea2c69fc1e2ff18be:d4c0e430f3e6325fa957a49ac6bee53b",
+        "name": "CARTOONITO EC"
+    },
+    "Q0lORUNBTkFMIEhE_MPLAYEC": {
+        "url": "http:\/\/b42459.2.cdn.telefonica.com\/42459\/_-_psi_-_\/live\/disk1\/Cinecanal\/DASH\/Cinecanal.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/38\/6381761_1B6CA9B0AAD15C8F.png",
+        "key": "0b2599c7397943109c8bc91ac629fbcc:e10af348ab1ea04deea094e6459d8879",
+        "name": "CINECANAL HD EC"
+    },
+    "Q0lORU1BWCBIRA==_MPLAYEC": {
+        "url": "http:\/\/b42603.2.cdn.telefonica.com\/42603\/_-_psi_-_\/live\/disk1\/Cinemax\/DASH\/Cinemax.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6400603_DE0CBB7B732B556A.png",
+        "key": "38b3ff1e459a45f6bf2ce7e22fad810d:6f0ca1f31095258d828607f7941c8309",
+        "name": "CINEMAX HD EC"
+    },
+    "Q05OIEVTUEF1MDBkMU9M_MPLAYEC": {
+        "url": "http:\/\/b42042.2.cdn.telefonica.com\/42042\/_-_psi_-_\/live\/disk1\/CNNEspanol\/DASH\/CNNEspanol.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402293_ED7DBFA4CA85ED1C.png",
+        "key": "e5a25d165d4249a29a9ed3f3d7ae8404:8d78f456f72e5849e4d9d95ef05f05fe",
+        "name": "CNN ESPAu00d1OL EC"
+    },
+    "Q05OIElOVEVSTkFDSU9OQUw=_MPLAYEC": {
+        "url": "http:\/\/b42515.2.cdn.telefonica.com\/42515\/_-_psi_-_\/live\/disk1\/CNNInternacional\/DASH\/CNNInternacional.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402269_E7AF95BCD440D5F8.png",
+        "key": "a777502dbede4fac90080a78f7d48046:7a516b4bcd8b2c2eaaa6418f75055f7c",
+        "name": "CNN INTERNACIONAL EC"
+    },
+    "Q09NRURZIENFTlRSQUwgSEQ=_MPLAYEC": {
+        "url": "http:\/\/b42468.2.cdn.telefonica.com\/42468\/_-_psi_-_\/live\/disk1\/ComedyCentral\/DASH\/ComedyCentral.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402245_C6769A3F09CF8D21.png",
+        "key": "6bd93289eb9d4bfa93f88d014fb95ce4:39462040a2fa828fd5f60a4adf2f0050",
+        "name": "COMEDY CENTRAL HD EC"
+    },
+    "RElTQ09WRVJZIENIQU5ORUwgSEQ=_MPLAYEC": {
+        "url": "http:\/\/b42485.2.cdn.telefonica.com\/42485\/_-_psi_-_\/live\/disk1\/DiscoveryChannel\/DASH\/DiscoveryChannel.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404318_A08760A31E4E9381.png",
+        "key": "4ee116e58ce346d895839eb46f151439:d0ba1e00d76fa425765eed9e2ce68b1d",
+        "name": "DISCOVERY CHANNEL HD EC"
+    },
+    "RElTQ09WRVJZIEhPTUUgJiBHQVJERU4=_MPLAYEC": {
+        "url": "http:\/\/b42497.2.cdn.telefonica.com\/42497\/_-_psi_-_\/live\/disk1\/HomeGarden\/DASH\/HomeGarden.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404319_0E77CAEB731055C1.png",
+        "key": "1e0aed2858f045a191b39a6ce7833f19:9342af3b40c5ab5c8295cd59ce870ca1",
+        "name": "DISCOVERY HOME & GARDEN EC"
+    },
+    "RElTQ09WRVJZIEtJRFMgSEQ=_MPLAYEC": {
+        "url": "http:\/\/b41552.2.cdn.telefonica.com\/41552\/_-_psi_-_\/live\/disk1\/DiscoveryKids\/DASH\/DiscoveryKids.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404287_505AB80A6A512184.png",
+        "key": "841c6dee66e349ca9527c8a1768c6890:26379fe30bcd234c50dcd8ad9d3a5ec1",
+        "name": "DISCOVERY KIDS HD EC"
+    },
+    "RElTQ09WRVJZIFRVUkJP_MPLAYEC": {
+        "url": "http:\/\/b42564.2.cdn.telefonica.com\/42564\/_-_psi_-_\/live\/disk1\/DiscoveryTurbo\/DASH\/DiscoveryTurbo.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6400496_F73CF76E891B89F0.png",
+        "key": "1d33f61c1654494e9cf6aa28217f0949:f22ef6012573a0a2db42854bd79495e3",
+        "name": "DISCOVERY TURBO EC"
+    },
+    "RElTTkVZIENIQU5ORUwgSEQ=_MPLAYEC": {
+        "url": "http:\/\/b42033.2.cdn.telefonica.com\/42033\/_-_psi_-_\/live\/disk1\/Disney\/DASH\/Disney.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404284_14348DA622E37938.png",
+        "key": "a956315243314712b5b225d074c66c34:16576a82330807d5a721dc62a4a24bdf",
+        "name": "DISNEY CHANNEL HD EC"
+    },
+    "RElTTkVZIEpVTklPUg==_MPLAYEC": {
+        "url": "http:\/\/b42521.2.cdn.telefonica.com\/42521\/_-_psi_-_\/live\/disk1\/DisneyJr\/DASH\/DisneyJr.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404285_B2AAA26F953BA65C.png",
+        "key": "62402dcbf6404230a7fe8b1deaca65c0:b68a63828684672080cd372ad9963ee5",
+        "name": "DISNEY JUNIOR EC"
+    },
+    "RSEgRU5URVJUQUlOTUVOVA==_MPLAYEC": {
+        "url": "http:\/\/b42600.2.cdn.telefonica.com\/42600\/_-_psi_-_\/live\/disk1\/EEntertainmet\/DASH\/EEntertainmet.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402311_E32FDB9336BD052C.png",
+        "key": "b5693d1ac1cb4e55a1d29d3d3b493c88:ad3da9804c0d99f265b5cfb1e05d10e5",
+        "name": "E! ENTERTAINMENT EC"
+    },
+    "RVNQTiA0_MPLAYEC": {
+        "url": "http:\/\/b42009.2.cdn.telefonica.com\/42009\/_-_psi_-_\/live\/disk1\/ESPN4\/DASH\/ESPN4.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea10\/IMAGES\/00\/10\/11\/10113696_046392A4A17B42D1.png",
+        "key": "aba36214c0034a5e872eb6e74f07e908:5a3e1f51dfaf4a884f1a9613f9d8a8b5",
+        "name": "ESPN 4 EC"
+    },
+    "Rk9PRCBORVRXT1JL_MPLAYEC": {
+        "url": "http:\/\/b42669.2.cdn.telefonica.com\/42669\/_-_psi_-_\/live\/disk1\/FoodNetworks\/DASH\/FoodNetworks.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402370_721F7ED3E1D94D33.png",
+        "key": "3039997eafdd4a7e83273ae934459c0b:249d5e716a5e8a07eb204925320b7bdb",
+        "name": "FOOD NETWORK EC"
+    },
+    "RlggSEQ=_MPLAYEC": {
+        "url": "http:\/\/b42030.2.cdn.telefonica.com\/42030\/_-_psi_-_\/live\/disk1\/FxHD\/DASH\/FxHD.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402129_A027CB53A4AC65D9.png",
+        "key": "f12303b775b545cf9adbe7c9883fe100:15da46170c47989db51374ca89d14427",
+        "name": "FX HD EC"
+    },
+    "SElTVE9SWSAy_MPLAYEC": {
+        "url": "http:\/\/b42672.2.cdn.telefonica.com\/42672\/_-_psi_-_\/live\/disk1\/History2\/DASH\/History2.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/10\/55\/10556454_1534264D9C0B8BFC.png",
+        "key": "e24b34e9abd743dfab79bc00af5e2405:9ef4f8f2698a2e68d5bb5d5243c8ea11",
+        "name": "HISTORY 2 EC"
+    },
+    "SElTVE9SWSBDSEFOTkVMIEhE_MPLAYEC": {
+        "url": "http:\/\/b42582.2.cdn.telefonica.com\/42582\/_-_psi_-_\/live\/disk1\/History\/DASH\/History.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/10\/55\/10556449_1A6D8A2DB98235CD.png",
+        "key": "1151f9f4fde04fa7bde51d250aa1b8f5:175bb1a75e556768be8ccff4b512c8f9",
+        "name": "HISTORY CHANNEL HD EC"
+    },
+    "SE9NRSAmIEhFQUxUSCBIRA==_MPLAYEC": {
+        "url": "http:\/\/b42465.2.cdn.telefonica.com\/42465\/_-_psi_-_\/live\/disk1\/HomeHealth\/DASH\/HomeHealth.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/11\/47\/11470349_2B54A1C94E8999B4.png",
+        "key": "9ac0c0fce8dc40f28801a0e54dc89c76:f1790c69606b0c8cb4ebf0f3f525717e",
+        "name": "HOME & HEALTH HD EC"
+    },
+    "SUQgLSBJTlZFU1RJR0FUSU9OIERJU0NPVkVSWQ==_MPLAYEC": {
+        "url": "http:\/\/b42509.2.cdn.telefonica.com\/42509\/_-_psi_-_\/live\/disk1\/InvestigationDiscovery\/DASH\/InvestigationDiscovery.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/07\/52\/7522972_D23BD84A0800ADB3.png",
+        "key": "233cd646989b457e8c6857bad23c3b6a:df5cef2482eca6f08e2a11b859ba9a72",
+        "name": "ID - INVESTIGATION DISCOVERY EC"
+    },
+    "TElGRVRJTUU=_MPLAYEC": {
+        "url": "http:\/\/b42585.2.cdn.telefonica.com\/42585\/_-_psi_-_\/live\/disk1\/Lifetime\/DASH\/Lifetime.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/07\/17\/7174958_C8682663671689F2.png",
+        "key": "5b23a31222d14adb9414287f24a42b80:4d0609ed4fde2b7d7993f04619ade370",
+        "name": "LIFETIME EC"
+    },
+    "TVRWIEhE_MPLAYEC": {
+        "url": "http:\/\/b42570.2.cdn.telefonica.com\/42570\/_-_psi_-_\/live\/disk1\/MTV\/DASH\/MTV.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/31\/6310601_CDA7FB49C0753B8E.png",
+        "key": "a421fc3b88d14f0481b66a4eba6b209f:ad4aa38cb39c103d998bec285151e609",
+        "name": "MTV HD EC"
+    },
+    "TkFUIEdFTyBIRA==_MPLAYEC": {
+        "url": "http:\/\/b41555.2.cdn.telefonica.com\/41555\/_-_psi_-_\/live\/disk1\/NatGeoHD\/DASH\/NatGeoHD.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404323_63237090D01F24CE.png",
+        "key": "a87f1a6f2ac540c8a839e9a1d9a8fcf8:19d61f2bc4a034a23744284253d56617",
+        "name": "NAT GEO HD EC"
+    },
+    "TklDSyBIRA==_MPLAYEC": {
+        "url": "http:\/\/b42591.2.cdn.telefonica.com\/42591\/_-_psi_-_\/live\/disk1\/Nick\/DASH\/Nick.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404292_3B9E6CB449FA9F91.png",
+        "key": "8ceba77f0f114a0797f110dd585f14c8:e9552de37e9ec5149abde2127490c3b1",
+        "name": "NICK HD EC"
+    },
+    "UEFSQU1PVU5UIEhE_MPLAYEC": {
+        "url": "http:\/\/b42435.2.cdn.telefonica.com\/42435\/_-_psi_-_\/live\/disk1\/Paramount\/DASH\/Paramount.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/84\/6840720_AEB0D89DD5B9FA4C.png",
+        "key": "0a1becef933d4fc6a4cb1a2311c688ff:edc638b5456e432d7988b4acffd18a23",
+        "name": "PARAMOUNT HD EC"
+    },
+    "U09OWSBIRA==_MPLAYEC": {
+        "url": "http:\/\/b42579.2.cdn.telefonica.com\/42579\/_-_psi_-_\/live\/disk1\/Sony\/DASH\/Sony.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402029_63C699E0EA1EFEB6.png",
+        "key": "3aa5607e7b744e1ea937ffd249477b5f:a477698304049fcaba5e1268590168ba",
+        "name": "SONY HD EC"
+    },
+    "U1BBQ0UgSEQ=_MPLAYEC": {
+        "url": "http:\/\/b42020.2.cdn.telefonica.com\/42020\/_-_psi_-_\/live\/disk1\/SpaceHD\/DASH\/SpaceHD.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6400745_DED2A560408C223A.png",
+        "key": "88a4c9d720584efa91e42fbace03a3a9:1df77c95d2d8d7d61cbf45cbb9cb4d24",
+        "name": "SPACE HD EC"
+    },
+    "U1RBUiBDaGFubmVs_MPLAYEC": {
+        "url": "http:\/\/b42423.2.cdn.telefonica.com\/42423\/_-_psi_-_\/live\/disk1\/FoxPe\/DASH\/FoxPe.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/08\/35\/8355162_9D5F70421EBFB84B.png",
+        "key": "af13b61d411e4cffacd8daa752fe46af:82c4c7638f84d1702ce67460196ec74a",
+        "name": "STAR Channel EC"
+    },
+    "U1RVRElPIFVOSVZFUlNBTA==_MPLAYEC": {
+        "url": "http:\/\/b42735.2.cdn.telefonica.com\/42735\/_-_psi_-_\/live\/disk1\/StudioUniversal\/DASH\/StudioUniversal.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6400877_2A9597A863DAD7FE.png",
+        "key": "beb5906e74fa4b9fb7528b009138889b:35c4349c9afb742fac18b259f3ea6027",
+        "name": "STUDIO UNIVERSAL EC"
+    },
+    "VENN_MPLAYEC": {
+        "url": "http:\/\/b42462.2.cdn.telefonica.com\/42462\/_-_psi_-_\/live\/disk1\/TCM\/DASH\/TCM.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/31\/6310574_FDBA1F86CF41A989.png",
+        "key": "f2a76519d6394922b3f8f307ce5223cf:666538fd2b798188559501c4e0d5fcb7",
+        "name": "TCM EC"
+    },
+    "VEVMRU1VTkRP_MPLAYEC": {
+        "url": "http:\/\/b42738.2.cdn.telefonica.com\/42738\/_-_psi_-_\/live\/disk1\/Telemundo\/DASH\/Telemundo.mpd?tcdn-bitrate-filter=LIVESD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404400_715F24BDA274C0D1.png",
+        "key": "e786eec5c3f94af888b8a82f99d00e8b:c7064fbb74c6bda1f2e5ef4f1721520a",
+        "name": "TELEMUNDO EC"
+    },
+    "VExD_MPLAYEC": {
+        "url": "http:\/\/b42567.2.cdn.telefonica.com\/42567\/_-_psi_-_\/live\/disk1\/TLC\/DASH\/TLC.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404405_CD52322046D5E2FB.png",
+        "key": "79a5ec2e689446b4ae6c1ad7c1bfae6f:c4dac276f3de4ea89c4384f16d8ca564",
+        "name": "TLC EC"
+    },
+    "VE5UIEhE_MPLAYEC": {
+        "url": "http:\/\/b42021.2.cdn.telefonica.com\/42021\/_-_psi_-_\/live\/disk1\/TNT\/DASH\/TNT.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/38\/6381762_3BCDE7B21593DCAF.png",
+        "key": "67afe5a5527c488b8204ccac68d0c14f:7abfe4c3b9a891b2dc3cc7501adb692c",
+        "name": "TNT HD EC"
+    },
+    "VE5UIFNFUklFUyBIRA==_MPLAYEC": {
+        "url": "http:\/\/b42303.2.cdn.telefonica.com\/42303\/_-_psi_-_\/live\/disk1\/TNTSeries\/DASH\/TNTSeries.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402153_5D2A8E4CA7E0087D.png",
+        "key": "a7d55d79fe88410380a3ff9855f4b392:d4904c0fdc742e2e9a443348a6704036",
+        "name": "TNT SERIES HD EC"
+    },
+    "VE9PTkNBU1Q=_MPLAYEC": {
+        "url": "http:\/\/b42615.2.cdn.telefonica.com\/42615\/_-_psi_-_\/live\/disk1\/Tooncast\/DASH\/Tooncast.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404296_E5D89B4533D93187.png",
+        "key": "ee53a8e0b7d940b1ad801b80ff0459ac:fbb6a5a96fdcc55bc5492ef9e93a7d7a",
+        "name": "TOONCAST EC"
+    },
+    "VU5JVkVSU0FMIENIQU5ORUw=_MPLAYEC": {
+        "url": "http:\/\/b42899.2.cdn.telefonica.com\/42899\/_-_psi_-_\/live\/disk1\/UniversalChannel\/DASH\/UniversalChannel.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402102_E78633969AA98172.png",
+        "key": "1e232e85fa1a4f46967b600270c6f7f4:c57394bec8051584bce0d00a633d7b8c",
+        "name": "UNIVERSAL CHANNEL EC"
+    },
+    "V0FSTkVSIENIQU5ORUwgSEQ=_MPLAYEC": {
+        "url": "http:\/\/b42588.2.cdn.telefonica.com\/42588\/_-_psi_-_\/live\/disk1\/WarnerChannel\/DASH\/WarnerChannel.mpd?tcdn-bitrate-filter=LIVEHD",
+        "logo": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402025_7930297E846EF33B.png",
+        "key": "605f5fbdcf514e6fa5245b4164bc9782:a3823b53b6e26b6a91280a3dc418dbc4",
+        "name": "WARNER CHANNEL HD EC"
+    },
+    "MTAgTURQ_MPLAYAR": {
+        "url": "http:\/\/b43564.3.cdn.telefonica.com\/43564\/_-_psi_-_\/sdash\/LIVE$10MDP\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "c477104b7cba4929aeeaec1aa2d2ad6d:894be326f532269b3dd17c9b6f6bf64b",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404401_F899B254646567AB.png",
+        "name": "10 MDP AR"
+    },
+    "QSZF_MPLAYAR": {
+        "url": "http:\/\/b43712.3.cdn.telefonica.com\/43712\/_-_psi_-_\/sdash\/LIVE$AEHD\/index.mpd\/Manifest.mpd?start=LIVE&end=END&device=DPMuE_6s-Dashavc-HighDefinition",
+        "logo": "200ce2b652e344a28e380ca12a676c85:ffb7252e7f207d2e776901b8abfc60c3",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402265_9A16CAF7C07017A3.png",
+        "name": "A&E AR"
+    },
+    "QTI0_MPLAYAR": {
+        "url": "http:\/\/b43706.3.cdn.telefonica.com\/43706\/_-_psi_-_\/sdash\/LIVE$A24\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "50ac418216044f2da27efa9bceabe1e6:472d9e41053f20747f471d68e4ba09ba",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/37\/6375147_DCF13A1DBBEA9B96.png",
+        "name": "A24 AR"
+    },
+    "QU1D_MPLAYAR": {
+        "url": "http:\/\/b43184.3.cdn.telefonica.com\/43184\/_-_psi_-_\/sdash\/LIVE$AMC\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "8132ee758d754c2089002101b81c65d6:9c5ffe3187cbd96213d945704c8395a7",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402133_B265ACD58D743792.png",
+        "name": "AMC AR"
+    },
+    "QU1FUklDQSBUVg==_MPLAYAR": {
+        "url": "http:\/\/b43858.3.cdn.telefonica.com\/43858\/_-_psi_-_\/sdash\/LIVE$AmericaTVInt\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "1fa99615240e42ef9b6bde2bdfd43420:fd4c788b94f490d578ad7b753f1a0716",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/07\/10\/7101319_25A34BE6DD68A865.png",
+        "name": "AMERICA TV AR"
+    },
+    "QU5JTUFMIFBMQU5FVA==_MPLAYAR": {
+        "url": "http:\/\/b43680.3.cdn.telefonica.com\/43680\/_-_psi_-_\/sdash\/LIVE$AnimalPlanet\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-StandardDefinition",
+        "logo": "57b16d82502048758869ce5a54c79b42:6d5986e8c6c547dfaeff0a66603c45cd",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404328_6EA16AC5A8C8CA82.png",
+        "name": "ANIMAL PLANET AR"
+    },
+    "QU5URU5BMw==_MPLAYAR": {
+        "url": "http:\/\/b43181.3.cdn.telefonica.com\/43181\/_-_psi_-_\/sdash\/LIVE$Antena3ARG\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "571d287d7ef44e6782ffd3bb9250d1d2:51cecd9cf572ef296a8e7ec36afec2e2",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402239_07A2116C922FFD68.png",
+        "name": "ANTENA3 AR"
+    },
+    "QVRSRVMgU0VSSUVT_MPLAYAR": {
+        "url": "http:\/\/b43180.3.cdn.telefonica.com\/43180\/_-_psi_-_\/sdash\/LIVE$AtresSeriesHD\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "2780b7d1130e449fa160570e9186359b:714b7693b0c27480b2a94f0a8a50e7da",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/07\/26\/7265849_80A656F053F25772.png",
+        "name": "ATRES SERIES AR"
+    },
+    "QVhO_MPLAYAR": {
+        "url": "http:\/\/b43637.3.cdn.telefonica.com\/43637\/_-_psi_-_\/sdash\/LIVE$AXNHD\/index.mpd\/Manifest.mpd?start=LIVE&end=END&device=DPMuE_6s-Dashavc-HighDefinition",
+        "logo": "20a3542b4c744dbf937b959415027bcc:2b53d7a39244e4b6f4e2eb456ce8edd7",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402156_509AFA5B12D1E5F9.png",
+        "name": "AXN AR"
+    },
+    "QkFCWSBUVg==_MPLAYAR": {
+        "url": "http:\/\/b43709.3.cdn.telefonica.com\/43709\/_-_psi_-_\/sdash\/LIVE$BabyTV\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-StandardDefinition",
+        "logo": "2abbbce975324286a12bf3795f335c43:4d3d32451cfdac326e65e79f8bb25218",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404289_0FC3658188313098.png",
+        "name": "BABY TV AR"
+    },
+    "QkJDIFdPUkxEIE5FV1M=_MPLAYAR": {
+        "url": "http:\/\/b43172.3.cdn.telefonica.com\/43172\/_-_psi_-_\/sdash\/LIVE$BBCWorldNewsARG\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "586302ec682b460c83ce2ceb77ab985f:d00fa36819317fd1dddd4bbdcee406b2",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402267_10F67C8B002B5AFD.png",
+        "name": "BBC WORLD NEWS AR"
+    },
+    "QzVO_MPLAYAR": {
+        "url": "http:\/\/b43681.3.cdn.telefonica.com\/43681\/_-_psi_-_\/sdash\/LIVE$C5N\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "4384008e5e1c4d84b5473844555082ae:578e32b213f264e3395fda9739e6da5c",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6400310_3E09964137D82DD8.png",
+        "name": "C5N AR"
+    },
+    "Q0FOQUwgMTAgUklPIE5FR1JP_MPLAYAR": {
+        "url": "http:\/\/b43565.3.cdn.telefonica.com\/43565\/_-_psi_-_\/sdash\/LIVE$RioNegro\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "b1ff96f15bac4cffaadd7cc357d8ce10:f6e7e15f1374108454e0acf83126a8b7",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6400878_96A36529A408888D.png",
+        "name": "CANAL 10 RIO NEGRO AR"
+    },
+    "Q0FOQUwgNiBCQVJJTE9DSEU=_MPLAYAR": {
+        "url": "http:\/\/b43567.3.cdn.telefonica.com\/43567\/_-_psi_-_\/sdash\/LIVE$Bariloche\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "b7ddbb7055994d5e88a304dbd0634301:c652f3b88fb5d1e940057f6814320e73",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6400753_B4E5C0ED286A28BF.png",
+        "name": "CANAL 6 BARILOCHE AR"
+    },
+    "Q0FOQUwgNyBCQUhJQSBCTEFOQ0E=_MPLAYAR": {
+        "url": "http:\/\/b43566.3.cdn.telefonica.com\/43566\/_-_psi_-_\/sdash\/LIVE$SieteBahiaBlanca\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "2edf96b0c8764290bb4b6658626f3379:bdab420ac3604681e0ca9b25f0021af1",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6400762_66612E7C83C97929.png",
+        "name": "CANAL 7 BAHIA BLANCA AR"
+    },
+    "Q0FOQUwgOSBURUxFVklEQQ==_MPLAYAR": {
+        "url": "http:\/\/b44088.3.cdn.telefonica.com\/44088\/_-_psi_-_\/sdash\/LIVE$Canal9Televida\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "7ef27856a4ef4c3ab83592ea2d5cacdf:027a43631d83e3adb8b6bc72fb469319",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/07\/64\/7642543_A2AAE67E4B9D95C0.png",
+        "name": "CANAL 9 TELEVIDA AR"
+    },
+    "Q0FOQUwgQQ==_MPLAYAR": {
+        "url": "http:\/\/b43192.3.cdn.telefonica.com\/43192\/_-_psi_-_\/sdash\/LIVE$CanalA\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-StandardDefinition",
+        "logo": "bfbc40a562bd4bf194fcfc34bddd060d:ef1ed99566ad3b68740d1c900cc00b65",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402312_68949CE70680FAF0.png",
+        "name": "CANAL A AR"
+    },
+    "Q0FOQUwgREUgTEEgTVVTSUNB_MPLAYAR": {
+        "url": "http:\/\/b43715.3.cdn.telefonica.com\/43715\/_-_psi_-_\/sdash\/LIVE$CanaldelaMsica\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "28326876d6e1463ba4f1267fa47c7a29:d59f545ea6d0fe6ba9c10c0b933292d3",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402302_A6E252AADDC22E7C.png",
+        "name": "CANAL DE LA MUSICA AR"
+    },
+    "Q0FSVE9PTiBORVRXT1JL_MPLAYAR": {
+        "url": "http:\/\/b43661.3.cdn.telefonica.com\/43661\/_-_psi_-_\/sdash\/LIVE$CartoonNetwork\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "3f6c71afe2d34127b9d4f16b8910274c:48ff1fdf1996c4708a6294da503e00fc",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404291_317D0944FCAE9FC2.png",
+        "name": "CARTOON NETWORK AR"
+    },
+    "Q0FSVE9PTklUTw==_MPLAYAR": {
+        "url": "http:\/\/b43187.3.cdn.telefonica.com\/43187\/_-_psi_-_\/sdash\/LIVE$CARTOONITO\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "d28ae302ca914365b7e1a59e5a0b164a:6f04cca0e33dbb635755fb6a686da52e",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea10\/IMAGES\/00\/10\/11\/10113697_F122B11142813549.png",
+        "name": "CARTOONITO AR"
+    },
+    "Q0lORUFSVFY=_MPLAYAR": {
+        "url": "http:\/\/b43174.3.cdn.telefonica.com\/43174\/_-_psi_-_\/sdash\/LIVE$CineArTV\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "02324f7daecf49f7aa48f5724c6c07b7:7af2c198c385ca74f552eb35bb892264",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6400731_E128D3642BB30828.png",
+        "name": "CINEARTV AR"
+    },
+    "Q0lORUNBTkFM_MPLAYAR": {
+        "url": "http:\/\/b43649.3.cdn.telefonica.com\/43649\/_-_psi_-_\/sdash\/LIVE$CinecanalHD\/index.mpd\/Manifest.mpd?start=LIVE&end=END&device=DPMuE_6s-Dashavc-HighDefinition",
+        "logo": "2301623894f4476ab15dc85c4633a04b:86d3404513f0450d820165e5ecc81764",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/38\/6381761_1B6CA9B0AAD15C8F.png",
+        "name": "CINECANAL AR"
+    },
+    "Q0lORU1BWA==_MPLAYAR": {
+        "url": "http:\/\/b43632.3.cdn.telefonica.com\/43632\/_-_psi_-_\/sdash\/LIVE$Cinemax\/index.mpd\/Manifest.mpd?start=LIVE&end=END&device=DPMuE_6s-Dashavc-HighDefinition",
+        "logo": "11c7bccdf5044a64a1d3febd07c2bc1d:908edbcaafc928a3a62b922e3646bcd9",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6400603_DE0CBB7B732B556A.png",
+        "name": "CINEMAX AR"
+    },
+    "Q05OIEVTUEHDkU9M_MPLAYAR": {
+        "url": "http:\/\/b43012.3.cdn.telefonica.com\/43012\/_-_psi_-_\/sdash\/LIVE$CNNEspanol\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-StandardDefinition",
+        "logo": "42135ca21f6245658dcd4df2ce7ee10a:a11f3080b5e39506b78237c0bfe32dc9",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402293_ED7DBFA4CA85ED1C.png",
+        "name": "CNN ESPA\u00d1OL AR"
+    },
+    "Q05OIElOVEVSTkFDSU9OQUw=_MPLAYAR": {
+        "url": "http:\/\/b43133.3.cdn.telefonica.com\/43133\/_-_psi_-_\/sdash\/LIVE$CNNInt\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-StandardDefinition",
+        "logo": "0063c9c37c0644edba2daa0b72a621ff:8c2ec485df1d58f8f96da459d85f1bb9",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402269_E7AF95BCD440D5F8.png",
+        "name": "CNN INTERNACIONAL AR"
+    },
+    "Q09NRURZIENFTlRSQUw=_MPLAYAR": {
+        "url": "http:\/\/b43678.3.cdn.telefonica.com\/43678\/_-_psi_-_\/sdash\/LIVE$ComedyCentral\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "40be6478a6814b58883cf6fa70a8bf1b:28a1b959c77c446b8dff9c9385dee773",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402245_C6769A3F09CF8D21.png",
+        "name": "COMEDY CENTRAL AR"
+    },
+    "Q1JPTklDQSBUVg==_MPLAYAR": {
+        "url": "http:\/\/b43683.3.cdn.telefonica.com\/43683\/_-_psi_-_\/sdash\/LIVE$CronicaTV\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "0d7c05edf39d42b4b558ae0d889aefa1:3191f0a09d27edca4db5c886cdf582f2",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6400315_E8922F54D15F9CFF.png",
+        "name": "CRONICA TV AR"
+    },
+    "REhF_MPLAYAR": {
+        "url": "http:\/\/b43186.3.cdn.telefonica.com\/43186\/_-_psi_-_\/sdash\/LIVE$DHEHD\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "c34c7a68b8a349af9eaa71dcd25020e5:12d763caa5c870f3a7331261b7530963",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/38\/6381763_D30E6D2578217102.png",
+        "name": "DHE AR"
+    },
+    "RElTQ09WRVJZIENIQU5ORUw=_MPLAYAR": {
+        "url": "http:\/\/b43694.3.cdn.telefonica.com\/43694\/_-_psi_-_\/sdash\/LIVE$DiscoveryChannel\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "5841d4e2e7f14899a32cd9550e245a65:2ae4dbdf6fa2519aac83304f8f3d5a84",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404318_A08760A31E4E9381.png",
+        "name": "DISCOVERY CHANNEL AR"
+    },
+    "RElTQ09WRVJZIEhPTUUgJiBHQVJERU4=_MPLAYAR": {
+        "url": "http:\/\/b43188.3.cdn.telefonica.com\/43188\/_-_psi_-_\/sdash\/LIVE$HomeGarden\/index.mpd\/Manifest.mpd?start=LIVE&end=END&device=DPMuE_6s-Dashavc-HighDefinition",
+        "logo": "dd16d63af5fb4ba6b48ce76f3ecc55ac:0a1b0f366f6ac8dffce7856fcd8b9da8",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404319_0E77CAEB731055C1.png",
+        "name": "DISCOVERY HOME & GARDEN AR"
+    },
+    "RElTQ09WRVJZIEtJRFM=_MPLAYAR": {
+        "url": "http:\/\/b43696.3.cdn.telefonica.com\/43696\/_-_psi_-_\/sdash\/LIVE$DiscoveryKids\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "555a9d17510b4727b2377c66d16dda35:952c63868483eaee90162c1cf190e3a9",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404287_505AB80A6A512184.png",
+        "name": "DISCOVERY KIDS AR"
+    },
+    "RElTQ09WRVJZIFNDSUVOQ0U=_MPLAYAR": {
+        "url": "http:\/\/b43124.3.cdn.telefonica.com\/43124\/_-_psi_-_\/sdash\/LIVE$DiscoveryScience\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "26150561cd0a4a9b9bbc3d6f8dd72cf0:5b777c5b5b4e93977a007c458d00c4cf",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/08\/61\/8615292_8817353627981150.png",
+        "name": "DISCOVERY SCIENCE AR"
+    },
+    "RElTQ09WRVJZIFRIRUFURVI=_MPLAYAR": {
+        "url": "http:\/\/b43125.3.cdn.telefonica.com\/43125\/_-_psi_-_\/sdash\/LIVE$Disc.Theater\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "757a65d55127484281a4dbee751ec832:438da4b80bed02229a698ffd418a8091",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404321_B867B35E2668DC15.png",
+        "name": "DISCOVERY THEATER AR"
+    },
+    "RElTQ09WRVJZIFRVUkJP_MPLAYAR": {
+        "url": "http:\/\/b43697.3.cdn.telefonica.com\/43697\/_-_psi_-_\/sdash\/LIVE$DiscoveryTurbo\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "5acbadbe72aa45a1a4ce7811f4eba3a6:5149aec94c6feafbbe706fc82e2e7afd",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6400496_F73CF76E891B89F0.png",
+        "name": "DISCOVERY TURBO AR"
+    },
+    "RElTQ09WRVJZIFdPUkxE_MPLAYAR": {
+        "url": "http:\/\/b43126.3.cdn.telefonica.com\/43126\/_-_psi_-_\/sdash\/LIVE$Disc.World\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "0c859f901b42496b8320d0e18c856c26:8002059f822510c84e0b3414cb186643",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404322_9A34A52DCF8A15B7.png",
+        "name": "DISCOVERY WORLD AR"
+    },
+    "RElTTkVZIENIQU5ORUw=_MPLAYAR": {
+        "url": "http:\/\/b43658.3.cdn.telefonica.com\/43658\/_-_psi_-_\/sdash\/LIVE$DisneyChannel\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "4aa34d684ff34055a4191d3641a9c2ab:cf97b39ba816003714e9f33c049e89e1",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404284_14348DA622E37938.png",
+        "name": "DISNEY CHANNEL AR"
+    },
+    "RElTTkVZIEpVTklPUg==_MPLAYAR": {
+        "url": "http:\/\/b43659.3.cdn.telefonica.com\/43659\/_-_psi_-_\/sdash\/LIVE$DisneyJr\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "507363b261414ffbbbe70d557ef1fd7d:94880827d5829a90b751d63e32bb30bb",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404285_B2AAA26F953BA65C.png",
+        "name": "DISNEY JUNIOR AR"
+    },
+    "RElTTkVZIFhE_MPLAYAR": {
+        "url": "http:\/\/b43660.3.cdn.telefonica.com\/43660\/_-_psi_-_\/sdash\/LIVE$DisneyXD\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "5107bb7555f74506b616a43e01da751d:14bcc292e9b3f98fe722e6e65a5fa1d9",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404286_D09FD8D5C5379EF9.png",
+        "name": "DISNEY XD AR"
+    },
+    "RFhUVg==_MPLAYAR": {
+        "url": "http:\/\/b43173.3.cdn.telefonica.com\/43173\/_-_psi_-_\/sdash\/LIVE$DxTV\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "2a9827b43dc54d508d7354142d4bfb26:4ee0732b3c4e3258cb7f5e37d09a57bb",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/08\/55\/8553086_B6209E2BDA499ED5.png",
+        "name": "DXTV AR"
+    },
+    "RSEgRU5URVJUQUlOTUVOVA==_MPLAYAR": {
+        "url": "http:\/\/b43714.3.cdn.telefonica.com\/43714\/_-_psi_-_\/sdash\/LIVE$EEntertainment\/index.mpd\/Manifest.mpd?start=LIVE&end=END&device=DPMuE_6s-Dashavc-HighDefinition",
+        "logo": "3be7aad7116e48618df6214f21a198f3:6b0a82be748cf1122c1f66e5359447a0",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402311_E32FDB9336BD052C.png",
+        "name": "E! ENTERTAINMENT AR"
+    },
+    "RUwgR0FSQUdF_MPLAYAR": {
+        "url": "http:\/\/b43646.3.cdn.telefonica.com\/43646\/_-_psi_-_\/sdash\/LIVE$Garage\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "7ca769e7033143d9ac2d6ecd3ffaccad:bec1e141651ba4bc0f5e30d0cc702dee",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6400463_C6FAEB7096D6762E.png",
+        "name": "EL GARAGE AR"
+    },
+    "RUwgR09VUk1FVA==_MPLAYAR": {
+        "url": "http:\/\/b43679.3.cdn.telefonica.com\/43679\/_-_psi_-_\/sdash\/LIVE$ElGourmet\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "42bd76ca5a844d3ea97d686a341d373b:455daf522e13642626c8fa46b51d0bb4",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/31\/6310593_B6C889B3D6BEB5F2.png",
+        "name": "EL GOURMET AR"
+    },
+    "RUwgTlVFVkU=_MPLAYAR": {
+        "url": "http:\/\/b43682.3.cdn.telefonica.com\/43682\/_-_psi_-_\/sdash\/LIVE$Canal9\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "19eadbe5098641188bbde6ee69fa14cf:102c7450655b496d6458a6061b6a62bf",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/38\/6381804_2B15D05A9936E534.png",
+        "name": "EL NUEVE AR"
+    },
+    "RUwgVFJFQ0U=_MPLAYAR": {
+        "url": "http:\/\/b43856.3.cdn.telefonica.com\/43856\/_-_psi_-_\/sdash\/LIVE$ElTreceInterior\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "a3d22b22ed03436aa0750aad32fa8c4b:7761c0526bdd232e3310d014f4afbd32",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/38\/6381832_BC3954CFDB137829.png",
+        "name": "EL TRECE AR"
+    },
+    "RU5DVUVOVFJP_MPLAYAR": {
+        "url": "http:\/\/b43702.3.cdn.telefonica.com\/43702\/_-_psi_-_\/sdash\/LIVE$Encuentro\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-StandardDefinition",
+        "logo": "04340fe1b9b74bf4b70c5131f77e56a3:e59e67fcc49bd3fa3136252a65bb9dcf",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/08\/55\/8553056_3EAD1423B64D4E21.png",
+        "name": "ENCUENTRO AR"
+    },
+    "RVNQTg==_MPLAYAR": {
+        "url": "http:\/\/b43705.cdn.telefonica.com\/43705\/_-_psi_-_\/sdash\/LIVE$ESPNHD\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "472bd7f5cfa84785bc3ee6fd2739cbae:c9f07326ba83aa14b949672a95c0fe4b",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/38\/6383309_6BDEDCF4D8E84A20.png",
+        "name": "ESPN AR"
+    },
+    "RVNQTiAy_MPLAYAR": {
+        "url": "http:\/\/b43705.cdn.telefonica.com\/43705\/_-_psi_-_\/sdash\/LIVE$ESPN2HD\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "0f860a94d6fd4e1eb75ddbb8ae4a13b7:6cea88f8f83e6a79066e9dcb96af303e",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/38\/6383310_007CE9E18A928D1C.png",
+        "name": "ESPN 2 AR"
+    },
+    "RVNQTiAz_MPLAYAR": {
+        "url": "http:\/\/b43705.cdn.telefonica.com\/43705\/_-_psi_-_\/sdash\/LIVE$ESPN3HD\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "8d5035025dee4bbcbff17fe9546f9223:073fdee09dfb4522b4b44c585d817e12",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/38\/6383311_78D38321059792D4.png",
+        "name": "ESPN 3 AR"
+    },
+    "RVNQTiBFWFRSQSBIRA==_MPLAYAR": {
+        "url": "http:\/\/b43705.cdn.telefonica.com\/43705\/_-_psi_-_\/sdash\/LIVE$ESPNEXTRAHD\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "c693f9b2cef64fea8d8ff0c8d466aeaa:2b7d41f29a1f4fbfb9551e90dc306882",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/96\/6968339_D2605B6C9B3501F7.png",
+        "name": "ESPN EXTRA HD AR"
+    },
+    "RVVST1BBIEVVUk9QQQ==_MPLAYAR": {
+        "url": "http:\/\/b43178.3.cdn.telefonica.com\/43178\/_-_psi_-_\/sdash\/LIVE$EuropaEuropa\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "f183f984c2a849c38ac534c05a2f9d93:51b260bc0d52df3405f9507e5af0a39d",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6400751_E41653205B0DF616.png",
+        "name": "EUROPA EUROPA AR"
+    },
+    "RjI0_MPLAYAR": {
+        "url": "http:\/\/b43127.3.cdn.telefonica.com\/43127\/_-_psi_-_\/sdash\/LIVE$F24\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "e70d9256fb6b4c66b5e3b4ff280ab623:cfcba8204bdcd364f1b0d71bd58f8d8d",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402256_F78CFF9884C7C29D.png",
+        "name": "F24 AR"
+    },
+    "RklMTSAmIEFSVFM=_MPLAYAR": {
+        "url": "http:\/\/b43194.3.cdn.telefonica.com\/43194\/_-_psi_-_\/sdash\/LIVE$FilmArts\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "da7d8161e5944805a6a403f246dc9950:b359f1d7145bd04a476a1717468872eb",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404399_02B519116B7DD059.png",
+        "name": "FILM & ARTS AR"
+    },
+    "Rk9PRCBORVRXT1JL_MPLAYAR": {
+        "url": "http:\/\/b43189.3.cdn.telefonica.com\/43189\/_-_psi_-_\/sdash\/LIVE$FoodNetworkHD\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "9c89f4444ce94f1c8e0452c11fbe0a1d:cac06cdda942c802a1d5c59c9238facb",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402370_721F7ED3E1D94D33.png",
+        "name": "FOOD NETWORK AR"
+    },
+    "Rk9YIFNQT1JUUyAy_MPLAYAR": {
+        "url": "http:\/\/b43686.3.cdn.telefonica.com\/43686\/_-_psi_-_\/sdash\/LIVE$FoxSports2\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "51464439c1a0483683d607de6a29453b:734ce4c2026a9df5bf346643fae35c1c",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6400460_CFCF7C91055A9854.png",
+        "name": "FOX SPORTS 2 AR"
+    },
+    "Rk9YIFNQT1JUUyAz_MPLAYAR": {
+        "url": "http:\/\/b43705.cdn.telefonica.com\/43705\/_-_psi_-_\/sdash\/LIVE$FoxSports3\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "f565958d5a1540c9bc7ed14c32835881:5e9f1efb807eaed1f81b6eaca25e088f",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6400461_87A7107EB8B5D8EB.png",
+        "name": "FOX SPORTS 3 AR"
+    },
+    "Rk9YIFNQT1JUUyBBUkdFTlRJTkE=_MPLAYAR": {
+        "url": "http:\/\/b43705.cdn.telefonica.com\/43705\/_-_psi_-_\/sdash\/LIVE$FoxSportsHD\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "e5f375c842e74238b474c618505fd236:2c6c6f63856ae2e6c4a4adccdc838e69",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6400459_15FE41ED6100F0AA.png",
+        "name": "FOX SPORTS ARGENTINA AR"
+    },
+    "Rk9YIFNQT1JUUyBQUkVNSVVN_MPLAYAR": {
+        "url": "http:\/\/b43705.cdn.telefonica.com\/43705\/_-_psi_-_\/sdash\/LIVE$FoxSportsPremium\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "f92d0766d836471189bd2302dc2a602c:56e6b09aa8c23cac65efd78831283963",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/57\/6573514_EB3CEFD729B6EAB9.png",
+        "name": "FOX SPORTS PREMIUM AR"
+    },
+    "Rlg=_MPLAYAR": {
+        "url": "http:\/\/b43688.3.cdn.telefonica.com\/43688\/_-_psi_-_\/sdash\/LIVE$FX\/index.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc&tcdn-bitrate-filter=LIVEHD",
+        "logo": "4917f7de0dce4059b88989f98653a471:78e9806090a291d1fe3022ccc7721412",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402129_A027CB53A4AC65D9.png",
+        "name": "FX AR"
+    },
+    "RlhN_MPLAYAR": {
+        "url": "http:\/\/b43708.3.cdn.telefonica.com\/43708\/_-_psi_-_\/sdash\/LIVE$FXMovies\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "37768e203167470593746c0b41380a13:90b99c627d1ce0d7834b4dd0d95a229b",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6400730_1C0C709E8AAB7B6E.png",
+        "name": "FXM AR"
+    },
+    "SEJP_MPLAYAR": {
+        "url": "http:\/\/b43631.3.cdn.telefonica.com\/43631\/_-_psi_-_\/sdash\/LIVE$HBOHD\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "1ef84ea0c76e4b8884e510f8b3681520:7ab3d6083b486f8a21aeee508dc00dcc",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404165_72D0392FCC660718.png",
+        "name": "HBO AR"
+    },
+    "SEJPIDI=_MPLAYAR": {
+        "url": "http:\/\/b43629.3.cdn.telefonica.com\/43629\/_-_psi_-_\/sdash\/LIVE$HBO2HD\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "1724e084cc4b4a509b9ec0b206271ad3:44e87041e089e14496a31fc06c97c7a0",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404166_44AAB142C8AA2E73.png",
+        "name": "HBO 2 AR"
+    },
+    "SEJPIEZBTUlMWQ==_MPLAYAR": {
+        "url": "http:\/\/b43630.3.cdn.telefonica.com\/43630\/_-_psi_-_\/sdash\/LIVE$HBOFamilyHD\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "1a7086b2d77046918b32808789eeeb59:d06163ffdfff36162001ac9034c2f946",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/08\/55\/8553111_DD5F4931A18250EE.png",
+        "name": "HBO FAMILY AR"
+    },
+    "SEJPIFBMVVM=_MPLAYAR": {
+        "url": "http:\/\/b43628.3.cdn.telefonica.com\/43628\/_-_psi_-_\/sdash\/LIVE$HBOPlusEste\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "3327b08fbb8c44ab96a0044b68c6adf8:f5213f00645cb382a2be60b358a6d915",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404168_D505AFC331359E2E.png",
+        "name": "HBO PLUS AR"
+    },
+    "SElTVE9SWSAy_MPLAYAR": {
+        "url": "http:\/\/b43638.3.cdn.telefonica.com\/43638\/_-_psi_-_\/sdash\/LIVE$H2HD\/index.mpd\/Manifest.mpd?start=LIVE&end=END&device=DPMuE_6s-Dashavc-HighDefinition",
+        "logo": "336f107bbf864bcf878e6a1efe1369f8:9ff44814bb0c21d60f05e024a4fb772e",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404398_DED5C40E0E4DDC1C.png",
+        "name": "HISTORY 2 AR"
+    },
+    "SElTVE9SWSBDSEFOTkVM_MPLAYAR": {
+        "url": "http:\/\/b43639.3.cdn.telefonica.com\/43639\/_-_psi_-_\/sdash\/LIVE$HistoryChannelHD\/index.mpd\/Manifest.mpd?start=LIVE&end=END&device=DPMuE_6s-Dashavc-HighDefinition",
+        "logo": "6775502cee1d45ac908c5d0f461fb9a2:6af5049d311c68b0bfa4707f5dc780ce",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404397_1A9658271F203F00.png",
+        "name": "HISTORY CHANNEL AR"
+    },
+    "SE9MQSBUVg==_MPLAYAR": {
+        "url": "http:\/\/b43123.3.cdn.telefonica.com\/43123\/_-_psi_-_\/sdash\/LIVE$HolaTV\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "3e79c4b599834a8da06bf33582513bad:25280bea7d6a63158dee8b35555e5136",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402338_F2F85E917E131706.png",
+        "name": "HOLA TV AR"
+    },
+    "SE9NRSAmIEhFQUxUSA==_MPLAYAR": {
+        "url": "http:\/\/b43695.3.cdn.telefonica.com\/43695\/_-_psi_-_\/sdash\/LIVE$HomeHealth\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "5a189255a8304ce8881cb301100c532d:51bdc4aef099579c6b4a54e78cce80e3",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404402_8442216F89CD2A8E.png",
+        "name": "HOME & HEALTH AR"
+    },
+    "SFRW_MPLAYAR": {
+        "url": "http:\/\/b43011.3.cdn.telefonica.com\/43011\/_-_psi_-_\/sdash\/LIVE$HTV\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "8f71e437ee264c5e8795c2c35fad83c7:8f72987016727c709e2d1b5c43bbd249",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402303_A33849F933ADA8BD.png",
+        "name": "HTV AR"
+    },
+    "SS1TQVQ=_MPLAYAR": {
+        "url": "http:\/\/b43175.3.cdn.telefonica.com\/43175\/_-_psi_-_\/sdash\/LIVE$ISat\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-StandardDefinition",
+        "logo": "8f90782008ec402580fc0ed02a6a924c:0ec48312787178e474bac074607453c4",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6400732_6B83DE7BC4E294EE.png",
+        "name": "I-SAT AR"
+    },
+    "SUQgLSBJTlZFU1RJR0FUSU9OIERJU0NPVkVSWQ==_MPLAYAR": {
+        "url": "http:\/\/b43698.3.cdn.telefonica.com\/43698\/_-_psi_-_\/sdash\/LIVE$IDInvestigation\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "e7ff701ef2704fbbbea18f91871c36c4:3f56d5acf2e3564449b86e69291e677c",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/07\/52\/7522972_D23BD84A0800ADB3.png",
+        "name": "ID - INVESTIGATION DISCOVERY AR"
+    },
+    "TEEgTkFDSU9OKw==_MPLAYAR": {
+        "url": "http:\/\/b43647.3.cdn.telefonica.com\/43647\/_-_psi_-_\/sdash\/LIVE$Nacin\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "84cfe9fb92964c28ada39dbda8125fe1:9f7c2fce00519e923db28b9a664ac047",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6400309_9F0118DA586C4A47.png",
+        "name": "LA NACION+ AR"
+    },
+    "TElGRVRJTUU=_MPLAYAR": {
+        "url": "http:\/\/b43713.3.cdn.telefonica.com\/43713\/_-_psi_-_\/sdash\/LIVE$LifetimeHD\/index.mpd\/Manifest.mpd?start=LIVE&end=END&device=DPMuE_6s-Dashavc-HighDefinition",
+        "logo": "4e9c8cae436744a3a6b4f4f264a174dd:39f21e11edf6fd9b7939e705961c82ca",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/07\/17\/7174958_C8682663671689F2.png",
+        "name": "LIFETIME AR"
+    },
+    "TUFHQVpJTkU=_MPLAYAR": {
+        "url": "http:\/\/b43013.3.cdn.telefonica.com\/43013\/_-_psi_-_\/sdash\/LIVE$Magazine\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-StandardDefinition",
+        "logo": "bed7eb042c0a4766987fe5af9349227c:9ea2238ac9bd3f7f234dd9c257aa106e",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402313_D9A79EF3E3617BE3.png",
+        "name": "MAGAZINE AR"
+    },
+    "TUFTIENISUM=_MPLAYAR": {
+        "url": "http:\/\/b43190.3.cdn.telefonica.com\/43190\/_-_psi_-_\/sdash\/LIVE$MasChic\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "b9e89e4195ff4bc7bce25acd65a44f77:4cfdc151ecf48a8f9085567babbd2ea1",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402360_B2F892D24CF5AD0B.png",
+        "name": "MAS CHIC AR"
+    },
+    "TU9SQklETw==_MPLAYAR": {
+        "url": "http:\/\/b44072.3.cdn.telefonica.com\/44072\/_-_psi_-_\/sdash\/LIVE$MorbidoTV\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "09447b83742940ff9ea83be9453ab5df:3ab9d50d9e0ebca9090ed5e8d53f9cbc",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/07\/55\/7553958_0FD7874682F6A12A.png",
+        "name": "MORBIDO AR"
+    },
+    "TU9WSVNUQVIgRVZFTlRPUw==_MPLAYAR": {
+        "url": "http:\/\/b43228.3.cdn.telefonica.com\/43228\/_-_psi_-_\/sdash\/LIVE$MovistarEventos\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "27e25383719f47f6b5366f1f1f80527a:8c3586aa0736bc95d1e2204c75da430c",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/08\/00\/8005555_950265F10D883D1D.png",
+        "name": "MOVISTAR EVENTOS AR"
+    },
+    "TVRW_MPLAYAR": {
+        "url": "http:\/\/b43666.3.cdn.telefonica.com\/43666\/_-_psi_-_\/sdash\/LIVE$MTV\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "84d0000972ae47cab9ba0e0911c3615b:aff5f32009ce88f1516e2e6a80ed2e4b",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/31\/6310601_CDA7FB49C0753B8E.png",
+        "name": "MTV AR"
+    },
+    "TVVDSCBNVVNJQw==_MPLAYAR": {
+        "url": "http:\/\/b43010.3.cdn.telefonica.com\/43010\/_-_psi_-_\/sdash\/LIVE$MuchMusic\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-StandardDefinition",
+        "logo": "d5c04054471f4ef49c47a8d2a96e56d0:8331aae999df9fd72431d87708f61a46",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402296_5AB7CDED212147A6.png",
+        "name": "MUCH MUSIC AR"
+    },
+    "TkFUIEdFTw==_MPLAYAR": {
+        "url": "http:\/\/b43691.3.cdn.telefonica.com\/43691\/_-_psi_-_\/sdash\/LIVE$NatGeo\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "c756a239cfee49d09a7311b702ffb62f:ab32d581eef3fba829e43dd05f03dd0f",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404323_63237090D01F24CE.png",
+        "name": "NAT GEO AR"
+    },
+    "TkFUIEdFTyBLSURT_MPLAYAR": {
+        "url": "http:\/\/b43707.3.cdn.telefonica.com\/43707\/_-_psi_-_\/sdash\/LIVE$NatGeoKids\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "e3e1201997e04230936b649ecdaf1f2a:70485581e2a738dbfd20346707d3b168",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404288_11772D1F744E5833.png",
+        "name": "NAT GEO KIDS AR"
+    },
+    "TkFUIEdFTyBXSUxE_MPLAYAR": {
+        "url": "http:\/\/b43710.3.cdn.telefonica.com\/43710\/_-_psi_-_\/sdash\/LIVE$NatGeoWild\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "dec76a97260548059b0eac68e8f3e149:862237c3fb73d9c02e68f97f050901dc",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404324_F6CD400060224996.png",
+        "name": "NAT GEO WILD AR"
+    },
+    "TkVUIFRW_MPLAYAR": {
+        "url": "http:\/\/b43185.3.cdn.telefonica.com\/43185\/_-_psi_-_\/sdash\/LIVE$NetTv\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "24d1690f61c34d6197e149597d9849d9:52684c960acade2336d74a5052d05184",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/38\/6381833_5B3C4F58AE6E0677.png",
+        "name": "NET TV AR"
+    },
+    "TklDSyBKUg==_MPLAYAR": {
+        "url": "http:\/\/b43667.3.cdn.telefonica.com\/43667\/_-_psi_-_\/sdash\/LIVE$NickJr\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "9354f884ecce4fe2b5abc786004d32cc:23cd58765b35f2686c377241b5300ab3",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404293_8FA593EEBEDAE2FA.png",
+        "name": "NICK JR AR"
+    },
+    "TklDS0VMT0RFT04=_MPLAYAR": {
+        "url": "http:\/\/b43676.3.cdn.telefonica.com\/43676\/_-_psi_-_\/sdash\/LIVE$Nickelodeon\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "a6e711e69e914cf79d7fcdc87dc9e80c:c497f9d83af604c633f5ad915d427ad4",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404292_3B9E6CB449FA9F91.png",
+        "name": "NICKELODEON AR"
+    },
+    "UEFLQSBQQUtB_MPLAYAR": {
+        "url": "http:\/\/b43703.3.cdn.telefonica.com\/43703\/_-_psi_-_\/sdash\/LIVE$PakaPaka\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-StandardDefinition",
+        "logo": "03bc3735937c435fa2af0c2f16efc05c:5673e792f17e450b38c329849963ec35",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/08\/55\/8552837_25516693D24CBD22.png",
+        "name": "PAKA PAKA AR"
+    },
+    "UEFSQU1PVU5UIENIQU5ORUw=_MPLAYAR": {
+        "url": "http:\/\/b43677.3.cdn.telefonica.com\/43677\/_-_psi_-_\/sdash\/LIVE$Paramount\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "b8ef7cc4d9a44584a7b657b98f91d7aa:0689727aaf70294b175e38d9e07ecd96",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/84\/6840720_AEB0D89DD5B9FA4C.png",
+        "name": "PARAMOUNT CHANNEL AR"
+    },
+    "UVVJRVJP_MPLAYAR": {
+        "url": "http:\/\/b43716.3.cdn.telefonica.com\/43716\/_-_psi_-_\/sdash\/LIVE$Quiero\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "e7d94d671fe14882953a8639e80e1549:cb2fbd85669afb3a7a22e27207c31e4a",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402301_14F161C61FDFC4CC.png",
+        "name": "QUIERO AR"
+    },
+    "UkFJ_MPLAYAR": {
+        "url": "http:\/\/b43131.3.cdn.telefonica.com\/43131\/_-_psi_-_\/sdash\/LIVE$Rai\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "a93ebd2bd2c94b0db1895404ae8d0990:18be3f6a833e16b6efb4c4880cf75d5b",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402262_33A4B87EBEB7184B.png",
+        "name": "RAI AR"
+    },
+    "U09OWQ==_MPLAYAR": {
+        "url": "http:\/\/b43641.3.cdn.telefonica.com\/43641\/_-_psi_-_\/sdash\/LIVE$SonyHD\/index.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc&tcdn-bitrate-filter=LIVEHD",
+        "logo": "6bb9212260a94e0487ecc2860ed054b2:014ee7a1a6900c7efd17b273efa15314",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402029_63C699E0EA1EFEB6.png",
+        "name": "SONY AR"
+    },
+    "U1BBQ0U=_MPLAYAR": {
+        "url": "http:\/\/b43662.3.cdn.telefonica.com\/43662\/_-_psi_-_\/sdash\/LIVE$Space\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "c305d98736da47bca3dc481b8019c9d2:8847344cf54292b9426c2a9ad4a347a9",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6400745_DED2A560408C223A.png",
+        "name": "SPACE AR"
+    },
+    "U1RBUiBDSEFOTkVMIEhE_MPLAYAR": {
+        "url": "http:\/\/b43648.3.cdn.telefonica.com\/43648\/_-_psi_-_\/sdash\/LIVE$STARChannelHD\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "22aa2edc6df34703a459a04992d58cb8:1f84c0b904f7f33f1d32b2dca565c354",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/08\/35\/8355162_9D5F70421EBFB84B.png",
+        "name": "STAR CHANNEL HD AR"
+    },
+    "U1RBUiBMaWZl_MPLAYAR": {
+        "url": "http:\/\/b43711.3.cdn.telefonica.com\/43711\/_-_psi_-_\/sdash\/LIVE$STARLife\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "3725caad511a4e56b89e5778bb30ee7e:25cd0c2e4c6a48394c9afd28923ccfd4",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/08\/35\/8355169_980CF228C60D0474.png",
+        "name": "STAR Life AR"
+    },
+    "U1RVRElPIFVOSVZFUlNBTA==_MPLAYAR": {
+        "url": "http:\/\/b43128.3.cdn.telefonica.com\/43128\/_-_psi_-_\/sdash\/LIVE$StudioUniversal\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "3e0fcd9261f0449cbf3785b044d1cdbc:117b9bc2dda5de6ddb80ee479b2be409",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6400877_2A9597A863DAD7FE.png",
+        "name": "STUDIO UNIVERSAL AR"
+    },
+    "U1kgRlk=_MPLAYAR": {
+        "url": "http:\/\/b43176.3.cdn.telefonica.com\/43176\/_-_psi_-_\/sdash\/LIVE$SYFY\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "949a7d0bc67c4a47b8da2a130244aef0:717a0093b439cb01719b1aac0c25a8c2",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/59\/6590543_006D4CC6C7A47333.png",
+        "name": "SY FY AR"
+    },
+    "VEJTIFZFUlkgRlVOTlk=_MPLAYAR": {
+        "url": "http:\/\/b43663.3.cdn.telefonica.com\/43663\/_-_psi_-_\/sdash\/LIVE$TBSVeryFunny\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "c70fe6b25e9c4f8999dcf3e76326fcb9:405fb9b52cb0481c354bb8b1ffa4cebb",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402241_B526D1E51A3EBFCD.png",
+        "name": "TBS VERY FUNNY AR"
+    },
+    "VENN_MPLAYAR": {
+        "url": "http:\/\/b43009.3.cdn.telefonica.com\/43009\/_-_psi_-_\/sdash\/LIVE$TCM\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-StandardDefinition",
+        "logo": "064ea81c5dff4132a8ac8c1cfcb4398e:e3079afa2a7c23d01c7db83d769623fe",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/31\/6310574_FDBA1F86CF41A989.png",
+        "name": "TCM AR"
+    },
+    "VEVMRUZF_MPLAYAR": {
+        "url": "http:\/\/b43855.3.cdn.telefonica.com\/43855\/_-_psi_-_\/sdash\/LIVE$TelefeInterior\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "7d5e6b02467e41e5a0a8659f3785d0ea:c088168c4449e2e97b5b87d30bd801a0",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/38\/6381808_4A544D899561B19D.png",
+        "name": "TELEFE AR"
+    },
+    "VEVMRUZFIEJBSElBIEJMQU5DQQ==_MPLAYAR": {
+        "url": "http:\/\/b43562.3.cdn.telefonica.com\/43562\/_-_psi_-_\/sdash\/LIVE$TelefeBahia\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-StandardDefinition",
+        "logo": "6ca0434265704d0a8b18356311469bae:3ce5adcd352fd4d734b0ec65dd938700",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402022_25A33B40AC2900A5.png",
+        "name": "TELEFE BAHIA BLANCA AR"
+    },
+    "VEVMRUZFIE1BUiBERSBQTEFUQQ==_MPLAYAR": {
+        "url": "http:\/\/b43563.3.cdn.telefonica.com\/43563\/_-_psi_-_\/sdash\/LIVE$TelefeMDP\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "978f9a24f67b47e9a7a6a3561ffd0716:e09008f59e989357811e814203b8f41e",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402021_53BA7B7247B180B9.png",
+        "name": "TELEFE MAR DE PLATA AR"
+    },
+    "VEVMRUZFIE5FVVFVRU4=_MPLAYAR": {
+        "url": "http:\/\/b43561.3.cdn.telefonica.com\/43561\/_-_psi_-_\/sdash\/LIVE$TelefeNeuquen\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-StandardDefinition",
+        "logo": "459d0052cf4f402eb8b0612fe0a04e1f:10937af6f82fb99a2c57a6a709d65840",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402162_B1DE14068F81635B.png",
+        "name": "TELEFE NEUQUEN AR"
+    },
+    "VEVMRU1VTkRP_MPLAYAR": {
+        "url": "http:\/\/b43129.3.cdn.telefonica.com\/43129\/_-_psi_-_\/sdash\/LIVE$TelemundoArg\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "800c09558920478080179886dfc0ec02:b01096ef549565c6b2203df1ca8dd616",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404400_715F24BDA274C0D1.png",
+        "name": "TELEMUNDO AR"
+    },
+    "VExD_MPLAYAR": {
+        "url": "http:\/\/b43700.3.cdn.telefonica.com\/43700\/_-_psi_-_\/sdash\/LIVE$TLC\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "f328cf4709264e7d81c0edebeb2fd0fb:81d1b5385ca9e87d7cbe96c8d6a42b42",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404405_CD52322046D5E2FB.png",
+        "name": "TLC AR"
+    },
+    "VE4=_MPLAYAR": {
+        "url": "http:\/\/b43692.3.cdn.telefonica.com\/43692\/_-_psi_-_\/sdash\/LIVE$TN\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "c765c81fba8c486c9d0991f422c4b166:341e684f97322f42315e57c4d641db40",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6400308_5A6EF6EEE65C4E00.png",
+        "name": "TN AR"
+    },
+    "VE5U_MPLAYAR": {
+        "url": "http:\/\/b43664.3.cdn.telefonica.com\/43664\/_-_psi_-_\/sdash\/LIVE$TNT\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "cf7d23e6d66d4c48ad27bda4222b1830:f6320a311b776b1e42368b503fb3e332",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/38\/6381762_3BCDE7B21593DCAF.png",
+        "name": "TNT AR"
+    },
+    "VE5UIFNFUklFUw==_MPLAYAR": {
+        "url": "http:\/\/b43705.3.cdn.telefonica.com\/43705\/_-_psi_-_\/sdash\/LIVE$TNTSeries\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "d085df7350b846699943c6561a97f8ed:7faf23347c34a84b20ba80f30bd41503",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402153_5D2A8E4CA7E0087D.png",
+        "name": "TNT SERIES AR"
+    },
+    "VE5UIFNQT1JUUw==_MPLAYAR": {
+        "url": "http:\/\/b43705.cdn.telefonica.com\/43705\/_-_psi_-_\/sdash\/LIVE$TNTSPORTS\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "21861d25991640e1b2fde75ada9a35f5:99ccb6db23b2325f3057ff1e81b3ec06",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/08\/18\/8181716_59A0405C49CE6F60.png",
+        "name": "TNT SPORTS AR"
+    },
+    "VE9PTkNBU1Q=_MPLAYAR": {
+        "url": "http:\/\/b43134.3.cdn.telefonica.com\/43134\/_-_psi_-_\/sdash\/LIVE$Tooncast\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-StandardDefinition",
+        "logo": "56a69d7e49404dc3ac3a63384d510df0:b2f1c7c32f72a7ad6916ffb98e459b64",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6404296_E5D89B4533D93187.png",
+        "name": "TOONCAST AR"
+    },
+    "VFYgUFVCTElDQQ==_MPLAYAR": {
+        "url": "http:\/\/b43704.3.cdn.telefonica.com\/43704\/_-_psi_-_\/sdash\/LIVE$TVPublica\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "0d8bbd859b5a4c07be861dd74d1a458b:06b0afffc14d1fecc4c878d37424b466",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/08\/55\/8553068_D6D158BB68912AE8.png",
+        "name": "TV PUBLICA AR"
+    },
+    "VFZF_MPLAYAR": {
+        "url": "http:\/\/b43193.3.cdn.telefonica.com\/43193\/_-_psi_-_\/sdash\/LIVE$TVE\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-StandardDefinition",
+        "logo": "8f5f12de674045c486bf0234b40c745e:f9bc12ce657514f2c681563d8ba34482",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402264_186EC7A7F1EE50AC.png",
+        "name": "TVE AR"
+    },
+    "VFlDIFNQT1JUUw==_MPLAYAR": {
+        "url": "http:\/\/b43705.cdn.telefonica.com\/43705\/_-_psi_-_\/sdash\/LIVE$TyCSports\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "c12992b4956f4e3682126dad1430151e:841106cb72f6eeffc625ea1d7a1a63a0",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6400462_2AFBF9F7540F0649.png",
+        "name": "TYC SPORTS AR"
+    },
+    "VU5JVkVSU0FMIENIQU5ORUw=_MPLAYAR": {
+        "url": "http:\/\/b43171.3.cdn.telefonica.com\/43171\/_-_psi_-_\/sdash\/LIVE$UniversalAr\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "c85012af9c87433182fd13470537abab:1d7635f3341d5c4e9f7a95a6ee8b6b3a",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402102_E78633969AA98172.png",
+        "name": "UNIVERSAL CHANNEL AR"
+    },
+    "Vk9MVkVS_MPLAYAR": {
+        "url": "http:\/\/b43179.3.cdn.telefonica.com\/43179\/_-_psi_-_\/sdash\/LIVE$Volver\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-StandardDefinition",
+        "logo": "deba911141ee4643a834bfd945d439b9:8ac3b450e7a39cb05623b2ad73998397",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6400752_0371B287B8F142E7.png",
+        "name": "VOLVER AR"
+    },
+    "V0FSTkVSIENIQU5ORUw=_MPLAYAR": {
+        "url": "http:\/\/b43640.3.cdn.telefonica.com\/43640\/_-_psi_-_\/sdash\/LIVE$WarnerChannelHD\/index.mpd\/Manifest.mpd?start=LIVE&end=END&device=DPMuE_6s-Dashavc-HighDefinition",
+        "logo": "6066c467340a44eeb070232fb1c05c4e:74924c132533189041198931c2d675da",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/06\/40\/6402025_7930297E846EF33B.png",
+        "name": "WARNER CHANNEL AR"
+    },
+    "WmVlIE1VTkRP_MPLAYAR": {
+        "url": "http:\/\/b43132.cdn.telefonica.com\/43132\/_-_psi_-_\/sdash\/LIVE$ZeeMundo\/2.mpd\/Manifest.mpd?start=LIVE&end=END&device=Dashavc-HighDefinition",
+        "logo": "dc5ed2572a424068877adfa0e2ef2333:9af4296e102f66c404b61d563912f352",
+        "key": "http:\/\/media.gvp.telefonica.com\/storagearea0\/IMAGES\/00\/08\/56\/8565310_AFA4A15AF5CE14BB.png",
+        "name": "Zee MUNDO AR"
+    }
+}

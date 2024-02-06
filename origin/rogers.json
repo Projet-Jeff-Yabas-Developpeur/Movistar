@@ -1,0 +1,681 @@
+{
+  "ABC_SPARK": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-014.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/SPARKHD_HD_RG_RGTVE_75117_0_5082959901940237163.mpd",
+    "key": "e419a6d55d7352e6e453713eb55c1cdf:3c65c3d2c68bb74741e98d96a62fc6f7",
+    "name":"ABC_SPARK"
+  },
+  "ADDIK_TV": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-010.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/ADDIKHD_HD_RG_RGTVE_66003_0_8893731506282041163.mpd",
+    "key": "ab42bf5cba74c2e9883ea5e63c3fd16b:851a43009f6476900863dbc152be832e",
+    "name":"ADDIK_TV"
+  },
+  "ADULTSWIM": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-009.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/ADSMH_HD_RG_RGTVE_92160_0_6374263432675559163.mpd",
+    "key": "209af9a4b21993fed49c7240e2b2290c:aaf85cb1ec1506518810c0fbb04515a0",
+    "name":"ADULTSWIM"
+  },
+  "AMCCHD": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-002.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/AMCCHD_HD_RG_RGTVE_64831_0_8639537395990792163.mpd",
+    "key": "48c81ef3d1dab4ddf70743b33bf0a8a2:54ba08410e1ddfe16e22610628134d46",
+    "name":"AMCCHD"
+  },
+  "AMI_AUDIO": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-003.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/AMIAU_SD_RG_RGTVE_20783_0_7163387555796785163.mpd",
+    "key": "59dbcf8fed0c4525ef60c7c36965f360:02270388cbfd4125042fdbc7deb5d316",
+    "name":"AMI_AUDIO"
+  },
+  "AMI_TV": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-013.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/AMITVHD_HD_RG_RGTVE_78791_0_7937738382014030163.mpd",
+    "key": "389ec7901a6156b34e08dbaa78cf1f20:11c4551c56e93dced081e545b201d8d1",
+    "name":"AMI_TV"
+  },
+  "ANIMAL_PLANET": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-strfrd2-006.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/APCHD_HD_RG_RGTVE_74041_0_6179569186591780163.mpd",
+    "key": "045ae0efe6ac633c1e4d7b1072a1366d:958913df748cf7ea3c5f30d23dd2ab17",
+    "name":"ANIMAL_PLANET"
+  },
+  "APTN": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-001.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/APTNHD_HD_RG_RGTVE_61998_0_7640069414868451163.mpd",
+    "key": "eafa4d1628ef72863ddb1027150993f7:d8b751edc55bf4819eb601eac5b11d13",
+    "name":"APTN"
+  },
+  "ARTV": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-009.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/ARTVHD_HD_RG_RGTVE_61443_0_6871340605863103163.mpd",
+    "key": "204496702b64965524e9468dbd9a0bbc:7ec3b3e49c8e99b9f809384a5e937026",
+    "name":"ARTV"
+  },
+  "AandE_HD": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-016.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/ARTSCHD_HD_RG_RGTVE_55097_0_6554987928523826163.mpd?StreamType=VOD_T6&AssetId=&ProviderId=A%26E",
+    "key": "eab7e837b63fb4a130ac2d4f28707002:31834950be29027b1d2729e99035d4b7",
+    "name":"AandE_HD"
+  },
+  "CBC": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-016.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/CBATDT_HD_RG_RGTVE_72767_0_7371098270858862163.mpd",
+    "key": "78ee80702ae3113f0b07a3ce1811ae99:1660bb1fb49a6f4ee21c9785b49bde87",
+    "name":"CBC"
+  },
+  "CBC_NEWS": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-016.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/CBNEWSH_HD_RG_RGTVE_75971_0_4775286232044308163.mpd",
+    "key": "20397a9684c017435f23b3ace3fb0f97:899d41ebe8922c9a2a02dc909a63962a",
+    "name":"CBC_NEWS"
+  },
+  "CITY_TV": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-010.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/CITYDT_HD_RG_RGTVE_34200_0_6389895467524559163.mpd",
+    "key": "900d35ad7dae3a9aebd21e7e4be36116:2b79fec0522a5fd9a5a1ce15b93e81c3",
+    "name":"CITY_TV"
+  },
+  "CMT": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-009.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/CMTHD_HD_RG_RGTVE_80176_0_8624778338851590163.mpd",
+    "key": "52ef454b4d58bb764a7fd13f47f7af6a:eba1cefd37b9219dc35dcf5efa7a43f4",
+    "name":"CMT"
+  },
+  "CNN": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-004.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/CNNHD_HD_RG_RGTVE_58646_0_6206196250099820163.mpd",
+    "key": "4c93fc96d811cedbd5f5dee4b73e7d79:23408f6af2989b1b6bd86ef95dd5b79a",
+    "name":"CNN"
+  },
+  "CPAC": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-010.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/CPACFHD_HD_RG_RGTVE_105038_0_5730168694628007163.mpd",
+    "key": "05451857e8b4e85ed831c002549ca5d5:6ec2624aa228da0c43bff74904609be3",
+    "name":"CPAC"
+  },
+  "CRAVE_1": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-strfrd2-002.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/CRV1_HD_RG_RGTVE_33382_0_6013810915093368163.mpd",
+    "key": "0eb92fd8a7e1dfddcf343863c54ba22c:edb062bb458e7700e6a33d4632507410",
+    "name":"CRAVE_1"
+  },
+  "CRAVE_2": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-strfrd2-002.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/CRV2H_HD_RG_RGTVE_65988_0_5959911424256772163.mpd",
+    "key": "e0177a28a00c8c08d1ebdbbab62743cd:3359500ca1c4a00527a8cf95eadbcd19",
+    "name":"CRAVE_2"
+  },
+  "CRAVE_3": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-strfrd2-003.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/CRV3H_HD_RG_RGTVE_65990_0_6936427858727486163.mpd",
+    "key": "282fec4600f134ddbbc65ffdd4a6b099:3f0ad8092490a318d79262f3a54ef2a9",
+    "name":"CRAVE_3"
+  },
+  "CRAVE_4": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-strfrd2-001.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/CRV4H_HD_RG_RGTVE_65992_0_8550120963764492163.mpd",
+    "key": "5c8600797ea27e54534bde6f7cd03924:b2de20dd1d858fbe5a9372b4a2d6d23a",
+    "name":"CRAVE_4"
+  },
+  "CRIME_INVESTIGATION": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-011.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/CI_HD_RG_RGTVE_26773_0_5163801765107868163.mpd",
+    "key": "dbebdae20ab687b1fb15b385f538aea9:2e3ed81112e9bc1c8edda770abd6d85f",
+    "name":"CRIME_INVESTIGATION"
+  },
+  "CTV_DRAMA_CHANNEL": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-007.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/DRAMA_HD_RG_RGTVE_73549_0_9084363980482655163.mpd",
+    "key": "12198543fa63465495ba451c14c377a7:639821ac64a9b0d2ddda249d0b75dd89",
+    "name":"CTV_DRAMA_CHANNEL"
+  },
+  "CTV_NEWS": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-008.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/NWSNTHD_HD_RG_RGTVE_76921_0_8583129302012549163.mpd",
+    "key": "5bbdaeb07a3c7b5ec4e1302fe84c9300:3b68a0b0861fe76435bf53a169bc907d",
+    "name":"CTV_NEWS"
+  },
+  "DISCOVERY": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-011.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/TDCCHD_HD_RG_RGTVE_72638_0_7798728317958266163.mpd",
+    "key": "c302801b8b37bf541d01df7548f85816:175c3cf267bc70102dfe697505abf7e1",
+    "name":"DISCOVERY"
+  },
+  "DISNEY": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-008.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/DISCAHD_HD_RG_RGTVE_96507_0_4918809315371763163.mpd",
+    "key": "c83900527c2dd73382eaf93669264e45:a73a36dc7da0ea25aee86ebf55fd4b44",
+    "name":"DISNEY"
+  },
+  "DIY_NETWORK": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-014.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/DIYCHD_HD_RG_RGTVE_98654_0_7282364881431283163.mpd",
+    "key": "00000000000000000000000000000000:eb300f3b57407d3270dfe121c3a87007",
+    "name":"DIY_NETWORK"
+  },
+  "FAMILY": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-014.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/TFCHD_HD_RG_RGTVE_70520_0_8365662385443404163.mpd",
+    "key": "f5b44373d743c09d31dc9a5e47c0d1d0:813b7dca715698cedbb46ae1ac066ee3",
+    "name":"FAMILY"
+  },
+  "FAMILY_JR": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-014.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/FJRHD_HD_RG_RGTVE_80695_0_7430879582066365163.mpd",
+    "key": "e74580da4b18cee28ab33605189cd45d:40d51337e2b110fb28b91a9885577791",
+    "name":"FAMILY_JR"
+  },
+  "FAMILY_W": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-011.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/TFCPHD_HD_RG_RGTVE_106034_0_5736112077539253163.mpd",
+    "key": "d073e9b3791392cc20439acabe07a198:963cc51d7a21efe69d9335040dba5c86",
+    "name":"FAMILY_W"
+  },
+  "FOOD_NETWORK": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-005.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/FOODCHD_HD_RG_RGTVE_73467_0_6615704733482786163.mpd",
+    "key": "fc4f91ccea223c1d437855648fa0f72f:ff3350484e7f06ac83746a051c6f7091",
+    "name":"FOOD_NETWORK"
+  },
+  "FX": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-009.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/FXCHD_HD_RG_RGTVE_73682_0_5557897187116975163.mpd",
+    "key": "4142ef4d271356e54d9bb54fa9adefd1:7565054361c3b0f994f6cfaf3c51add4",
+    "name":"FX"
+  },
+  "FXX": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-014.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/FXXC_HD_RG_RGTVE_87894_0_6087316751947938163.mpd",
+    "key": "27014ef4c895aaa475b1a56ef2a5c2c6:e966188caf38ddeefbf11455f2c74e91",
+    "name":"FXX"
+  },
+  "GAME_TV": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-013.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/GAMTVHD_HD_RG_RGTVE_102147_0_4715557967734482163.mpd",
+    "key": "2083964225fcb0814b86005f3c0d6850:f7456bbca16447d299e30f71d8b91e66",
+    "name":"GAME_TV"
+  },
+  "HBO_1": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-strfrd2-005.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/HBO1HD_HD_RG_RGTVE_61568_0_6114175545830092163.mpd",
+    "key": "cbc16a29ff60638910e315a8d1c72fe5:8e5adb2a32a05da5d580e432ac1c00c8",
+    "name":"HBO_1"
+  },
+  "HBO_2": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-strfrd2-002.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/HBOCWHD_HD_RG_RGTVE_61777_0_8431290957736441163.mpd",
+    "key": "fc7beba9f6f7b3799ac34992dd8d6a6b:99186ec938ffc470b88477cb0df825b0",
+    "name":"HBO_2"
+  },
+  "HGTV": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-004.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/HGTVCH_HD_RG_RGTVE_70676_0_8642389809309699163.mpd",
+    "key": "2f99386ca1696091cc8198c96824f98a:ec9f6fe3417a9acca900398c389346c7",
+    "name":"HGTV"
+  },
+  "HISTORY": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-002.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/HISTHDC_HD_RG_RGTVE_65619_0_7041585780051421163.mpd",
+    "key": "720b0db5fa540c2bdb2d0926946504fb:2ee51e9861db359b0d94f3dec961d370",
+    "name":"HISTORY"
+  },
+  "HISTORY_H2": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-strfrd2-006.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/H2CHD_HD_RG_RGTVE_81208_0_5805365393193918163.mpd",
+    "key": "8bd2b6c8a5703a0e1daf67c511b87149:81c01b5ef61e7a9b8c22e20583efedc9",
+    "name":"HISTORY_H2"
+  },
+  "HOLLYWOOD_SUITE_90S_MOVIES": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-strfrd2-002.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/HS90_HD_RG_RGTVE_73571_0_4649999164012830163.mpd",
+    "key": "477b66c474a6c62660e5f857afe9f27f:a025d3858fe6c6d9e605b5f2cf172173",
+    "name":"HOLLYWOOD_SUITE_90S_MOVIES"
+  },
+  "HOLLYWOOD_SUITE_2000S_MOVIES": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-strfrd2-002.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/HS00_HD_RG_RGTVE_73578_0_7849982828061055163.mpd",
+    "key": "f556293e449a1326a1dc93ecea7c16fa:fd4750bbc8ec6d56966d06f2d3d7d7c9",
+    "name":"HOLLYWOOD_SUITE_2000S_MOVIES"
+  },
+  "LCN": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-008.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/LCNHD_HD_RG_RGTVE_67231_0_4953304530827596163.mpd",
+    "key": "96d225468cf604b6d83f8ba948b9625b:fa828e9c2c02d6c1343a292b65f4f91d",
+    "name":"LCN"
+  },
+  "MOVIETIME": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-012.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/MTIMEHD_HD_RG_RGTVE_67190_0_6933298914451641163.mpd",
+    "key": "8519a0bfd3d57d11d2a761d30a2c802b:09256da446f2bc69504e62235d66d6cc",
+    "name":"MOVIETIME"
+  },
+  "MTV": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-008.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/MTVCHD_HD_RG_RGTVE_81615_0_5694350893237732163.mpd",
+    "key": "bd1eacd72a2af69389e75cd4de8314b9:a1da15282e63436d45347b57514b6563",
+    "name":"MTV"
+  },
+  "MUCH_HD": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-016.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/MUCHHD_HD_RG_RGTVE_72139_0_8927857291490673163.mpd",
+    "key": "4fb9e7427cdc54e622cb5cad370492a4:181e7a8dab3dbda99aa2e996ed633352",
+    "name":"MUCH_HD"
+  },
+  "NATIONAL_GEOGRAPHIC": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-010.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/NATGCHD_HD_RG_RGTVE_54743_0_6905814922833441163.mpd",
+    "key": "53a60768c859cf177ad228a7235a573b:4a8a8aab5d06538ecac6d18bc4f355bf",
+    "name":"NATIONAL_GEOGRAPHIC"
+  },
+  "NAT_GEO_WILD": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-strfrd2-005.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/NGWLDCH_HD_RG_RGTVE_75451_0_7241169374911014163.mpd",
+    "key": "59b823d18f731b05528f6566cdaf3947:587caaecbfec386ca1660c28c9c04f27",
+    "name":"NAT_GEO_WILD"
+  },
+  "NFL_NETWORK": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-003.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/NFLNTCH_HD_RG_RGTVE_83116_0_8148030209563721163.mpd",
+    "key": "bb640c46505634093ddc9efcebad3400:11c5c45838d131f030d03d7b2c9dd504",
+    "name":"NFL_NETWORK"
+  },
+  "NICKOLODEAN": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-014.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/NICKCHD_HD_RG_RGTVE_80175_0_4699400020850955163.mpd",
+    "key": "4e2c9d7e282de7025388a8dcfb55bed6:48fb4d14bc521940e15fa589db69b331",
+    "name":"NICKOLODEAN"
+  },
+  "OLN_HD": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-005.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/OLCCHD_HD_RG_RGTVE_72517_0_7262765563807653163.mpd",
+    "key": "06a672c5dba98d66cf5121ccfd6546a6:c533570866fb7ee7ee16b37f3e5dfdf9",
+    "name":"OLN_HD"
+  },
+  "ONE_GET_FIT_TV": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-008.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/ONEHD_HD_RG_RGTVE_102175_0_5956259495295366163.mpd",
+    "key": "6cc44d690c2fdc31ff20a42697cc0c9d:8c679891239b05ead1c73881e0587df0",
+    "name":"ONE_GET_FIT_TV"
+  },
+  "OWN": {
+    "group": "Rogers | Canada",
+    "logo": "OWN",
+    "url": "https://rgs-atsec-slnt-008.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/OWNCHD_HD_RG_RGTVE_71785_0_8997533001003939163.mpd",
+    "key": "fe1516f59dcb90c5928b65eb3700c71d:db141e627f0dc9ee5d43fd5a343e15f1",
+    "name":""
+  },
+  "RDI": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-009.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/RDIHD_HD_RG_RGTVE_60327_0_8157830534572283163.mpd",
+    "key": "b6e6f9ed8858dbc1016c4c4499640cc5:0f1335061a2b63307d95febf8657fc27",
+    "name":"RDI"
+  },
+  "ROGERS_CHANNEL_299": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-009.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/SUNSTHD_HD_RG_RGTVE_102587_0_9046034519207750163.mpd",
+    "key": "34ca0b548430528acdba4b37cc9fbfa0:03bcba7d43da84a7a7bc0cdb8e991cf9",
+    "name":"ROGERS_CHANNEL_299"
+  },
+  "ROGERS_TV_CHANNEL": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-013.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/RSSPHD_HD_RG_RGTVE_105618_0_8732408298310419163.mpd",
+    "key": "821c4eeb68a1a3b1eff265e2878bc4d9:673c6ca95d3987b0859b1277e11e6579",
+    "name":"ROGERS_TV_CHANNEL"
+  },
+  "SHOWCASE": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-001.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/SHCSCHD_HD_RG_RGTVE_53711_0_6980270460328955163.mpd",
+    "key": "4caf3d1ced4d356e35b75a9bbd193d9b:dca739c81efd5deff6795be31107934d",
+    "name":"SHOWCASE"
+  },
+  "SILVER_SCREEN_CLASSICS": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-007.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/SSCHD_HD_RG_RGTVE_108684_0_8028032361930290163.mpd",
+    "key": "a42bbe9841674770e5c6e85202f8aabe:e4fb8d350b3e80519c93199013f002a0",
+    "name":"SILVER_SCREEN_CLASSICS"
+  },
+  "SLICE_HD": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-003.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/SLICEHD_HD_RG_RGTVE_81282_0_8053246674175796163.mpd",
+    "key": "2b93f4e4c2022f7ef8b1eb964325efd6:9b6c930a07f5d44b52348be4d3b2a9db",
+    "name":"SLICE_HD"
+  },
+  "SPORTSNET_360": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-014.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/SN360H_HD_RG_RGTVE_49952_0_6784215963305241163.mpd",
+    "key": "3ffca76f6fd22e8bf45063637fc50132:b3f6ac7145f6e57c6f2895865128ef07",
+    "name":"SPORTSNET_360"
+  },
+  "SPORTSNET_EAST": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-014.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/SNEHD_HD_RG_RGTVE_62109_0_5331957738947998163.mpd?",
+    "key": "f03cba7ecdc0d4c331c014ded901175c:b32b149ca5f0323f05186c4f206326ab",
+    "name":"SPORTSNET_EAST"
+  },
+  "SPORTSNET_ONE": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-015.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/SN1HD_HD_RG_RGTVE_68859_0_6545712859475259163.mpd",
+    "key": "35e18aa585c23217b39cd9329b11b6d0:13d5a715186c0434ecb3832c10bae9a4",
+    "name":"SPORTSNET_ONE"
+  },
+  "SPORTSNET_ONTARIO": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-001.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/DUPSNOH_HD_RG_RGTVE_105403_0_8259749221174130163.mpd",
+    "key": "9f1da21f586d502a909c28dae85d5194:4eee5dbac5265e3bf4430d239d3f066b",
+    "name":"SPORTSNET_ONTARIO"
+  },
+  "SPORTSNET_PACIFIC": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-004.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/DPSNPHD_HD_RG_RGTVE_106006_0_9183853538420590163.mpd",
+    "key": "823ac6b2758b0dbec08de6347b8e8bbd:1c5de84dbcb37e606249b334e1df0db2",
+    "name":"SPORTSNET_PACIFIC"
+  },
+  "SPORTSNET_WEST": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-015.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/DPSNWHD_HD_RG_RGTVE_106003_0_7478937479716567163.mpd",
+    "key": "0c1304ce3487ea19cce1f997f85cd8d9:b96829ba19221fde0a5b69451cb95aeb",
+    "name":"SPORTSNET_WEST"
+  },
+  "SPORTS_NEWS": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-013.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/SNHD_HD_RG_RGTVE_102691_0_6935891933238732163.mpd",
+    "key": "0dd2377eaaed9b819d1ddbd441af1da0:6bd404540c3b924f895aac8f652e9c30",
+    "name":"SPORTS_NEWS"
+  },
+  "SUPER_SPORTS_01": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-strfrd2-006.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/HDS22_HD_RG_RGTVE_75959_0_6571813874738662163.mpd",
+    "key": "52f713ad4758adc4f4e1c27e795d8ff2:1aa0478f868fa8fc18ade5312f76af78",
+    "name":"SUPER_SPORTS_01"
+  },
+  "SUPER_SPORTS_02": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-strfrd2-001.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/HDS20_HD_RG_RGTVE_75957_0_9155735569811232163.mpd",
+    "key": "aaf0514d4d2b4791a489cf952e5636b6:0ce4f3efe9905d54492a4cd220b6794a",
+    "name":"SUPER_SPORTS_02"
+  },
+  "SUPER_SPORTS_03": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-strfrd2-001.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/HDS21_HD_RG_RGTVE_75958_0_7804403479806505163.mpd",
+    "key": "487dd09d0ca4fab62e484683aa83286d:bec828c4c1d40f0c96f108bf03d4b7a4",
+    "name":"SUPER_SPORTS_03"
+  },
+  "SUPER_SPORTS_04": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-strfrd2-003.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/HDS11_HD_RG_RGTVE_79620_0_4819720236859088163.mpd",
+    "key": "f58ed5e88d70b30ec769f4bcbdc7a681:57930a2aac33a9852f3c7d193d12b2e4",
+    "name":"SUPER_SPORTS_04"
+  },
+  "SUPER_SPORTS_05": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-strfrd2-006.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/HDS12_HD_RG_RGTVE_79621_0_6328146545111676163.mpd",
+    "key": "8fd835caa0ac341978032292642bb2bd:93244bbfcbe03ca7416a04ef547a2737",
+    "name":"SUPER_SPORTS_05"
+  },
+  "SUPER_SPORTS_06": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-strfrd2-001.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/HDS13_HD_RG_RGTVE_79622_0_7692465688362512163.mpd",
+    "key": "e857e6dc749afac96298a4d83bc4e995:a9e15218f3dbddcafdaa6557b87838cd",
+    "name":"SUPER_SPORTS_06"
+  },
+  "SUPER_SPORTS_07": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-strfrd2-005.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/HDS14_HD_RG_RGTVE_75949_0_5546780668221201163.mpd",
+    "key": "0a1e53c74c4214452bbedb744ca23ffe:8e2517debab8df0527159b8596189490",
+    "name":"SUPER_SPORTS_07"
+  },
+  "SUPER_SPORTS_08": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-strfrd2-006.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/HDS15_HD_RG_RGTVE_75950_0_5237687244117260163.mpd",
+    "key": "51d135a9f74f475edad724f69aa54a1d:67839945013cc8bd538218c6d9af64d7",
+    "name":"SUPER_SPORTS_08"
+  },
+  "SUPER_SPORTS_09": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-strfrd2-006.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/HDS16_HD_RG_RGTVE_75952_0_6607106686462994163.mpd",
+    "key": "8ed7161bbb460cbfba61ff1d2673015b:04e3ceaf5db5f6410e7f43b967f4993b",
+    "name":"SUPER_SPORTS_09"
+  },
+  "SUPER_SPORTS_10": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-strfrd2-002.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/HDS17_HD_RG_RGTVE_75953_0_9180476008169069163.mpd",
+    "key": "596b80282de92c6a64a01f49a185fc57:01392378000e70b2ef06b23b3cd03480",
+    "name":"SUPER_SPORTS_10"
+  },
+  "SUPER_SPORTS_11": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-strfrd2-001.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/HDS18_HD_RG_RGTVE_75954_0_5286593893705193163.mpd",
+    "key": "602062d8d92a1160a009dd4626781a66:0dd954f557c4574243193b23c50e2e23",
+    "name":"SUPER_SPORTS_11"
+  },
+  "SUPER_SPORTS_12": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-strfrd2-005.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/HDS19_HD_RG_RGTVE_75956_0_7671322253910683163.mpd",
+    "key": "a0c3f5171eb8d56db1ece052cf9fa093:648c6c1af5819e2997d6905a20298668",
+    "name":"SUPER_SPORTS_12"
+  },
+  "SUPER_SPORTS_13": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-strfrd2-005.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/HDS63_HD_RG_RGTVE_106702_0_6713537543658999163.mpd",
+    "key": "79c2b3f863dd53f128f3fd29ccc0983f:9f43dbc847882b41df97bcb0047f6188",
+    "name":"SUPER_SPORTS_13"
+  },
+  "SUPER_SPORTS_14": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-strfrd2-006.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/HDS23_HD_RG_RGTVE_75960_0_7669635876905484163.mpd",
+    "key": "c94d5bb2c921cc160ed1bc305cc56cbd:47c85dde71d8c364fb1ba64b3b13b4fd",
+    "name":"SUPER_SPORTS_14"
+  },
+  "SUPER_SPORTS_15": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-strfrd2-004.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/HDS24_HD_RG_RGTVE_75961_0_6674861977847951163.mpd",
+    "key": "de290ce7e42676bdb8d1e57a8ee5a859:bbdf4cdc57a711d18b9fba6ed089627e",
+    "name":"SUPER_SPORTS_15"
+  },
+  "TLC": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-006.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/TLCHDBO_HD_RG_RGTVE_60645_0_7079504397653797163.mpd",
+    "key": "7ea409e6a7ee5e5b9df4dd060f8efc22:7b80bd37dd35e05e6ccec5097bfb989b",
+    "name":"TLC"
+  },
+  "TREEHOUSE": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-dupt-011.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/TREECHD_HD_RG_RGTVE_80173_0_7147175058680919163.mpd",
+    "key": "fd184120e95f26fcc8ff5b821b02a6cb:85b143fd316fdfc02e217ba47c6da743",
+    "name":"TREEHOUSE"
+  },
+  "TSC": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-016.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/TSCHD_HD_RG_RGTVE_90941_0_5073833453073484163.mpd",
+    "key": "3e3c09731cdb97e74ca3eef719e503cd:ca462c05b8d17f9c0fe37099c4a6aaa7",
+    "name":"TSC"
+  },
+  "TSN1": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-007.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/TSNHD_HD_RG_RGTVE_34313_0_6733980099144023163.mpd",
+    "key": "6f59a1a4d888b8219af523c783a7949e:eaa5bd558449f9e32b6d2b27ea644e42",
+    "name":"TSN1"
+  },
+  "TSN2": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-009.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/TSN2HD_HD_RG_RGTVE_61474_0_9212014480465782163.mpd",
+    "key": "e98dc3917b975bdcd0158cd5dcf9034e:43c432b7552cca07af246a7dc783603d",
+    "name":"TSN2"
+  },
+  "TSN3": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-016.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/TSN3HBO_HD_RG_RGTVE_90138_0_8370226091273966163.mpd",
+    "key": "4fb75686a5e5565649557eda2e2c6d9b:4de9b7c14f68cf55140f31ddcea19b12",
+    "name":"TSN3"
+  },
+  "TSN4": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-014.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/TSN4HBO_HD_RG_RGTVE_90134_0_4771491938388027163.mpd",
+    "key": "f660f74081c63825e1ba3c99ef1b0f23:f9f6cb1627f5bddcfdfda095f151d2a8",
+    "name":"TSN4"
+  },
+  "TSN5": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-016.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/TSN5HD_HD_RG_RGTVE_90125_0_8537474602109389163.mpd",
+    "key": "0512d4b04e1c5cff5e1bc1204ba1b81a:b449cab242f606ad064755f545a86ef0",
+    "name":"TSN5"
+  },
+  "TV2_SPORTS": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-002.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/TSP2H_HD_RG_RGTVE_90206_0_7864329019986694163.mpd",
+    "key": "9a1ad6e0b1b6871da09fe414e0c2c684:b1dfa5d9cce8b2c2e0ab2b6d3f84648a",
+    "name":"TV2_SPORTS"
+  },
+  "TV5": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-010.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/TV5HD_HD_RG_RGTVE_70104_0_6476355092678102163.mpd",
+    "key": "b71d74fca298a0eeb164ef16b804e776:10d25356d658091c298bcf13e2656854",
+    "name":"TV5"
+  },
+  "TVA_SPORTS": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-006.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/TVASPTH_HD_RG_RGTVE_73142_0_6085098440942164163.mpd",
+    "key": "c500e24d5ad4f2685970772666cf44f2:24964f86e5564317190b111d20b58266",
+    "name":"TVA_SPORTS"
+  },
+  "UNIS_TV": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-006.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/UNISHD_HD_RG_RGTVE_90128_0_5425546280993554163.mpd",
+    "key": "c83a738368f5a0f4b724f2c4899ac734:9ecb27a4b81db4f975d03d59c234c53c",
+    "name":"UNIS_TV"
+  },
+  "VISION": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-016.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/VISIHD_HD_RG_RGTVE_102146_0_5675088349722872163.mpd",
+    "key": "fb5ebeaf4cc90776f466681086ca56bb:35f19d97b19c3fe7263948179f06261d",
+    "name":"VISION"
+  },
+  "W": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-006.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/WHD_HD_RG_RGTVE_71332_0_9016963211857774163.mpd",
+    "key": "d6addf2717c6716e22b1b58be1cb36c1:4eb96138a0984c984fd89bc7818477dd",
+    "name":"W"
+  },
+  "W_WEST": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-005.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/WPHD_HD_RG_RGTVE_82743_0_8314622690802653163.mpd",
+    "key": "5f25f3e76ec68924e4f42860d8ffa3bb:4e52263ca3e21b5f921c6bee09c9765c",
+    "name":"W_WEST"
+  },
+  "YTV": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-009.rogers-tve-linear-mtnk-mtnk-pil.xcdn.net.rogers.com/YTVHD_HD_RG_RGTVE_70827_0_8223696292990019163.mpd",
+    "key": "ebb1cf4fb9fbd4327d2b49705c6d5067:05e665c9787a5bf3abb55b2492a05b81",
+    "name":"YTV"
+  },
+  "YTV_WEST": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-004.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/YTVPHD_HD_RG_RGTVE_89367_0_9181345483386780163.mpd",
+    "key": "42c42446d20c41b874e1b2e1eacd2922:ddbf9cd1e25f132abff2b410afa55ce9",
+    "name":"YTV_WEST"
+  },
+  "ZESTE": {
+    "group": "Rogers | Canada",
+    "logo": "",
+    "url": "https://rgs-atsec-slnt-004.rogers-tve-linear-wlfdle-wlfdle-pil.xcdn.net.rogers.com/ZESTEHD_HD_RG_RGTVE_67429_0_7866233477607179163.mpd",
+    "key": "c97f8e9ed8a59537546b0cc0eaf0985b:2013a4406ce69653c693941908b195ab",
+    "name":"ZESTE"
+  }
+}

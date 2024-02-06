@@ -1,0 +1,4 @@
+<?php
+$json=json_decode(file_get_contents('/home/wvtohls/origin/zapitv.json'),1);
+$id=$_GET['canal'];
+header('Location: '.$json[$id]['url']?token=rvfde4774dvhy2169vbhjg);

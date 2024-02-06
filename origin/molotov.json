@@ -1,0 +1,752 @@
+{
+  "CGTN": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/cgtn/cgtn.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "7f313654d094b4582355ff28bee8f4e7:c05d08ad1547dd3dee48fa20ad4e94f9",
+    "name":"CGTN"
+  },
+  "CGTN_FR": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/cgtnfr/cgtnfr.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "4c00b10b2cba0cb30dcbd099394a1750:cd1074c4040ca771d086f7167123f133",
+    "name":"CGTN FR"
+  },
+  "FRANCE_INFO": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/franceinfo/franceinfo.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "18825bac3d070360d8eec2a079f40bec:ae7615c7ee6c7376f417725a69bc66aa",
+    "name":"FRANCE INFO"
+  },
+  "PUBLIC_SENAT": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/publicsenat/publicsenat.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "7296deb5eb854251ae00da2272a75c17:fd82cf7f923833df96d8ab0f90f49937",
+    "name":"PUBLIC SENAT"
+  },
+  "BFM_BUSINESS": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/bfmbusiness/bfmbusiness.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "3ccbac32ee0f55e53345352a13eda344:a0094859b21a54388616deaf431c7062",
+    "name":"BFM BUSINESS"
+  },
+  "M24_NEWS": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/m24news/m24news.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "4b6e60af297a71f2607407813f55eed9:cf0d22c5ac40838da88b1cec62d326bd",
+    "name":"M24 NEWS"
+  },
+  "2STV": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/2stv/2stv.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "94e2d88ca09e170f9120e0083dfc3206:525370bcf87cef38af5fabaf287d3404",
+    "name":"2STV"
+  },
+  "6TER": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/6ter/6ter.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    
+    "key": "0eb87a2dff244fb8babba49f5d4b02c4:3ea4b5152fdad956573200f3922ced53",
+    "name":"6TER"
+  },
+  "AB1": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/ab1/ab1.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    
+    "key": "afdb17c886334904b28d80ba03d0b28e:1cd013cf83a7073dea87815478dfe06c",
+    "name":"AB1"
+  },
+  "ACTION": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/action/action.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    
+    "key": "a01ded62df0d4229b0d310029fe09350:d1c798ac6e41bcdd6328a746de6cf753",
+    "name":"ACTION"
+  },
+  "AFRICABLE": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/africable/africable.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "9e91f0358cf5195a21e4ec6c540242f4:22cde29846b366be258dd8050d3f408e",
+    "name":"AFRICABLE"
+  },
+  "ANIMUX": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/animaux/animaux.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    
+    "key": "3e1e489605e44118ba1e1f9491df5b46:01ebcce5ff3bc02d56650b935948f304",
+    "name":"ANIMUX"
+  },
+  "ANTENNEA": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/antennea/antennea.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "b32a558af1b68a59945a44eceede50c8:a591d0ccef49314d5f72982c1c1dafdc",
+    "name":"ANTENNEA"
+  },
+  "APLUS": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/aplus/aplus.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "1975d7388e1f13be99a17edf8ca0d384:f14d282a0fc1bd08dbdd579a4e7e79a0",
+    "name":"APLUS"
+  },
+  "ARTE": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/arte/arte.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    
+    "key": "d0dae910576f41f89ee5b6e5981e4798:eafbbdf3024b7eaed63d9855a0925402",
+    "name":"ARTE"
+  },
+  "AUTO_PLUS": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/autoplus/autoplus.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "9eed71581a74a6c081117f8e727123aa:72f2f1711d8029faec70c539e8e093a5",
+    "name":"AUTO PLUS",
+    "audioDelay":"4000"
+  },
+  "AUTOMOTO": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/automoto/automoto.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    
+    "key": "c10dbcb752f37ecb667be6b7b3b054c8:b978ad0cddcd57906e1f9021d745c540",
+    "name":"AUTOMOTO"
+  },
+  "B_SMART": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/bsmart/bsmart.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "16bdee22c26ea8af5f01ddf638767fe4:1f0e3481b92bae1693840327871cbd3c",
+    "name":"B SMART"
+  },
+  "BET_FR": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/betfr/betfr.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "ac68affe1597a755c6d57a52521311f1:f855c46964e0297bec27aa698c1d545d",
+    "name":"BET FR"
+  },
+  "BFMTV": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/bfmtv/bfmtv.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    
+    "key": "df95c02d2d8774827560953ad2ae391e:fb7729e67fc0cde6e1d2f7e9a1fff076",
+    "name":"BFMTV"
+  },
+  "BOING": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/boing/boing.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    
+    "key": "42b45c8111194f0fbd492e303533c5d0:34436405305f335c9b270c53663974b0",
+    "name":"BOING"
+  },
+  "BONE": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/bone/bone.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "dfc2b56330767b987ce7a7542454cec2:56f808dd0cf90a14f065e57096bbea47",
+    "name":"BONE"
+  },
+  "C8": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/c8/c8.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    
+    "key": "2dc12fea9ec3298b4664a24adff8bfbe:89b159b9e71101b43e7cca899513a878",
+    "name":"C8"
+  },
+  "CANAL_2": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/canal2/canal2.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "1e82de92be9969e3b9f11e6d828bfeb7:e1001f79c221d889b82e64d6ca86a885",
+    "name":"CANAL 2"
+  },
+  "CANAL_J": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/canalj/canalj.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "32e9ce47dd6a0c167469a3ce045adab0:c24b0c59fa3a124614a2134205e129c8",
+    "name":"CANAL J"
+  },
+  "CHASSEPECHE": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/chassepeche/chassepeche.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    
+    "key": "bd97bc7eaadc46f6bfcda3174250f0ba:946fe12b6c146f7cc1aea318c931b0c4",
+    "name":"CHASSEPECHE"
+  },
+  "CHEDDAR": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/cheddar/cheddar.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "4cd5d3445f58552f7cc574f0173f780e:b8330bb7888ef2dbd24003754d692181",
+    "name":"CHEDDAR"
+  },
+  "CHERIE25": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/cherie25/cherie25.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    
+    "key": "7407fd4482565e2235498be3c51be936:69dce655eca8f6907f9127cb59d36e51",
+    "name":"CHERIE25"
+  },
+  "CHERIFLA": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/cherifla/cherifla.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "872c59f11fc6bad4f1db928000798ad9:a04dc1263a2c620258e2c91c4d66f5c0",
+    "name":"CHERIFLA"
+  },
+  "CINE_CLUB": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/cineclub/cineclub.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "2b055f08fa274b7466c869e1940159bc:56020781a28cba99d6eccd8310e026a9",
+    "name":"CINE CLUB"
+  },
+  "CINE_FAMIZ": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/cinefamiz/cinefamiz.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "ece8c309a2464a4a892ad80d11576b04:e31ddcd1d8bc19206b967a94ad14aa0d",
+    "name":"CINE FAMIZ"
+  },
+  "CINE_FRISSON": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/cinefrisson/cinefrisson.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "b456934f4444299a83dad6405bf1757f:3c48ca38d6ad4d12723a9258629ab69a",
+    "name":"CINE FRISSON"
+  },
+  "CINE_MOTION": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/cineemotion/cineemotion.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "9a92ef199c9b20bb2c4bb7c78d490d46:736f5b01fcd757124e8719bd73982947",
+    "name":"CINE MOTION"
+  },
+  "CINE_PREMIER": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/cinepremier/cinepremier.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "227a1a2541acae7a90ee6ecc5c8ee59e:005964dd1f6eb8b612137ffbd2a3f80d",
+    "name":"CINE PREMIER"
+  },
+  "CNEWS": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/cnews/cnews.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    
+    "key": "8b5a03a94ff241af902175703c5a6407:4b364781acf9977da8b608ae6fac7d93",
+    "name":"CNEWS"
+  },
+  "CNN_INTERNATIONAL": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/cnninternational/cnninternational.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "010875f5e6cc44e49f53313c4d26b1f4:c7427b2d0ad3e0e891445d882dd54511",
+    "name":"CNN INTERNATIONAL"
+  },
+  "CRIME_DISTRICT": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/crimedistrict/crimedistrict.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    
+    "key": "36865d7e17a8ff3d7102ddafa7ce449a:18dfe41395818357dffb68b0d4472e57",
+    "name":"CRIME DISTRICT"
+  },
+  "CRTV": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/crtv/crtv.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "c82259c6adc0d5e78183f8b170759be7:0433588f5fb52845e9ab46466d4b83d6",
+    "name":"CRTV"
+  },
+  "CSTAR": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/cstar/cstar.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    
+    "key": "a442a1ee9439977ec303b894649fe662:a65702675e20835e5128dfe22d3961a8",
+    "name":"CSTAR"
+  },
+  "DRIVEIN": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/drivein/drivein.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "272d5a37e00060f34c6850dfa5097df3:8b7f271ab3e4cff950474be7c1e8e307",
+    "name":"DRIVEIN"
+  },
+  "DUCK_TV": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/ducktv/ducktv.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "60fb51470709b3975c821546821cc8ce:c7d39f0a0cb99b3c2337ea035d77597a",
+    "name":"DUCK TV"
+  },
+  "EQUIDIA": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/equidia/equidia.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "03a580af7d32df32e7ea841d0112b21a:f7ecf796c94a74fdd4ee05b94d85cced",
+    "name":"EQUIDIA"
+  },
+  "EQUINOXE": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/equinoxe/equinoxe.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "f6b7c0a3cc2895abfd61b96127fb102b:74d31bc7f40b624b1707f81be1893456",
+    "name":"EQUINOXE"
+  },
+  "EURONEWS": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/euronews/euronews.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "2428a27cdbe9786480bea4dff57f259f:55ae1a289a2e40b5c40a86b6e29f56c0",
+    "name":"EURONEWS"
+  },
+  "FASHION_TV": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/fashiontv/fashiontv.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "d2db255e3f7c4de594a41b6fc7771f6a:0c6ec49052befaddde46417b2a6db3de",
+    "name":"FASHION TV"
+  },
+  "FRANCE_2": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/france2/france2.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    
+    "key": "7c18674fe46f4d138d4196d9b778e824:d4649f1a057f2db3a1a78d0949d1ba0d",
+    "name":"FRANCE 2"
+  },
+  "FRANCE_3": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/france3/france3.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    
+    "key": "b92c926930ec423f838fc9cffe1d9ac3:bdf779d81772b40d505935f5e0ac363e",
+    "name":"FRANCE 3"
+  },
+  "FRANCE_4": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/france4/france4.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    
+    "key": "09d1564bfead47c38fdf5684ae475a2e:7ad46ae1aa9dc334cd45f072820a3e71",
+    "name":"FRANCE 4"
+  },
+  "FRANCE_5": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/france5/france5.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    
+    "key": "43936a382581446584802d47b4ff37f7:148774f12837dd87246fb00f1def12e0",
+    "name":"FRANCE 5"
+  },
+  "GABON_TV": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/gabontv/gabontv.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "fa023b147871c788f893f403ab688d54:cb069f70ae43f4a5f33a7c2bc06a2ac6",
+    "name":"GABON TV"
+  },
+  "GAME_ONE": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/gameone/gameone.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    
+    "key": "14dc02c030c04602968982e819eea257:436f9b6ad12dd163f0bc34e9bfc954e9",
+    "name":"GAME ONE"
+  },
+  "GOLF_CHANNEL ": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/golfchannel/golfchannel.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "104acbb719724586a07ac72c1d9d6ae1:98eedf92bc65b07abe239c82d6013bf4",
+    "name":"GOLF CHANNEL"
+  },
+  "GON_MAX": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/gongmax/gongmax.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "c0d802aba9a34e8eb14472bb3d35c594:bb1c4ac879a88ddb5a3f1fbdd91ac2c0",
+    "name":"GON MAX"
+  },
+  "GONG": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/gong/gong.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "3bc9b8e76b794d1789d219ffa4fa7f95:fc829c20b99b9875aff265c9b9aadda5",
+    "name":"GONG",
+    "audioDelay":"2000"
+  },
+  "GOURMAND_TV": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/gourmandtv/gourmandtv.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": " 6c2c9280623712a22d94e405b70c48a9:e908bbf77875cf9387e9d1eedbb55b20",
+    "name":"GOURMAND TV",
+    "audioDelay":"4000"
+  },
+  "I24_NEWS_AR": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/i24newsar/i24newsar.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "bd8c6797afce9b8a7f6be3d533f2efae:aa7034a625a494223bff6b30fead0ed7",
+    "name":"I24 NEWS AR"
+  },
+  "I24_NEWS_EN": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/i24newsen/i24newsen.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "4c67c1d0d73b97615e9368b9be9a732e:1a4fa176369bac15cd5896cdc20c8c34",
+    "name":"I24 NEWS EN"
+  },
+  "I24_NEWS_FR": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/i24newsfr/i24newsfr.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "06c9bdd82642ab62a07503bf23643e36:38e919848a01c2bcfa330494bb99bf59",
+    "name":"I24 NEWS FR"
+  },
+  "JONE": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/jone/jone.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    
+    "key": "d8251f9909b6fcf133cb88bdba82e12a:cf3966417815e5ac3360e4906678e8e0",
+    "name":"JONE"
+  },
+  "KTO": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/kto/kto.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    
+    "key": "a288adcf47569808b040db5845fdef7d:fdcc1e7a66451546e2808cfd1bcb6cd9",
+    "name":"KTO"
+  },
+  "LCI": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/lci/lci.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    
+    "key": "22d30b36ab5924cf32a4adc1402d5f9a:421911e7d3a48ff98f7d74aaf9d69c0c",
+    "name":"LCI"
+  },
+  "LCPPS": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/lcpps/lcpps.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    
+    "key": "6e60c8e5e73b5fd748d0ac9b62395365:2f47713c29ac224760a04b5df96b7790",
+    "name":"LCPPS"
+  },
+  "LEQUIPE": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/lequipe/lequipe.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    
+    "key": "4e37825cf82d5194f586972c030d3080:f0d4bff8b3a9cf677b3d82b3e57e9ab3",
+    "name":"LEQUIPE"
+  },
+  "LUCKY_JACK_TV": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/luckyjacktv/luckyjacktv.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "f347c8280ddc40b5ba8874a5688939b4:04bd99fd5059af5e9cad36d7d1cedd1f",
+    "name":"LUCKY JACK TV"
+  },
+  "M6": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/m6/m6.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "ff7f8662c97d4f98b4565ca53c7a2fa6:53f207e4b34b9f06fa2c0fcdafa20181",
+    "name":"M6"
+  },
+  "M6_MUSIC": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/m6music/m6music.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    
+    "key": "0e09ebebff894b6e8ac4f8345ac95c69:092aa7074fb2ad72e159730c9b8a19e9",
+    "name":"M6 MUSIC"
+  },
+  "MANGAS": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/mangas/mangas.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    
+    "key": "3c34347de6294174bb83afb814b20321:1ef9f598a330bc4225ee06fda91873b2",
+    "name":"MANGAS"
+  },
+  "MEZZO": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/mezzo/mezzo.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": " a5cd20e4f1a6444f9f2a5ec213c3a68a:74206bbd777a7a1784c6d6e4dc0666b1",
+    "name":"MEZZO"
+  },
+  "MEZZO_LIVE": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/mezzolive/mezzolive.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "8050469096244f4da834209f90b23578:cebcc32baf462d727f8f6a8358d0cfcb",
+    "name":"MEZZO LIVE"
+  },
+  "MTV": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/mtv/mtv.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    
+    "key": "c5c1e9d1cb3a35fbb1fc6e1d841e53a2:0d398309a7ccf2e6322a456cf80c52a6",
+    "name":"MTV"
+  },
+  "MTV_HITS": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/mtvhits/mtvhits.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    
+    "key": "6d6440a8c8cd660d3f8ec6fd1656e476:ed42d999eeefca5b73bfc243299e15d1",
+    "name":"MTV HITS"
+  },
+  "NAUTICAL_CHANNEL": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/nauticalchannel/nauticalchannel.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "d30b9a8409656f1f362a90dc3cb28b5c:e4a9e2ee9eece55ff81d6ec9d26541a9",
+    "name":"NAUTICAL CHANNEL"
+  },
+  "NICK_JUNIOR": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/nickelodeonjunior/nickelodeonjunior.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    
+    "key": "542967ba82e6ea0e9cc8d970524682a8:6a570204e569f2ddea03f7f9f10a6909",
+    "name":"NICK JUNIOR"
+  },
+  "NICK_TEEN": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/nickelodeonteen/nickelodeonteen.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    
+    "key": "84f3c126e19be09dbfeddad6ee7687aa:e42e60cb9abd25f7ea8e2b15481c587d",
+    "name":"NICK TEEN"
+  },
+  "NICKELODEON": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/nickelodeon/nickelodeon.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    
+    "key": "daecde25acf56b2dd7680be9a0c9b000:2aa29e267d1eb52797f1eec2f8d76823",
+    "name":"NICKELODEON"
+  },
+  "NOLLYWOOD_EPIC": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/nollywoodepic/nollywoodepic.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "5c0e895b2592d49068b9b2eee0c65182:3cbafa47211ca31f5f41ec5a45ac60a1",
+    "name":"NOLLYWOOD EPIC"
+  },
+  "NOLLYWOOD_TV": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/nollywoodtv/nollywoodtv.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "3a0fef0b78cb0a909387d64ed1b80938:00511cda682383553923a3118f7eaa33",
+    "name":"NOLLYWOOD TV"
+  },
+  "NOVELAS": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/novelas/novelas.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "780e1c3754c12daa29e9ffbba9a7082a:30867c39a32f685badda4af5feb2e50e",
+    "name":"NOVELAS"
+  },
+  "NRJ_12": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/nrj12/nrj12.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "ae04e1ff51598c568b073ad33d599c36:bdca8f51e0ea7e2ee4e20ea851da08a2",
+    "name":"NRJ 12"
+  },
+  "NRJ_HITS": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/nrjhits/nrjhits.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "df5201d7e1ed7bcd6fa94cd7ac39b518:7c4d9c3d0a8acd0190ac3765bfbd3c64",
+    "name":"NRJ HITS"
+  },
+  "ORTB": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/ortb/ortb.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "051fdee5f7ad70e3a982bd8d50c61299:989cca98b148cd5b5331fb2861dee8d8",
+    "name":"ORTB"
+  },
+  "ORTM": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/ortm/ortm.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "51d464e03f9d14259d6a08f9f9dab845:bd1364f0ccb5ef8980395a09881d9e7f",
+    "name":"ORTM"
+  },
+  "PARAMOUNT_CHANNEL_DECALE": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/paramountchanneldecale/paramountchanneldecale.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "856228f3d93fdf9ef3c730bd07ed13b6:7c71db4f8db60a06b24208da3a0bfd1f",
+    "name":"PARAMOUNT CHANNEL DECALE"
+  },
+  "PARAMOUNTH_CHANNEL": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/paramountchannel/paramountchannel.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    
+    "key": "085bceefaf0647359e951e94be997617:58a5df8d6a4a2ee82f8c5026a43535bb",
+    "name":"PARAMOUNTH CHANNEL"
+  },
+  "PITCHOUN_TV": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/pitchountv/pitchountv.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "86f4d4afcf096bca3d6474afa916bc98:f2a831f91f2569e2b629fc6a0b9ef1c3",
+    "name":"PITCHOUN TV"
+  },
+  "PLAYBOY_EUROPA": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/playboytveurope/playboytveurope.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "d8ad1a944046fc5f5e20a2c60efa63d2:adb98638aae241aa585fd9815188744c",
+    "name":"PLAYBOY EUROPA"
+  },
+  "RMC_DECOUVERTE": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/rmcdecouverte/rmcdecouverte.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    
+    "key": "558fe1d592d7249825ca53db482908c3:2a063a01d288515ecdf7481796cbd488",
+    "name":"RMC DECOUVERTE"
+  },
+  "RMC_STORY": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/rmcstory/rmcstory.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    
+    "key": "95e053eb717092c95f741c74227a5946:bc5e0c620b6e5edacbc8c12fe1f11e40",
+    "name":"RMC STORY"
+  },
+  "RTG": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/rtg/rtg.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "b2a3416ebba3198a7f926dd3b96d6516:e0cf2c9308088ed508d507b9d65d859c",
+    "name":"RTG"
+  },
+  "RTI_1": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/rti1/rti1.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "89cfb775b872b1b604ed41f31add3871:7a7454894e5a165f471c6990857599e2",
+    "name":"RTI 1"
+  },
+  "RTL_9": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/rtl9/rtl9.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    
+    "key": "e33d2144bed2433da331b614b0c63876:6c7b271ca0980893224239753748abf7",
+    "name":"RTL 9"
+  },
+  "RTNC": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/rtnc/rtnc.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "f9495751963922f294e78b9f669fcb90:ddfbb4e2739cc298b39a1ab2ea30f881",
+    "name":"RTNC"
+  },
+  "RTS_1": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/rts1/rts1.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "7cd78f3d87fdc5748e1dcde7a65799a9:a44e642204dfa72cef9c1f184da51ceb",
+    "name":"RTS 1"
+  },
+  "SCIENCE_SVIE": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/sciencesvie/sciencesvie.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    
+    "key": "b3aec375c93941bab57a89e459371613:df2a2b464eca7b24fa364706c4c34684",
+    "name":"SCIENCE SVIE"
+  },
+  "SEN_TV": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/sentv/sentv.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "48007c282f77b0cadba18f410d1b3bd9:84659d6a242634b05c5dbc050874244b",
+    "name":"SEN TV"
+  },
+  "SPORT_EN_FRANCE": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/sportenfrance/sportenfrance.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "75ec4a4b2f1c8f2fb6077c942bfec60f:19536b760cdbc71968c9df55132e80f1",
+    "name":"SPORT EN FRANCE"
+  },
+  "TCM": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/tcm/tcm.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    
+    "key": "e39a3d91fba942c9a4dfc820b3100979:830169e432546051902f299ab544cf35",
+    "name":"TCM"
+  },
+  "TELE_CONGO": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/telecongo/telecongo.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "b3873c4bc57789b3ec068af4a6fd322b:acaaa8da5ed8b46463d0f73a61105dc5",
+    "name":"TELE_CONGO"
+  },
+  "TF1": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/tf1/tf1.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    
+    "key": "df78d16c381d701dc72ec0b1cc81590b:0f2c901630a0f85cf1864227a38bccfc",
+    "name":"TF1"
+  },
+  "TF1_SERIES_FILMS": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/tf1seriesfilms/tf1seriesfilms.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    
+    "key": "7b9879511f86e85cf18488a9a4885143:0c39a038911d12d7ccbd60a4adab3764",
+    "name":"TF1_SERIES_FILMS"
+  },
+  "TFM": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/tfm/tfm.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "63f427f13c253672fbd001bd2a0a7cfb:05b2f1e01bda778372860c8d7a4d679f",
+    "name":"TFM"
+  },
+  "TFX": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/tfx/tfx.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "f6f66126497feb5ccac1416b2972fd1c:0098d11704007d20ea6d09b9e3d2a207",
+    "name":"TFX"
+  },
+  "TOONAMI": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/toonami/toonami.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "6bd07853e52c76b23b9c148cca69fa9a:2389d20d17365f8e01f73548931572af",
+    "name":"TOONAMI"
+  },
+  "TOP_SANTE": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/topsantetv/topsantetv.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "6fa102f2848a856f49e91eba6da1e2e2:81dab0b53d8535fa4cc7b4a58e2fd851",
+    "name":"TOP SANTE"
+  },
+  "TOUTEL_HISTOIRE": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/toutelhistoire/toutelhistoire.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "d32c458f7aad4cf1b05b8cbb87e647fc:00994a2becf7df8d2c2e634df718ba2e",
+    "name":"TOUTEL HISTOIRE"
+  },
+  "TRACE_LATINA": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/tracelatina/tracelatina.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "71204590465c641f27b9eab46262c9d6:7a7da141b586008a0642f0adb6f102cb",
+    "name":"TRACE LATINA"
+  },
+  "TRACE_SPORT": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/tracesport/tracesport.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "89d299f02aee4535bad4882ba99c5659:a4340676534c4940aa72fdc95ed1fa46",
+    "name":"TRACE SPORT"
+  },
+  "TRACE_TROPICAL": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/tracetropical/tracetropical.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "78197f54036742918c5733e1d87cce24:3e3b1e1d4b433e84666ce90646fb0d7f",
+    "name":"TRACE TROPICAL"
+  },
+  "TRACE_URBAN": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/traceurban/traceurban.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "c7aba31b8d97496b9d14d4a27b252744:1c325e53c35d52589392f8e20d5a6805",
+    "name":"TRACE URBAN"
+  },
+  "TREK": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/trek/trek.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "263c25feed4845ed9ec261b2de66ac1c:7fdb9975d8397a454bcd384470807fa5",
+    "name":"TREK"
+  },
+  "TV5_MONDE": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/tv5monde/tv5monde.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "762e7e3063f44b30a657440e4e56b94a:a59d4aafa54d4bcb430eef89bc68f1c0",
+    "name":"TV5_MONDE"
+  },
+  "TV_BREIZH": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/tvbreizh/tvbreizh.isml/fullhd25.mpd",
+    "group": "Molotov | France",
+    "key": "a288adcf47569808b040db5845fdef7d:fdcc1e7a66451546e2808cfd1bcb6cd9",
+    "name":"TV_BREIZH"
+  },
+  "TVT": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/tvt/tvt.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "56bba7ea2f840c610b4fd844bd6ba2dc:ffb77591bd93369f33b101a4f4109a73",
+    "name":"TVT"
+  },
+  "W9": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/w9/w9.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "63279e48341740c28dca2de88de3ce68:9ef735f7e7a955e07d16e0efee001fb3",
+    "name":"W9"
+  },
+  "WINAMAX": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/winamax/winamax.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "b5d300d06abe91d3ed9e5f2601534742:10bd28f1fe42f38e17397eb45e470890",
+    "name":"WINAMAX"
+  },
+  "DorcelTV": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/dorceltv/dorceltv.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "7ca0aad404d5386acfbf6c71a9b967fc:8b79e1abb92cdc3615352bb25ef591dc",
+    "name":"DorcelTV"
+  },
+  "DorcelXXX": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/dorcelxxx/dorcelxxx.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "bbcf4ed999e09091bbaddfbb04648359:42ea0026365d8083787b81ebf86b4df6",
+    "name":"DorcelXXX"
+  },
+  "Vixen": {
+    "url": "https://mtv-live.cloud-02.molotov.tv/public/vixen/vixen.isml/fullhd25shft.mpd",
+    "group": "Molotov | France",
+    "key": "6c5a7dec5182fdcde19abbd0a3e9ed4e:2fff3edd33208b9d9c860633b76b6969",
+    "name":"Vixen"
+  }
+}
